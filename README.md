@@ -8,4 +8,4 @@
 ### ~~ERC-721~~
 ~~所有 NFTs 都有一个uint256变量，名为tokenId，所以对于任何 ERC-721 合约，这对值contract address, tokenId 必须是全局唯一的。也就是说，dApp可以有一个“转换器”，该转换器使用tokenId输入和输出NFT对应的数字图像。ERC-721由 William Entriken、Dieter Shirley、Jacob Evans、Nastassia Sachs 在 2018 年 1 月提出，是一个在智能合约中实现代币 API 的非同质化代币标准。它提供了一些功能，例如将代币从一个帐户转移到另一个帐户，获取帐户的当前代币余额，获取代币的所有者，以及整个网络的可用代币总供应量。 除此之外，它还具有其他功能，例如批准帐户中一定数量的代币可以被第三方帐户转移。~~
 
-# NFT就是![image](https://github.com/KPI0/NFT/blob/main/images/format_f_jpg.jpg)  
+# 看不懂没关系，其实吧NFT就是![image](https://github.com/KPI0/NFT/blob/main/images/format_f_jpg.jpg)  毫无卵用
