@@ -12,4 +12,4 @@
 
 ----
 
-### 看不懂没关系，其实吧NFT就是![image](https://github.com/KPI0/NFT/blob/main/images/format_f_jpg.jpg)  毫无卵用
+### NFT=![image](https://github.com/KPI0/NFT/blob/main/images/format_f_jpg.jpg)
