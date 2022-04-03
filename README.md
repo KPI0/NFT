@@ -42,7 +42,7 @@
  |丸卡                 |WX_GZH         |              |                |APP           |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
  |一花                 |WX_GZH         |              |                |[APP](http://yihua.taoqikid.com/active/page/#/download)  |             |
  |故纸堆               |WX_GZH         |              |                |APP           |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
- |Honnerse             |               |              |                |              |             |
+ |Honnerse             |WX_GZH         |WX_XCX        |                |[APP](https://honnverse.stars-mine.com/static/download.html)  |             |
  |Hotlove              |               |              |                |              |             |
  |上镜                 |               |              |                |              |             |
  |超维空间             |               |              |                |              |             |
