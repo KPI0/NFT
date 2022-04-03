@@ -73,11 +73,11 @@
  |57|数字藏家              |WX_GZH          |              |                |              |             |
  |58|CN数字藏品            |WX_GZH          |WX_XCX          |                |              |WEB             |
  |59|BiBiNFT               |WX_GZH         |              |                |              |[WEB](https://www.bibinft.com)             |
- ||Us元空间艺术          |               |              |                |              |             |
- ||AmallART              |               |              |                |              |             |
- ||Art Meta              |               |              |                |              |             |
- ||Avapunk数字藏品       |               |              |                |              |             |
- ||斑马版权              |               |              |                |              |             |
+ |60|Us元空间艺术          |WX_GZH         |              |                |              |             |
+ |61|AmallART              |WX_GZH         |              |                |              |[WEB](https://amall.vip/land?code=5425261466357761046)             |
+ |62|Art Meta元艺术        |WX_GZH         |              |                |APP            |[WEB]()             |
+ |63|Avapunk数字藏品       |WX_GZH         |              |                |APP            |[WEB]()             |
+ |64|斑马版权              |               |              |                |              |             |
  ||蝶宇宙                |               |              |                |              |             |
  ||GEEK数字藏品          |               |              |                |              |             |
  ||海幻境                |               |              |                |              |             |
