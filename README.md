@@ -37,8 +37,7 @@
  |七级宇宙             |WX_GZH         |              |                |APP           |[WEB](https://v2.7jft.com/h5/#/pages/login/register?invite_code=6208484) |
  |优版权               |WX_GZH         |              |                |APP           |[WEB](https://h5.ubanquan.cn/home?code=wa7aSw) |
  |星门                 |WX_GZH         |              |                |APP           |[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
- |UTON NFR             |               |              |                |              |             |
- |加密空间             |               |              |                |              |             |
+ |加密空间             |WX_GZH         |              |                |              |             |
  |一岛                 |               |              |                |              |             |
  |丸卡                 |               |              |                |              |             |
  |一花                 |               |              |                |              |             |
