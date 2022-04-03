@@ -38,7 +38,7 @@
  |优版权               |WX_GZH         |              |                |APP           |[WEB](https://h5.ubanquan.cn/home?code=wa7aSw) |
  |星门                 |WX_GZH         |              |                |APP           |[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
  |加密空间             |WX_GZH         |              |                |              |             |
- |一岛                 |               |              |                |              |             |
+ |一岛                 |               |              |                |APP           |[WEB](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)|
  |丸卡                 |               |              |                |              |             |
  |一花                 |               |              |                |              |             |
  |故纸堆               |               |              |                |              |             |
