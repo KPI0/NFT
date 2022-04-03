@@ -81,11 +81,11 @@
  |65|蝶宇宙数字藏品        |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
  |66|GEEK数字藏品          |WX_GZH         |              |                |[APP](https://www.geeknft.art/download/appdownload.html)            |             |
  |67|海幻境数字艺术       |WX_GZH          |              |                |              |[WEB](https://app.oceandreamland.art/?from=wxmp-menu)             |
- ||Harvest DAY           |               |              |                |              |             |
- ||红洞科技              |               |              |                |              |             |
- ||红果数藏              |               |              |                |              |             |
- ||蓝猫数字              |               |              |                |              |             |
- ||良选数字藏品          |               |              |                |              |             |
+ |68|Harvest DAY         |WX_GZH         |              |                |              |             |
+ |69|红洞科技            |WX_GZH         |WX_XCX        |                |              |[WEB](https://www.redcave.com/#/pages/login/register?code=78NP2uTD62)   |
+ |70|红果数藏            |WX_GZH         |              |                |[APP](http://download.nftguanfang.com/download.html)          |             |
+ |71|蓝猫数字            |WX_GZH         |              |                |              |[WEB](http://www.lanmsz.cn)             |
+ |72|良选数字藏品        |WX_GZH         |              |                |              |[WEB](http://h5.nftzz.cn/index?invite_uid=324767)             |
  ||链上艺术              |               |              |                |              |             |
  ||ODin元宇宙            |               |              |                |              |             |
  ||青石幻城              |               |              |                |              |             |
