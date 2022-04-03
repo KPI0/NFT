@@ -48,9 +48,8 @@
  |超维元宇宙           |WX_GZH         |              |                |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)             |             |
  |腾讯幻核             |WX_GZH         |              |                |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)       |             |
  |画生Meta             |WX_GZH         |              |                |              |             |
- |灵镜商店             |               |              |                |              |             |
- |加玛射线             |               |              |                |              |             |
- |轻松小镇             |               |              |                |              |             |
+ |灵镜商店             |WX_GZH         |              |                |[APP](https://lingjingshangdian.com/)          |             |
+ |轻松小镇             |WX_GZH         |              |                |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)             |             |
  |NFTCN                |               |              |                |              |             |
  |HOTDOG               |               |              |                |              |             |
  |元宇宙0号            |               |              |                |              |             |
