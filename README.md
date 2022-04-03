@@ -58,7 +58,7 @@
  |42|玩贰+                |WX_GZH         |              |                |[APP](https://wan2store.com/app-redirect.htm)  |            |
  |43|Bigverse大元宇宙     |WX_GZH         |              |                |              |             |
  |44|MetaBox              |WX_GZH         |              |                |              |[WEB](https://www.metaboxglobal.cn)             |
- ||DAO加密咸鱼          |               |              |                |              |             |
+ |45|DAO加密咸鱼          |WX_GZH         |              |                |              |             |
  ||数藏布谷鸟           |               |              |                |              |             |
  ||淘派                 |               |              |                |              |             |
  ||Hi元宇宙             |               |              |                |              |             |
