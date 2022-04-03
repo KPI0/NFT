@@ -47,7 +47,7 @@
  |上镜UPLAB            |WX_GZH         |              |                |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
  |超维元宇宙           |WX_GZH         |              |                |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)             |             |
  |腾讯幻核             |WX_GZH         |              |                |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)       |             |
- |画生                 |               |              |                |              |             |
+ |画生Meta             |WX_GZH         |              |                |              |             |
  |灵镜商店             |               |              |                |              |             |
  |加玛射线             |               |              |                |              |             |
  |轻松小镇             |               |              |                |              |             |
