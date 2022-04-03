@@ -14,7 +14,7 @@
  |平台                  |微信公众号     |微信小程序    |支付宝小程序  |APP客户端     |网页端        |
  |----------------------|--------------|--------------|--------------|--------------|--------------|
  |chikoroko             |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
- |鲸探                  |              |              |ZFB_XCX       |APP           |              |
+ |鲸探                  |              |              |ZFB_XCX       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
  |芒果TV                |              |              |              |APP           |              |    
  |淘票票                |              |              |              |APP           |              |    
  |唯一艺术              |WX_GZH        |              |              |APP           |WEB           |    
