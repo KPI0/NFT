@@ -86,24 +86,23 @@
  |70|红果数藏            |WX_GZH         |              |                |[APP](http://download.nftguanfang.com/download.html)          |             |
  |71|蓝猫数字            |WX_GZH         |              |                |              |[WEB](http://www.lanmsz.cn)             |
  |72|良选数字藏品        |WX_GZH         |              |                |              |[WEB](http://h5.nftzz.cn/index?invite_uid=324767)             |
- ||链上艺术              |               |              |                |              |             |
- ||ODin元宇宙            |               |              |                |              |             |
- ||青石幻城              |               |              |                |              |             |
- ||启元宇宙              |               |              |                |              |             |
- ||神达元宇宙            |               |              |                |              |             |
- ||双镜博物              |               |              |                |              |             |
- ||碳无限                |               |              |                |              |             |
- ||T MARK                |               |              |                |              |             |
- ||TopHolder             |               |              |                |              |             |
- ||Us元空间艺术           |               |              |                |              |             |
- ||UU交易平台             |               |              |                |              |             |
- ||万物灵域               |               |              |                |              |             |
- ||万物数字藏品           |               |              |                |              |             |
- ||雪崩科技               |               |              |                |              |             |
- ||一点数藏               |               |              |                |              |             |
- ||艺喜藏                 |               |              |                |              |             |
- ||乐享艺术               |               |              |                |              |             |
- ||云上数藏               |               |              |                |              |             |
- ||宙核                   |               |              |                |              |             |
- ||西湖一号               |               |              |                |              |             |
- ||功夫数字               |               |              |                |              |             |
+ |73|链上艺术            |WX_GZH         |              |                |              |             |
+ |74|ODin元宇宙          |WX_GZH         |              |                |              |[WEB](https://m.odinnft.cn/?code=5EqcWs#/login/regist)             |
+ |75|青石幻城            |WX_GZH         |              |                |              |            |
+ |76|启元宇宙            |WX_GZH         |              |                |              |[WEB](https://nftsshop.0cms.vip/h5/#/)             |
+ |77|神达元宇宙          |WX_GZH         |              |                |              |[WEB](https://meta.spiritleap.com/#/pages/mine/invitation?icon=&inviteNo=89841935&vipflag=0&sex=0)             |
+ |78|双镜博物            |WX_GZH         |              |                |              |[WEB](https://h5.shuangjing.club/#/pages/me/index?inviteId=ipvdjz)  |
+ |79|碳无限              |WX_GZH         |WX_XCX        |                |APP           |[WEB](https://c8.aiwgo.net/TanWuXian/#/)             |
+ |80|T MARK              |WX_GZH         |WX_XCX        |                |              |             |
+ |81|TopHolder           |WX_GZH         |              |                |              |[WEB](https://www.topholder.cn/)       |
+ |82|UU交易平台          |WX_GZH         |              |                |              |[WEB](https://uujypt.com/)             |
+ |83|万物灵域            |WX_GZH         |WX_XCX        |                |APP           |             |
+ |84|万物数字藏品        |WX_GZH         |              |                |              |[WEB](https://wx.allnfts.cn/)            |
+ |85|雪崩科技            |WX_GZH         |              |                |              |             |
+ |86|虚河                |WX_GZH         |              |                |APP           |[WEB](https://www.xuhe.art/reg/w0rkrqkPz)             |
+ |87|艺喜藏              |WX_GZH         |              |                |              |             |
+ |88|乐享艺术数字平台    |WX_GZH         |              |                |              |[WEB](https://www.joy-art.cn/invite/myInvitor/?invitedBy=399715981494059009)|
+ |89|云上数藏            |               |              |                |              |             |
+ |90|宙核                |               |              |                |              |             |
+ |91|西湖一号            |               |              |                |              |             |
+ |92|功夫数字            |               |              |                |              |             |
