@@ -1,6 +1,6 @@
  为方便浏览，用以下的缩写表示。  
  [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
-|入口        |缩写        |
+|入口        |缩写       |
 |------------|-----------|
 |微信公众号   |WX_GZH    | 
 |微信小程序   |WX_XCX    | 
@@ -22,18 +22,18 @@
  |千寻数藏              |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/share-product1-wx.html)           |              |    
  |律核                  |WX_GZH        |              |              |[APP](https://wkzx.store/nC3c)           |              |    
  |蟾宫数字藏品          |WX_GZH        |WX_XCX        |              |              |[WEB](https://m.honghuchain.com/)          |    
- |文博元宇宙            |WX_GZH        |              |              |APP           |[WEB](https://h5.tecprove.com/)          |    
- |StarArk数字文创平台   |WX_GZH        |               |             |              |[WEB](https://h5.stararknft.art/#/index)          |   
- |数藏科技数字藏品平台  |WX_GZH        |               |             |              |[WEB](https://shucang.cn/mall/#/)            |    
+ |文博元宇宙            |WX_GZH        |              |              |APP           |[WEB](https://h5.tecprove.com/)      |    
+ |StarArk数字文创平台   |WX_GZH        |               |             |              |[WEB](https://h5.stararknft.art/#/index)     |   
+ |数藏科技数字藏品平台  |WX_GZH        |               |             |              |[WEB](https://shucang.cn/mall/#/)    |    
  |幻藏艺术平台          |WX_GZH        |               |             |APP           |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
  |宠物元宇宙数字藏品    |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
- |数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986)         |
+ |数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |
  |映耀                 |WX_GZH         |              |                |APP           |[WEB](http://www.yyycyu.top/signup.html?i=W453194)|
- |光链                 |                |             |                |APP           |[WEB](https://www.chainoo.cn/login.html?inviteCode=529571)   |
- |UTONMOS              |WX_GZH      |             |                |APP       |[WEB](https://h5.metauton.com/invite?fphone=159****0141&fcode=EQ652)|
- |元初世界             |               |              |                |              |             |
- |umx                  |               |              |                |              |             |
- |元本空间             |               |              |                |              |             |
+ |光链                 |WX_GZH         |             |                |APP           |[WEB](https://www.chainoo.cn/login.html?inviteCode=529571)   |
+ |UTONMOS              |WX_GZH         |             |                |APP       |[WEB](https://h5.metauton.com/invite?fphone=159****0141&fcode=EQ652)|
+ |元初世界             |WX_GZH         |WX_XCX        |                |              |[WEB](https://h5.gfanx.com/)  |
+ |umx art              |WX_GZH         |              |                |APP           |[WEB](https://umx.art/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d) |
+ |元本空间             |WX_GZH         |              |                |              |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078) |
  |七级宇宙             |               |              |                |              |             |
  |优版权               |WX_GZH         |              |                |APP           |[WEB](https://h5.ubanquan.cn/home?code=wa7aSw) |
  |星门                 |               |              |                |              |             |
