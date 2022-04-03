@@ -64,8 +64,7 @@
  |48|稀象                 |WX_GZH         |              |                |APP         |[WEB](http://shop.yes-nft.com/h5/index.html#/pages/login/register?spm=326236.1.0.1.1)             |
  |49|Metachaos数字艺术元宇宙|WX_GZH        |              |                |              |             |
  |50|NVWA女娲数字藏品      |WX_GZH        |              |                |              |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)             |
- |51|SKY艺术空间           |WX_GZH        |              |                |APP         |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01
-)            |
+ |51|SKY艺术空间           |WX_GZH        |              |                |APP         |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)            |
  ||Cosmos Art数字平台    |               |              |                |              |             |
  ||META幻鲸              |               |              |                |              |             |
  ||ONE数字藏品           |               |              |                |              |             |
