@@ -51,12 +51,11 @@
  |35|画生Meta             |WX_GZH         |              |                |              |             |
  |36|灵镜商店             |WX_GZH         |              |                |[APP](https://lingjingshangdian.com/)          |             |
  |37|轻松小镇             |WX_GZH         |              |                |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)             |             |
- ||NFTCN                |               |              |                |              |             |
- ||HOTDOG               |               |              |                |              |             |
- ||元宇宙0号            |               |              |                |              |             |
- ||麦塔                 |               |              |                |              |             |
- ||Meta彼岸             |               |              |                |              |             |
- ||玩贰                 |               |              |                |              |             |
+ |38|HOTDOG APP           |WX_GZH         |              |                |APP             |             |
+ |39|元宇宙0号            |WX_GZH         |              |                |APP            |             |
+ |40|麦塔数字艺术         |WX_GZH         |              |                |APP           |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)            |
+ |41|Meta彼岸             |WX_GZH         |              |                |APP             |[WEB](https://meta-h5.genimous.com/#/)             |
+ |42|玩贰+                |WX_GZH         |              |                |APP           |WEB            |
  ||Bigverse大元宇宙     |               |              |                |              |             |
  ||Metaboxnft           |               |              |                |              |             |
  ||DAO加密咸鱼          |               |              |                |              |             |
