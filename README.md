@@ -123,4 +123,9 @@
  |107|道一数藏           |WX_GZH         |              |                |              |[WEB](https://apisc.daoyi365.com?spread=15819)  |
  |108|Meta数字文创       |WX_GZH         |              |                |APP           |[WEB](https://www.metadac.cn//#/register?uuid=8P3LVA)  |
  |109|伽作Meta           |WX_GZH         |              |                |APP           |[WEB](http://meta.jiazuo.art/#/)  |
- 
+ |110|元交所MEX          |WX_GZH         |              |                |APP           |[WEB](https://h5invite.mex.show/#/?invitation_code=ARUo9j)  |
+ |111|零号地球           |WX_GZH         |              |                |              |[WEB](https://zero.huidankj.cn/#/) |
+ |112|拉菲数藏           |WX_GZH         |              |                |APP           |WEB                    |
+ |113|超元空间           |WX_GZH         |              |                |              |[WEB](https://www.kuaizhanye.cn/#/)  |
+ |114|数藏宇宙           |WX_GZH         |              |                |              |[WEB](https://xinyan520.net/h5/#/pages/login/login?inviteCode=7PVULJ)  |
+ |115|头号藏家           |WX_GZH         |              |                |APP           |[WEB](https://home.topholder.cn/) |
