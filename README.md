@@ -17,10 +17,10 @@
  |鲸探                  |              |              |[ZFB_XCX](https://ur.alipay.com/2PSRO9)       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
  |芒果TV                |              |              |              |APP           |              |    
  |淘票票                |              |              |              |APP           |              |    
- |唯一艺术              |WX_GZH        |              |              |APP           |WEB           |    
- |秦储                  |WX_GZH        |              |              |APP           |WEB           |    
- |千寻数藏              |WX_GZH        |              |              |APP           |              |    
- |律核                  |WX_GZH        |              |              |APP           |              |    
+ |唯一艺术              |WX_GZH        |              |              |APP           |[WEB](https://theone.art/)           |    
+ |秦储                  |WX_GZH        |              |              |APP           |[WEB](https://h5.qcsc.vip/register?c=0DLLKM)           |    
+ |千寻数藏              |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/share-product1-wx.html)           |              |    
+ |律核                  |WX_GZH        |              |              |[APP](https://wkzx.store/nC3c)           |              |    
  |蟾宫数字藏品          |WX_GZH        |WX_XCX        |              |              |WEB          |    
  |文博元宇宙            |WX_GZH        |              |              |APP           |WEB           |    
  |StarArk数字文创平台   |WX_GZH        |               |             |              |WEB           |   
