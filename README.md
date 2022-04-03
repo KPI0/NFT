@@ -1,13 +1,14 @@
- 为方便浏览，用以下的表示  
- [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://www.360.cn/)
- 
- > - ### 微信公众号——WX_GZH  
- > - ### 微信小程序——WX_XCX  
- > - ### 支付宝小程序——ZFB_XCX  
- > - ### APP客户端——APP  
- > - ### 网页端——WEB  
+ 为方便浏览，用以下的缩写表示。  
+ [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
+|入口        |缩写        |
+|------------|-----------|
+|微信公众号   |WX_GZH    | 
+|微信小程序   |WX_XCX    | 
+|支付宝小程序 |ZFB_XCX   |
+|APP客户端    |APP       |
+|网页端       |WEB       |
   
- *平台越来越多，希望大家不要成为韭菜。只作分享，量力而行。*
+ *平台越来越多，希望大家不要成为韭菜。只作分享，量力而行。*  
  *建议使用网页端，不然公众号、APP太多了。*
  
  |平台                  |微信公众号     |微信小程序    |支付宝小程序  |APP客户端     |网页端        |
