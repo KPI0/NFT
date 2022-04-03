@@ -65,10 +65,9 @@
  |49|Metachaos数字艺术元宇宙|WX_GZH        |              |                |              |             |
  |50|NVWA女娲数字藏品      |WX_GZH        |              |                |              |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)             |
  |51|SKY艺术空间           |WX_GZH        |              |                |APP         |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)            |
- ||Cosmos Art数字平台    |               |              |                |              |             |
- ||META幻鲸              |               |              |                |              |             |
- ||ONE数字藏品           |               |              |                |              |             |
- ||一点数藏              |               |              |                |              |             |
+ |52|Cosmos Art数字平台    |WX_GZH         |              |                |              |             |
+ |53|ONE数字艺术           |WX_GZH         |              |                |              |[WEB](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)  |
+ |54|一点数藏              |WX_GZH          |              |                |              |             |
  ||云藏科技              |               |              |                |              |             |
  ||灵镜藏品              |               |              |                |              |             |
  ||数字藏家              |               |              |                |              |             |
