@@ -34,9 +34,9 @@
  |元初世界             |WX_GZH         |WX_XCX        |                |              |[WEB](https://h5.gfanx.com/)  |
  |umx art              |WX_GZH         |              |                |APP           |[WEB](https://umx.art/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d) |
  |元本空间             |WX_GZH         |              |                |              |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078) |
- |七级宇宙             |               |              |                |              |             |
+ |七级宇宙             |WX_GZH         |              |                |APP           |[WEB](https://v2.7jft.com/h5/#/pages/login/register?invite_code=6208484) |
  |优版权               |WX_GZH         |              |                |APP           |[WEB](https://h5.ubanquan.cn/home?code=wa7aSw) |
- |星门                 |               |              |                |              |             |
+ |星门                 |WX_GZH         |              |                |APP           |[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
  |UTON NFR             |               |              |                |              |             |
  |加密空间             |               |              |                |              |             |
  |一岛                 |               |              |                |              |             |
