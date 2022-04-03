@@ -119,3 +119,5 @@
  |103|YOYO元宇宙         |WX_GZH         |              |                |              |[WEB](https://www.yoyonft.vip/#/pages/login/setpwd?shareCode=0NILK0I1) |
  |104|IREAL              |WX_GZH         |              |                |              |[WEB](https://app.ireal.icu/#/userhub)  |
  |105|茫洋               |               |              |                |              |[WEB](http://101.200.180.35/?code=LLVTEB)  |
+ |106|X光年              |WX_GZH         |              |                |APP           |[WEB](https://www.xmall.art/)  |
+ |107|道一数藏           |WX_GZH         |              |                |              |[WEB](https://apisc.daoyi365.com?spread=15819)  |
