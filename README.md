@@ -26,6 +26,7 @@
  |幻藏艺术平台          |WX_GZH        |               |             |y             |y            |    
  |宠物元宇宙数字藏品    |y             |               |              |              |y            |    
  |数字玛特              |WX_GZH        |              |               |APP            |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986)         |
+ |映耀                 |WX_GZH         |              |                |APP            |[WEB](http://www.yyycyu.top/signup.html?i=W453194)          |
  |元初世界             |               |              |                |              |             |
  |umx                  |               |              |                |              |             |
  |元本空间             |               |              |                |              |             |
