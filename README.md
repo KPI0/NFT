@@ -25,9 +25,8 @@
  |文博元宇宙            |WX_GZH        |              |              |APP           |[WEB](https://h5.tecprove.com/)          |    
  |StarArk数字文创平台   |WX_GZH        |               |             |              |[WEB](https://h5.stararknft.art/#/index)          |   
  |数藏科技数字藏品平台  |WX_GZH        |               |             |              |[WEB](https://shucang.cn/mall/#/)            |    
- |幻藏艺术平台          |WX_GZH        |               |             |APP           |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357
-)  |    
- |宠物元宇宙数字藏品    |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)           |    
+ |幻藏艺术平台          |WX_GZH        |               |             |APP           |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
+ |宠物元宇宙数字藏品    |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
  |数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986)         |
  |映耀                 |WX_GZH         |              |                |APP           |[WEB](http://www.yyycyu.top/signup.html?i=W453194)|
  |光链                 |                |             |                |APP           |[WEB](https://www.chainoo.cn/login.html?inviteCode=529571)   |
