@@ -43,7 +43,7 @@
  |一花                 |WX_GZH         |              |                |[APP](http://yihua.taoqikid.com/active/page/#/download)  |             |
  |故纸堆               |WX_GZH         |              |                |APP           |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
  |Honnerse             |WX_GZH         |WX_XCX        |                |[APP](https://honnverse.stars-mine.com/static/download.html)  |             |
- |Hotlove              |               |              |                |              |             |
+ |Hotlove              |WX_GZH         |              |                |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)           |             |
  |上镜                 |               |              |                |              |             |
  |超维空间             |               |              |                |              |             |
  |幻核                 |               |              |                |              |             |
