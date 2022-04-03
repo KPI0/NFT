@@ -80,7 +80,7 @@
  |64|斑马版权              |WX_GZH         |WX_XCX        |                |              |[WEB](https://bmark.cn/#/)            |
  |65|蝶宇宙数字藏品        |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
  |66|GEEK数字藏品          |WX_GZH         |              |                |[APP](https://www.geeknft.art/download/appdownload.html)            |             |
- ||海幻境                |               |              |                |              |             |
+ |67|海幻境数字艺术       |WX_GZH          |              |                |              |[WEB](https://app.oceandreamland.art/?from=wxmp-menu)             |
  ||Harvest DAY           |               |              |                |              |             |
  ||红洞科技              |               |              |                |              |             |
  ||红果数藏              |               |              |                |              |             |
