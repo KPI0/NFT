@@ -121,3 +121,6 @@
  |105|茫洋               |               |              |                |              |[WEB](http://101.200.180.35/?code=LLVTEB)  |
  |106|X光年              |WX_GZH         |              |                |APP           |[WEB](https://www.xmall.art/)  |
  |107|道一数藏           |WX_GZH         |              |                |              |[WEB](https://apisc.daoyi365.com?spread=15819)  |
+ |108|Meta数字文创       |WX_GZH         |              |                |APP           |[WEB](https://www.metadac.cn//#/register?uuid=8P3LVA)  |
+ |109|伽作Meta           |WX_GZH         |              |                |APP           |[WEB](http://meta.jiazuo.art/#/)  |
+ 
