@@ -29,6 +29,7 @@
  |宠物元宇宙数字藏品    |WX_GZH        |               |              |             |WEB           |    
  |数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986)         |
  |映耀                 |WX_GZH         |              |                |APP           |[WEB](http://www.yyycyu.top/signup.html?i=W453194)|
+ |光链                 |                |             |                |APP           |[WEB](https://www.chainoo.cn/login.html?inviteCode=529571)   |
  |元初世界             |               |              |                |              |             |
  |umx                  |               |              |                |              |             |
  |元本空间             |               |              |                |              |             |
