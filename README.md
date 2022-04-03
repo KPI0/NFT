@@ -40,9 +40,8 @@
  |加密空间             |WX_GZH         |              |                |APP           |[WEB](https://crypts.cn/)             |
  |一岛                 |               |              |                |APP           |[WEB](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)|
  |丸卡                 |WX_GZH         |              |                |APP           |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
- |一花                 |               |              |                |              |             |
- |故纸堆               |               |              |                |              |             |
- |新华社               |               |              |                |              |             |
+ |一花                 |WX_GZH         |              |                |[APP](http://yihua.taoqikid.com/active/page/#/download)  |             |
+ |故纸堆               |WX_GZH         |              |                |APP           |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
  |Honnerse             |               |              |                |              |             |
  |Hotlove              |               |              |                |              |             |
  |上镜                 |               |              |                |              |             |
