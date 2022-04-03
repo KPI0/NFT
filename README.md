@@ -78,8 +78,8 @@
  |62|Art Meta元艺术        |WX_GZH         |              |                |            |             |
  |63|Avapunk数字藏品       |WX_GZH         |              |                |APP            |[WEB](https://www.avapunk.com/invited?extensionId=U247385)             |
  |64|斑马版权              |WX_GZH         |WX_XCX        |                |              |[WEB](https://bmark.cn/#/)            |
- ||蝶宇宙                |               |              |                |              |             |
- ||GEEK数字藏品          |               |              |                |              |             |
+ |65|蝶宇宙数字藏品        |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
+ |66|GEEK数字藏品          |WX_GZH         |              |                |[APP](https://www.geeknft.art/download/appdownload.html)            |             |
  ||海幻境                |               |              |                |              |             |
  ||Harvest DAY           |               |              |                |              |             |
  ||红洞科技              |               |              |                |              |             |
