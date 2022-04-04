@@ -98,7 +98,7 @@
  |80|T MARK              |WX_GZH         |WX_XCX        |                |              |             |
  |81|TopHolder           |WX_GZH         |              |                |              |[WEB](https://www.topholder.cn/)       |
  |82|UU交易平台          |WX_GZH         |              |                |              |[WEB](https://uujypt.com/)             |
- |83|万物灵域            |WX_GZH         |WX_XCX        |                |APP           |             |
+ |83|万物灵域            |WX_GZH         |[WX_XCX](#小程序://灵图域/7ply27LaLPidB0q)        |                |APP           |             |
  |84|万物数字藏品        |WX_GZH         |              |                |              |[WEB](https://wx.allnfts.cn/)            |
  |85|雪崩科技            |WX_GZH         |              |                |              |             |
  |86|虚河                |WX_GZH         |              |                |APP           |[WEB](https://www.xuhe.art/reg/w0rkrqkPz)             |
