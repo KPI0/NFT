@@ -49,11 +49,11 @@
  |31|Hotlove              |WX_GZH         |              |                |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)           |             |
  |32|上镜UPLAB            |WX_GZH         |              |                |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
  |33|超维元宇宙           |WX_GZH         |              |                |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)    |             |
- |34|腾讯幻核             |WX_GZH         |              |                |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)   |             |
+ |34|幻核                 |WX_GZH         |              |                |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)   |             |
  |35|画生Meta             |WX_GZH         |              |                |              |             |
  |36|灵镜商店             |WX_GZH         |              |                |[APP](https://lingjingshangdian.com/)  |             |
  |37|轻松小镇             |WX_GZH         |              |                |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |             |
- |38|HOTDOG APP           |WX_GZH         |              |                |APP             |             |
+ |38|HOTDOG               |WX_GZH         |              |                |APP             |             |
  |39|元宇宙0号            |WX_GZH         |              |                |APP            |             |
  |40|麦塔                 |WX_GZH         |              |                |APP           |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)    |
  |41|Meta彼岸             |WX_GZH         |              |                |APP             |[WEB](https://meta-h5.genimous.com/#/)   |
@@ -82,7 +82,7 @@
  |64|斑马版权              |WX_GZH         |WX_XCX        |                |              |[WEB](https://bmark.cn/#/)            |
  |65|蝶宇宙                |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
  |66|GEEK数字藏品          |WX_GZH         |              |                |[APP](https://www.geeknft.art/download/appdownload.html)            |             |
- |67|海幻境数字艺术       |WX_GZH          |              |                |              |[WEB](https://app.oceandreamland.art/?from=wxmp-menu)             |
+ |67|海幻境               |WX_GZH          |              |                |              |[WEB](https://app.oceandreamland.art/?from=wxmp-menu)             |
  |68|Harvest DAY         |WX_GZH         |              |                |              |             |
  |69|红洞科技            |WX_GZH         |WX_XCX        |                |              |[WEB](https://www.redcave.com/#/pages/login/register?code=78NP2uTD62)   |
  |70|红果数藏            |WX_GZH         |              |                |[APP](http://download.nftguanfang.com/download.html)          |             |
@@ -108,7 +108,7 @@
  |90|宙核                |WX_GZH         |              |                |APP           |[WEB](https://core.blockbzz.cn/#/versecore)    |
  |91|西湖一号            |WX_GZH         |WX_XCX        |                |              |[WEB](https://westlake.yuliankeji.com/)    |
  |92|功夫数字            |WX_GZH         |              |                |              |[WEB](http://h5test.91xjr.com/index.html)         |
- |93|元视觉艺术          |WX_GZH         |WX_XCX        |                |              |[WEB](https://yuan.500px.com.cn/h5/index)  |
+ |93|元视觉              |WX_GZH         |WX_XCX        |                |              |[WEB](https://yuan.500px.com.cn/h5/index)  |
  |94|iBear数字藏品       |WX_GZH         |              |                |APP           |[WEB](https://ibear.art/)  |
  |95|iBox数字藏品        |WX_GZH         |              |                |APP           |[WEB](https://www.ibox.art/) |
  |96|zTag潮流艺术        |WX_GZH         |              |                |APP           |[WEB](https://m.ztag.vip/h5/pages/home/home?data=%7B%22invitationCode%22%3A%22o15q%22%7D)  |
