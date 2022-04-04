@@ -75,7 +75,7 @@
  |57|数字藏家              |WX_GZH          |              |                |              |             |
  |58|CN数字藏品            |WX_GZH          |WX_XCX          |                |              |WEB             |
  |59|BiBiNFT               |WX_GZH         |              |                |              |[WEB](https://www.bibinft.com)             |
- |60|Us元空间艺术          |WX_GZH         |              |                |              |             |
+ |60|Us元空间艺术          |WX_GZH         |              |                |              |[WEB](https://h5.stararknft.art/#/index)         |
  |61|AmallART              |WX_GZH         |              |                |              |[WEB](https://amall.vip/land?code=5425261466357761046)             |
  |62|Art Meta元艺数        |WX_GZH         |              |                |            |[WEB](https://artmeta.cn/)             |
  |63|Avapunk数字藏品       |WX_GZH         |              |                |APP            |[WEB](https://www.avapunk.com/invited?extensionId=U247385)             |
