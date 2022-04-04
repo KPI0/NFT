@@ -20,16 +20,16 @@
  |2|鲸探                  |              |              |[ZFB_XCX](https://ur.alipay.com/2PSRO9)       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
  |3|芒果TV                |              |              |              |[APP](https://www.mgtv.com/app/)           |              |    
  |4|淘票票                |              |              |              |[APP](https://m.taopiaopiao.com/)           |              |    
- |5|唯一艺术              |WX_GZH        |              |              |APP           |[WEB](https://theone.art/)           |    
+ |5|唯一                  |WX_GZH        |              |              |APP           |[WEB](https://theone.art/)           |    
  |6|秦储                  |WX_GZH        |              |              |APP           |[WEB](https://h5.qcsc.vip/register?c=0DLLKM)           |    
- |7|千寻数藏              |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)       |           |    
+ |7|千寻                  |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)       |           |    
  |8|律核                  |WX_GZH        |              |              |[APP](https://wkzx.store/nC3c)           |              |    
- |9|蟾宫数字藏品          |WX_GZH        |WX_XCX        |              |              |[WEB](https://m.honghuchain.com/)          |    
+ |9|蟾宫                  |WX_GZH        |WX_XCX        |              |              |[WEB](https://m.honghuchain.com/)          |    
  |10|文博元宇宙            |WX_GZH        |              |              |APP           |[WEB](https://h5.tecprove.com/)      |    
- |11|StarArk数字文创平台   |WX_GZH        |               |             |              |[WEB](https://h5.stararknft.art/#/index)     |   
+ |11|StarArk               |WX_GZH        |               |             |              |[WEB](https://h5.stararknft.art/#/index)     |   
  |12|数藏中国              |WX_GZH        |               |             |APP           |[WEB](https://shucang.cn/mall/#/)    |    
  |13|幻藏艺术平台          |WX_GZH        |               |             |APP           |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
- |14|宠物元宇宙数字藏品    |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
+ |14|宠物元宇宙            |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
  |15|数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |
  |16|映耀                 |WX_GZH         |              |                |APP           |[WEB](http://www.yyycyu.top/signup.html?i=W453194)|
  |17|光链                 |WX_GZH         |             |                |APP           |[WEB](https://www.chainoo.cn/login.html?inviteCode=529571)   |
@@ -55,7 +55,7 @@
  |37|轻松小镇             |WX_GZH         |              |                |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |             |
  |38|HOTDOG APP           |WX_GZH         |              |                |APP             |             |
  |39|元宇宙0号            |WX_GZH         |              |                |APP            |             |
- |40|麦塔数字艺术         |WX_GZH         |              |                |APP           |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)    |
+ |40|麦塔                 |WX_GZH         |              |                |APP           |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)    |
  |41|Meta彼岸             |WX_GZH         |              |                |APP             |[WEB](https://meta-h5.genimous.com/#/)   |
  |42|玩贰+                |WX_GZH         |              |                |[APP](https://wan2store.com/app-redirect.htm)  |            |
  |43|Bigverse大元宇宙     |WX_GZH         |              |                |APP           |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)             |
@@ -64,8 +64,8 @@
  |46|淘派                 |WX_GZH         |              |                |              |[WEB](https://www.taopainft.com/)             |
  |47|Hi元宇宙             |WX_GZH         |              |                |APP           |[WEB](https://szwc.bojunwenhua.cn/pages/tabBar/index1?invite_code=601F2E51886004F7)        |
  |48|稀象                 |WX_GZH         |              |                |APP         |[WEB](http://shop.yes-nft.com/h5/index.html#/pages/login/register?spm=326236.1.0.1.1)             |
- |49|Metachaos数字艺术元宇宙|WX_GZH        |              |                |              |             |
- |50|NVWA女娲数字藏品      |WX_GZH        |              |                |              |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)             |
+ |49|Metachaos             |WX_GZH        |              |                |              |             |
+ |50|NVWA女娲              |WX_GZH        |              |                |              |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)             |
  |51|SKY艺术空间           |WX_GZH        |              |                |APP         |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)            |
  |52|Cosmos Art数字平台    |WX_GZH         |              |                |              |             |
  |53|ONE数字艺术           |WX_GZH         |              |                |              |[WEB](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)  |
@@ -80,7 +80,7 @@
  |62|Art Meta元艺数        |WX_GZH         |              |                |            |[WEB](https://artmeta.cn/)             |
  |63|Avapunk数字藏品       |WX_GZH         |              |                |APP            |[WEB](https://www.avapunk.com/invited?extensionId=U247385)             |
  |64|斑马版权              |WX_GZH         |WX_XCX        |                |              |[WEB](https://bmark.cn/#/)            |
- |65|蝶宇宙数字藏品        |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
+ |65|蝶宇宙                |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
  |66|GEEK数字藏品          |WX_GZH         |              |                |[APP](https://www.geeknft.art/download/appdownload.html)            |             |
  |67|海幻境数字艺术       |WX_GZH          |              |                |              |[WEB](https://app.oceandreamland.art/?from=wxmp-menu)             |
  |68|Harvest DAY         |WX_GZH         |              |                |              |             |
