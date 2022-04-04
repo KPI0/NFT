@@ -159,3 +159,4 @@
  |141|薄盒              |WX_GZH           |             |               |APP             |[WEB](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)  |
  |142|漫联文链          |WX_GZH           |             |                |                |[WEB](https://h5.ipbank.top/account/index)  |
  |143|光笺收藏家        |WX_GZH            |            |                 |                |[WEB](https://lian.0-1universe.com/web/scj/) |
+ |144|QQ音乐            |                 |             |                |[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |[WEB](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |
