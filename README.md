@@ -58,12 +58,12 @@
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)  |WX_GZH |    |      |APP  |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)  |
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)   |WX_GZH         |    |     |APP  |[WEB](https://meta-h5.genimous.com/#/)   |
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)     |WX_GZH         |   |     |[APP](https://wan2store.com/app-redirect.htm)  |   |
- |43|Bigverse大元宇宙     |WX_GZH         |              |                |APP           |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)             |
+ |43|[Bigverse](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
  |44|MetaBox              |WX_GZH         |              |                |              |[WEB](https://www.metaboxglobal.cn)             |
- |45|DAO加密咸鱼          |WX_GZH         |              |                |              |             |
- |46|淘派                 |WX_GZH         |              |                |              |[WEB](https://www.taopainft.com/)             |
- |47|Hi元宇宙             |WX_GZH         |              |                |APP           |[WEB](https://szwc.bojunwenhua.cn/pages/tabBar/index1?invite_code=601F2E51886004F7)        |
- |48|稀象                 |WX_GZH         |              |                |APP         |[WEB](http://shop.yes-nft.com/h5/index.html#/pages/login/register?spm=326236.1.0.1.1)             |
+ |45|[DAO加密咸鱼](https://www.tianyancha.com/company/5360462473)  |WX_GZH |              |                |              |             |
+ |46|[淘派数字藏品](https://www.tianyancha.com/company/3344491555)  |WX_GZH         |   |      |    |[WEB](https://www.taopainft.com/)             |
+ |47|[Hi元宇宙](https://www.tianyancha.com/company/3349949071) |WX_GZH| | |APP |[WEB](https://szwc.bojunwenhua.cn/pages/tabBar/index1?invite_code=601F2E51886004F7) |
+ |48|[稀象](https://www.tianyancha.com/company/3423558507) |WX_GZH | |  |APP|[WEB](http://shop.yes-nft.com/h5/index.html#/pages/login/register?spm=326236.1.0.1.1)  |
  |49|Metachaos             |WX_GZH        |              |                |              |             |
  |50|NVWA女娲              |WX_GZH        |              |                |              |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)             |
  |51|SKY艺术空间           |WX_GZH        |              |                |APP         |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)            |
