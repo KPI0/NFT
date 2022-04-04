@@ -77,7 +77,7 @@
  |59|BiBiNFT               |WX_GZH         |              |                |              |[WEB](https://www.bibinft.com)             |
  |60|Us元空间艺术          |WX_GZH         |              |                |              |             |
  |61|AmallART              |WX_GZH         |              |                |              |[WEB](https://amall.vip/land?code=5425261466357761046)             |
- |62|Art Meta元艺术        |WX_GZH         |              |                |            |             |
+ |62|Art Meta元艺数        |WX_GZH         |              |                |            |[WEB](https://artmeta.cn/)             |
  |63|Avapunk数字藏品       |WX_GZH         |              |                |APP            |[WEB](https://www.avapunk.com/invited?extensionId=U247385)             |
  |64|斑马版权              |WX_GZH         |WX_XCX        |                |              |[WEB](https://bmark.cn/#/)            |
  |65|蝶宇宙数字藏品        |WX_GZH         |              |                |APP           |[WEB](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)     |
