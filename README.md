@@ -149,3 +149,6 @@
  |131|洞壹元典          |WX_GZH           |WX_XCX          |              |             |[WEB](https://01h5.dongyiyuandian.com/#/)  |
  |132|鹿鸣数藏          |WX_GZH           |                |              |[APP](http://down.ru-xue.com/app/24)    |                          |
  |133|网易星球          |WX_GZH           |                |              |APP         |[WEB](https://pgc.theuniquer.com/?isFromShare=1)  |
+ |134|小红书R-SPACE     |                 |                 |             |[APP](https://www.xiaohongshu.com/r-space/collection-wall?naviHidden=yes&userId=5f06043d0000000001007aee&isUnicomKing=false&xhsshare=CopyLink&appuid=624aa2c0000000001000fc26&apptime=1649058618)|   |
+ |135|云闪付            |                 |                   |           |[APP](https://base.95516.com/s/wl/WebAPP/helpAgree/page/help/shareRutineHelp.html?params=eyJlbmNyeXB0QXBwSWQiOiJlNDFmZTcyYjQ5MzFjNzk0IiwidG9MaW5rIjoiaHR0cHMlM0ElMkYl
+MkZ1cGFzc2V0Ljk1NTE2LmNvbSUyRiUyMyUyRnRhYnMlMkZob21lIn0=)  |     |
