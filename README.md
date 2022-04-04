@@ -49,7 +49,7 @@
  |31|[Hotlove](https://www.tianyancha.com/company/2315093424)  |WX_GZH         |   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)     |    |
  |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554) |WX_GZH|     |   |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
  |33|[超维元宇宙](https://www.tianyancha.com/company/5225866617)  |WX_GZH  |    |  |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)    |             |
- |34|幻核                 |WX_GZH         |              |                |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)   |             |
+ |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)  |WX_GZH |    |  |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)   |             |
  |35|画生Meta             |WX_GZH         |              |                |              |             |
  |36|灵镜商店             |WX_GZH         |              |                |[APP](https://lingjingshangdian.com/)  |             |
  |37|轻松小镇             |WX_GZH         |              |                |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |             |
