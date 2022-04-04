@@ -45,7 +45,7 @@
  |27|丸卡                 |WX_GZH         |              |                |APP           |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
  |28|一花                 |WX_GZH         |              |                |[APP](http://yihua.taoqikid.com/active/page/#/download)  |             |
  |29|故纸堆               |WX_GZH         |              |                |APP           |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
- |30|Honnerse             |WX_GZH         |WX_XCX        |                |[APP](https://honnverse.stars-mine.com/static/download.html)  |             |
+ |30|Honnerse虹宇宙       |WX_GZH         |WX_XCX        |                |[APP](https://honnverse.stars-mine.com/static/download.html)  |             |
  |31|Hotlove              |WX_GZH         |              |                |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)           |             |
  |32|上镜UPLAB            |WX_GZH         |              |                |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
  |33|超维元宇宙           |WX_GZH         |              |                |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)    |             |
