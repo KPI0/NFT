@@ -154,3 +154,4 @@
  |136|第九空间          |WX_GZH           |             |             |               |WEB   |
  |137|河洛              |WX_GZH           |             |                |[APP](https://app.heluolian.com/)               |               |
  |138|瞬元              |WX_GZH           |             |              |               |[WEB](https://www.simeta.world/)                |
+ |139|诺坊体            |WX_GZH           |             |               |APP               |[WEB](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx85758c9cf93b7159&redirect_uri=http%3A%2F%2Fweb.nuofangti.com&response_type=code&scope=snsapi_userinfo&state=129024&connect_redirect=1#wechat_redirect) |
