@@ -55,9 +55,9 @@
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300) |WX_GZH    |     |    |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |     |
  |38|[HOTDOG](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)  |WX_GZH   |              |                |APP            |             |
- |40|麦塔                 |WX_GZH         |              |                |APP           |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)    |
- |41|Meta彼岸             |WX_GZH         |              |                |APP             |[WEB](https://meta-h5.genimous.com/#/)   |
- |42|玩贰+                |WX_GZH         |              |                |[APP](https://wan2store.com/app-redirect.htm)  |            |
+ |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)  |WX_GZH |    |      |APP  |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)  |
+ |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)   |WX_GZH         |    |     |APP  |[WEB](https://meta-h5.genimous.com/#/)   |
+ |42|[玩贰+](https://www.tianyancha.com/company/4994817135)     |WX_GZH         |   |     |[APP](https://wan2store.com/app-redirect.htm)  |   |
  |43|Bigverse大元宇宙     |WX_GZH         |              |                |APP           |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)             |
  |44|MetaBox              |WX_GZH         |              |                |              |[WEB](https://www.metaboxglobal.cn)             |
  |45|DAO加密咸鱼          |WX_GZH         |              |                |              |             |
