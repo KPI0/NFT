@@ -90,7 +90,7 @@
  |72|良选数字藏品        |WX_GZH         |              |                |              |[WEB](http://h5.nftzz.cn/index?invite_uid=324767)             |
  |73|链上艺术            |WX_GZH         |              |                |APP           |[WEB](https://mp.lsnft.cn/#/?share=ebqkol)             |
  |74|ODin元宇宙          |WX_GZH         |              |                |              |[WEB](https://m.odinnft.cn/?code=5EqcWs#/login/regist)             |
- |75|青石幻城            |WX_GZH         |              |                |              |            |
+ |75|青石幻城            |WX_GZH         |WX_XCX        |                |              |            |
  |76|启元宇宙            |WX_GZH         |              |                |              |[WEB](https://nftsshop.0cms.vip/h5/#/)             |
  |77|神达元宇宙          |WX_GZH         |              |                |              |[WEB](https://meta.spiritleap.com/#/pages/mine/invitation?icon=&inviteNo=89841935&vipflag=0&sex=0)             |
  |78|双镜博物            |WX_GZH         |              |                |              |[WEB](https://h5.shuangjing.club/#/pages/me/index?inviteId=ipvdjz)  |
