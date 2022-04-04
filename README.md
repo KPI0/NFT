@@ -58,7 +58,7 @@
  |40|麦塔数字艺术         |WX_GZH         |              |                |APP           |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)    |
  |41|Meta彼岸             |WX_GZH         |              |                |APP             |[WEB](https://meta-h5.genimous.com/#/)   |
  |42|玩贰+                |WX_GZH         |              |                |[APP](https://wan2store.com/app-redirect.htm)  |            |
- |43|Bigverse大元宇宙     |WX_GZH         |              |                |              |             |
+ |43|Bigverse大元宇宙     |WX_GZH         |              |                |APP           |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)             |
  |44|MetaBox              |WX_GZH         |              |                |              |[WEB](https://www.metaboxglobal.cn)             |
  |45|DAO加密咸鱼          |WX_GZH         |              |                |              |             |
  |46|淘派                 |WX_GZH         |              |                |              |[WEB](https://www.taopainft.com/)             |
