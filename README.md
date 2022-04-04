@@ -142,3 +142,4 @@
  |124|稀幻               |WX_GZH        |               |                |               |[WEB](https://xihuan.hulaup.com/#/pages/index?inviteUId=51058) |
  |125|无界数字藏品       |WX_GZH        |               |                |               |[WEB](https://wujien.cn/pages/login/register?invite=c0c1a50976a0cd159e09c03cd6f0)     |
  |126|猛犸数藏           |WX_GZH         |              |                |APP            |[WEB](https://www.mmasc.cn/h5/#/subPackages/login/register?invite_code=953403)  |
+ |127|TOP1艺术藏品       |                |WX_XCX        |               |               |[WEB](http://49.235.97.116:8081/#/pages/login/register/?userId=704)  |
