@@ -17,7 +17,7 @@
  |序号|平台                  |微信公众号     |微信小程序    |支付宝小程序  |APP客户端     |网页端        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
  |1|Chiko&Roko            |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
- |2|鲸探                  |              |              |[ZFB_XCX](https://ur.alipay.com/2PSRO9)       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
+ |2|[鲸探](https://www.tianyancha.com/company/5089730061) | ||[ZFB_XCX](https://ur.alipay.com/2PSRO9) |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
  |3|芒果TV                |              |              |              |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR) |   |   
  |4|淘票票                |              |              |              |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           | [WEB](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)             |    
  |5|[唯一艺术](https://www.tianyancha.com/company/4650905129) |WX_GZH    |          |           |APP       |[WEB](https://theone.art/)      |    
@@ -28,9 +28,9 @@
  |10|[文博元宇宙](https://www.tianyancha.com/company/3180682587) |WX_GZH        |        |         |APP           |[WEB](https://h5.tecprove.com/)      |    
  |11|[StarArk数字文创平台](https://www.tianyancha.com/company/4975523596)  |WX_GZH  |    |     |         |[WEB](https://h5.stararknft.art/#/index)     |   
  |12|[数藏中国](https://www.tianyancha.com/company/5305029242)   |WX_GZH   |          |         |APP           |[WEB](https://shucang.cn/mall/#/)    |    
- |13|幻藏艺术平台          |WX_GZH        |               |             |APP           |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
- |14|宠物元宇宙            |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
- |15|数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |
+ |13|[幻藏艺术平台](https://www.tianyancha.com/company/5210174792) |WX_GZH  | | |APP |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
+ |14|[宠物元宇宙](https://www.tianyancha.com/company/3407864673)  |WX_GZ |     |       |      |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
+ |15|[数字玛特](https://www.tianyancha.com/company/3448131050) |WX_GZH   | ||APP |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |
  |16|映耀                 |WX_GZH         |              |                |APP           |[WEB](http://www.yyycyu.top/signup.html?i=W453194)|
  |17|光链                 |WX_GZH         |             |                |APP           |[WEB](https://www.chainoo.cn/login.html?inviteCode=529571)   |
  |18|UTONMOS              |WX_GZH         |             |                |APP       |[WEB](https://h5.metauton.com/invite?fphone=159****0141&fcode=EQ652)|
