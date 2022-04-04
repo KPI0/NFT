@@ -27,7 +27,7 @@
  |9|蟾宫数字藏品          |WX_GZH        |WX_XCX        |              |              |[WEB](https://m.honghuchain.com/)          |    
  |10|文博元宇宙            |WX_GZH        |              |              |APP           |[WEB](https://h5.tecprove.com/)      |    
  |11|StarArk数字文创平台   |WX_GZH        |               |             |              |[WEB](https://h5.stararknft.art/#/index)     |   
- |12|数藏科技数字藏品平台  |WX_GZH        |               |             |              |[WEB](https://shucang.cn/mall/#/)    |    
+ |12|数藏中国              |WX_GZH        |               |             |APP           |[WEB](https://shucang.cn/mall/#/)    |    
  |13|幻藏艺术平台          |WX_GZH        |               |             |APP           |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
  |14|宠物元宇宙数字藏品    |WX_GZH        |               |              |             |[WEB](https://tayuzhou.chongbaoxy.com/#/home)   |    
  |15|数字玛特              |WX_GZH        |              |               |APP          |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |
