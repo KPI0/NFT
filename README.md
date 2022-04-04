@@ -156,3 +156,4 @@
  |138|瞬元              |WX_GZH           |             |              |               |[WEB](https://www.simeta.world/)                |
  |139|诺坊体            |WX_GZH           |             |               |APP               |[WEB](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx85758c9cf93b7159&redirect_uri=http%3A%2F%2Fweb.nuofangti.com&response_type=code&scope=snsapi_userinfo&state=129024&connect_redirect=1#wechat_redirect) |
  |140|鹤巢文观          |WX_GZH           |WX_XCX       |               |                |[WEB](https://m.chaoarts.com/) |
+ |141|薄盒              |WX_GZH           |             |               |APP             |[WEB](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)  |
