@@ -22,7 +22,7 @@
  |4|淘票票                |              |              |              |[APP](https://m.taopiaopiao.com/)           |              |    
  |5|唯一艺术              |WX_GZH        |              |              |APP           |[WEB](https://theone.art/)           |    
  |6|秦储                  |WX_GZH        |              |              |APP           |[WEB](https://h5.qcsc.vip/register?c=0DLLKM)           |    
- |7|千寻数藏              |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/share-product1-wx.html)           |              |    
+ |7|千寻数藏              |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)       |           |    
  |8|律核                  |WX_GZH        |              |              |[APP](https://wkzx.store/nC3c)           |              |    
  |9|蟾宫数字藏品          |WX_GZH        |WX_XCX        |              |              |[WEB](https://m.honghuchain.com/)          |    
  |10|文博元宇宙            |WX_GZH        |              |              |APP           |[WEB](https://h5.tecprove.com/)      |    
