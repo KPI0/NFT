@@ -18,8 +18,8 @@
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
  |1|Chiko&Roko            |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|鲸探                  |              |              |[ZFB_XCX](https://ur.alipay.com/2PSRO9)       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
- |3|芒果TV                |              |              |              |APP           |              |    
- |4|淘票票                |              |              |              |APP           |              |    
+ |3|芒果TV                |              |              |              |[APP](https://www.mgtv.com/app/)           |              |    
+ |4|淘票票                |              |              |              |[APP](https://m.taopiaopiao.com/)           |              |    
  |5|唯一艺术              |WX_GZH        |              |              |APP           |[WEB](https://theone.art/)           |    
  |6|秦储                  |WX_GZH        |              |              |APP           |[WEB](https://h5.qcsc.vip/register?c=0DLLKM)           |    
  |7|千寻数藏              |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/share-product1-wx.html)           |              |    
