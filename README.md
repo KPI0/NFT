@@ -162,3 +162,4 @@
  |144|QQ音乐            |                 |             |                |[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |[WEB](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |
  |145|鲸核数藏          |WX_GZH           |            |               |APP                |[WEB](https://www.nftcms.cn/) |
  |146|微纳AX Meta       |WX_GZH           |             |                |                 |                            |
+ |147|巢音世代          |                 |             |                 |[APP](https://www.music-z.com/)  |              |
