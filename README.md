@@ -19,7 +19,7 @@
  |1|Chiko&Roko            |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|鲸探                  |              |              |[ZFB_XCX](https://ur.alipay.com/2PSRO9)       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
  |3|芒果TV                |              |              |              |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR) |   |   
- |4|淘票票                |              |              |              |[APP](https://m.taopiaopiao.com/)           |              |    
+ |4|淘票票                |              |              |              |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           | [WEB](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)             |    
  |5|唯一                  |WX_GZH        |              |              |APP           |[WEB](https://theone.art/)           |    
  |6|秦储                  |WX_GZH        |              |              |APP           |[WEB](https://h5.qcsc.vip/register?c=0DLLKM)           |    
  |7|千寻                  |WX_GZH        |              |              |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)       |           |    
