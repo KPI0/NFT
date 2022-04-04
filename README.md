@@ -16,7 +16,7 @@
  
  |序号|平台                  |微信公众号     |微信小程序    |支付宝小程序  |APP客户端     |网页端        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
- |1|chikoroko             |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
+ |1|Chiko&Roko            |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|鲸探                  |              |              |[ZFB_XCX](https://ur.alipay.com/2PSRO9)       |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
  |3|芒果TV                |              |              |              |APP           |              |    
  |4|淘票票                |              |              |              |APP           |              |    
