@@ -88,7 +88,7 @@
  |70|红果数藏            |WX_GZH         |              |                |[APP](http://download.nftguanfang.com/download.html)          |             |
  |71|蓝猫数字            |WX_GZH         |              |                |              |[WEB](http://www.lanmsz.cn)             |
  |72|良选数字藏品        |WX_GZH         |              |                |              |[WEB](http://h5.nftzz.cn/index?invite_uid=324767)             |
- |73|链上艺术            |WX_GZH         |              |                |              |             |
+ |73|链上艺术            |WX_GZH         |              |                |APP           |[WEB](https://mp.lsnft.cn/#/?share=ebqkol)             |
  |74|ODin元宇宙          |WX_GZH         |              |                |              |[WEB](https://m.odinnft.cn/?code=5EqcWs#/login/regist)             |
  |75|青石幻城            |WX_GZH         |              |                |              |            |
  |76|启元宇宙            |WX_GZH         |              |                |              |[WEB](https://nftsshop.0cms.vip/h5/#/)             |
