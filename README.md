@@ -73,7 +73,7 @@
  |55|云藏科技              |WX_GZH        |              |                |              |             |
  |56|灵镜藏品              |WX_GZH         |              |                |              |[WEB](https://www.lingjing3.cn/zh-cn/?v=737&inviteCode=DxcqqZHB8LPccgVGmhz47E)             |
  |57|数字藏家              |WX_GZH          |              |                |              |             |
- |58|CN数字藏品            |WX_GZH          |WX_XCX          |                |              |WEB             |
+ |58|CN数字藏品            |WX_GZH          |[WX_XCX](https://pic.rmb.bdstatic.com/bjh/dc3b534ed316c0e20ad6d88b9f200274.jpeg)   |         |     |WEB             |
  |59|BiBiNFT               |WX_GZH         |              |                |              |[WEB](https://www.bibinft.com)             |
  |60|Us元空间艺术          |WX_GZH         |              |                |              |[WEB](https://h5.stararknft.art/#/index)         |
  |61|AmallART              |WX_GZH         |              |                |              |[WEB](https://amall.vip/land?code=5425261466357761046)             |
