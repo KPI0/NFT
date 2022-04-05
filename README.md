@@ -47,9 +47,9 @@
  |26|一岛                 |               |              |                |APP           |[WEB](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)|
  |27|[丸卡](https://www.tianyancha.com/company/4797824070)    |WX_GZH   |    |   |APP   |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
  |28|[一花YIHUA](https://www.tianyancha.com/company/2350663115)     |WX_GZH  |    |  |[APP](http://yihua.taoqikid.com/active/page/#/download)  |     |
- |29|[故纸堆](https://www.tianyancha.com/company/3392533958)   |WX_GZH  |    |    |APP  |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
- |30|[Honnverse虹宇宙](https://www.tianyancha.com/company/3453249615) |WX_GZH |WX_XCX  | |[APP](https://honnverse.stars-mine.com/static/download.html)  |     |
- |31|[Hotlove](https://www.tianyancha.com/company/2315093424)  |WX_GZH         |   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)     |    |
+ |29|[故纸堆APP](https://www.tianyancha.com/company/3392533958)   |WX_GZH  |    |    |APP  |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
+ |30|[Honnverse](https://www.tianyancha.com/company/3453249615) |WX_GZH |WX_XCX  | |[APP](https://honnverse.stars-mine.com/static/download.html)  |     |
+ |31|[Hotlove服务中心](https://www.tianyancha.com/company/2315093424)  |WX_GZH  |   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)     |    |
  |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554) |WX_GZH|     |   |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
  |33|[超维元宇宙](https://www.tianyancha.com/company/5225866617)  |WX_GZH  |    |  |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)    |             |
  |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)  |WX_GZH |    |  |[APP](https://huanhe.qq.com/dist/boss.html#/index/mine?uid=1037802)   |             |
@@ -57,7 +57,7 @@
  |35|[画生Verse](https://www.tianyancha.com/company/5412169051)  |WX_GZH| | |[APP](https://huashengdownload.oss-cn-beijing.aliyuncs.com/huasheng.apk) |  |
  |36|[灵镜商店](https://www.tianyancha.com/company/3450444562)    |WX_GZH   |    |     |[APP](https://lingjingshangdian.com/)  |             |
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300) |WX_GZH    |     |    |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |     |
- |38|[HOTDOG](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
+ |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)  |WX_GZH   |              |                |APP            |             |
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)  |WX_GZH |    |      |APP  |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)  |
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)   |WX_GZH         |    |     |APP  |[WEB](https://meta-h5.genimous.com/#/)   |
@@ -69,9 +69,9 @@
  |47|[Hi元宇宙](https://www.tianyancha.com/company/3349949071) |WX_GZH| | |APP |[WEB](https://szwc.bojunwenhua.cn/pages/tabBar/index1?invite_code=601F2E51886004F7) |
  |48|[稀象](https://www.tianyancha.com/company/3423558507) |WX_GZH | |  |APP|[WEB](http://shop.yes-nft.com/h5/index.html#/pages/login/register?spm=326236.1.0.1.1)  |
  |49|Metachaos             |WX_GZH|[WX_XCX](https://github.com/KPI0/NFT/blob/main/images/metachaos.png)|                |              |             |
- |50|[NVWA女娲](https://www.tianyancha.com/company/5075896802)     |WX_GZH        |     |     |   |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)    |
+ |50|[女娲NVWA数字藏品](https://www.tianyancha.com/company/5075896802)     |WX_GZH        |     |     |   |[WEB](https://nvwanft.cc/#/index?inviteCode=57C574F)    |
  |51|[SKY艺术空间](https://www.tianyancha.com/company/5349013917)|WX_GZH | | |APP |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)            |
- |52|[Cosmos Art](https://www.tianyancha.com/company/2319861080)  |WX_GZH |  |  |   |[WEB](https://nft.9space.vip/cosmos/register?invitor=2304692)|
+ |52|[Cosmos Art数字平台](https://www.tianyancha.com/company/2319861080)  |WX_GZH |  |  |   |[WEB](https://nft.9space.vip/cosmos/register?invitor=2304692)|
  |53|[ONE数字艺术](https://www.tianyancha.com/company/3345735331) |WX_GZH|   |  |  |[WEB](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)|
  |54|[一点数藏](https://www.tianyancha.com/company/5359329416) |WX_GZH   |              |                |APP|[WEB](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|
  |54|[一点数艺](https://www.tianyancha.com/company/5359329416) |WX_GZH   |              |                |APP|[WEB](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|
