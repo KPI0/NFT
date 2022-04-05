@@ -135,7 +135,7 @@
  |115|[头号藏家](https://www.tianyancha.com/company/3212635995) |WX_GZH  |      |     |APP           |[WEB](https://home.topholder.cn/) |
  |116|[智元数藏](https://www.tianyancha.com/company/4546377065) |WX_GZH  |   |    |APP |[WEB](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e) |
  |117|[万象元创](https://www.tianyancha.com/company/5022863565) |WX_GZH  |     |      |              |[WEB](https://guaiguaitech.com/#/)  |
- |118|诺亚数商           |               |              |                |              |[WEB](https://www.foxyz.cn/h5/#/pages/auth/register?inviteCode=D4L23R) |
+ |118|[金谷诺亚](https://www.tianyancha.com/company/3486428264) |WX_GZH|  |  |APP|[WEB](https://www.foxyz.cn/h5/#/pages/auth/register?inviteCode=D4L23R) |
  |119|[龙猫元创](https://www.tianyancha.com/company/1701841693)|WX_GZH|   |      |APP     |[WEB](http://lm.lmnft.net/?invateCode=kvnpq2#/)   |
  |120|[元宇宙交易大厅](https://www.tianyancha.com/company/3068324105) |WX_GZH |    |    | |[WEB](https://nftlabm.yuzhouya.com/)  |
  |121|[NFT秦](https://www.tianyancha.com/company/4330431020)  |WX_GZH         |     |      |              |[WEB](https://www.nftqin.com/)  |
