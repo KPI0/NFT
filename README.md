@@ -70,7 +70,8 @@
  |51|[SKY艺术空间](https://www.tianyancha.com/company/5349013917)|WX_GZH | | |APP |[WEB](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)            |
  |52|[Cosmos Art](https://www.tianyancha.com/company/2319861080)  |WX_GZH |  |  |   |[WEB](https://nft.9space.vip/cosmos/register?invitor=2304692)|
  |53|[ONE数字艺术](https://www.tianyancha.com/company/3345735331) |WX_GZH|   |  |  |[WEB](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)|
- |54|一点数藏              |WX_GZH          |              |                |APP|[WEB](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|
+ |54|[一点数藏](https://www.tianyancha.com/company/5359329416) |WX_GZH   |              |                |APP|[WEB](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|
+ |54|[一点数艺](https://www.tianyancha.com/company/5359329416) |WX_GZH   |              |                |APP|[WEB](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|
  |55|[云藏科技](https://www.tianyancha.com/company/5345176446)  |WX_GZH        |              |                |              |             |
  |56|[灵镜藏品](https://www.tianyancha.com/company/5329792525)  |WX_GZH| |  | |[WEB](https://www.lingjing3.cn/zh-cn/?v=737&inviteCode=DxcqqZHB8LPccgVGmhz47E)   |
  |57|[数字藏家](https://www.tianyancha.com/company/3214529696) |WX_GZH          |              |                |              |             |
