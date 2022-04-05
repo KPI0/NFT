@@ -162,4 +162,4 @@
  |144|QQ音乐            |                 |             |                |[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |[WEB](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |
  |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658) |WX_GZH   |     |       |APP                |[WEB](https://www.nftcms.cn/) |
  |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289) |WX_GZH     |       |         |       |             |
- |147|巢音世代          |                 |             |                 |[APP](https://www.music-z.com/)  |              |
+ |147|[巢音世代](https://www.tianyancha.com/company/3385377646)    |       |    |      |[APP](https://www.music-z.com/)  |    |
