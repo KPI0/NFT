@@ -46,7 +46,7 @@
  |25|[加密空间](https://www.tianyancha.com/company/4037864239)      |WX_GZH    |       |       |APP    |[WEB](https://crypts.cn/)   |
  |26|一岛                 |               |              |                |APP           |[WEB](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)|
  |27|[丸卡](https://www.tianyancha.com/company/4797824070)    |WX_GZH   |    |   |APP   |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
- |28|[一花](https://www.tianyancha.com/company/2350663115)     |WX_GZH  |    |  |[APP](http://yihua.taoqikid.com/active/page/#/download)  |     |
+ |28|[一花YIHUA](https://www.tianyancha.com/company/2350663115)     |WX_GZH  |    |  |[APP](http://yihua.taoqikid.com/active/page/#/download)  |     |
  |29|[故纸堆](https://www.tianyancha.com/company/3392533958)   |WX_GZH  |    |    |APP  |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
  |30|[Honnverse虹宇宙](https://www.tianyancha.com/company/3453249615) |WX_GZH |WX_XCX  | |[APP](https://honnverse.stars-mine.com/static/download.html)  |     |
  |31|[Hotlove](https://www.tianyancha.com/company/2315093424)  |WX_GZH         |   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)     |    |
