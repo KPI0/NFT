@@ -156,10 +156,10 @@
  |138|[瞬元](https://www.tianyancha.com/company/75485714) |WX_GZH   |     |       |     |[WEB](https://www.simeta.world/)                |
  |139|[诺坊体](https://www.tianyancha.com/company/5326180086) |WX_GZH   |  |  |APP    |[WEB](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx85758c9cf93b7159&redirect_uri=http%3A%2F%2Fweb.nuofangti.com&response_type=code&scope=snsapi_userinfo&state=129024&connect_redirect=1#wechat_redirect) |
  |140|[鹤巢文观](https://www.tianyancha.com/company/3441452705) |WX_GZH  |WX_XCX       |        |          |[WEB](https://m.chaoarts.com/) |
- |141|薄盒              |WX_GZH           |             |               |APP             |[WEB](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)  |
- |142|漫联文链          |WX_GZH           |             |                |                |[WEB](https://h5.ipbank.top/account/index)  |
- |143|光笺收藏家        |WX_GZH            |            |                 |                |[WEB](https://lian.0-1universe.com/web/scj/) |
+ |141|[薄盒](https://www.tianyancha.com/company/4518970790) |WX_GZH|  | |APP |[WEB](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)|
+ |142|[漫联文链](https://www.tianyancha.com/company/3404791365) |WX_GZH   |  |      |     |[WEB](https://h5.ipbank.top/account/index)  |
+ |143|[光笺收藏家](https://www.tianyancha.com/company/3463041471)  |WX_GZH |    |       |         |[WEB](https://lian.0-1universe.com/web/scj/) |
  |144|QQ音乐            |                 |             |                |[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |[WEB](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |
- |145|鲸核数藏          |WX_GZH           |            |               |APP                |[WEB](https://www.nftcms.cn/) |
- |146|微纳AX Meta       |WX_GZH           |             |                |                 |                            |
+ |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658) |WX_GZH   |     |       |APP                |[WEB](https://www.nftcms.cn/) |
+ |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289) |WX_GZH     |       |         |       |             |
  |147|巢音世代          |                 |             |                 |[APP](https://www.music-z.com/)  |              |
