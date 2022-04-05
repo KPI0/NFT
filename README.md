@@ -166,3 +166,4 @@
  |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658) |WX_GZH   |     |       |APP                |[WEB](https://www.nftcms.cn/) |
  |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289) |WX_GZH     |       |         |       |             |
  |147|[巢音世代](https://www.tianyancha.com/company/3385377646)    |WX_GZH  |    |      |[APP](https://www.music-z.com/)  |    |
+ |148|[Maya Meta](https://www.tianyancha.com/company/5301262342)|WX_GZH|   |     |    |[WEB](https://www.mayameta.vip/h5/#/pages/login/register?invite_code=605514)  |
