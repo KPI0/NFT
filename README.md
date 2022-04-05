@@ -140,7 +140,7 @@
  |120|[元宇宙交易大厅](https://www.tianyancha.com/company/3068324105) |WX_GZH |    |    | |[WEB](https://nftlabm.yuzhouya.com/)  |
  |121|[NFT秦](https://www.tianyancha.com/company/4330431020)  |WX_GZH         |     |      |              |[WEB](https://www.nftqin.com/)  |
  |122|[Neverland梦幻岛](https://www.tianyancha.com/company/3341154200)|WX_GZH  |  | || |[WEB](http://neverlandnft.cn/h5/#/pages/login/login?userId=16486579203389033)|
- |123|得艺数藏           |              |               |                 |              |[WEB](https://www.dde.vip/h5/page-account.html?code=hRmiFN22Ap) |
+ |123|[得艺数字藏品DDE](https://www.tianyancha.com/company/2351940484) |    |  |   |   |[WEB](https://www.dde.vip/h5/page-account.html?code=hRmiFN22Ap) |
  |124|[稀幻](https://www.tianyancha.com/company/5151948318) |WX_GZH |   |    |    |[WEB](https://xihuan.hulaup.com/#/pages/index?inviteUId=51058) |
  |125|[无界数字藏品](https://www.tianyancha.com/company/2358866127)|WX_GZH | | | |[WEB](https://wujien.cn/pages/login/register?invite=c0c1a50976a0cd159e09c03cd6f0) |
  |126|[猛犸数藏](https://www.tianyancha.com/company/4342057852)|WX_GZH  |   |   |APP  |[WEB](https://www.mmasc.cn/h5/#/subPackages/login/register?invite_code=953403) |
