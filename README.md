@@ -192,3 +192,4 @@
  |161|[NFT应用平台](https://www.tianyancha.com/company/2323736957)|  |WX_XCX| | [APP](https://nft.dbton.com/)| |
  |162|[北文艺术](https://www.tianyancha.com/company/3330647189)|WX_GZH|WX_XCX| | |[WEB](http://m.bwartbank.com/)|
  |163|[元宇宙市场](https://www.tianyancha.com/company/2519736946)|WX_GZH|   |   |APP|[WEB](https://m2.unimart.cc/)|
+ |164|[荣宝阁数字艺术](https://www.tianyancha.com/company/4017882474)|WX_GZH| | | |[WEB](http://www.rbg123.com/index.php/index/index.html)|
