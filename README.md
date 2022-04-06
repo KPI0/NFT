@@ -181,3 +181,4 @@
  |153|[元界数藏](https://www.tianyancha.com/company/2312394750)|WX_GZH|  |    |[APP](https://nft.limaiwluo.cn/reg/qQZDp8wE2)||
  |154|[未艺FUTURE ART](https://www.tianyancha.com/company/3336556145)|WX_GZH|WX_XCX| | |[WEB](https://h5.wyszcp.com/pages/index/index?referrer_id=0&type=1)|
  |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|  | |APP|[WEB](http://shucang.gmocpd.com:8200/#/?registerCode=5423)|
+ |156|[速藏文化](https://www.tianyancha.com/company/2965133217)|WX_GZH|  |     |    |    | 
