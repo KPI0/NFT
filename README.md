@@ -190,4 +190,3 @@
  |161|[大众NFT](https://www.tianyancha.com/company/2323736957)|  |WX_XCX| | [APP](https://nft.dbton.com/)| |
  |161|[NFT应用平台](https://www.tianyancha.com/company/2323736957)|  |WX_XCX| | [APP](https://nft.dbton.com/)| |
  |162|[北文艺术](https://www.tianyancha.com/company/3330647189)|WX_GZH|WX_XCX| | |[WEB](http://m.bwartbank.com/)|
-)
