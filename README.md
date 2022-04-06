@@ -177,3 +177,4 @@
  |149|[RockFlow Universe](https://www.tianyancha.com/company/4163370911)|WX_GZH| | | |[WEB](https://www.rockflow.ai/zh/V42lpRBkvxYbe)|
  |150|[盒盒HEHE](https://www.tianyancha.com/company/3440938461)|WX_GZH|    |     |[APP](https://share.huifeijuya.cn/download/index.html?inviteCode=P9YCXG) |   |
  |151|[寻迹数字艺术藏品](https://www.tianyancha.com/company/3449722145)|WX_GZH|   |  |  |[WEB](https://h5.milexl.com/pages/home/index?invite_id=k83azxtz)|
+ |152|[哈森数藏](https://www.tianyancha.com/company/3401789203)|WX_GZH|   |    |     |[WEB](https://m.hasen.art/#/pages/user/register?invitecode=424631e0b9195640)|
