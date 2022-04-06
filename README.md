@@ -189,5 +189,5 @@
  |160|[无异艺术](https://www.tianyancha.com/company/3192808347)|WX_GZH|  |   |  |[WEB](https://www.dbrowser.cn/login)|
  |161|[大众NFT](https://www.tianyancha.com/company/2323736957)|  |WX_XCX| | [APP](https://nft.dbton.com/)| |
  |161|[NFT应用平台](https://www.tianyancha.com/company/2323736957)|  |WX_XCX| | [APP](https://nft.dbton.com/)| |
- |162|[北文艺术](https://www.tianyancha.com/company/3330647189)|WX_GZH|WX_XCX| | |[WEB](http://m.bwartbank.com/|
+ |162|[北文艺术](https://www.tianyancha.com/company/3330647189)|WX_GZH|WX_XCX| | |[WEB](http://m.bwartbank.com/)|
 )
