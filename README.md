@@ -197,3 +197,4 @@
  |165|[平行宇宙数藏](https://www.tianyancha.com/company/3275697911)|WX_GZH|  |    |   |[WEB](https://nft.srsci-china.com/)|
  |166|[Zero数藏宇宙](https://www.tianyancha.com/company/5390763969)|WX_GZH|| | |[WEB](http://zeroszyz.com/#/)|
  |167|[Time 数藏](https://www.tianyancha.com/company/5434690165)|WX_GZH| | | |WEB|
+ |168|[DCM数字元宇宙](https://www.tianyancha.com/company/2742843698)|WX_GZH| |  |  |WEB|
