@@ -39,7 +39,8 @@
  |18|[UTONMOS](https://www.tianyancha.com/company/3224553385)  |WX_GZH   |    |   |APP  |[WEB](https://h5.metauton.com/invite?fphone=159****0141&fcode=EQ652)|
  |19|[元初世界](https://www.tianyancha.com/company/4976096563)  |WX_GZH   |WX_XCX |         |           |[WEB](https://h5.gfanx.com/)  |
  |20|[umx art](https://www.tianyancha.com/company/3219363889) |WX_GZH   |  |    |APP  |[WEB](https://umx.art/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d) |
- |21|[元本空间](https://www.tianyancha.com/company/3452507009)  |WX_GZH  |    |     |     |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078) |
+ |21|[元本空间](https://www.tianyancha.com/company/3452507009)  |WX_GZH|    |     |     |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078) |
+ |21|[元本3D空间](https://www.tianyancha.com/company/5327200052)|WX_GZH|    |     |     |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078)|
  |22|[七级宇宙](https://www.tianyancha.com/company/3288064720) |WX_GZH  |    |   |APP  |[WEB](https://v2.7jft.com/h5/#/pages/login/register?invite_code=6208484) |
  |23|[优版权](https://www.tianyancha.com/company/3344853438)  |WX_GZH   |    |       |APP           |[WEB](https://h5.ubanquan.cn/home?code=wa7aSw) |
  |24|[Meta场景实验室](https://www.tianyancha.com/company/4367516561)   |WX_GZH|   |   |APP|[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
