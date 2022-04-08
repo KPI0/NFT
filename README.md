@@ -118,7 +118,7 @@
  |91|[西湖一号](https://www.tianyancha.com/company/71297888)            |WX_GZH |WX_XCX|      |    |[WEB](https://westlake.yuliankeji.com/) |
  |92|[功夫数字](https://www.tianyancha.com/company/2383891118) |WX_GZH  |     |                |              |[WEB](http://h5test.91xjr.com/index.html) |
  |93|[元视觉艺术](https://www.tianyancha.com/company/3401682777) |WX_GZH|WX_XCX |   |   |[WEB](https://yuan.500px.com.cn/h5/index)  |
- |94|[iBear数字藏品](https://www.tianyancha.com/company/51400500)       |WX_GZH|              |                |APP   |[WEB](https://ibear.art/)  |
+ |94|[iBear数字藏品](https://www.tianyancha.com/company/51400500)|WX_GZH|   |      |APP|[WEB](https://mshop.weidnn.cn/?spm=18317.1.0.4.1)  |
  |95|[iBox数字藏品](https://www.tianyancha.com/company/4700506182)    |WX_GZH |   |     |APP   |[WEB](https://www.ibox.art/) |
  |96|[zTag潮流艺术](https://www.tianyancha.com/company/4519861870)|WX_GZH || |APP|[WEB](https://m.ztag.vip/h5/pages/home/home?data=%7B%22invitationCode%22%3A%22o15q%22%7D)|
  |97|[秘宝](https://www.tianyancha.com/company/4329536260) |   |    | |  |[WEB](https://mibao.net/explore)  |
