@@ -15,7 +15,7 @@
  *5、建议只白嫖空投，价值随缘*    
  *6、排名前后不代表平台品质优劣*
  
- |序号|平台                  |微信公众号     |微信小程序    |支付宝小程序  |APP客户端     |网页端        |
+ |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
  |1|Chiko&Roko            |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|[鲸探](https://www.tianyancha.com/company/5089730061) | ||[ZFB_XCX](https://ur.alipay.com/2PSRO9) |[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)           |              |
