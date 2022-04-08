@@ -143,7 +143,8 @@
  |114|[数藏宇宙](https://www.tianyancha.com/company/5412986813) |WX_GZH   |   |   |  |[WEB](https://scsjie.com/h5/#/pages/login/login?inviteCode=7PVULJ)|
  |114|[数藏世界](https://www.tianyancha.com/company/5412986813) |WX_GZH   |   |   |  |[WEB](https://xinyan520.net/h5/#/pages/login/login?inviteCode=7PVULJ)|
  |115|[头号藏家](https://www.tianyancha.com/company/3212635995) |WX_GZH  |      |     |APP           |[WEB](https://home.topholder.cn/) |
- |116|[智元数藏](https://www.tianyancha.com/company/4546377065) |WX_GZH  |   |    |APP |[WEB](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e) |
+ |116|[智元数藏](https://www.tianyancha.com/company/4546377065) |WX_GZH|   |    |APP|[WEB](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e) |
+ |116|[智元艺术](https://www.tianyancha.com/company/4546377065) |WX_GZH|   |    |APP|[WEB](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e) |
  |117|[万象元创](https://www.tianyancha.com/company/5022863565) |WX_GZH  |     |      |              |[WEB](https://guaiguaitech.com/#/)  |
  |117|[虎元元](https://www.tianyancha.com/company/5022863565) |WX_GZH  |     |      |              |[WEB](https://guaiguaitech.com/#/)  |
  |118|[金谷诺亚](https://www.tianyancha.com/company/3486428264) |WX_GZH|  |  |APP|[WEB](https://www.foxyz.cn/h5/#/pages/auth/register?inviteCode=D4L23R) |
