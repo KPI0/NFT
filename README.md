@@ -204,3 +204,4 @@
  |169|[ArtPro](https://www.tianyancha.com/company/3228477205)|WX_GZH|  |  |[APP](https://app.artproglobal.com/share?ext_param=FD2OOY9i3ufqSQ-lwRri4XaIrMjG8S7el4Zoz4SLKqrj0Kdt&id=94895&isLogin=1&isVip=1&lang=ZH_CN&promotion=&sign=da423ae2a756a96562b9380bc52a586f&t=1649387574&type=38)|WEB|
  |170|[冲呀GO](https://www.tianyancha.com/company/2315676459)|WX_GZH|  |   |APP|[WEB](https://m.chongya.com/trend)|
  |170|[冲呀CHONGYA](https://www.tianyancha.com/company/2315676459)|WX_GZH|  |   |APP|[WEB](https://m.chongya.com/trend)|
+ |171|[草方格Square](https://www.tianyancha.com/company/3151506879)|WX_GZH|  |   |APP|[WEB](https://www.caofange.com/shopIndex)|
