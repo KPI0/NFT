@@ -108,7 +108,7 @@
  |81|[TopHolder](https://www.tianyancha.com/company/3212635995) |WX_GZH |  |  |APP|[WEB](https://pheebs.topholder.cn/act/pheebstiger?inviteId=78572&from=)|
  |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH |     |                |              |[WEB](https://uujypt.com/)  |
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH |WX_XCX|                |APP           |             |
- |84|[万物数字藏品](https://www.tianyancha.com/company/2324887501) |WX_GZH |              |                |              |[WEB](https://wx.allnfts.cn/) |
+ |84|[万物数字](https://www.tianyancha.com/company/2324887501) |WX_GZH |              |                |              |[WEB](https://wx.allnfts.cn/) |
  |85|[雪崩科技](https://www.tianyancha.com/company/5318444820)|WX_GZH |              |                |              |             |
  |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH |              |                |APP  |[WEB](https://www.xuhe.art/reg/w0rkrqkPz) |
  |87|[艺喜藏](https://www.tianyancha.com/company/4967257668)|WX_GZH         |              |                |              |             |
