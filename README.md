@@ -213,3 +213,4 @@
  |176|[空相数字藏品](https://www.tianyancha.com/company/5178985473)|WX_GZH| |  |  |[WEB](https://www.formless.art/app/meta/index)|
  |177|[神秘绿洲](https://www.tianyancha.com/company/5177737490)|WX_GZH| | |[APP](http://crypts.cn/appDownload/index.html)|[WEB](https://crypts.cn/)|
  |177|[MO绿洲](https://www.tianyancha.com/company/5177737490)|WX_GZH|  | |[APP](http://crypts.cn/appDownload/index.html)|[WEB](https://crypts.cn/)|
+ |178|[一起NFT](https://www.tianyancha.com/company/5085564580)|WX_GZH| | |[APP](https://api.yiqinft.com/H5/#/?code=SWC7JC)||
