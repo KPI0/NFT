@@ -230,3 +230,4 @@
  |189|[天穹数藏](https://www.tianyancha.com/company/5336868590)|WX_GZH| | |APP|[WEB](https://app.tianqiongnft.com/#/)|
  |190|[百谷王数字艺术](https://www.tianyancha.com/company/3218623681)|WX_GZH||||[WEB](https://920.cc/#/pages/index/index?recommendUid=1512667997737594882)|
  |191|[MineNFT游娱块](https://www.tianyancha.com/company/3178691519)|WX_GZH|[WX_XCX](https://github.com/KPI0/NFT/blob/main/images/minenft.png)|||WEB|
+ |192|[博物链](https://www.tianyancha.com/company/3415997925)|WX_GZH| | | | |
