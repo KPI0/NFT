@@ -238,3 +238,4 @@
  |197|[U Myth神话宇宙](https://www.tianyancha.com/company/4359262351)|WX_GZH| | | |[WEB](https://u-myth.cn/)|
  |198|[倚米](https://www.tianyancha.com/company/5413462753)|WX_GZH| | |APP|[WEB](http://h5.yiminft.com/home?guid=JGjiCHbjoZUx)|
  |199|[OneTik数字文创](https://www.tianyancha.com/company/3212176952)|WX_GZH| | |APP|[WEB](https://h5.onetik.cn)|
+ |200|[C位数字生活服务交易平台](https://www.tianyancha.com/company/5364617909)|WX_GZH| | | | |
