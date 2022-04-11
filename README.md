@@ -254,3 +254,4 @@
  |212|[未物主义](https://www.tianyancha.com/company/3454074274)|WX_GZH| | | | |
  |213|[数字化合物](https://www.tianyancha.com/company/5066129142)|WX_GZH| | | |[WEB](https://digitalcompound.org/#/)|
  |214|[晋衣Meta](https://www.tianyancha.com/company/5419479847)|WX_GZH| | | |[WEB](https://weidian.com/?userid=1818811994)|
+ |215|[纪元部落](https://www.tianyancha.com/company/2466052253)|WX_GZH| | | | |
