@@ -250,3 +250,4 @@
  |208|[乾坤数字藏品](https://www.tianyancha.com/company/2944083757)|WX_GZH| | |APP|[WEB](https://nt.fengkuangtiyu.cn/#/)|
  |209|[琥珀数字艺术](https://www.tianyancha.com/company/5357513726)|WX_GZH| | | |[WEB](https://ec.hupoart.com/)|
  |210|[蜃镜数藏](https://www.tianyancha.com/company/3157602762)|WX_GZH| | | |[WEB](http://h5.gpsbb.cn/#/pages/public/register?inviteCode=28232)|
+ |211|[Metaboard公告牌](https://www.tianyancha.com/company/5274203882)|WX_GZH| | | | |
