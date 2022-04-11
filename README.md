@@ -251,3 +251,4 @@
  |209|[琥珀数字艺术](https://www.tianyancha.com/company/5357513726)|WX_GZH| | | |[WEB](https://ec.hupoart.com/)|
  |210|[蜃镜数藏](https://www.tianyancha.com/company/3157602762)|WX_GZH| | | |[WEB](http://h5.gpsbb.cn/#/pages/public/register?inviteCode=28232)|
  |211|[Metaboard公告牌](https://www.tianyancha.com/company/5274203882)|WX_GZH| | | | |
+ |212|[未物主义](https://www.tianyancha.com/company/3454074274)|WX_GZH| | | | |
