@@ -256,3 +256,4 @@
  |214|[晋衣Meta](https://www.tianyancha.com/company/5419479847)|WX_GZH| | | |[WEB](https://weidian.com/?userid=1818811994)|
  |215|[纪元部落](https://www.tianyancha.com/company/2466052253)|WX_GZH| | | | |
  |216|[现在电影](https://www.tianyancha.com/company/3298592748)|WX_GZH| | |[APP](https://mobile.chuanyingtech.com/share/nft.html)| |
+ |217|[速藏数字文创](https://www.tianyancha.com/company/5436365802)|WX_GZH|||[APP](https://h5.jxrchain.pro/register?c=0DJDZL)||
