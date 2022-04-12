@@ -20,6 +20,7 @@
  |----|----|----|
  |1|速藏|[https://scan.jxrchain.pro](https://scan.jxrchain.pro/#/home)|
  |2|秘宝|[https://explorer.mibao.net](https://explorer.mibao.net/)|
+ |3|百度超级链|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
  ## 平台收集
  |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
