@@ -262,3 +262,4 @@
  |220|[摩点](https://www.tianyancha.com/company/3068534124)|WX_GZH| | |[APP](https://m.modian.com/about/share?&utm_source=Appshare&utm_content=1003677704)| |
  |221|[DAW大屋](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[WEB](https://daw-h5.hncaee.com/pages/main/main)|
  |221|[嗨艺购](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[WEB](https://daw-h5.hncaee.com/pages/main/main)|
+ |222|[美幻艺术数藏](https://www.tianyancha.com/company/3221774379)|WX_GZH|||APP|WEB|
