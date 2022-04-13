@@ -280,3 +280,4 @@
  |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[WEB](https://h5.yit.com/index.html)|
  |230|[鲸雅](https://www.tianyancha.com/company/1410089410)|WX_GZH| | |[APP](https://cscjingya.oss-cn-hangzhou.aliyuncs.com/kasai.apk)| |
  |231|[麒麟文化数字藏品](https://www.tianyancha.com/company/3412258400)|WX_GZH| | |APP|[WEB](https://api.nft-kylin.com/h5/index.html#/?qid=26315)|
+ |232|[魔元数字藏品](https://www.tianyancha.com/company/5349277462)|WX_GZH| | |[APP](https://h5.moyuan.art/invite/register?customerId=1514157041477222469)| |
