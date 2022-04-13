@@ -271,3 +271,4 @@
  |221|[嗨艺购](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[WEB](https://daw-h5.hncaee.com/pages/main/main)|
  |222|[美幻艺术数藏](https://www.tianyancha.com/company/3221774379)|WX_GZH|||APP|[WEB](https://www.meihuan.art/index.html#/?content=G9255435)|
  |223|[安猫数字藏品](https://www.tianyancha.com/company/3181378721)|WX_GZH| | |APP|[WEB](https://anmobc.com/anmonft/#/)|
+ |224|[飞碟数字艺术](https://www.tianyancha.com/company/3347137038)|WX_GZH| | | |[WEB](https://www.duart.cc/#/register?Invitation_code=KN7LGL)|
