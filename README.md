@@ -289,3 +289,4 @@
  |238|[鲲海数藏](https://www.tianyancha.com/company/3412179273)|WX_GZH| | | | |
  |239|[传奇艺术数藏](https://www.tianyancha.com/company/3456058655)|WX_GZH| | | | |
  |240|[艺眼数藏](https://www.tianyancha.com/company/3111903906)|WX_GZH| | | | |
+ |241|[混沌数藏](https://www.tianyancha.com/company/3027694563)|WX_GZH| | | | |
