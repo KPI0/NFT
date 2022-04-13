@@ -286,3 +286,4 @@
  |235|[新洞数藏](https://www.tianyancha.com/company/3455736127)|WX_GZH| | | |[WEB](http://niushop.cyuanc.com/?spread=771)|
  |236|[希艾宇宙](https://www.tianyancha.com/company/5438036673)|WX_GZH| | | | |
  |237|[Top艺术链](https://www.tianyancha.com/company/5422996200)|WX_GZH| | | | |
+ |238|[鲲海数藏](https://www.tianyancha.com/company/3412179273)|WX_GZH| | | | |
