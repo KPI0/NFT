@@ -277,3 +277,4 @@
  |226|[元代数藏](https://www.tianyancha.com/company/5344807057)|WX_GZH| | | |[WEB](https://dc.metaera.tech/)|
  |227|[东方文明元宇宙](https://www.tianyancha.com/company/2358793775)|WX_GZH| | | |[WEB](https://shop101109295.m.youzan.com/v2/feature/jc8m41YCBy)|
  |228|[万链数藏](https://www.tianyancha.com/company/5001649403)|WX_GZH| | |APP|[WEB](https://h5.wanlian.art/s/#/register?c=AUTGQP)|
+ |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[WEB](https://h5.yit.com/index.html)|
