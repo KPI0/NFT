@@ -274,3 +274,4 @@
  |223|[安猫数字藏品](https://www.tianyancha.com/company/3181378721)|WX_GZH| | |APP|[WEB](https://anmobc.com/anmonft/#/)|
  |224|[飞碟数字艺术](https://www.tianyancha.com/company/3347137038)|WX_GZH| | | |[WEB](https://www.duart.cc/#/register?Invitation_code=KN7LGL)|
  |225|[米塔数字艺术](https://www.tianyancha.com/company/5133527300)|WX_GZH| | |APP|[WEB](https://m.17mita.com/#/)|
+ |226|[元代数藏](https://www.tianyancha.com/company/5344807057)|WX_GZH| | | |[WEB](https://dc.metaera.tech/)|
