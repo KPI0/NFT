@@ -298,3 +298,4 @@
  |245|[水滴数藏](https://www.tianyancha.com/company/3144499477)|WX_GZH| | |[APP](http://c.shu-gu.cn/api/h5register/spreadId/KF9MK)| |
  |246|[宙域NFT](https://www.tianyancha.com/company/5240344473)|WX_GZH| | |[APP](http://api.zhouyunft.com/Public/h5?rid=gsaD39AA)| |
  |247|[归藏Meta](https://www.tianyancha.com/company/1296272773)|WX_GZH| | |[APP](https://cang.kueen.cc/register?share_code=fcukk&platform_source=nft&application_type=android&event_id=&opus_id=)| |
+ |248|[一号藏馆](https://www.tianyancha.com/company/3475514425)|WX_GZH|WX_XCX| | | |
