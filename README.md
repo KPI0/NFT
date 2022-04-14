@@ -40,7 +40,8 @@
  |11|[StarArk数字文创平台](https://www.tianyancha.com/company/4975523596)  |WX_GZH  |    |     |         |[WEB](https://h5.stararknft.art/#/index)     |   
  |12|[数藏科技数字藏品平台](https://www.tianyancha.com/company/5305029242)   |WX_GZH   |       |      |APP      |[WEB](https://shucang.cn/mall/#/)    |
  |12|[数藏中国](https://www.tianyancha.com/company/5305029242)   |WX_GZH   |       |      |APP      |[WEB](https://shucang.cn/mall/#/)    |    
- |13|[幻藏艺术平台](https://www.tianyancha.com/company/5210174792) |WX_GZH  | | |APP |[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357) |    
+ |13|[幻藏艺术平台](https://www.tianyancha.com/company/5210174792)|WX_GZH| | |APP|[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357)| 
+ |13|[One Meta](https://www.tianyancha.com/company/5210174792)|WX_GZH| | |APP|[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357)|    
  |14|[宠物元宇宙数字藏品](https://www.tianyancha.com/company/3407864673)  |WX_GZH|  |   |  |[WEB](https://tayuzhou.chongbaoxy.com/#/login?inviteCode=DxDZ7YgV)|  
  |14|[它宇宙 Pet Meta](https://www.tianyancha.com/company/3407864673)  |WX_GZH|  |   |  |[WEB](https://tayuzhou.chongbaoxy.com/#/login?inviteCode=DxDZ7YgV)|    
  |15|[数字玛特SZMT](https://www.tianyancha.com/company/3448131050) |WX_GZH   | ||APP |[WEB](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |
