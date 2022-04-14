@@ -72,7 +72,7 @@
  |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)  |WX_GZH   |              |                |APP            |             |
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)  |WX_GZH |    |      |APP  |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)  |
- |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)   |WX_GZH         |    |     |APP  |[WEB](https://meta-h5.genimous.com/#/)   |
+ |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[WEB](https://meta-h5.genimous.com/#/?spread=106697)|
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)     |WX_GZH         |   |     |[APP](https://wan2store.com/app-redirect.htm)  |   |
  |43|[Bigverse](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
  |43|[NFTCN](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
