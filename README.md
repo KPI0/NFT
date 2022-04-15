@@ -304,3 +304,4 @@
  |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | | |[WEB](https://h5.mymgkj.com/#/pages/my/register?in_code=ik7bjl)|
  |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP| |
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |APP||
+ |253|[交链数藏服务](https://www.tianyancha.com/company/2349028571)|WX_GZH| | | |[WEB](https://jldc.wtsdapp.com/jlsc/)|
