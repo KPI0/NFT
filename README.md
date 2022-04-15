@@ -309,3 +309,4 @@
  |255|[星象数字艺术](https://www.tianyancha.com/company/3348198256)|WX_GZH| | |[APP](https://www.starxiang.com/mobile/common/register?invite_code=eq6y7V)| |
  |256|[卅一数藏](https://www.tianyancha.com/company/4517298022)|WX_GZH| | | |[WEB](https://sayi.world?inviter_id=45233)|
  |257|[42VERSE](https://www.tianyancha.com/company/5407817177)|WX_GZH| | | |[WEB](https://www.42verse.shop/index2)|
+ |258|[吾本熊元宇宙](https://www.tianyancha.com/company/3222092637)|WX_GZH| | | |[WEB](http://www.miguxueyuan.com/#/)|
