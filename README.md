@@ -306,3 +306,4 @@
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |APP||
  |253|[交链数藏服务](https://www.tianyancha.com/company/2349028571)|WX_GZH| | | |[WEB](https://jldc.wtsdapp.com/jlsc/)|
  |254|[ShowApp](https://www.tianyancha.com/company/3205176264)|WX_GZH| | |APP|[WEB](https://www.metabot.world/avatar)|
+ |255|[星象数字艺术](https://www.tianyancha.com/company/3348198256)|WX_GZH| | |[APP](https://www.starxiang.com/mobile/common/register?invite_code=eq6y7V)| |
