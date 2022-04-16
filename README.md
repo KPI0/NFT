@@ -314,4 +314,5 @@
  |259|[元艺科技](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[WEB](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
  |259|[源艺数藏](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[WEB](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
  |260|本体空间|WX_GZH| | | | |
- |261|[金旭元宇宙](https://www.tianyancha.com/company/5241063848)|WX_GZH| | |[APP](https://jx.jinxunft.com/h5/index.html#/?qid=27775)| |
+ |261|[金旭元宇宙](https://www.tianyancha.com/company/5241063848)|WX_GZH| | |[APP](https://jx.jinxunft.com/h5/index.html#/?qid=27775)||
+ |262|[Homes元宇宙](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |[APP](https://app.hbsxwl.cn/?code=ZQNTGPAEHMNYBQMP)||
