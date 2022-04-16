@@ -312,3 +312,4 @@
  |258|[吾本熊元宇宙](https://www.tianyancha.com/company/3222092637)|WX_GZH| | | |[WEB](http://www.miguxueyuan.com/#/)|
  |259|[元艺科技](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[WEB](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
  |259|[源艺数藏](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[WEB](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
+ |260|本体空间|WX_GZH| | | | |
