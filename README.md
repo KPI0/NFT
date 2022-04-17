@@ -334,3 +334,4 @@
  |264|[盛世斋数字收藏](https://www.tianyancha.com/company/3442867555)|WX_GZH| | |APP|[WEB](http://www.shengshizhai.com/h5/#/register?code=moyzDP)|
  |265|[有点数藏](https://www.tianyancha.com/company/5455804469)|WX_GZH| | |APP|[WEB](http://hanjie666.cn/register.html?pid=45507702)|
  |266|[幻雾宇宙](https://www.tianyancha.com/company/5327459401)|WX_GZH| | | |[WEB](https://hw.phantaverse.cn/#/)|
+ |267|[万创元宇宙](https://www.tianyancha.com/company/5411469775)|WX_GZH| | |[APP](https://api.yuanyiyz.com/?webapp/reg&code=30cb4)||
