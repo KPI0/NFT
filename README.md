@@ -1,4 +1,5 @@
- 为方便浏览，用以下的缩写表示。  
+ ## 平台缩写
+ *为方便浏览，用以下的缩写表示。 *  
  [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
 |原名         |缩写       |
 |-------------|-----------|
@@ -7,6 +8,13 @@
 |支付宝小程序 |ZFB_XCX    |
 |APP客户端    |APP        |
 |网页端       |WEB        |
+
+## 污点平台
+*曾出现过运营宣传问题的平台*  
+|序号|平台|事件|
+|----|----|-----|
+|1|秦储||
+
 
   ## 个人建议  
  *1、平台越来越多，希望大家不要成为韭菜*    
