@@ -1,5 +1,5 @@
  ## 平台缩写
- *为方便浏览，用以下的缩写表示。 *  
+ *为方便浏览，用以下的缩写表示。*  
  [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
 |原名         |缩写       |
 |-------------|-----------|
