@@ -1,4 +1,4 @@
- ## 平台缩写
+ ## 一、平台缩写
  *为方便浏览，用以下的缩写表示。*  
  [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
 |原名         |缩写       |
@@ -9,13 +9,13 @@
 |APP客户端    |APP        |
 |网页端       |WEB        |
 
-## 污点平台
+## 二、污点平台
 *曾出现过运营宣传问题的平台*  
 |序号|平台|事件|
 |----|----|-----|
 |1|秦储|[藏品宣传台独港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
 
-  ## 温馨提示  
+  ## 三、温馨提示  
  *1、注册链接带有邀请码，请自行删除*  
  *2、平台越来越多，希望大家不要成为韭菜*    
  *3、建议使用网页端，不然公众号、APP太多了*    
@@ -25,7 +25,7 @@
  *7、排名前后不代表平台品质优劣*  
  *8、平台公司参考天眼查数据*
  
- ## 链上查询
+ ## 四、链上查询
  |序号|平台|查询地址|
  |----|----|----|
  |1|速藏|[https://scan.jxrchain.pro](https://scan.jxrchain.pro/#/home)|
@@ -36,7 +36,7 @@
  |6|秦储数藏|[https://scan.qcsc.vip](https://scan.qcsc.vip/#/home)|
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
- ## 平台收集
+ ## 五、平台收集
  |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
  |1|Chiko&Roko            |              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
