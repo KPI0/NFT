@@ -331,3 +331,4 @@
  |261|[金旭元宇宙](https://www.tianyancha.com/company/5241063848)|WX_GZH| | |[APP](https://jx.jinxunft.com/h5/index.html#/?qid=27775)||
  |262|[Homes元宇宙](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |[APP](https://app.hbsxwl.cn/?code=ZQNTGPAEHMNYBQMP)||
  |263|[星幻数字藏品](https://www.tianyancha.com/company/5125419098)|WX_GZH| | |APP|[WEB](https://www.star-fans.net/download/?spread=66236)|
+ |264|[盛世斋数字收藏](https://www.tianyancha.com/company/3442867555)|WX_GZH| | |APP|[WEB](http://www.shengshizhai.com/h5/#/register?code=moyzDP)|
