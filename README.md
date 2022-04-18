@@ -11,9 +11,9 @@
 
 ## 二、污点平台
 *曾出现过运营宣传问题的平台，极不建议玩*  
-|序号|平台|事件|
+|序号|平台|事件关键词|
 |----|----|-----|
-|1|秦储|[藏品宣传台独港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
+|1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
 
   ## 三、温馨提示  
  *1、注册链接带有邀请码，请自行删除*  
