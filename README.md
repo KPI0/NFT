@@ -338,4 +338,4 @@
  |267|[万创元宇宙](https://www.tianyancha.com/company/5411469775)|WX_GZH| | |[APP](https://api.yuanyiyz.com/?webapp/reg&code=30cb4)||
  |268|[鲸喜玛特](https://www.tianyancha.com/company/5211536739)|WX_GZH| | |[APP](https://h5.wwmart.cn/download/register.html?inviteCode=4NX9FW7)||
  |269|[机甲星辰](https://www.tianyancha.com/company/5371936892)|WX_GZH| | | |[WEB](http://mech.city/invite/2960e86c67d4b909)|
- |270|[合和数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |APP||
+ |270|[合自数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |APP||
