@@ -339,3 +339,4 @@
  |268|[鲸喜玛特](https://www.tianyancha.com/company/5211536739)|WX_GZH| | |[APP](https://h5.wwmart.cn/download/register.html?inviteCode=4NX9FW7)||
  |269|[机甲星辰](https://www.tianyancha.com/company/5371936892)|WX_GZH| | | |[WEB](http://mech.city/invite/2960e86c67d4b909)|
  |270|[合自数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |APP||
+ |271|[乐普思](https://www.tianyancha.com/company/3190980543)|WX_GZH| | | |[WEB](https://nft.defangchain.com/mobile/#/home)|
