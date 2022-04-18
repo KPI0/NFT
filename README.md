@@ -40,6 +40,7 @@
  |6|秦储数藏|[https://scan.qcsc.vip](https://scan.qcsc.vip/#/home)|
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
+ |9|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  ## 五、平台收集
  |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
