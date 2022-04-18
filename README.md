@@ -340,3 +340,4 @@
  |269|[机甲星辰](https://www.tianyancha.com/company/5371936892)|WX_GZH| | | |[WEB](http://mech.city/invite/2960e86c67d4b909)|
  |270|[合自数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |APP||
  |271|[乐普思](https://www.tianyancha.com/company/3190980543)|WX_GZH| | | |[WEB](https://nft.defangchain.com/mobile/#/home)|
+ |272|中国蓝TV| | | |APP||
