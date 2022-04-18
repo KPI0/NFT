@@ -341,3 +341,4 @@
  |270|[合自数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |APP||
  |271|[乐普思](https://www.tianyancha.com/company/3190980543)|WX_GZH| | | |[WEB](https://nft.defangchain.com/mobile/#/home)|
  |272|中国蓝TV| | | |APP||
+ |273|[加码射线](https://www.tianyancha.com/company/2339616572)|WX_GZH|||[APP](https://download.jiamashexian.com/pages/download/)||
