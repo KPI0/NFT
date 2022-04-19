@@ -349,3 +349,4 @@
  |277|[极蝠数创](https://www.tianyancha.com/company/5385804729)|WX_GZH| | | | |
  |278|[创者汇](https://www.tianyancha.com/company/3095255718)|WX_GZH| | |APP|[WEB](https://chyzhe.chydof.xin/h5/#/pages/home/manghe/register?referee_id=CGK70LH2)|
  |279|绿岛| | | |[APP](http://www.lvdao666.com?s_d=m97312694&img_id=1&img_id=fx5.png)| |
+ |280|[易数藏](https://www.tianyancha.com/company/1530805485)|WX_GZH| | |[APP](http://media.diandongge.com/yishucang/h5/bear2/register.html?code=efmKMLkF)| |
