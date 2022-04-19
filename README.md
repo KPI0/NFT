@@ -352,3 +352,4 @@
  |280|[易数藏](https://www.tianyancha.com/company/1530805485)|WX_GZH| | |[APP](http://media.diandongge.com/yishucang/h5/bear2/register.html?code=efmKMLkF)| |
  |281|[星元数](https://www.tianyancha.com/company/3113164722)|WX_GZH|WX_XCX| | |[WEB](https://xys-m.yikart.cn/pages/market/index)|
  |282|[新数元](https://www.tianyancha.com/company/5322966004)|WX_GZH|WX_XCX||APP|[WEB](https://m.xsynft.com/#/pages/passport/register?query=%7B%22referred_by%22:31585%7D)|
+ |283|[元宙数藏](https://www.tianyancha.com/company/5415220068)|WX_GZH| | | |[WEB](https://yuanzhou.vip/index.html#/pages/login/login?yqm=Tpm3hU)|
