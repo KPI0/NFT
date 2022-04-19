@@ -329,7 +329,7 @@
  |258|[吾本熊元宇宙](https://www.tianyancha.com/company/3222092637)|WX_GZH| | | |[WEB](http://www.miguxueyuan.com/#/)|
  |259|[元艺科技](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[WEB](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
  |259|[源艺数藏](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[WEB](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
- |260|本体空间|WX_GZH| | | | |
+ |260|本体空间|WX_GZH| | | |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|
  |261|[金旭元宇宙](https://www.tianyancha.com/company/5241063848)|WX_GZH| | |[APP](https://jx.jinxunft.com/h5/index.html#/?qid=27775)||
  |262|[Homes元宇宙](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |[APP](https://app.hbsxwl.cn/?code=ZQNTGPAEHMNYBQMP)||
  |263|[星幻数字藏品](https://www.tianyancha.com/company/5125419098)|WX_GZH| | |APP|[WEB](https://www.star-fans.net/download/?spread=66236)|
