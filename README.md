@@ -347,4 +347,4 @@
  |275|[元启数字藏品](https://www.tianyancha.com/company/3380960534)|WX_GZH| | |APP|[WEB](https://yuanqi.scaniov.com/h5/#/)|
  |276|[幻灵数藏](https://www.tianyancha.com/company/5444944260)|WX_GZH| | | | |
  |277|[极蝠数创](https://www.tianyancha.com/company/5385804729)|WX_GZH| | | | |
- |278|[创者汇](https://www.tianyancha.com/company/3095255718)|WX_GZH| | |[APP](https://chyzhe.chydof.xin/h5/#/pages/home/manghe/register?referee_id=CGK70LH2)| |
+ |278|[创者汇](https://www.tianyancha.com/company/3095255718)|WX_GZH| | |APP|[WEB](https://chyzhe.chydof.xin/h5/#/pages/home/manghe/register?referee_id=CGK70LH2)|
