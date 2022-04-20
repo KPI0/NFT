@@ -358,3 +358,4 @@
  |284|[人民网](https://www.tianyancha.com/company/15465532)|WX_GZH| | |APP|[WEB](http://art.people.com.cn/)|
  |284|[灵境·人民艺术馆](https://www.tianyancha.com/company/15465532)|WX_GZH| | |APP|[WEB](http://art.people.com.cn/)|
  |285|[智由派](https://www.tianyancha.com/company/5270120527)|WX_GZH| | | |[WEB](https://h5.aicl.space/login?inviteCode=69888782)|
+ |286|[MEME魔因未来](https://www.tianyancha.com/company/5394167038)|WX_GZH|WX_XCX| | | |
