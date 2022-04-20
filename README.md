@@ -359,4 +359,4 @@
  |284|[灵境·人民艺术馆](https://www.tianyancha.com/company/15465532)|WX_GZH| | |APP|[WEB](http://art.people.com.cn/)|
  |285|[智由派](https://www.tianyancha.com/company/5270120527)|WX_GZH| | | |[WEB](https://h5.aicl.space/login?inviteCode=69888782)|
  |286|[MEME魔因未来](https://www.tianyancha.com/company/5394167038)|WX_GZH|WX_XCX| | | |
- |287|饿了么_美味珍藏馆| | | |[APP](https://to.ele.me/e0gMJpUr?needMixView=1)| |
+ |287|饿了么  美味珍藏馆| | | |[APP](https://to.ele.me/e0gMJpUr?needMixView=1)| |
