@@ -365,3 +365,4 @@
  |290|爱奇艺APP| | | |[APP](https://xuper.baidu.com/n/mob/sbc/7691?qyid=8bc8e65ce3639dbe52045a19a72f80001103&network=1999&ov=10&src=android&platform=GPhone&p1=2_22_222&social_platform=link&_psc=c5599006de4a4689b797c604210429b9#/)| |
  |291|[牛宝数藏](https://www.tianyancha.com/company/3378709294)|WX_GZH| | | |[WEB](https://nb.h5e.com/register?inviter=rUTU&activity=poster)|
  |291|[元界未来](https://www.tianyancha.com/company/3378709294)|WX_GZH| | | |[WEB](https://nb.h5e.com/register?inviter=rUTU&activity=poster)|
+ |292|[space数字未来](https://www.tianyancha.com/company/5333248398)|WX_GZH| | |APP|[WEB](https://wap.spaceqq.cn/#/pages/user/registered?inviteCode=7P6LY0E7)|
