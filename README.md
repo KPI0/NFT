@@ -366,3 +366,4 @@
  |291|[牛宝数藏](https://www.tianyancha.com/company/3378709294)|WX_GZH| | | |[WEB](https://nb.h5e.com/register?inviter=rUTU&activity=poster)|
  |291|[元界未来](https://www.tianyancha.com/company/3378709294)|WX_GZH| | | |[WEB](https://nb.h5e.com/register?inviter=rUTU&activity=poster)|
  |292|[space数字未来](https://www.tianyancha.com/company/5333248398)|WX_GZH| | |APP|[WEB](https://wap.spaceqq.cn/#/pages/user/registered?inviteCode=7P6LY0E7)|
+ |293|[缪萨音乐科技](https://www.tianyancha.com/company/3471199326)|WX_GZH| | | |[WEB](https://dc.musicrights.cn?shareKey=3de3vdtw)|
