@@ -14,6 +14,7 @@
 |序号|平台|事件关键词|
 |----|----|-----|
 |1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
+|2|幻灵数藏|[侵权](https://github.com/KPI0/NFT/blob/main/images/huanling2.jpg)|
 
   ## 三、温馨提示  
  *1、注册链接带有邀请码，请自行删除*  
