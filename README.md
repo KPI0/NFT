@@ -72,7 +72,7 @@
  |21|[元本空间](https://www.tianyancha.com/company/3452507009) |WX_GZH|    |     |     |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078) |
  |21|[元本3D空间](https://www.tianyancha.com/company/5327200052)|WX_GZH|    |     |     |[WEB](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078)|
  |22|[七级宇宙](https://www.tianyancha.com/company/3288064720)|WX_GZH|    |   |APP  |[WEB](https://v2.7jft.com/h5/#/pages/login/register?invite_code=6208484) |
- |23|[优版权](https://www.tianyancha.com/company/3344853438)|WX_GZH|    |       |APP           |[WEB](https://h5.ubanquan.cn/home?code=wa7aSw) |
+ |23|[优版权](https://www.tianyancha.com/company/3344853438)|WX_GZH| | |APP|[WEB](https://h5.ubanquan.cn/home?code=bo7GeX&type=YZNhappy0415&number=1590141)|
  |24|[Meta场景实验室](https://www.tianyancha.com/company/4367516561)|WX_GZH|   |   |APP|[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
  |24|[星门](https://www.tianyancha.com/company/4367516561)|WX_GZH| |     |APP     |[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
  |25|[加密空间](https://www.tianyancha.com/company/4037864239)|WX_GZH| |  |[APP](http://crypts.cn/appDownload/index.html)|[WEB](https://crypts.cn/)|
