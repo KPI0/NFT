@@ -370,3 +370,4 @@
  |292|[space数字未来](https://www.tianyancha.com/company/5333248398)|WX_GZH| | |APP|[WEB](https://wap.spaceqq.cn/#/pages/user/registered?inviteCode=7P6LY0E7)|
  |293|[缪萨音乐科技](https://www.tianyancha.com/company/3471199326)|WX_GZH| | | |[WEB](https://dc.musicrights.cn?shareKey=3de3vdtw)|
  |294|[探索art](https://www.tianyancha.com/company/2961094209)|WX_GZH| | |[APP](https://tansuo.art/#/download?code=ME223P)| |
+ |295|[摩顿普特艺术空间](https://www.tianyancha.com/company/3415128826)|WX_GZH| | | |[WEB](https://modern.9space.vip/modern/register?invitor=82942)|
