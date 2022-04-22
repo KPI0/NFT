@@ -395,3 +395,4 @@
  |314|[火种meta](https://www.tianyancha.com/company/5188662562)|WX_GZH| | |[APP](https://hz.wozouglobal.com/h5/index.html#/?qid=32410)| |
  |315|[链上云谷](https://www.tianyancha.com/company/5375408686)|WX_GZH| | | |[WEB](http://h5.metart.zone/#/)|
  |316|[熊猫199](https://www.tianyancha.com/company/5327202170)|WX_GZH| | | | |
+ |317|[宇盒数字藏品](https://www.tianyancha.com/company/3220049148)|WX_GZH| | | |[WEB](https://vast-box-mini-h5-yuhe.app.vastchain.ltd/#/pages/tabs/home)|
