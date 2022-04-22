@@ -396,3 +396,4 @@
  |315|[链上云谷](https://www.tianyancha.com/company/5375408686)|WX_GZH| | | |[WEB](http://h5.metart.zone/#/)|
  |316|[熊猫199](https://www.tianyancha.com/company/5327202170)|WX_GZH| | | | |
  |317|[宇盒数字藏品](https://www.tianyancha.com/company/3220049148)|WX_GZH| | | |[WEB](https://vast-box-mini-h5-yuhe.app.vastchain.ltd/#/pages/tabs/home)|
+ |318|[有你收藏](https://www.tianyancha.com/company/3375671766)|WX_GZH|WX_XCX| |[APP](https://a.app.qq.com/o/simple.jsp?pkgname=io.micent.ynsc)| |
