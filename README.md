@@ -384,3 +384,4 @@
  |303|[淘宇宙数藏](https://www.tianyancha.com/company/5397120525)|WX_GZH| | |[APP](http://download.taoyuzhou.net/#/pages/home/download/index?inviteCode=6bphu0tc&inviteType=1)|[WEB](https://download.taoyuzhou.net/#/)|
  |304|[zCloud云宇宙](https://www.tianyancha.com/company/5415187990)|WX_GZH| | | | |
  |305|[食艺术](https://www.tianyancha.com/company/4993838337)|WX_GZH| | |APP|[WEB](https://food.ysxqbjz.com/)|
+ |306|[数字蓝海服务站](https://www.tianyancha.com/company/4023480288)|WX_GZH| | |APP|[WEB](https://www.haohaoguang.com/#/)|
