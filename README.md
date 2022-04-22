@@ -392,3 +392,4 @@
  |311|[龙境](https://www.tianyancha.com/company/5180895530)|WX_GZH| | |[APP](http://39.164.52.76:20006/register?userId=1476302540374048)| |
  |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | | |WEB|
  |313|[良选数字艺术](https://www.tianyancha.com/company/4113258438)|WX_GZH| | | |[WEB](https://box.wiod.cn/h5/?share_user=50759)|
+ |314|[火种meta](https://www.tianyancha.com/company/5188662562)|WX_GZH| | |[APP](https://hz.wozouglobal.com/h5/index.html#/?qid=32410)| |
