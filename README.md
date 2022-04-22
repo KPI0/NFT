@@ -379,3 +379,4 @@
  |300|[头号藏品](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| |
  |300|[头号偶像](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| |
  |300|[TOHOCLUB](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| |
+ |301|[观澜数字艺术品平台](https://www.tianyancha.com/company/5243014040)|WX_GZH| | | |WEB|
