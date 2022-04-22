@@ -390,3 +390,5 @@
  |309|[MEME数字世界](https://www.tianyancha.com/company/5351637368)|WX_GZH| | | |[WEB](http://meme.mememeta.cn/?phone=1517486362624942080)|
  |310|[物空数字文创](https://www.tianyancha.com/company/5435178084)|WX_GZH| | |[APP](http://www.wukongapp.store/reg/gp2GB8Qml)||
  |311|[龙境](https://www.tianyancha.com/company/5180895530)|WX_GZH| | |[APP](http://39.164.52.76:20006/register?userId=1476302540374048)| |
+ |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | | |WEB|
+ |313|[良选数字艺术](https://www.tianyancha.com/company/4113258438)|WX_GZH| | | |[WEB](https://box.wiod.cn/h5/?share_user=50759)|
