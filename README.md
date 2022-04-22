@@ -238,7 +238,7 @@
  |166|[Zero数藏宇宙](https://www.tianyancha.com/company/5390763969)|WX_GZH|| | |[WEB](http://zeroszyz.com/#/)|
  |167|[Time 数藏](https://www.tianyancha.com/company/5434690165)|WX_GZH| | | |WEB|
  |168|[DCM数字元宇宙](https://www.tianyancha.com/company/2742843698)|WX_GZH| |  |  |WEB|
- |169|[ArtPro](https://www.tianyancha.com/company/3228477205)|WX_GZH|  |  |[APP](https://artproapp.com/fROF)|WEB|
+ |169|[ArtPro](https://www.tianyancha.com/company/3228477205)|WX_GZH|  |  |[APP](https://artproapp.com/fROF)| |
  |170|[冲呀GO](https://www.tianyancha.com/company/2315676459)|WX_GZH|  |   |APP|[WEB](https://m.chongya.com/trend)|
  |170|[冲呀CHONGYA](https://www.tianyancha.com/company/2315676459)|WX_GZH|  |   |APP|[WEB](https://m.chongya.com/trend)|
  |171|[草方格Square](https://www.tianyancha.com/company/3151506879)|WX_GZH|  |   |APP|[WEB](https://www.caofange.com/shopIndex)|
