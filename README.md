@@ -385,3 +385,4 @@
  |304|[zCloud云宇宙](https://www.tianyancha.com/company/5415187990)|WX_GZH| | | | |
  |305|[食艺术](https://www.tianyancha.com/company/4993838337)|WX_GZH| | |APP|[WEB](https://food.ysxqbjz.com/)|
  |306|[数字蓝海](https://www.tianyancha.com/company/4023480288)|WX_GZH| | |APP|[WEB](https://www.haohaoguang.com/#/)|
+ |307|[梵核数字艺术](https://www.tianyancha.com/company/3422810126)|WX_GZH| | |APP|[WEB](http://fhys.crzhkj.com/pages/my/login?referee=K8Q2P43Vz)|
