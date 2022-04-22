@@ -322,7 +322,7 @@
  |247|[归藏Meta](https://www.tianyancha.com/company/1296272773)|WX_GZH| | |[APP](https://cang.kueen.cc/register?share_code=fcukk&platform_source=nft&application_type=android&event_id=&opus_id=)| |
  |248|[一号藏馆](https://www.tianyancha.com/company/3475514425)|WX_GZH|WX_XCX| | | |
  |249|[东方数藏](https://www.tianyancha.com/company/2353970387)|WX_GZH|WX_XCX| |APP|[WEB](https://h5.judaiyan.shop/#/pages/ucenter/login-page/index/index?type=smsCode&id=625145bd5a5bf00001cd57b9)|
- |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | | |[WEB](https://h5.mymgkj.com/#/pages/my/register?in_code=ik7bjl)|
+ |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | |APP|[WEB](https://h5.mymgkj.com/#/pages/my/register?in_code=ik7bjl)|
  |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP|[WEB](https://nft.api.yihongzhihui.com/index.html)|
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |APP||
  |253|[交链数藏服务](https://www.tianyancha.com/company/2349028571)|WX_GZH| | | |[WEB](https://jldc.wtsdapp.com/jlsc/)|
