@@ -388,3 +388,4 @@
  |307|[梵核数字艺术](https://www.tianyancha.com/company/3422810126)|WX_GZH| | |APP|[WEB](http://fhys.crzhkj.com/pages/my/login?referee=K8Q2P43Vz)|
  |308|[数字乌鸦](https://www.tianyancha.com/company/3200762948)|WX_GZH| | | |[WEB](https://h5.artcrow.com.cn)|
  |309|[MEME数字世界](https://www.tianyancha.com/company/5351637368)|WX_GZH| | | |[WEB](http://meme.mememeta.cn/?phone=1517486362624942080)|
+ |310|[物空数字文创](https://www.tianyancha.com/company/5435178084)|WX_GZH| | |[APP](http://www.wukongapp.store/reg/gp2GB8Qml)||
