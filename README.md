@@ -206,7 +206,7 @@
  |137|[河洛动态](https://www.tianyancha.com/company/5022080531)|WX_GZH|   |                |[APP](https://app.heluolian.com/) |               |
  |138|[瞬元SiMETA](https://www.tianyancha.com/company/75485714)|WX_GZH|     |       |     |[WEB](https://www.simeta.world/)                |
  |138|[顺网科技官微](https://www.tianyancha.com/company/75485714)|WX_GZH|     |       |     |[WEB](https://www.simeta.world/)                |
- |139|[诺坊体数字藏品](https://www.tianyancha.com/company/5326180086)|WX_GZH|  |  |APP    |[WEB](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx85758c9cf93b7159&redirect_uri=http%3A%2F%2Fweb.nuofangti.com&response_type=code&scope=snsapi_userinfo&state=129024&connect_redirect=1#wechat_redirect) |
+ |139|[诺坊体数字藏品](https://www.tianyancha.com/company/5326180086)|WX_GZH|  |  |APP|[WEB](http://www.nuofangti.com)|
  |140|[鹤巢文观](https://www.tianyancha.com/company/3441452705) |WX_GZH|WX_XCX       |        |          |[WEB](https://m.chaoarts.com/) |
  |141|[薄盒](https://www.tianyancha.com/company/4518970790) |WX_GZH|  | |APP |[WEB](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)|
  |142|[漫联文链](https://www.tianyancha.com/company/3404791365) |WX_GZH|  |      |     |[WEB](https://h5.ipbank.top/account/index)  |
