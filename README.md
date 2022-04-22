@@ -373,3 +373,4 @@
  |295|[摩顿普特艺术空间](https://www.tianyancha.com/company/3415128826)|WX_GZH| | | |[WEB](https://modern.9space.vip/modern/register?invitor=82942)|
  |296|[山海数藏](https://www.tianyancha.com/company/5230011106)|WX_GZH| | | |[WEB](http://www.nmuss.com/mobile/index/index/pid/4130.html)|
  |297|小度APP  小度寻宇| | | |APP| |
+ |298|[多维数藏](https://www.tianyancha.com/company/2339364910)|WX_GZH| | | |[WEB](https://manynft.duorenwei.net/login?invitation_code=0O4A)|
