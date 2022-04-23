@@ -418,3 +418,4 @@
  |333|[中国推介数字平台](https://www.tianyancha.com/company/5447706902)|WX_GZH| | | |[WEB](https://m.tuijieip.com/?md=index_index_index&invite_code=Wm1DDPJ1&invite_code=Wm1DDPJ1&item_id=0)|
  |334|[熊猫收藏](https://www.tianyancha.com/company/3470688585)|WX_GZH|||[APP](https://www.cdczhcy.com/downloadapk/?channel=BOkyRYBaoqf9pPoo9kYNkFID&invite_type=2)||
  |335|[派链数藏](https://www.tianyancha.com/company/5422989574)|WX_GZH| | |[APP](https://pl.pilian.net/h5/index.html#/?qid=5090)||
+ |336|腾讯动漫| | | |[APP](https://cangpin.yuewen.com/tencent-comics/home)| |
