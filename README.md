@@ -422,3 +422,4 @@
  |337|[叁贰贰 Meta](https://www.tianyancha.com/company/5448468155)|WX_GZH| | | | |
  |338|[云岫数字藏品](https://www.tianyancha.com/company/3088756717)|WX_GZH|WX_XCX| | | |
  |339|起点读书APP| | | |APP| |
+ |340|[元文创数藏](https://www.tianyancha.com/company/4017098707)|WX_GZH| | | |[WEB](https://www.ylsc.art/pages/newlogin/newlogin?yqm=TuQY)|
