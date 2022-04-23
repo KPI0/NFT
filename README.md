@@ -413,3 +413,4 @@
  |329|[圈圈元宇宙](https://www.tianyancha.com/company/5410450376)|WX_GZH| | |APP|[WEB](https://yqqmeta.com/#/)|
  |330|[水浒数藏](https://www.tianyancha.com/company/5430270430)|WX_GZH| | |[APP](http://www.shuihu.art/#/?invitation=cn8iNZMd)| |
  |331|[上海白玉兰广场](https://www.tianyancha.com/company/1054429671)|WX_GZH| | | |[WEB](https://baiyulan.app.yjkjmeta.com/#/pages/tabs/home)|
+ |332|新华网APP  新华数藏| | | |[APP](https://my-h5news.app.xinhuanet.com/h5/nftShanhaijing/list.html?xhw_page_style=10000000&share_device_token=e0767fa9ba035d2f8ea2b9bca0ddf5b3&share_time=1650682221857&share_type=6)| |
