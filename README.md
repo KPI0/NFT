@@ -410,3 +410,4 @@
  |326|[敦与山数创平台](https://www.tianyancha.com/company/5163848689)|WX_GZH| | | |[WEB](https://nft.shpsz.cn/#/)|
  |327|[稀元](https://www.tianyancha.com/company/3390769426)|WX_GZH| | | |[WEB](https://nft.leaderchain.cn/h5/)|
  |328|[恒境](https://www.tianyancha.com/company/3471912322)|WX_GZH| | |[APP](https://www.foreverrealm.vip/)| |
+ |329|[圈圈元宇宙](https://www.tianyancha.com/company/5410450376)|WX_GZH| | |APP|[WEB](https://www.quanquanmeta.com)|
