@@ -98,7 +98,7 @@
  |36|[灵镜商店](https://www.tianyancha.com/company/3450444562)    |WX_GZH   |    |     |[APP](https://lingjingshangdian.com/)  |             |
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300) |WX_GZH    |     |    |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |     |
  |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
- |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)  |WX_GZH   |              |                |APP            |             |
+ |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  | |[APP](http://org.shuzicangpin888.com/downloads/download.html)| |
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)  |WX_GZH |    |      |APP  |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)  |
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[WEB](https://meta-h5.genimous.com/#/?spread=106697)|
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)     |WX_GZH         |   |     |[APP](https://wan2store.com/app-redirect.htm)  |   |
