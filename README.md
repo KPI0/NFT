@@ -424,3 +424,4 @@
  |339|起点读书APP| | | |APP| |
  |340|[元文创数藏](https://www.tianyancha.com/company/4017098707)|WX_GZH| | | |[WEB](https://www.ylsc.art/pages/newlogin/newlogin?yqm=TuQY)|
  |341|[熊猫数藏](https://www.tianyancha.com/company/5412374949)|WX_GZH| | | |[WEB](http://dev.xmsc.art/index.html#/?content=W2765342)|
+ |342|[爱尔猫艺术平台](https://www.tianyancha.com/company/2323789617)|WX_GZH| | |APP|[WEB](https://m.iercat.com/)|
