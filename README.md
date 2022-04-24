@@ -132,7 +132,7 @@
  |72|[良选数字藏品馆](https://www.tianyancha.com/company/5307484886)   |WX_GZH  |   |   |   |[WEB](http://h5.nftzz.cn/index?invite_uid=324767)|
  |73|[链上艺术数字版权](https://www.tianyancha.com/company/5392774574)  |WX_GZH |    |  |APP  |[WEB](https://mp.lsnft.cn/#/?share=ebqkol)|
  |74|[ODin元宇宙](https://www.tianyancha.com/company/5044610697) |WX_GZH|   |   |  |[WEB](https://m.odinnft.cn/?code=5EqcWs#/login/regist)|
- |75|[青石幻城](https://www.tianyancha.com/company/5274260589)  |WX_GZH         |WX_XCX        |                |              |            |
+ |75|[青石幻城](https://www.tianyancha.com/company/5274260589)|WX_GZH||||[WEB](https://shop103675631.m.youzan.com/v2/showcase/homepage?alias=Ga3WxNwwvl&reft=1650770862660_1650770905910&spm=f.97587001_f.102229099_uc.103483463)|
  |76|[启元宇宙](https://www.tianyancha.com/company/4359266557)  |WX_GZH|  |   |  |[WEB](https://nftsshop.0cms.vip/h5/#/) |
  |76|[启元宇宙](https://www.tianyancha.com/company/4359266557)  |WX_GZH|  |   |  |[WEB](https://www.xn--z4qz4eg7icc.com/#/) |
  |77|[神达元宇宙交易平台](https://www.tianyancha.com/company/3422445825)|WX_GZH ||||[WEB](https://meta.spiritleap.com/#/pages/mine/invitation?icon=&inviteNo=89841935&vipflag=0&sex=0)             |
