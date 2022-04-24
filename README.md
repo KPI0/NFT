@@ -56,7 +56,7 @@
  |3|芒果TV|              |              |              |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)|   |   
  |4|淘票票| | | |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           |[WEB](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|    
  |5|[唯一艺术平台](https://www.tianyancha.com/company/4650905129)|WX_GZH|||APP|[WEB](https://www.theone.art/invite_user_registration/fec63a3ca9c2f695d949d9b2872b00bc)|
- |6|[秦储](https://www.tianyancha.com/company/5340144483)|WX_GZH|        |              |APP      |[WEB](https://h5.qcsc.vip/register?c=0DLLKM)|    
+ |6|[秦储](https://www.tianyancha.com/company/5340144483)|WX_GZH| | |[APP](https://h5.qcsc.vip/register?c=0DLLKM)| |
  |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH|  |    |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)|     |    
  |8|[律核](https://www.tianyancha.com/company/3432747118)|WX_GZH|          |          |[APP](https://wkzx.store/nC3c)           |              |    
  |9|[蟾宫数字藏品](https://www.tianyancha.com/company/5081463776) |WX_GZH        |WX_XCX        |     |       |[WEB](https://m.honghuchain.com/)          |    
