@@ -11,6 +11,7 @@
 
 ## 二、污点平台
 *曾出现过运营宣传或其他问题的平台，极不建议玩，或许不止下面的平台*  
+
 |序号|平台|事件关键词|
 |----|----|-----|
 |1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
@@ -45,7 +46,7 @@
  |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链区块浏览器|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  ## 五、平台收集
-  *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据 *  
+  *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   
  |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
