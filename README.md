@@ -427,3 +427,4 @@
  |342|[爱尔猫艺术平台](https://www.tianyancha.com/company/2323789617)|WX_GZH| | |APP|[WEB](https://m.iercat.com/)|
  |343|[数藏九州](https://www.tianyancha.com/company/3224182548)|WX_GZH| | | |[WEB](https://nft.lscqgame.com/#/register?userCode=652204103488&activityCode=36872d485a1d43d8927547c59088bd24)|
  |343|[JZNFT](https://www.tianyancha.com/company/3224182548)|WX_GZH| | | |[WEB](https://nft.lscqgame.com/#/register?userCode=652204103488&activityCode=36872d485a1d43d8927547c59088bd24)|
+ |344|[瓷藏艺术](https://www.tianyancha.com/company/5409084505)|WX_GZH| | | |[WEB](https://nft.cizang.art/Member?uid=MTXJcRUDiRgl1mdElAeP4Q==)|
