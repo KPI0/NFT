@@ -26,7 +26,6 @@
  *4、有些平台公众号已经被封禁，倒闭或跑路*  
  *5、只作分享，量力而行，不要入坑*  
  *6、建议只白嫖空投，价值随缘*    
- *7、排名前后不代表平台品质优劣*  
  *8、平台公司参考天眼查数据*  
  *9、不同平台建议用不同的密码防撞库*  
  *10、小平台就是骗个人信息的不要玩*  
@@ -48,6 +47,8 @@
  |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链区块浏览器|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  ## 五、平台收集
+  *排名前后不代表平台品质优劣*  
+  
  |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
  |1|Chiko&Roko|              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
