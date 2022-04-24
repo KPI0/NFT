@@ -41,7 +41,7 @@
  |6|秦储数藏|[https://scan.qcsc.vip](https://scan.qcsc.vip/#/home)|
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
- |8|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
+ |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
  |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  ## 五、平台收集
