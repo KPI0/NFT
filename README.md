@@ -82,7 +82,7 @@
  |23|[优版权](https://www.tianyancha.com/company/3344853438)|WX_GZH| | |APP|[WEB](https://h5.ubanquan.cn/home?code=bo7GeX&type=YZNhappy0415&number=1590141)|
  |24|[Meta场景实验室](https://www.tianyancha.com/company/4367516561)|WX_GZH|   |   |APP|[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
  |24|[星门](https://www.tianyancha.com/company/4367516561)|WX_GZH| |     |APP     |[WEB](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T) |
- |25|[加密空间](https://www.tianyancha.com/company/4037864239)|WX_GZH| |  |[APP](http://crypts.cn/appDownload/index.html)|[WEB](https://crypts.cn/)|
+ |25|[加密空间](https://www.tianyancha.com/company/4037864239)|WX_GZH| |  |APP|[WEB](https://crypts.cn/)|
  |26|[亿岛互联](https://www.tianyancha.com/company/3480184466)|WX_GZH| | |[APP](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)| |
  |26|[一岛](https://www.tianyancha.com/company/3480184466)|WX_GZH| | |[APP](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)| |
  |27|[丸卡](https://www.tianyancha.com/company/4797824070)|WX_GZH   |    |   |APP   |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
