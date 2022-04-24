@@ -151,7 +151,7 @@
  |84|[万物数字](https://www.tianyancha.com/company/2324887501) |WX_GZH |              |                |              |[WEB](https://wx.allnfts.cn/) |
  |85|[雪崩科技](https://www.tianyancha.com/company/5318444820)|WX_GZH |              |                |              |             |
  |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH |              |                |APP  |[WEB](https://www.xuhe.art/reg/w0rkrqkPz) |
- |87|[艺喜藏](https://www.tianyancha.com/company/4967257668)|WX_GZH         |              |                |              |             |
+ |87|[艺喜藏](https://www.tianyancha.com/company/4967257668)|WX_GZH|WX_XCX| | |[WEB](https://www.xayxgcwl.com/#/?activityId=dbgRXt28oiIuVj3bnrA20YM7dG9K9BseTUdGHP9XiLu%2Bg%2FRoPaZLjha03au1t71Zh4%2BDUSzp9DhW%0AJ1aMTOWZOA%3D%3D%0A&supUserId=1650809916644)|
  |88|[乐享艺术数字平台](https://www.tianyancha.com/company/2358802596) |WX_GZH |  | |  |[WEB](https://www.joy-art.cn/invite/myInvitor/?invitedBy=399715981494059009)|
  |89|[云上数藏](https://www.tianyancha.com/company/5393772901)  |WX_GZH |              |                |              |             |
  |90|[宙核](https://www.tianyancha.com/company/3370393860)|WX_GZH|  |     |APP|[WEB](https://core.blockbzz.cn/#/versecore)|
