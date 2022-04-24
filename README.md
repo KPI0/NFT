@@ -438,3 +438,4 @@
  |345|[象寻](https://www.tianyancha.com/company/5392740841)|WX_GZH| | |[APP](http://sc.xxuns.com/h5/login.html?invite_code=113724)| |
  |346|[数藏星河艺术空间](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[WEB](https://m.thestar.chongbaoxy.com/)|
  |346|[THE STAR](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[WEB](https://m.thestar.chongbaoxy.com/)|
+ |347|[umx 藏地艺术馆](https://www.tianyancha.com/company/342361551)|WX_GZH| | |APP|[WEB](http://www.umxverse.com)|
