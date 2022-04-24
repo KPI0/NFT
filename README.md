@@ -37,13 +37,13 @@
  |2|秘宝|[https://explorer.mibao.net](https://explorer.mibao.net/)|
  |3|百度超级链|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
  |4|至信链|[https://www.zxinchain.com](https://www.zxinchain.com/evidence)|
- |5|文昌链|[https://wenchang.bianjie.ai](https://explorer.wenchang.bianjie.ai/#/home)|
+ |5|文昌链浏览器|[https://wenchang.bianjie.ai](https://explorer.wenchang.bianjie.ai/#/home)|
  |6|秦储数藏|[https://scan.qcsc.vip](https://scan.qcsc.vip/#/home)|
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
  |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
  |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
- |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
+ |11|海峡链区块浏览器|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  ## 五、平台收集
  |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
  |----|----------------------|--------------|--------------|--------------|--------------|--------------|
