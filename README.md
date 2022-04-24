@@ -99,8 +99,8 @@
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)     |WX_GZH         |   |     |[APP](https://wan2store.com/app-redirect.htm)  |   |
  |43|[Bigverse](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
  |43|[NFTCN](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
- |44|[MetaBox元気盒子](https://www.tianyancha.com/company/5227331730)|WX_GZH|  |   |    |[WEB](https://www.metaboxglobal.cn)             |
- |45|[DAO加密咸鱼](https://www.tianyancha.com/company/5360462473)  |WX_GZH |              |                |              |             |
+ |44|[MetaBox元気盒子](https://www.tianyancha.com/company/5227331730)|WX_GZH|  |   |    |[WEB](https://www.metaboxglobal.cn)|
+ |45|[DAO加密咸鱼](https://www.tianyancha.com/company/5360462473)|WX_GZH||||[WEB](https://cryptofish.cn/cryptofish.html)|
  |46|[淘派数字藏品](https://www.tianyancha.com/company/3344491555)  |WX_GZH         |   |      |    |[WEB](https://www.taopainft.com/)             |
  |47|[Hi元宇宙](https://www.tianyancha.com/company/3349949071) |WX_GZH| | |APP |[WEB](https://szwc.bojunwenhua.cn/pages/tabBar/index1?invite_code=601F2E51886004F7) |
  |48|[稀象](https://www.tianyancha.com/company/3423558507) |WX_GZH | |  |APP|[WEB](http://shop.yes-nft.com/h5/index.html#/pages/login/register?spm=326236.1.0.1.1)  |
