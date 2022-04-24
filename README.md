@@ -87,7 +87,7 @@
  |26|[一岛](https://www.tianyancha.com/company/3480184466)|WX_GZH| | |[APP](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)| |
  |27|[丸卡](https://www.tianyancha.com/company/4797824070)|WX_GZH   |    |   |APP   |[WEB](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)  |
  |28|[一花YIHUA](https://www.tianyancha.com/company/2350663115)|WX_GZH|    |  |[APP](http://yihua.taoqikid.com/active/page/#/download)  |     |
- |29|[故纸堆APP](https://www.tianyancha.com/company/3392533958)|WX_GZH|    |    |APP  |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
+ |29|[故纸堆APP](https://www.tianyancha.com/company/3392533958)|WX_GZH|    |    | |[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)        |
  |30|[Honnverse](https://www.tianyancha.com/company/3453249615)|WX_GZH|WX_XCX  | |[APP](https://honnverse.stars-mine.com/static/download.html)  |     |
  |31|[Hotlove服务中心](https://www.tianyancha.com/company/2315093424)  |WX_GZH  |   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)     |    |
  |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554) |WX_GZH|     |   |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
