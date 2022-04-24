@@ -430,3 +430,4 @@
  |343|[数藏九州](https://www.tianyancha.com/company/3224182548)|WX_GZH| | | |[WEB](https://nft.lscqgame.com/#/register?userCode=652204103488&activityCode=36872d485a1d43d8927547c59088bd24)|
  |343|[JZNFT](https://www.tianyancha.com/company/3224182548)|WX_GZH| | | |[WEB](https://nft.lscqgame.com/#/register?userCode=652204103488&activityCode=36872d485a1d43d8927547c59088bd24)|
  |344|[瓷藏艺术](https://www.tianyancha.com/company/5409084505)|WX_GZH| | | |[WEB](https://nft.cizang.art/Member?uid=MTXJcRUDiRgl1mdElAeP4Q==)|
+ |345|[象寻](https://www.tianyancha.com/company/5392740841)|WX_GZH| | |[APP](http://sc.xxuns.com/h5/login.html?invite_code=113724)| |
