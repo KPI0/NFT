@@ -274,7 +274,7 @@
  |189|[天穹数藏](https://www.tianyancha.com/company/5336868590)|WX_GZH| | |APP|[WEB](https://app.tianqiongnft.com/#/)|
  |190|[百谷王数字艺术](https://www.tianyancha.com/company/3218623681)|WX_GZH||||[WEB](https://920.cc/#/pages/index/index?recommendUid=1512667997737594882)|
  |191|[MineNFT游娱块](https://www.tianyancha.com/company/3178691519)|WX_GZH|[WX_XCX](https://github.com/KPI0/NFT/blob/main/images/minenft.png)|||WEB|
- |192|[博物链](https://www.tianyancha.com/company/3415997925)|WX_GZH| | | | |
+ |192|[博物链](https://www.tianyancha.com/company/3415997925)|WX_GZH| |优版权APP| | |天河链|二级市场|
  |193|[迅雷链](https://www.tianyancha.com/company/38470070)|WX_GZH|  |  |APP|[WEB](https://collections.blockchain.xunlei.com/personal)|
  |194|[中国民族文化数字文库](https://www.tianyancha.com/company/3050956862)|WX_GZH| | | |[WEB](https://www.chinaip.art/#/loginOrRegisterIndexTemplateAPP?V0ZjTVdRMy9jKzlFaFNTQUpLZ3BBY1VweEdZWkR0dUJvTTBmcGhOaEhaUENBcVhtMm9OQ256b3NUNnZaRmcySmRzanhlL0plZ3R2UzBCMEVEdkNGSkZ3eWZtM3hpY2J6N0lkQ05QdUordHluVUFIcERKeEFQUDI4eXJvdHFFWjY=)|
  |195|[意树数藏](https://www.tianyancha.com/company/5019987083)|WX_GZH|WX_XCX| | |[WEB](https://h5.secretbox.top/#/pages/login/login?scene=89116)|
