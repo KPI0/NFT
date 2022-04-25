@@ -47,6 +47,7 @@
  |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链区块浏览器|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  |12|科证链浏览器|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
+ |13|超块链浏览器|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   
