@@ -446,3 +446,4 @@
  |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
  |348|[虚猕showape](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
  |349|[星愿宇宙](https://www.tianyancha.com/company/5450161542)|WX_GZH| | | | |超块链|
+ |350|[自由人NFT数字典藏](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|
