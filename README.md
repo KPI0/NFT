@@ -51,8 +51,8 @@
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   
- |序号|平台                  |WX_GZH     |WX_XCX    |ZFB_XCX  |APP     |WEB        |
- |----|----------------------|--------------|--------------|--------------|--------------|--------------|
+ |序号|平台|微信公众号|微信小程序|支付宝小程序|客户端|网页端|上链信息|交易机制|
+ |----|---|-----------|---------|------------|------|------|-------|--------|
  |1|Chiko&Roko|              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|[鲸探](https://www.tianyancha.com/company/5089730061)|||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||
  |3|芒果TV|              |              |              |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)|   |   
