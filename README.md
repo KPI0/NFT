@@ -61,7 +61,7 @@
  |5|[唯一艺术平台](https://www.tianyancha.com/company/4650905129)|WX_GZH|WX_XCX| |APP|[WEB](https://www.theone.art/invite_user_registration/fec63a3ca9c2f695d949d9b2872b00bc)|以太链|二级市场|
  |6|[秦储](https://www.tianyancha.com/company/5340144483)|WX_GZH| | |[APP](https://h5.qcsc.vip/register?c=0DLLKM)| |秦储链|场外转赠|
  |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)| |BSN联盟链|场外转赠| 
- |8|[律核](https://www.tianyancha.com/company/3432747118)|WX_GZH|  |   |[APP](https://wkzx.store/nC3c)|  |    
+ |8|[律核](https://www.tianyancha.com/company/3432747118)|WX_GZH|  |   |[APP](https://wkzx.store/nC3c)|  ||场外转赠|
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[WEB](https://m.honghuchain.com/)|鸿鹄链|场外转赠|
  |10|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP |[WEB](https://h5.tecprove.com/)|科证链|场外转赠|  
  |11|[StarArk数字文创平台](https://www.tianyancha.com/company/4975523596)|WX_GZH| |  |APP|[WEB](https://h5.stararknft.art/#/index)|币安公链|二级市场|
@@ -92,14 +92,14 @@
  |29|[故纸堆APP](https://www.tianyancha.com/company/3392533958)|WX_GZH||||[WEB](https://www.gzdapp.com/#/signUp?icode=3030232)|故纸堆文创链|场外转赠|
  |30|[Honnverse](https://www.tianyancha.com/company/3453249615)|WX_GZH|WX_XCX  | |[APP](https://honnverse.stars-mine.com/static/download.html)  |     |
  |31|[Hotlove服务中心](https://www.tianyancha.com/company/2315093424)  |WX_GZH  |   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)     |    |
- |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554) |WX_GZH|     |   |[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7) |    |
+ |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554)|WX_GZH|||[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7)|    |数图链|场外转赠|
  |33|[超维元宇宙](https://www.tianyancha.com/company/5225866617)  |WX_GZH  |    |  |[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)    |             |
  |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |APP|[WEB](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链|
  |35|[画生Meta](https://www.tianyancha.com/company/5412169051)   |WX_GZH| | |[APP](https://huashengdownload.oss-cn-beijing.aliyuncs.com/huasheng.apk) |   |
  |35|[画生Verse](https://www.tianyancha.com/company/5412169051)  |WX_GZH| | |[APP](https://huashengdownload.oss-cn-beijing.aliyuncs.com/huasheng.apk) |  |
  |36|[灵镜商店](https://www.tianyancha.com/company/3450444562)    |WX_GZH   |    |     |[APP](https://lingjingshangdian.com/)  |             |
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300)|WX_GZH| | |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)||百度超级链|二级市场|
- |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
+ |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |联盟链|场外转赠|
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  | |[APP](http://org.shuzicangpin888.com/downloads/download.html)| |
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)|WX_GZH |||APP|[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)|以太坊链|场外转赠|
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[WEB](https://meta-h5.genimous.com/#/?spread=106697)|
@@ -150,7 +150,7 @@
  |81|[TopHolder](https://www.tianyancha.com/company/3212635995)|WX_GZH|  |  |APP|[WEB](https://pheebs.topholder.cn/act/pheebstiger?inviteId=78572&from=)|
  |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH|     |                |              |[WEB](https://uujypt.com/)  |
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX|                |APP           |             |
- |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH|              |                |              |[WEB](https://wx.allnfts.cn/) |
+ |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[WEB](https://wx.allnfts.cn/)|META链|二级市场|
  |85|[雪崩科技](https://www.tianyancha.com/company/5318444820)|WX_GZH|              |                |              |             |
  |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH|              |                |APP  |[WEB](https://www.xuhe.art/reg/w0rkrqkPz) |
  |87|[艺喜藏](https://www.tianyancha.com/company/4967257668)|WX_GZH|WX_XCX| | |[WEB](https://www.xayxgcwl.com/#/?activityId=dbgRXt28oiIuVj3bnrA20YM7dG9K9BseTUdGHP9XiLu%2Bg%2FRoPaZLjha03au1t71Zh4%2BDUSzp9DhW%0AJ1aMTOWZOA%3D%3D%0A&supUserId=1650809916644)|
