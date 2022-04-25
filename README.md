@@ -442,3 +442,5 @@
  |346|[数藏星河艺术空间](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[WEB](https://m.thestar.chongbaoxy.com/)|
  |346|[THE STAR](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[WEB](https://m.thestar.chongbaoxy.com/)|
  |347|[umx 藏地艺术馆](https://www.tianyancha.com/company/342361551)|WX_GZH| | |APP|[WEB](http://www.umxverse.com/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d)|
+ |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
+ |348|[showape](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
