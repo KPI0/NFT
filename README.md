@@ -64,8 +64,8 @@
  |8|[律核](https://www.tianyancha.com/company/3432747118)|WX_GZH|  |   |[APP](https://wkzx.store/nC3c)|  ||场外转赠|
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[WEB](https://m.honghuchain.com/)|鸿鹄链|场外转赠|
  |10|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP |[WEB](https://h5.tecprove.com/)|科证链|场外转赠|  
- |11|[StarArk数字文创平台](https://www.tianyancha.com/company/4975523596)|WX_GZH| |  |APP|[WEB](https://h5.stararknft.art/#/index)|币安公链|二级市场|
- |11|[星舟元宇宙](https://www.tianyancha.com/company/5217248671)|WX_GZH|    |     |APP|[WEB](https://h5.stararknft.art/#/index)|  
+ |11|[StarArk数字文创平台](https://www.tianyancha.com/company/4975523596)|WX_GZH| |  |APP|[WEB](https://h5.stararknft.art/#/index)|Bscscan币安公链|二级市场|
+ |11|[星舟元宇宙](https://www.tianyancha.com/company/5217248671)|WX_GZH|    |     |APP|[WEB](https://h5.stararknft.art/#/index)|Bscscan币安公链|二级市场|
  |12|[数藏科技数字藏品平台](https://www.tianyancha.com/company/5305029242)|WX_GZH|||APP|[WEB](https://shucang.cn/mall/#/)|BSN联盟链|场外转赠|
  |12|[数藏中国](https://www.tianyancha.com/company/5305029242)|WX_GZH| | |APP|[WEB](https://shucang.cn/mall/#/)|BSN联盟链|场外转赠|
  |13|[幻藏艺术平台](https://www.tianyancha.com/company/5210174792)|WX_GZH| | |APP|[WEB](https://h5.huancang.art/#/pages/public/register?invite_code=547357)|联盟链|二级市场|
