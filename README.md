@@ -97,12 +97,12 @@
  |35|[画生Meta](https://www.tianyancha.com/company/5412169051)   |WX_GZH| | |[APP](https://huashengdownload.oss-cn-beijing.aliyuncs.com/huasheng.apk) |   |
  |35|[画生Verse](https://www.tianyancha.com/company/5412169051)  |WX_GZH| | |[APP](https://huashengdownload.oss-cn-beijing.aliyuncs.com/huasheng.apk) |  |
  |36|[灵镜商店](https://www.tianyancha.com/company/3450444562)    |WX_GZH   |    |     |[APP](https://lingjingshangdian.com/)  |             |
- |37|[轻松小镇](https://www.tianyancha.com/company/3372819300) |WX_GZH    |     |    |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)  |     |
+ |37|[轻松小镇](https://www.tianyancha.com/company/3372819300)|WX_GZH| | |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)||百度超级链|二级市场|
  |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  | |[APP](http://org.shuzicangpin888.com/downloads/download.html)| |
- |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)  |WX_GZH |    |      |APP  |[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)  |
+ |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)|WX_GZH |||APP|[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)|以太坊链|场外转赠|
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[WEB](https://meta-h5.genimous.com/#/?spread=106697)|
- |42|[玩贰+](https://www.tianyancha.com/company/4994817135)     |WX_GZH         |   |     |[APP](https://wan2store.com/app-redirect.htm)  |   |
+ |42|[玩贰+](https://www.tianyancha.com/company/4994817135)|WX_GZH|   |     |[APP](https://wan2store.com/app-redirect.htm)|   |数图链|场外转赠|
  |43|[Bigverse](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
  |43|[NFTCN](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
  |44|[MetaBox元気盒子](https://www.tianyancha.com/company/5227331730)|WX_GZH|  |   |    |[WEB](https://www.metaboxglobal.cn)|
