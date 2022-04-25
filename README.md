@@ -55,12 +55,12 @@
  |序号|平台名称|微信公众号|微信小程序|其他|客户端|网页端|上链信息|交易机制|
  |----|--------|---------|----------|----|------|------|-------|--------|
  |1|Chiko&Roko|              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
- |2|[鲸探](https://www.tianyancha.com/company/5089730061)|||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||蚂蚁链|180天场外转赠|
+ |2|[鲸探](https://www.tianyancha.com/company/5089730061)|||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||蚂蚁链|场外转赠|
  |3|芒果TV|              |              |              |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)|   |   
- |4|淘票票| | | |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           |[WEB](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|蚂蚁链|180天场外转赠|
+ |4|淘票票| | | |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           |[WEB](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|蚂蚁链|场外转赠|
  |5|[唯一艺术平台](https://www.tianyancha.com/company/4650905129)|WX_GZH|WX_XCX| |APP|[WEB](https://www.theone.art/invite_user_registration/fec63a3ca9c2f695d949d9b2872b00bc)|以太链|二级市场|
  |6|[秦储](https://www.tianyancha.com/company/5340144483)|WX_GZH| | |[APP](https://h5.qcsc.vip/register?c=0DLLKM)| |秦储链|10天场外转赠|
- |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)| |BSN联盟链|1天场外转赠| 
+ |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)| |BSN联盟链|场外转赠| 
  |8|[律核](https://www.tianyancha.com/company/3432747118)|WX_GZH|  |   |[APP](https://wkzx.store/nC3c)|  |    
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[WEB](https://m.honghuchain.com/)|鸿鹄链|场外转赠|
  |10|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP |[WEB](https://h5.tecprove.com/)|科证链|场外转赠|  
