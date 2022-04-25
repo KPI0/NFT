@@ -102,7 +102,7 @@
  |38|[HOTDOG APP](https://www.tianyancha.com/company/3215999085)   |WX_GZH  |     |    |APP       |    |联盟链|场外转赠|
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  | |[APP](http://org.shuzicangpin888.com/downloads/download.html)| |
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)|WX_GZH |||APP|[WEB](http://front.metahz.com/register?inviteCode=W7SnyR7)|以太坊链|场外转赠|
- |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[WEB](https://meta-h5.genimous.com/#/?spread=106697)|
+ |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[WEB](https://meta-h5.genimous.com/#/?spread=106697)|自研链|
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)|WX_GZH|   |     |[APP](https://wan2store.com/app-redirect.htm)|   |数图链|场外转赠|
  |43|[Bigverse](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|以太坊侧链|二级市场|
  |43|[NFTCN](https://www.tianyancha.com/company/5038135230)   |WX_GZH|  | |APP  |[WEB](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)  |
