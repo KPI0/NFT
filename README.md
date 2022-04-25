@@ -12,8 +12,8 @@
 ## 二、污点平台
 *曾出现过运营宣传或其他问题的平台，极不建议玩，或许不止下面的平台*  
 
-|序号|平台|事件关键词|
-|----|----|-----|
+|序号|平台名称|事件关键词|
+|----|--------|---------|
 |1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
 |2|幻灵数藏|[侵权](https://github.com/KPI0/NFT/blob/main/images/huanling2.jpg)|
 
@@ -51,8 +51,8 @@
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   
- |序号|平台|微信公众号|微信小程序|支付宝小程序|客户端|网页端|上链信息|交易机制|
- |----|---|-----------|---------|------------|------|------|-------|--------|
+ |序号|平台名称|微信公众号|微信小程序|支付宝小程序|客户端|网页端|上链信息|交易机制|
+ |----|--------|---------|----------|------------|------|------|-------|--------|
  |1|Chiko&Roko|              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|[鲸探](https://www.tianyancha.com/company/5089730061)|||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||蚂蚁链|180天场外转赠|
  |3|芒果TV|              |              |              |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)|   |   
