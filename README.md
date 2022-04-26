@@ -461,3 +461,4 @@
  |357|[元塑](https://www.tianyancha.com/company/3436428448)|WX_GZH| | |APP|[H5](http://www.cqmdm.cn/login/)|百度超级链|场外转赠|
  |358|[元潮数字藏品](https://www.tianyancha.com/company/5345409441)|WX_GZH||||[H5](https://m.meta100.art/#/pages/register/register?r_code=2NT6YyYNLZcYZY)|文昌链|场外转赠|
  |358|[Meta100](https://www.tianyancha.com/company/5345409441)|WX_GZH||||[H5](https://m.meta100.art/#/pages/register/register?r_code=2NT6YyYNLZcYZY)|文昌链|场外转赠|
+ |359|[阅菁](https://www.tianyancha.com/company/3439848591)|WX_GZH| | | |[H5](https://yj.cyunsmart.com/digist/#/pages/login/login-phone?promoterCode=MTUxODkzOTY5NjA5MTg0ODcwNQ%3D%3D&shareWay=%E4%B8%BB%E9%A1%B5%E5%88%86%E4%BA%AB)|文昌链、至信链|
