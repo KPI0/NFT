@@ -34,8 +34,8 @@
  
  ## 四、链上查询
  *链上查询地址非公开的未添加*  
- |序号|平台|查询地址|
- |----|----|----|
+ |序号|区块服务|查询地址|
+ |----|--------|--------|
  |1|速藏|[https://scan.jxrchain.pro](https://scan.jxrchain.pro/#/home)|
  |2|秘宝浏览器|[https://explorer.mibao.net](https://explorer.mibao.net/)|
  |3|百度超级链|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
