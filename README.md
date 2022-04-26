@@ -464,3 +464,4 @@
  |359|[阅菁](https://www.tianyancha.com/company/3439848591)|WX_GZH| | | |[H5](https://yj.cyunsmart.com/digist/#/pages/login/login-phone?promoterCode=MTUxODkzOTY5NjA5MTg0ODcwNQ%3D%3D&shareWay=%E4%B8%BB%E9%A1%B5%E5%88%86%E4%BA%AB)|文昌链、至信链|
  |360|Buakaw1| | | | |[H5](https://buakaw.club/)|
  |361|[刚刚数字](https://www.tianyancha.com/company/3055220680)|WX_GZH| | |APP| |
+ |362|[元宝数字藏品](https://www.tianyancha.com/company/4447184292)|WX_GZH| | |[APP](https://h5.yuanbao.co/nft/share?share_id=403c2471d39047fca8931afc4f78f469)| |Polygon|
