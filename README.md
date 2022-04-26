@@ -310,7 +310,7 @@
  |219|[麟境](https://www.tianyancha.com/company/3423518998)|WX_GZH| | |APP|[H5](https://www.hashtreas.com/h5/index.html)|百度超级链|场外转赠|
  |220|[摩点](https://www.tianyancha.com/company/3068534124)|WX_GZH| | |[APP](https://m.modian.com/about/share?&utm_source=Appshare&utm_content=1003677704)| |
  |221|[DAW大屋](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[H5](https://daw-h5.hncaee.com/pages/main/main)|
- |221|[嗨艺购](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[H5](https://daw-h5.hncaee.com/pages/main/main)|
+ |221|[嗨艺购](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[H5](https://daw-h5.hncaee.com/pages/main/main)|大唐链|二级市场|
  |222|[美幻艺术数藏](https://www.tianyancha.com/company/3221774379)|WX_GZH|||APP|[H5](https://www.meihuan.art/index.html#/?content=G9255435)|
  |223|[安猫数字藏品](https://www.tianyancha.com/company/3181378721)|WX_GZH| | |APP|[H5](https://anmobc.com/anmonft/#/)|质安链|二级市场|
  |224|[飞碟数字艺术](https://www.tianyancha.com/company/3347137038)|WX_GZH| | | |[H5](https://www.duart.cc/#/register?Invitation_code=KN7LGL)|
