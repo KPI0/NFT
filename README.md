@@ -455,4 +455,4 @@
  |352|[壹号玩家](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | |[H5](http://pow.iin.cc/#/?pid=45003)|蚂蚁链|
  |353|[金乌元宇](https://www.tianyancha.com/company/2345518489)|WX_GZH| | | |H5|文昌链|
  |354|支付宝APP| | | |[APP](https://render.alipay.com/p/c/18idtr6ra82o?__H5view_options__=canPullDown%3DNO%26showOptionMenu%3DNO&chInfo=ch_share__chsub_CopyLink&apshareid=09810593-4077-4687-a23c-dc6fe62c15b2)| |蚂蚁链|场外转赠|
- |355|[元宇宙藏品馆](https://www.tianyancha.com/company/3268839461)|WX_GZH| | | |H5|Polygon|二级市场|
+ |355|[元宇宙藏品馆](https://www.tianyancha.com/company/3268839461)|WX_GZH| | | |[H5](https://meta.yihuipaimai.com/toBrowser)|Polygon|二级市场|
