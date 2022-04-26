@@ -450,4 +450,4 @@
  |349|[星愿宇宙](https://www.tianyancha.com/company/5450161542)|WX_GZH| | | | |超块链|
  |350|[自由人NFT数字典藏](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|
  |351|[OneArt数字藏品](https://www.tianyancha.com/company/5125910546)|WX_GZH| | |APP|[WEB](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)| |二级市场|
- |352|[壹号玩家NFT](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | | |蚂蚁链|
+ |352|[壹号玩家](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | |[WEB](http://pow.iin.cc/#/?pid=45003)|蚂蚁链|
