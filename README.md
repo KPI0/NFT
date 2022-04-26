@@ -37,18 +37,19 @@
  |序号|区块服务|查询地址|
  |----|--------|--------|
  |1|速藏|[https://scan.jxrchain.pro](https://scan.jxrchain.pro/#/home)|
- |2|秘宝浏览器|[https://explorer.mibao.net](https://explorer.mibao.net/)|
+ |2|秘宝|[https://explorer.mibao.net](https://explorer.mibao.net/)|
  |3|百度超级链|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
  |4|至信链|[https://www.zxinchain.com](https://www.zxinchain.com/evidence)|
- |5|文昌链浏览器|[https://wenchang.bianjie.ai](https://explorer.wenchang.bianjie.ai/#/home)|
+ |5|文昌链|[https://wenchang.bianjie.ai](https://explorer.wenchang.bianjie.ai/#/home)|
  |6|秦储数藏|[https://scan.qcsc.vip](https://scan.qcsc.vip/#/home)|
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
  |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
  |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
- |11|海峡链区块浏览器|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
- |12|科证链浏览器|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
- |13|超块链浏览器|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
+ |10|中科海星区块链|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
+ |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
+ |12|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
+ |13|超块链|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   
