@@ -451,3 +451,5 @@
  |350|[自由人NFT数字典藏](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|
  |351|[OneArt数字藏品](https://www.tianyancha.com/company/5125910546)|WX_GZH| | |APP|[WEB](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)| |二级市场|
  |352|[壹号玩家](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | |[WEB](http://pow.iin.cc/#/?pid=45003)|蚂蚁链|
+ |353|[金乌元宇](https://www.tianyancha.com/company/2345518489)|WX_GZH| | | |WEB|文昌链|
+ |354|支付宝APP| | | |[APP](https://render.alipay.com/p/c/18idtr6ra82o?__webview_options__=canPullDown%3DNO%26showOptionMenu%3DNO&chInfo=ch_share__chsub_CopyLink&apshareid=09810593-4077-4687-a23c-dc6fe62c15b2)| |蚂蚁链|场外转赠|
