@@ -55,7 +55,7 @@
   
  |序号|平台名称|微信公众号|微信小程序|其他|客户端|网页端|上链信息|交易机制|
  |----|--------|---------|----------|----|------|------|-------|--------|
- |1|Chiko&Roko|              |              |              |              |[WEB](https://expo.chikoroko.art/referral/b9kwdry8wm)|
+ |1|Chiko&Roko| |  |  | |[H5](https://expo.chikoroko.art/referral/b9kwdry8wm)|
  |2|[鲸探](https://www.tianyancha.com/company/5089730061)|||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||蚂蚁链|场外转赠|
  |3|芒果TV  APP|  |    |  |[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)| |光芒链|
  |4|淘票票| | | |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           |[WEB](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|蚂蚁链|场外转赠|
@@ -451,7 +451,8 @@
  |348|[虚猕showape](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
  |349|[星愿宇宙](https://www.tianyancha.com/company/5450161542)|WX_GZH| | | | |超块链|
  |350|[自由人NFT](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|
- |351|[OneArt数字藏品](https://www.tianyancha.com/company/5125910546)|WX_GZH| | |APP|[WEB](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)| |二级市场|
- |352|[壹号玩家](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | |[WEB](http://pow.iin.cc/#/?pid=45003)|蚂蚁链|
- |353|[金乌元宇](https://www.tianyancha.com/company/2345518489)|WX_GZH| | | |WEB|文昌链|
+ |351|[OneArt数字藏品](https://www.tianyancha.com/company/5125910546)|WX_GZH| | |APP|[H5](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)| |二级市场|
+ |352|[壹号玩家](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | |[H5](http://pow.iin.cc/#/?pid=45003)|蚂蚁链|
+ |353|[金乌元宇](https://www.tianyancha.com/company/2345518489)|WX_GZH| | | |H5|文昌链|
  |354|支付宝APP| | | |[APP](https://render.alipay.com/p/c/18idtr6ra82o?__webview_options__=canPullDown%3DNO%26showOptionMenu%3DNO&chInfo=ch_share__chsub_CopyLink&apshareid=09810593-4077-4687-a23c-dc6fe62c15b2)| |蚂蚁链|场外转赠|
+ |355|[元宇宙藏品馆](https://www.tianyancha.com/company/3268839461)|WX_GZH| | | |H5|Polygon|二级市场|
