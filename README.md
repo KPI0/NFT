@@ -256,7 +256,7 @@
  |169|[ArtPro](https://www.tianyancha.com/company/3228477205)|WX_GZH|  |  |[APP](https://artproapp.com/fROF)| |
  |170|[冲呀GO](https://www.tianyancha.com/company/2315676459)|WX_GZH|  |   |APP|[H5](https://m.chongya.com/trend)|烛龙链|
  |170|[冲呀CHONGYA](https://www.tianyancha.com/company/2315676459)|WX_GZH|  |   |APP|[H5](https://m.chongya.com/trend)|烛龙链|
- |171|[草方格Square](https://www.tianyancha.com/company/3151506879)|WX_GZH|  |   |APP|[H5](https://www.caofange.com/shopIndex)|
+ |171|[草方格Square](https://www.tianyancha.com/company/3151506879)|WX_GZH| |  |APP|[H5](https://www.caofange.com/shopIndex)|Hspeed链|二级市场|
  |172|[非遗数字藏品](https://www.tianyancha.com/company/5231291880)|WX_GZH|WX_XCX|    |   |   |树图链|
  |173|[大唐灵境](https://www.tianyancha.com/company/5076364166)|WX_GZH|[WX_XCX](https://github.com/KPI0/NFT/blob/main/images/datang.png)| |  |  ||场外转赠|
  |174|[元器链](https://www.tianyancha.com/company/3409843824)|WX_GZH|WX_XCX| |APP|[H5](http://h5.yuanqilian.cn/)|元器链|场外转赠|
