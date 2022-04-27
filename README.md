@@ -465,3 +465,4 @@
  |360|Buakaw1| | | | |[H5](https://buakaw.club/)|
  |361|[刚刚数字](https://www.tianyancha.com/company/3055220680)|WX_GZH| | |APP| |
  |362|[元宝数字藏品](https://www.tianyancha.com/company/4447184292)|WX_GZH||||[H5](https://h5.yuanbao.co/nft/share?share_id=403c2471d39047fca8931afc4f78f469)|Polygon|
+ |363|[灵潮艺术](https://www.tianyancha.com/company/5400548250)|WX_GZH| | | |[H5](https://lingchao.art/pages/public/login?type=1&invitation=CpkFDSx)|
