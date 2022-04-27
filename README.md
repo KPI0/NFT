@@ -435,7 +435,7 @@
  |332|新华网APP| | |新华数藏|[APP](https://my-h5news.app.xinhuanet.com/h5/nftShanhaijing/list.html?xhw_page_style=10000000&share_device_token=e0767fa9ba035d2f8ea2b9bca0ddf5b3&share_time=1650682221857&share_type=6)| |
  |333|[国粹文化数藏](https://www.tianyancha.com/company/5447706902)|WX_GZH| | | |[H5](https://m.tuijieip.com/?md=index_index_index&invite_code=Wm1DDPJ1&invite_code=Wm1DDPJ1&item_id=0)|
  |333|[中国推介](https://www.tianyancha.com/company/5447706902)|WX_GZH| | | |[H5](https://m.tuijieip.com/?md=index_index_index&invite_code=Wm1DDPJ1&invite_code=Wm1DDPJ1&item_id=0)|
- |334|[熊猫收藏](https://www.tianyancha.com/company/3470688585)|WX_GZH|||[APP](https://www.cdczhcy.com/downloadapk/?channel=BOkyRYBaoqf9pPoo9kYNkFID&invite_type=2)||
+ |334|[熊猫收藏](https://www.tianyancha.com/company/3470688585)|WX_GZH|||[APP](https://www.cdczhcy.com/downloadapk/?channel=BOkyRYBaoqf9pPoo9kYNkFID&invite_type=2)||BSN联盟链|
  |335|[派链数藏](https://www.tianyancha.com/company/5422989574)|WX_GZH| | |[APP](https://pl.pilian.net/h5/index.html#/?qid=5090)||
  |336|腾讯动漫APP| | | |[APP](https://cangpin.yuewen.com/tencent-comics/home)| |
  |337|[叁贰贰 Meta](https://www.tianyancha.com/company/5448468155)|WX_GZH| | | | |
