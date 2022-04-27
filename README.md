@@ -52,6 +52,7 @@
  |12|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
  |13|超块链|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
  |14|Polygon|[https://polygonscan.com](https://polygonscan.com/)|
+ |15|趣链|微信小程序_趣链服务平台|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
