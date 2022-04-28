@@ -82,7 +82,7 @@
  |14|[它宇宙Pet Meta](https://www.tianyancha.com/company/3407864673)|WX_GZH| |  | |[H5](https://m.thestar.chongbaoxy.com/)|蚂蚁链|二级市场| 
  |15|[数字玛特SZMT](https://www.tianyancha.com/company/3448131050)|WX_GZH| ||APP|[H5](https://www.shuzimart.com/index/index/reg.html?pi=20503&mi=6682dff0f708065500d4c8036a3aa986) |BSN联盟链|二级市场|
  |16|[映耀](https://www.tianyancha.com/company/5388515360)|WX_GZH|  |  |APP|[H5](http://www.yyycyu.top/signup.html?i=W453194)| |二级市场|
- |17|[光链](https://www.tianyancha.com/company/2351298742)|WX_GZH| | |APP|[H5](https://www.chainoo.cn/login.html?inviteCode=529571)|蚂蚁链|
+ |17|[光链](https://www.tianyancha.com/company/2351298742)|WX_GZH| | |[APP](https://www.chainoo.cn/login.html?inviteCode=529571)|[H5](https://m.chainoo.cn/pages/index/index)|蚂蚁链|场外转赠|
  |18|[UTONMOS](https://www.tianyancha.com/company/3224553385)|WX_GZH|||APP|[H5](https://h5.metauton.com/invite?fphone=159****0141&fcode=EQ652)|和数链|二级市场|
  |19|[元初世界](https://www.tianyancha.com/company/4976096563)|WX_GZH|WX_XCX|||[H5](https://h5.gfanx.com/)|国控元初链|二级市场|
  |20|[umx art](https://www.tianyancha.com/company/3219363889)|WX_GZH|||APP|[H5](https://umx.art/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d)|币安公链|二级市场|
