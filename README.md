@@ -46,13 +46,13 @@
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
  |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
- |10|中科IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |10|中科海星区块链|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  |12|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
  |13|超块链|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
  |14|Polygon|[https://polygonscan.com](https://polygonscan.com/)|
  |15|趣链|微信小程序_趣链服务平台|
+ |16|司法联盟链|[https://legalxchain.com](https://legalxchain.com/cn/blockChain)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
