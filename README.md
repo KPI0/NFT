@@ -10,13 +10,14 @@
 |APP客户端    |APP       |
 |网页端       |H5        |
 
-## 二、污点平台
+## 二、劣质平台
 *曾出现过运营宣传或其他问题的平台，极不建议玩，或许不止下面的平台*  
 
 |序号|平台名称|事件关键词|
 |----|--------|---------|
 |1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
 |2|幻灵数藏|[侵权](https://github.com/KPI0/NFT/blob/main/images/huanling2.jpg)|
+|3|Hotlove|[软件全是广告](https://github.com/KPI0/NFT/blob/main/images/HOTLOVE.jpg)|
 
   ## 三、温馨提示  
  *1、不要上头，管住手！*  
@@ -161,7 +162,7 @@
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX||APP||百度超级链|二级市场|
  |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[H5](https://wx.allnfts.cn/)|META链|二级市场|
  |85|[雪崩科技](https://www.tianyancha.com/company/5318444820)|WX_GZH|||||树图链|场外转赠|
- |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH|              |                |APP  |[H5](https://www.xuhe.art/reg/w0rkrqkPz) |
+ |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH| | |[APP](https://www.xuhe.art/reg/w0rkrqkPz)|| |场外转赠|
  |87|[艺喜藏](https://www.tianyancha.com/company/4967257668)|WX_GZH|WX_XCX| | |[H5](https://www.xayxgcwl.com/#/?activityId=dbgRXt28oiIuVj3bnrA20YM7dG9K9BseTUdGHP9XiLu%2Bg%2FRoPaZLjha03au1t71Zh4%2BDUSzp9DhW%0AJ1aMTOWZOA%3D%3D%0A&supUserId=1650809916644)|
  |88|[乐享艺术](https://www.tianyancha.com/company/2358802596)|WX_GZH|  | |  |[H5](https://www.joy-art.cn/invite/myInvitor/?invitedBy=399715981494059009)|Solana公链|场外转赠|
  |89|[云上数藏](https://www.tianyancha.com/company/5393772901)|WX_GZH|              |                |              |             |
