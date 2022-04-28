@@ -471,3 +471,4 @@
  |363|[灵潮艺术](https://www.tianyancha.com/company/5400548250)|WX_GZH| | | |[H5](https://lingchao.art/pages/public/login?type=1&invitation=CpkFDSx)|
  |364|[元海数藏](https://www.tianyancha.com/company/5048806289)|WX_GZH|
  |365|[颖境](https://www.tianyancha.com/company/5321101743)|WX_GZH| | | |[H5](http://m.hinft.cn/#/?agent_id=10006809)|至信链|
+ |366|[江南数艺](https://www.tianyancha.com/company/5414924932)|WX_GZH| | | |[H5](https://www.jieyuanart.cn/#/register?invitecode=5DWJMTI)|
