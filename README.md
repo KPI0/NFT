@@ -319,7 +319,7 @@
  |224|[飞碟数字艺术](https://www.tianyancha.com/company/3347137038)|WX_GZH| | | |[H5](https://www.duart.cc/#/register?Invitation_code=KN7LGL)|
  |225|[米塔数字艺术](https://www.tianyancha.com/company/5133527300)|WX_GZH| | |APP|[H5](https://m.17mita.com/#/)|
  |226|[元代数藏](https://www.tianyancha.com/company/5344807057)|WX_GZH| | | |[H5](https://dc.metaera.tech/)|树图链|场外转赠|
- |227|[东方文明元宇宙](https://www.tianyancha.com/company/2358793775)|WX_GZH| | | |[H5](https://shop101109295.m.youzan.com/v2/feature/jc8m41YCBy)|
+ |227|[东方文明](https://www.tianyancha.com/company/2358793775)|WX_GZH| | |APP||币安智能链|
  |228|[万链数藏](https://www.tianyancha.com/company/5001649403)|WX_GZH| | |APP|[H5](https://h5.wanlian.art/s/#/register?c=AUTGQP)|
  |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[H5](https://h5.yit.com/index.html)|
  |230|[鲸雅](https://www.tianyancha.com/company/1410089410)|WX_GZH| | |[APP](https://cscjingya.oss-cn-hangzhou.aliyuncs.com/kasai.apk)| |
