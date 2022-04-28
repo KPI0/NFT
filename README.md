@@ -132,7 +132,7 @@
  |59|[BiBi元宇宙](https://www.tianyancha.com/company/2324148753)|WX_GZH|WX_XCX|    |    |[H5](https://www.bibinft.com)|以太链|二级市场|
  |60|Us元空间艺术|WX_GZH|              |                |              |[H5](https://h5.stararknft.art/#/index)|
  |61|[AmallART](https://www.tianyancha.com/company/5170842136)|WX_GZH|  |  |  |[H5](https://amall.vip/land?code=5425261466357761046)|Polygon|
- |62|[Art Meta元艺数](https://www.tianyancha.com/company/5241966703)|WX_GZH| | | |[H5](https://artmeta.cn/)|Polygon公链|二级市场|
+ |62|[Art Meta元艺数](https://www.tianyancha.com/company/5241966703)|WX_GZH| | | |[H5](https://artmeta.cn/)|Polygon|二级市场|
  |63|[Avapunk数字藏品](https://www.tianyancha.com/company/5161314421)|WX_GZH|||APP|[H5](https://www.avapunk.com/invited?extensionId=U247385)|金链盟|场外转赠|
  |64|[斑马版权](https://www.tianyancha.com/company/3371645788)|WX_GZH|WX_XCX||  |[H5](https://bmark.cn/#/)|星火链|场外转赠|
  |65|[蝶宇宙数字藏品](https://www.tianyancha.com/company/3407911791)|WX_GZH|||APP|[H5](https://bf.hytx.club/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|
