@@ -126,7 +126,7 @@
  |53|[ONE数字艺术](https://www.tianyancha.com/company/3345735331)|WX_GZH| | | |[H5](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)|HECO公链|二级市场|
  |54|[一点数藏](https://www.tianyancha.com/company/5359329416)|WX_GZH|||APP|[H5](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|HECO公链|二级市场|
  |54|[一点数艺](https://www.tianyancha.com/company/5359329416)|WX_GZH|||APP|[H5](https://yidianart.com.cn/#/pages/auth/login?invite_code=341325)|HECO公链|二级市场|
- |55|[云藏科技](https://www.tianyancha.com/company/5345176446)|WX_GZH|     |    |  |[H5](http://api.ycmeta.art/#/register?code=dpwGZ2)|
+ |55|[云藏科技](https://www.tianyancha.com/company/5345176446)|WX_GZH|| |  |[H5](http://api.ycmeta.art/#/register?code=dpwGZ2)||二级市场|
  |56|[灵境藏品](https://www.tianyancha.com/company/5329792525)|WX_GZH|| ||[H5](https://www.lingjing3.cn/zh-cn/?v=737&inviteCode=DxcqqZHB8LPccgVGmhz47E)|星火链|
  |57|[数字藏家](https://www.tianyancha.com/company/3214529696)|WX_GZH|  |   |  |[H5](https://www.digitalcollector.cn/home?userId=6912066268934161896)|
  |58|[CN数字藏品](https://www.tianyancha.com/company/3463601729)|WX_GZH|[WX_XCX](https://pic.rmb.bdstatic.com/bjh/dc3b534ed316c0e20ad6d88b9f200274.jpeg)|  | |[H5](https://cn-h5.jilianwang.club/pages/home/index)|
