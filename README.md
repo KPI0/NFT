@@ -58,6 +58,7 @@
  |18|OKChain|[https://www.oklink.com](https://www.oklink.com/zh-cn/okc)|
  |19|未艺区块链|[https://scan.wyszcp.com](https://scan.wyszcp.com/)|
  |20|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
+ |21|智链|[https://explorer.gcfuture.cn](https://explorer.gcfuture.cn/#/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
