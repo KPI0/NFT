@@ -310,7 +310,7 @@
  |213|[数字化合物](https://www.tianyancha.com/company/5066129142)|WX_GZH| | | |[H5](https://digitalcompound.org/#/)|
  |214|[晋衣Meta](https://www.tianyancha.com/company/5419479847)|WX_GZH| | | |[H5](https://weidian.com/?userid=1818811994)|
  |215|[纪元部落](https://www.tianyancha.com/company/2466052253)|WX_GZH| | | |[H5](https://www.jybl.cc/web/h5/)||二级市场|
- |216|[现在电影APP](https://www.tianyancha.com/company/3298592748)|WX_GZH| | |[APP](https://mobile.chuanyingtech.com/share/nft.html)| |
+ |216|[现在电影APP](https://www.tianyancha.com/company/3298592748)|WX_GZH| | |[APP](https://mobile.chuanyingtech.com/share/nft.html)| |Nervos|场外转赠|
  |217|[速藏数字文创](https://www.tianyancha.com/company/5436365802)|WX_GZH|||[APP](https://h5.jxrchain.pro/register?c=0DJDZL)||
  |218|[Zverse星图比特](https://www.tianyancha.com/company/2342858194)|WX_GZH| | | |[H5](https://zverse.gachafun.com/me)|树图链|
  |219|[麟境](https://www.tianyancha.com/company/3423518998)|WX_GZH| | |APP|[H5](https://www.hashtreas.com/h5/index.html)|百度超级链|场外转赠|
