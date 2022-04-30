@@ -257,7 +257,7 @@
  |163|[元宇宙市场](https://www.tianyancha.com/company/2519736946)|WX_GZH|   |   |APP|[H5](https://m2.unimart.cc/)|
  |164|[荣宝阁数字艺术](https://www.tianyancha.com/company/4017882474)|WX_GZH| | | |[H5](http://www.rbg123.com/index.php/index/index.html)|百度超级链|二级市场|
  |165|[平行宇宙数藏](https://www.tianyancha.com/company/3275697911)|WX_GZH|  |    |   |[H5](https://nft.srsci-china.com/)|趣链|场外转赠|
- |166|[Zero数藏宇宙](https://www.tianyancha.com/company/5390763969)|WX_GZH|| | |[H5](http://zeroszyz.com/#/)|
+ |166|[Zero数藏宇宙](https://www.tianyancha.com/company/5390763969)|WX_GZH|| | |[H5](http://zeroszyz.com/#/)||二级市场|
  |167|[Time 数藏](https://www.tianyancha.com/company/5434690165)|WX_GZH| | | |H5|
  |168|[DCM数字元宇宙](https://www.tianyancha.com/company/2742843698)|WX_GZH| |  |  |H5|
  |169|[ArtPro](https://www.tianyancha.com/company/3228477205)|WX_GZH|  |  |[APP](https://artproapp.com/fROF)| |
