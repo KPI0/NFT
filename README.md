@@ -56,6 +56,7 @@
  |16|司法联盟链|[https://legalxchain.com](https://legalxchain.com/cn/blockChain)|
  |17|Etherscan|[https://etherscan.io](https://etherscan.io/)|
  |18|OKChain|[https://www.oklink.com](https://www.oklink.com/zh-cn/okc)|
+ |19|未艺区块链|[https://scan.wyszcp.com](https://scan.wyszcp.com/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
@@ -243,7 +244,7 @@
  |151|[寻迹藏品](https://www.tianyancha.com/company/3449722145)|WX_GZH| | |APP|[H5](https://h5.milexl.com/pages/home/index?invite_id=k83azxtz)|Polygon|场外转赠|
  |152|[哈森数藏](https://www.tianyancha.com/company/3401789203)|WX_GZH| | | |[H5](https://m.hasen.art/#/pages/user/register?invitecode=424631e0b9195640)||二级市场|
  |153|[元界数藏](https://www.tianyancha.com/company/2312394750)|WX_GZH|  | |[APP](https://nft.limaiwluo.cn/reg/qQZDp8wE2)||HECO公链|
- |154|[未艺FUTURE ART](https://www.tianyancha.com/company/3336556145)|WX_GZH|WX_XCX| | |[H5](https://h5.wyszcp.com/pages/index/index?referrer_id=0&type=1)|
+ |154|[未艺FUTURE ART](https://www.tianyancha.com/company/3336556145)|WX_GZH|WX_XCX| | |[H5](https://h5.wyszcp.com/)|未艺区块链|场外转赠|
  |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|  | |APP|[H5](http://shucang.gmocpd.com:8200/#/?registerCode=5423)|
  |156|[速藏文化平台](https://www.tianyancha.com/company/2965133217)|WX_GZH||||[H5](https://h5.nftsucang.com/#/nft/paradrop/detail?id=1&invite=B54942)|速藏链|场外转赠|
  |157|[远传数字文化藏品](https://www.tianyancha.com/company/2965133217)|WX_GZH| | | |[H5](https://nft.yuanchuanwenbo2021.com/h5/?code=0918TKGa1MDnVC0mFRIa1kYrff18TKG3&state=#/index)|
