@@ -245,7 +245,7 @@
  |152|[哈森数藏](https://www.tianyancha.com/company/3401789203)|WX_GZH| | | |[H5](https://m.hasen.art/#/pages/user/register?invitecode=424631e0b9195640)||二级市场|
  |153|[元界数藏](https://www.tianyancha.com/company/2312394750)|WX_GZH|  | |[APP](https://nft.limaiwluo.cn/reg/qQZDp8wE2)||HECO公链|
  |154|[未艺FUTURE ART](https://www.tianyancha.com/company/3336556145)|WX_GZH|WX_XCX| | |[H5](https://h5.wyszcp.com/)|未艺区块链|场外转赠|
- |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|  | |APP|[H5](http://shucang.gmocpd.com:8200/#/?registerCode=5423)|
+ |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|||APP|[H5](http://shucang.gmocpd.com:8200/#/?registerCode=5423)|以太链|二级市场|
  |156|[速藏文化平台](https://www.tianyancha.com/company/2965133217)|WX_GZH||||[H5](https://h5.nftsucang.com/#/nft/paradrop/detail?id=1&invite=B54942)|速藏链|场外转赠|
  |157|[远传数字文化藏品](https://www.tianyancha.com/company/2965133217)|WX_GZH| | | |[H5](https://nft.yuanchuanwenbo2021.com/h5/?code=0918TKGa1MDnVC0mFRIa1kYrff18TKG3&state=#/index)|
  |158|[京东APP](https://www.tianyancha.com/company/3101958499)|  |   |灵稀|[APP](https://mini-app-static.jd.com/apps/mpshare/index.html?appId=377A23CF9F8812214685FBAE6DD84926&type=1&path=pages/index/index.html&utm_user=plusmember&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends)| |至臻链|
