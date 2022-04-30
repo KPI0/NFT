@@ -231,10 +231,10 @@
  |140|[鹤巢文观](https://www.tianyancha.com/company/3441452705)|WX_GZH|WX_XCX|||[H5](https://m.chaoarts.com/)|新版链|二级市场|
  |141|[薄盒](https://www.tianyancha.com/company/4518970790)|WX_GZH|||APP|[H5](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)|树图链|
  |142|[漫联文链](https://www.tianyancha.com/company/3404791365) |WX_GZH|  |      |     |[H5](https://h5.ipbank.top/account/index)  |
- |143|[光笺收藏家](https://www.tianyancha.com/company/3463041471)|WX_GZH||||[H5](https://lian.0-1universe.com/H5/scj/)|光笺链|
+ |143|[光笺收藏家](https://www.tianyancha.com/company/3463041471)|WX_GZH|WX_XCX|||[H5](https://lian.0-1universe.com/H5/scj/)|光笺链|
  |144|[QQ音乐APP](https://www.tianyancha.com/company/9519792)|WX_GZH||TME数字藏品|[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK)|[H5](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK)|至信链|
  |144|[腾讯音乐娱乐集团](https://www.tianyancha.com/company/9519792)|WX_GZH|  | |[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |[H5](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK) |至信链|
- |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658) |WX_GZH|     |       |APP|[H5](https://www.nftcms.cn/)|
+ |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658)|WX_GZH|||APP|[H5](https://www.nftcms.cn/)|
  |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289)|WX_GZH     |       |         |       |             |
  |147|[巢音世代](https://www.tianyancha.com/company/3385377646)|WX_GZH  |    |      |[APP](https://www.music-z.com/)  |    |
  |148|[Maya Meta](https://www.tianyancha.com/company/5301262342)|WX_GZH||||[H5](https://www.mayameta.vip/h5/#/pages/login/register?invite_code=605514)|MATIC链|场外转赠|
