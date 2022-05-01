@@ -47,24 +47,24 @@
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
  |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
- |10|中科海星区块链|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
+ |10|海星区块链/IOV Blockchain|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  |12|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
  |13|超块链|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
  |14|Polygon|[https://polygonscan.com](https://polygonscan.com/)|
  |15|趣链|微信小程序_趣链服务平台|
  |16|司法联盟链|[https://legalxchain.com](https://legalxchain.com/cn/blockChain)|
- |17|以太坊区块链/EthereumBlockchain|[https://etherscan.io](https://etherscan.io/)|
+ |17|以太坊区块链/Ethereum Blockchain|[https://etherscan.io](https://etherscan.io/)|
  |18|OKChain|[https://www.oklink.com](https://www.oklink.com/zh-cn/okc)|
  |19|未艺区块链|[https://scan.wyszcp.com](https://scan.wyszcp.com/)|
  |20|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
  |21|智链|[https://explorer.gcfuture.cn](https://explorer.gcfuture.cn/#/)|
  |22|树图链|[https://confluxscan.io](https://confluxscan.io/)|
- |23|币安智能链/BinanceSmartChain|[https://www.bscscan.com](https://www.bscscan.com/)|
+ |23|币安智能链/Binance Smart Chain|[https://www.bscscan.com](https://www.bscscan.com/)|
  |24|质安链|[http://www.anmobc.com](http://www.anmobc.com/browser/#/)|
  |25|国广元初链|[https://www.crichain.cn](https://info.crichain.cn/)|
  |26|瞬元智能链|[http://simetascan.com](http://simetascan.com/)|
- |27|夸克区块链/QuarkBlockChain|[https://quarkblockchain.org](https://qkiscan.cn/)|
+ |27|夸克区块链/Quark BlockChain|[https://quarkblockchain.org](https://qkiscan.cn/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
