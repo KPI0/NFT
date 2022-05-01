@@ -78,7 +78,7 @@
  |5|[唯一艺术](https://www.tianyancha.com/company/4650905129)|WX_GZH|WX_XCX| |APP|[H5](https://www.theone.art/invite_user_registration/fec63a3ca9c2f695d949d9b2872b00bc)|以太坊链、Polygon|二级市场|
  |6|[秦储](https://www.tianyancha.com/company/5340144483)|WX_GZH| | |[APP](https://h5.qcsc.vip/register?c=0DLLKM)| |秦储链|场外转赠|
  |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)| |BSN联盟链|场外转赠| 
- |8|[律核](https://www.tianyancha.com/company/3432747118)|WX_GZH| | |[APP](https://wkzx.store/nC3c)|  |趣链|场外转赠|
+ |8|[律核Melocore](https://www.tianyancha.com/company/3432747118)|WX_GZH| | |[APP](https://wkzx.store/nC3c)|  |趣链|场外转赠|
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[H5](https://m.honghuchain.com/)|鸿鹄链|场外转赠|
  |10|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP|[H5](https://h5.tecprove.com/)|科证链|场外转赠|  
  |11|[StarArk数字文创](https://www.tianyancha.com/company/4975523596)|WX_GZH| | |APP|[H5](https://h5.stararknft.art/#/index)|币安公链|二级市场|
