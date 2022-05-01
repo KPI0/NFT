@@ -486,3 +486,4 @@
  |371|[藏佳宇宙](https://www.tianyancha.com/company/5357137941)|WX_GZH|||[APP](http://metaapi.jiazuo.art/index.php/home/down/downCangJia)|||二级市场|
  |372|[C位IP](https://www.tianyancha.com/company/3273690942)|WX_GZH|||APP|[H5](https://www.cang.art/regist/index.html?bc=20220428175814&ic=9xFxy574g3&)|Polygon|二级市场|
  |373|[国藏数字](https://www.tianyancha.com/company/5452684390)|WX_GZH|||APP||
+ |374|[MakerONE](https://www.tianyancha.com/company/3156912356)|WX_GZH| | | |[H5](https://makerone.shengjian.net/front_nft_mobileN/nft_mobileN_buyCollection?worksId=20220408200638415837507136&shareUser=20220419234020760913854741)|百度超级链|二级市场|
