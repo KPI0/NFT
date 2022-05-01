@@ -47,7 +47,7 @@
  |7|NFTSSCAN|[https://www.nfts-scan.com](https://www.nfts-scan.com/scan/#/index)|
  |8|京东智臻链|[https://openchain.jd.com](https://openchain.jd.com/browser/)|
  |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
- |10|海星区块链（IOV Blockchain）|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
+ |10|海星区块链(IOV Blockchain)|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
  |12|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
  |13|超块链|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
