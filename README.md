@@ -54,7 +54,7 @@
  |14|Polygon|[https://polygonscan.com](https://polygonscan.com/)|
  |15|趣链|微信小程序_趣链服务平台|
  |16|司法联盟链|[https://legalxchain.com](https://legalxchain.com/cn/blockChain)|
- |17|以太坊|[https://etherscan.io](https://etherscan.io/)|
+ |17|以太坊/Ethereum|[https://etherscan.io](https://etherscan.io/)|
  |18|OKChain|[https://www.oklink.com](https://www.oklink.com/zh-cn/okc)|
  |19|未艺区块链|[https://scan.wyszcp.com](https://scan.wyszcp.com/)|
  |20|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
