@@ -66,6 +66,7 @@
  |26|瞬元智能链|[http://simetascan.com](http://simetascan.com/)|
  |27|夸克区块链(Quark BlockChain)|[https://quarkblockchain.org](https://qkiscan.cn/)|
  |28|火币生态链(Huobi ECO Chain)|[https://hecoinfo.com](https://hecoinfo.com/)|
+ |29|Solana|[https://explorer.solana.com](https://explorer.solana.com/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
