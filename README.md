@@ -502,4 +502,4 @@
  |380|[臻探](https://www.tianyancha.com/company/539712923)|WX_GZH|WX_XCX| |APP|[H5](https://nfthome.zhyell.com/)|XuperChain、长城链|
  |381|[异宇宙艺术](https://www.tianyancha.com/company/5447657633)|WX_GZH| | | | | |二级市场|
  |382|[第十艺术](https://www.tianyancha.com/company/5321549560)|WX_GZH| | |[APP](http://www.dishiyishu.com/download.html)||BSN联盟链|场外转赠|
- |383|[跃信数藏](https://www.tianyancha.com/company/4374916171)|WX_GZH| | |[APP](http://yuexin.art:8100/#/?uid=13537)|Ethereum|
+ |383|[跃信数藏](https://www.tianyancha.com/company/4374916171)|WX_GZH| | |[APP](http://yuexin.art:8100/#/?uid=13537)||Ethereum|
