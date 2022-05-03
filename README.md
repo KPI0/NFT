@@ -18,6 +18,7 @@
 |1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
 |2|幻灵数藏|[侵权](https://github.com/KPI0/NFT/blob/main/images/huanling2.jpg)|
 |3|Hotlove|[软件全是广告](https://github.com/KPI0/NFT/blob/main/images/HOTLOVE.jpg)|
+|4|鲸雅、顶艺TopArt|[软件套壳](https://github.com/KPI0/NFT/blob/main/images/jingyatopart.png)|
 
   ## 三、温馨提示  
  *1、不要上头，管住手！*  
