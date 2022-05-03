@@ -40,7 +40,7 @@
  |----|--------|--------|
  |1|速藏|[https://scan.jxrchain.pro](https://scan.jxrchain.pro/#/home)|
  |2|秘宝|[https://explorer.mibao.net](https://explorer.mibao.net/)|
- |3|百度超级链|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
+ |3|百度超级链(XuperChain)|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
  |4|至信链|[https://www.zxinchain.com](https://www.zxinchain.com/evidence)|
  |5|文昌链|[https://wenchang.bianjie.ai](https://explorer.wenchang.bianjie.ai/#/home)|
  |6|秦储数藏|[https://scan.qcsc.vip](https://scan.qcsc.vip/#/home)|
