@@ -59,7 +59,7 @@
  |19|未艺区块链|[https://scan.wyszcp.com](https://scan.wyszcp.com/)|
  |20|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
  |21|智链|[https://explorer.gcfuture.cn](https://explorer.gcfuture.cn/#/)|
- |22|树图链|[https://confluxscan.io](https://confluxscan.io/)|
+ |22|树图链(Conflux)|[https://confluxscan.io](https://confluxscan.io/)|
  |23|币安智能链(Binance Smart Chain)|[https://www.bscscan.com](https://www.bscscan.com/)|
  |24|质安链|[http://www.anmobc.com](http://www.anmobc.com/browser/#/)|
  |25|国广元初链|[https://www.crichain.cn](https://info.crichain.cn/)|
