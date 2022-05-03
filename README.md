@@ -331,7 +331,7 @@
  |222|[美幻艺术数藏](https://www.tianyancha.com/company/3221774379)|WX_GZH|||APP|[H5](https://www.meihuan.art/index.html#/?content=G9255435)|
  |223|[安猫数字藏品](https://www.tianyancha.com/company/3181378721)|WX_GZH| | |APP|[H5](https://anmobc.com/anmonft/#/)|质安链|二级市场|
  |224|[飞碟数字艺术](https://www.tianyancha.com/company/3347137038)|WX_GZH| | | |[H5](https://www.duart.cc/#/register?Invitation_code=KN7LGL)|BSN联盟链|场外转赠|
- |225|[米塔数字艺术](https://www.tianyancha.com/company/5133527300)|WX_GZH| | |APP|[H5](https://m.17mita.com/#/)|
+ |225|[米塔数字艺术](https://www.tianyancha.com/company/5133527300)|WX_GZH| | |APP|[H5](https://m.17mita.com/#/)||场外转赠|
  |226|[元代数藏](https://www.tianyancha.com/company/5344807057)|WX_GZH| | | |[H5](https://dc.metaera.tech/)|树图链|场外转赠|
  |227|[东方文明](https://www.tianyancha.com/company/2358793775)|WX_GZH| | |APP||BSC|场外转赠|
  |228|[万链数藏](https://www.tianyancha.com/company/5001649403)|WX_GZH| | |APP|[H5](https://h5.wanlian.art/s/#/register?c=AUTGQP)|
