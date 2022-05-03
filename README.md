@@ -427,7 +427,7 @@
  |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | | |[H5](https://gd.guodongnft.com/web/#/)| |场外转赠|
  |313|[良选数字艺术](https://www.tianyancha.com/company/4113258438)|WX_GZH| | | |[H5](https://box.wiod.cn/h5/?share_user=50759)|
  |314|[火种meta](https://www.tianyancha.com/company/5188662562)|WX_GZH| | |[APP](https://hz.wozouglobal.com/h5/index.html#/?qid=32410)| |
- |315|[链上云谷](https://www.tianyancha.com/company/5375408686)|WX_GZH| | | |[H5](http://h5.metart.zone/#/)|
+ |315|[链上云谷](https://www.tianyancha.com/company/5375408686)|WX_GZH| | | |[H5](http://h5.metart.zone/#/)|海峡链|场外转赠|
  |316|[熊猫199](https://www.tianyancha.com/company/5327202170)|WX_GZH| | | |[H5](https://m.scxm199.com/h5/#/register?invite=3295370)|
  |317|[宇盒数字藏品](https://www.tianyancha.com/company/3220049148)|WX_GZH||||[H5](https://vast-box-mini-h5-yuhe.app.vastchain.ltd/#/pages/tabs/home)|宇链区块链|二级市场|
  |318|[有你收藏](https://www.tianyancha.com/company/3375671766)|WX_GZH|WX_XCX| |[APP](https://a.app.qq.com/o/simple.jsp?pkgname=io.micent.ynsc)|[H5](http://www.younishoucang.com/)|
