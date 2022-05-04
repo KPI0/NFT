@@ -510,3 +510,4 @@
  |385|元涟数藏| | | | |[H5](https://yuan.oooei.cn/#/pages/my/GetShare?code=cV2FzX1Y)|BSN联盟链|场外转赠|
  |386|[旌鲤](https://www.tianyancha.com/company/5462219437)|WX_GZH| | |[APP](https://nft.cbitlove.cn/reg/gp2q0DOMY)| |Polygon|场外转赠|
  |387|[元图数科](https://www.tianyancha.com/company/5419862531)|WX_GZH| | |APP|[H5](https://app.ytsz.vip)|
+ |388|[龙元禹宙](https://www.tianyancha.com/company/2341007609)|WX_GZH| | | |[H5](http://www.longyuanmeta.com/)|BSN文昌链|场外转赠|
