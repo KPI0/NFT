@@ -468,8 +468,8 @@
  |346|[数藏星河](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[H5](https://m.thestar.chongbaoxy.com/)|
  |346|[THE STAR](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[H5](https://m.thestar.chongbaoxy.com/)|
  |347|[umx 藏地艺术馆](https://www.tianyancha.com/company/342361551)|WX_GZH| | |APP|[H5](http://www.umxverse.com/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d)|BSC|二级市场|
- |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
- |348|[虚猕showape](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|
+ |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |存证链、新版链|
+ |348|[虚猕showape](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |存证链、新版链|
  |349|[星愿宇宙](https://www.tianyancha.com/company/5450161542)|WX_GZH| | | | |超块链|
  |350|[自由人NFT](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|[H5](https://ios.zyrnft.app/#/)|
  |351|[OneArt数字藏品](https://www.tianyancha.com/company/5125910546)|WX_GZH|||APP|[H5](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)||二级市场|
