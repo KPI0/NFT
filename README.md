@@ -517,3 +517,4 @@
  |391|[腾讯新闻APP](https://www.tianyancha.com/company/9519792)|WX_GZH| | |[APP](https://gh.prize.qq.com/show586/_f4b679ac9a1d44cd/nft)||至信链|
  |392|[敦远数藏](https://www.tianyancha.com/company/5432974784)|WX_GZH| | | |[H5](https://art.fsdy.top/dy/register?invitor=2702825)|
  |393|[腾讯金融云数字藏品馆](https://www.tianyancha.com/company/9519792)| |WX_XCX| | | |至信链|
+ |394|[元始玩家](https://www.tianyancha.com/company/5233336047)|WX_GZH| | | |[H5](http://m.ysrnft.com/pages/user)|树图链|
