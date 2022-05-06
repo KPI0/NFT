@@ -518,3 +518,4 @@
  |392|[敦远数藏](https://www.tianyancha.com/company/5432974784)|WX_GZH| | | |[H5](https://art.fsdy.top/dy/register?invitor=2702825)|
  |393|[腾讯金融云数字藏品馆](https://www.tianyancha.com/company/9519792)| |WX_XCX| | | |至信链|
  |394|[元始玩家](https://www.tianyancha.com/company/5233336047)|WX_GZH| | | |[H5](http://m.ysrnft.com/pages/user)|树图链|
+ |395|[噬元星](https://www.tianyancha.com/company/4223970768)|WX_GZH||||[H5](https://syx.nftsuper.cn)||场外转赠|
