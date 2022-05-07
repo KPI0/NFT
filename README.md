@@ -86,7 +86,7 @@
  |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)| |BSN联盟链|场外转赠| 
  |8|[律核Melocore](https://www.tianyancha.com/company/3432747118)|WX_GZH| | |[APP](https://wkzx.store/nC3c)|  |趣链|场外转赠|
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[H5](https://m.honghuchain.com/)|鸿鹄链|场外转赠|
- |10|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP|[H5](https://wbsc.wenboip.com/)|信证链|场外转赠|  
+ |10|[文博数藏](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP|[H5](https://wbsc.wenboip.com/)|信证链|场外转赠|  
  |11|[StarArk数字文创](https://www.tianyancha.com/company/4975523596)|WX_GZH| | |APP|[H5](https://h5.stararknft.art/#/index)|BSC|二级市场|
  |11|[星舟元宇宙](https://www.tianyancha.com/company/5217248671)|WX_GZH| |  |APP|[H5](https://h5.stararknft.art/#/index)|BSC|二级市场|
  |12|[数藏科技](https://www.tianyancha.com/company/5305029242)|WX_GZH|||APP|[H5](https://shucang.cn/mall/#/)|BSN联盟链|场外转赠|
@@ -523,3 +523,4 @@
  |396|[山海元世界](https://www.tianyancha.com/company/5481201922)|WX_GZH| | | |[H5](https://shanhai.minpion.com?invite_id=uy1lvze0)|Polygon|
  |397|Browlser| | | |[APP](https://browlser.io/)| |Ethereum|
  |398|[造浪元宇宙](https://www.tianyancha.com/company/5386343985)|WX_GZH| | | |[H5](https://sc.zaolang.cn/?invited_id=93353#/)|
+ |399|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP|[H5](https://h5.tecprove.com)|科证链|场外转赠|  
