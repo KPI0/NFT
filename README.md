@@ -370,9 +370,9 @@
  |255|[星象数字艺术](https://www.tianyancha.com/company/3348198256)|WX_GZH| | |[APP](https://www.starxiang.com/mobile/common/register?invite_code=eq6y7V)| |
  |256|[卅一数藏](https://www.tianyancha.com/company/4517298022)|WX_GZH| | | |[H5](https://sayi.world?inviter_id=45233)| |二级市场|
  |257|[42VERSE](https://www.tianyancha.com/company/5407817177)|WX_GZH| | | |[H5](https://www.42verse.shop/index2)|
- |258|[吾本熊元宇宙](https://www.tianyancha.com/company/3222092637)|WX_GZH| | | |[H5](http://www.miguxueyuan.com/#/)|
- |259|[元艺科技](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[H5](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
- |259|[源艺数藏](https://www.tianyancha.com/company/5455460827)|WX_GZH| | | |[H5](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)|
+ |258|[吾本熊元宇宙](https://www.tianyancha.com/company/3222092637)|WX_GZH| | | |[H5](http://www.miguxueyuan.com/#/)|BSN文昌链|
+ |259|[元艺科技](https://www.tianyancha.com/company/5455460827)|WX_GZH| | |APP|[H5](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)||场外转赠|
+ |259|[源艺数藏](https://www.tianyancha.com/company/5455460827)|WX_GZH| | |APP|[H5](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)||场外转赠|
  |260|本体空间|WX_GZH| | | |[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)||二级市场|
  |261|[金旭元宇宙](https://www.tianyancha.com/company/5241063848)|WX_GZH| | |[APP](https://jx.jinxunft.com/h5/index.html#/?qid=27775)||
  |262|[Homes元宇宙](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |[APP](https://app.hbsxwl.cn/?code=ZQNTGPAEHMNYBQMP)||
