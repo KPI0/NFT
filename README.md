@@ -71,6 +71,7 @@
  |29|Solana|[https://explorer.solana.com](https://explorer.solana.com/)|
  |30|星河链(GalaxyChain)|[http://huanyu365.cn](http://chain.huanyu365.cn:8000/#/)|
  |31|CUN|[https://coopunion.net](https://scan.coopunion.net/)|
+ |32|MetaCN链|[https://metacnscan.daoywy.com](https://metacnscan.daoywy.com/home)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
