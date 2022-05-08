@@ -365,7 +365,7 @@
  |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | |APP|[H5](https://h5.mymgkj.com/#/pages/my/register?in_code=ik7bjl)|蚂蚁链|场外转赠|
  |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP|[H5](https://nft.api.yihongzhihui.com/index.html)|
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |APP||
- |253|[交链数藏服务](https://www.tianyancha.com/company/2349028571)|WX_GZH| | | |[H5](https://jldc.wtsdapp.com/jlsc/)|
+ |253|[交链数藏服务](https://www.tianyancha.com/company/2349028571)|WX_GZH| | |APP|[H5](https://jldc.wtsdapp.com/jlsc/)|TBaaS|场外转赠|
  |254|[ShowApp](https://www.tianyancha.com/company/3205176264)|WX_GZH| | |APP|[H5](https://www.metabot.world/avatar)|
  |255|[星象数字艺术](https://www.tianyancha.com/company/3348198256)|WX_GZH| | |[APP](https://www.starxiang.com/mobile/common/register?invite_code=eq6y7V)| |
  |256|[卅一数藏](https://www.tianyancha.com/company/4517298022)|WX_GZH| | | |[H5](https://sayi.world?inviter_id=45233)|
