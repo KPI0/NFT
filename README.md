@@ -490,7 +490,7 @@
  |360|Buakaw1| | | | |[H5](https://buakaw.club/)|
  |361|[刚刚数字](https://www.tianyancha.com/company/3055220680)|WX_GZH| | |APP| |XuperChain|
  |362|[元宝数字藏品](https://www.tianyancha.com/company/4447184292)|WX_GZH||||[H5](https://h5.yuanbao.co/nft/share?share_id=403c2471d39047fca8931afc4f78f469)|Ethereum|
- |363|[灵潮艺术](https://www.tianyancha.com/company/5400548250)|WX_GZH| | | |[H5](https://lingchao.art/pages/public/login?type=1&invitation=CpkFDSx)|
+ |363|[灵潮艺术](https://www.tianyancha.com/company/5400548250)|WX_GZH| | | |[H5](https://lingchao.art/pages/public/login?type=1&invitation=CpkFDSx)||二级市场|
  |364|[元海数藏](https://www.tianyancha.com/company/5048806289)|WX_GZH|
  |365|[颖境](https://www.tianyancha.com/company/5321101743)|WX_GZH| | | |[H5](http://m.hinft.cn/#/?agent_id=10006809)|至信链|
  |366|[江南数艺](https://www.tianyancha.com/company/5414924932)|WX_GZH| | | |[H5](https://www.jieyuanart.cn/#/register?invitecode=5DWJMTI)|
