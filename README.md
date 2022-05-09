@@ -122,7 +122,7 @@
  |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |APP|[H5](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链|
  |35|[画生Meta](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|场外转赠|
  |35|[画生Verse](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|场外转赠|
- |36|[灵镜商店](https://www.tianyancha.com/company/3450444562)|WX_GZH|  |   |[APP](https://lingjingshangdian.com/)| |蚂蚁链|场外转赠|
+ |36|[灵境商店](https://www.tianyancha.com/company/3450444562)|WX_GZH|  |   |[APP](https://lingjingshangdian.com/)| |蚂蚁链|场外转赠|
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300)|WX_GZH| | |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)||XuperChain|二级市场|
  |38|[HOTDOG](https://www.tianyancha.com/company/3215999085)|WX_GZH|   |    |APP|    |Unionchina|场外转赠|
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|||[APP](http://org.shuzicangpin888.com/downloads/download.html)||龙链|二级市场|
