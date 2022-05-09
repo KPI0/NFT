@@ -20,6 +20,7 @@
 |3|Hotlove|[软件全是广告](https://github.com/KPI0/NFT/blob/main/images/HOTLOVE.jpg)|
 |4|鲸雅、顶艺TopArt、画生Meta、归藏Meta|[软件套壳](https://github.com/KPI0/NFT/blob/main/images/%E5%9B%BE%E7%89%87%E6%8B%BC%E6%8E%A5.png)|
 |5|山海元世界|[侵权](https://github.com/KPI0/NFT/blob/main/images/Screenshot_20220507-133113__01.jpg)|
+|6|U Myth神话宇宙|网站被列为诈骗|
 
   ## 三、温馨提示  
  *1、不要上头，管住手！*  
