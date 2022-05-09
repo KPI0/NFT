@@ -416,7 +416,7 @@
  |296|[山海数藏](https://www.tianyancha.com/company/5230011106)|WX_GZH| | | |[H5](http://www.nmuss.com/mobile/index/index/pid/4130.html)|
  |297|小度APP| | |小度寻宇|APP| |
  |298|[多维数藏](https://www.tianyancha.com/company/2339364910)|WX_GZH| | | |[H5](https://manynft.duorenwei.net/login?invitation_code=0O4A)|
- |299|[幻彩数藏](https://www.tianyancha.com/company/3471836175)|WX_GZH| | | |[H5](https://mobile.colorblock.cn/mobile/index)|
+ |299|[幻彩数藏](https://www.tianyancha.com/company/3471836175)|WX_GZH| | | |[H5](https://mobile.colorblock.cn/mobile/index)|Ethereum|
  |300|[TOHO数字艺术](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| |
  |300|[头号藏品](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| |
  |300|[头号偶像](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| |
