@@ -311,7 +311,7 @@
  |197|[U Myth神话宇宙](https://www.tianyancha.com/company/4359262351)|WX_GZH| | | |[H5](http://u-myth.cn/h5/#/pages/login/register?inviteCode=J5IEQ2)|
  |198|[倚米](https://www.tianyancha.com/company/5413462753)|WX_GZH| | |[APP](https://app.yiminft.com/)||蚂蚁链|场外转赠|
  |199|[OneTik数字文创](https://www.tianyancha.com/company/3212176952)|WX_GZH| | |APP|[H5](https://h5.onetik.cn)|XuperChain|二级市场|
- |200|[C位数字](https://www.tianyancha.com/company/5364617909)|WX_GZH| | |APP|[H5](https://www.centerwei.com/register?parentUserId=7305)|
+ |200|[C位数字](https://www.tianyancha.com/company/5364617909)|WX_GZH| | |APP|[H5](https://www.centerwei.com/register?parentUserId=7305)||二级市场|
  |201|[顶艺TopArt](https://www.tianyancha.com/company/4021813173)|WX_GZH| | |[APP](https://cang.kueen.cc/register/?share_code=fcukk)| |蚂蚁链、金链盟|场外转赠|
  |202|[启元数藏](https://www.tianyancha.com/company/5395810979)|WX_GZH|||[APP](https://api.qiyuan.mobi/register.html?inviteCode=MX2V3QENG2)||BSN联盟链|场外转赠|
  |203|[一罐艺术](https://www.tianyancha.com/company/3271029618)|WX_GZH|WX_XCX|[艺数坊](https://m.degallery.cn/)| |H5|树图链|场外转赠|
