@@ -544,3 +544,4 @@
  |413|[鸟贝数字艺术](https://www.tianyancha.com/company/3161151688)|WX_GZH||秘宝||[H5](https://mibao.net/issuer/d2416f6f-b0f8-4a85-9831-0f577c847fdc)|Nervos|场外转赠|
  |414|[艺潮空间](https://www.tianyancha.com/company/5465185500)|WX_GZH||秘宝||[H5](https://mibao.net/issuer/d5c74784-8855-453b-93c4-eb6215da3749)|Nervos|场外转赠|
  |415|[飞扬元宇宙](https://www.tianyancha.com/company/2335587255)|WX_GZH||||[H5](http://shucang.web.iflying.com/?props=%7B%22invitationCode%22%3A%227AC0376E6C89%22%7D)| |场外转赠|
+ |416|[大禹数藏](https://www.tianyancha.com/company/5478224217)|WX_GZH|
