@@ -477,7 +477,7 @@
  |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |存证链、新版链|
  |348|[虚猕showape](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |存证链、新版链|
  |349|[星愿宇宙](https://www.tianyancha.com/company/5450161542)|WX_GZH| | | |[H5](https://nft.taikongxingyuan.com/)|超块链|场外转赠|
- |350|[自由人NFT](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|[H5](https://ios.zyrnft.app/#/)|
+ |350|[自由人NFT](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|[H5](https://ios.zyrnft.app/#/)||二级市场|
  |351|[OneArt数字藏品](https://www.tianyancha.com/company/5125910546)|WX_GZH|||APP|[H5](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)||二级市场|
  |352|[壹号玩家](https://www.tianyancha.com/company/5409092317)|WX_GZH| | | |[H5](http://poh5.iin.cc/#/?pid=45003)|蚂蚁链|场外转赠|
  |353|[金乌元宇](https://www.tianyancha.com/company/2345518489)|WX_GZH||||[H5](https://shop.jinwuyuanyu.com/#/pages/index/index?scene=uid%3A70934)|BSN文昌链|二级市场|
