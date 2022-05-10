@@ -430,7 +430,7 @@
  |306|[数字蓝海](https://www.tianyancha.com/company/4023480288)|WX_GZH| | |APP|[H5](https://www.haohaoguang.com/#/)|
  |307|[梵核数字艺术](https://www.tianyancha.com/company/3422810126)|WX_GZH| | |APP|[H5](http://fhys.crzhkj.com/pages/my/login?referee=K8Q2P43Vz)| |二级市场|
  |308|[数字乌鸦](https://www.tianyancha.com/company/3200762948)|WX_GZH| | | |[H5](https://h5.artcrow.com.cn)|蚂蚁链|场外转赠|
- |309|[MEME数字世界](https://www.tianyancha.com/company/5351637368)|WX_GZH| | | |[H5](http://meme.mememeta.cn/?phone=1517486362624942080)|
+ |309|[MEME数字世界](https://www.tianyancha.com/company/5351637368)|WX_GZH| | | |[H5](http://meme.mememeta.cn/?phone=1517486362624942080)|BSN联盟链|场外转赠|
  |310|[物空数字文创](https://www.tianyancha.com/company/5435178084)|WX_GZH| | |[APP](http://www.wukongapp.store/reg/gp2GB8Qml)||
  |311|[龙境](https://www.tianyancha.com/company/5180895530)|WX_GZH| | |APP|[H5](http://39.164.52.76:20006/register?userId=1476302540374048)|禄文链|场外转赠|
  |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | | |[H5](https://gd.guodongnft.com/web/#/)| |场外转赠|
