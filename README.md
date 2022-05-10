@@ -161,7 +161,7 @@
  |65|[海藏艺术](https://www.tianyancha.com/company/3407911791)|WX_GZH|||APP|[H5](https://h5.bfmeta.art/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|OKChain|场外转赠|
  |66|[GEEK数字藏品](https://www.tianyancha.com/company/2358919196)|WX_GZH|   | |[APP](https://www.geeknft.art/download/appdownload.html)|  ||二级市场|
  |67|[海幻境数字艺术](https://www.tianyancha.com/company/5294778475)|WX_GZH||||[H5](https://app.oceandreamland.art/?from=wxmp-menu)|Polygon|二级市场|
- |68|[Xmax星球数藏](https://www.tianyancha.com/company/5407820185)|WX_GZH| | | |[H5](https://xmax.echaincity.com/#/pages/home/index/index)|信证链|
+ |68|[Xmax星球数藏](https://www.tianyancha.com/company/5407820185)|WX_GZH| | | |[H5](https://xmax.echaincity.com/#/pages/home/index/index)|信证链|场外转赠|
  |69|[红洞数藏](https://www.tianyancha.com/company/5247894675)|WX_GZH|WX_XCX| |  |[H5](https://www.redcave.com/#/pages/login/register?code=78NP2uTD62)|趣链|场外转赠|
  |70|[红果数藏](https://www.tianyancha.com/company/5154139788)|WX_GZH|||APP|[H5](https://nftguanfang.com/#/pages/login/index?pid=98309&goods_id=271)|京东智臻链|场外转赠|
  |71|[蓝猫数字](https://www.tianyancha.com/company/5200287929)|WX_GZH| |  | |[H5](https://www.lanmsz.cn/?invitation_code=W1TS2E)|蚂蚁链|二级市场|
