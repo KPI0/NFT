@@ -549,3 +549,4 @@
  |417|[旺仔俱乐部](https://www.tianyancha.com/company/1258879999)|WX_GZH|[WX_XCX](https://github.com/KPI0/NFT/blob/main/images/mmexport61053f815f5e28ba76ac2a17b6a7842f_16521843.png)|
  |418|[星启数藏](https://www.tianyancha.com/company/5468347787)|WX_GZH||||[H5](https://www.xingqinft.com/#/pages/login/register?code=ohpN1iDy0T)|BSN联盟链|场外转赠|
  |419|[天启幻境](https://www.tianyancha.com/company/3448657015)|WX_GZH|
+ |420|[觅塔](https://www.tianyancha.com/company/5397481011)|WX_GZH| | |APP|[H5](https://m.tfn.art/)|知信链、新版链|场外转赠|
