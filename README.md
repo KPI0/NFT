@@ -550,3 +550,4 @@
  |418|[星启数藏](https://www.tianyancha.com/company/5468347787)|WX_GZH||||[H5](https://www.xingqinft.com/#/pages/login/register?code=ohpN1iDy0T)|BSN联盟链|场外转赠|
  |419|[天启幻境](https://www.tianyancha.com/company/3448657015)|WX_GZH|
  |420|[觅塔](https://www.tianyancha.com/company/5397481011)|WX_GZH| | |APP|[H5](https://m.tfn.art/)|知信链、新版链|场外转赠|
+ |421|[博藏未来](https://www.tianyancha.com/company/2322572029)|WX_GZH|||[APP](https://metablaz.ar-max.com/oms/html/other/share.html?openid=GT202205110009497925)||BSN联盟链|场外转赠|
