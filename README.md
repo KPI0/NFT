@@ -524,7 +524,7 @@
  |394|[元始玩家](https://www.tianyancha.com/company/5233336047)|WX_GZH| | | |[H5](http://m.ysrnft.com/pages/user)|树图链|
  |395|[噬元星](https://www.tianyancha.com/company/4223970768)|WX_GZH||||[H5](https://syx.nftsuper.cn)||场外转赠|
  |396|[山海元世界](https://www.tianyancha.com/company/5481201922)|WX_GZH| | | |[H5](https://shanhai.minpion.com?invite_id=uy1lvze0)|Polygon|
- |397|Browlser| | |94BG7|[APP](https://browlser.io/)| |Ethereum|二级市场|
+ |397|Browlser| |OpenSea交易|94BG7|[APP](https://browlser.io/)| |Ethereum|二级市场|
  |398|[造浪元宇宙](https://www.tianyancha.com/company/5386343985)|WX_GZH| | | |[H5](https://sc.zaolang.cn/?invited_id=93353#/)|
  |399|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP|[H5](https://h5.tecprove.com)|科证链|场外转赠|  
  |400|[慧收藏](https://www.tianyancha.com/company/116418267)|WX_GZH| | | |[H5](https://hsc.wisdomguide.cn/#/register?userCode=65220532993&activityCode=eb8398b270434cd1aa8975ad0ce3073a)|树图链|
