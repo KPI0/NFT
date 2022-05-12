@@ -204,7 +204,7 @@
  |102|[OASISMETA](https://www.tianyancha.com/company/5064278936)|WX_GZH| | |APP|[H5](https://raex.vip/)|蚂蚁链|二级市场|
  |103|[YOYO元宇宙](https://www.tianyancha.com/company/3486818418)|WX_GZH| | | |[H5](https://www.yoyonft.vip/#/pages/login/setpwd?shareCode=0NILK0I1)|Polygon|场外转赠|
  |104|[IREAL](https://www.tianyancha.com/company/5368236226)|WX_GZH| | |APP|[H5](https://app.ireal.icu/#/userhub)|信安链|场外转赠|
- |105|[茫洋](https://www.tianyancha.com/company/5270798876)|    |    |       |       |[H5](http://101.200.180.35/?code=LLVTEB)|
+ |105|[茫洋](https://www.tianyancha.com/company/5270798876)|WX_GZH| | | |[H5](http://www.mangyang.com/?code=LLVTEB)|
  |106|[X光年](https://www.tianyancha.com/company/4534782025)|WX_GZH|||APP|[H5](https://www.xmall.art/)|星蓝云链|二级市场|
  |107|[道一数藏](https://www.tianyancha.com/company/5146484581)|WX_GZH| | | |[H5](https://apisc.daoyi365.com?spread=15819)|Polygon|场外转赠|
  |108|[Meta数字文创](https://www.tianyancha.com/company/3331715113)|WX_GZH|  | |APP|[H5](https://www.metadac.cn//#/register?uuid=8P3LVA)|XuperChain|二级市场|
