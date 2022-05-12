@@ -74,6 +74,7 @@
  |31|CUN|[https://coopunion.net](https://scan.coopunion.net/)|
  |32|MetaCN链|[https://metacnscan.daoywy.com](https://metacnscan.daoywy.com/home)|
  |33|人民链|[https://www.peopleopen.cn](https://check.peoplec.cn/s/dgms-gallery/)|
+ |34|中国V链|[http://explorer.ubanquan.cn](http://explorer.ubanquan.cn/#/vlian/index)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*  
