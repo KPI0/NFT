@@ -563,3 +563,4 @@
  |430|[星库拍卖](https://www.tianyancha.com/company/3409304166)|WX_GZH| | | |[H5](https://paimaitestm.xinxishehui.com/index.html#/pagescommon/register?recommenduserid=24901)| |藏品交易|
  |431|链上源|WX_GZH| | |APP|[H5](https://h5.lianshangnft.com/InvitationRegister.html?pomoteCode=U024028Ht)|BSN文昌链|二级市场|
  |432|[牛堡虫洞](https://www.tianyancha.com/company/4449129262)|WX_GZH| | |APP|[H5](https://newb.art/newbarts?codeMaster=1242925)| |场外转赠|
+ |433|[糖果数藏](https://www.tianyancha.com/company/3223238918)|WX_GZH| | | |[H5](https://www.candynft.com.cn/)|
