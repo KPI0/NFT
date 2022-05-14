@@ -581,4 +581,4 @@
  |442|[数本位艺术平台](https://www.tianyancha.com/company/5447167156)|WX_GZH| | |APP|[H5](https://digitalstandards.art/pages/signup?referral=Z2K8GZ)|Polygon|场外转赠|
  |443|[贰肆数藏](https://www.tianyancha.com/company/5438615830)|WX_GZH||||[H5](http://www.24meta.art/#/phone/registered?code=mUNIbb)|
  |444|[集集文创](https://www.tianyancha.com/company/3227552408)|WX_GZH| | |[APP](https://jiji.tianhe32.cn/)| |酒泉链|场外转赠|
- |445|[元力星球](https://www.tianyancha.com/company/5289687840)|WX_GZH| | |[APP](http://m.metastar.art/)|网易区块链|
+ |445|[元力星球](https://www.tianyancha.com/company/5289687840)|WX_GZH| | |[APP](http://m.metastar.art/)| |网易区块链|
