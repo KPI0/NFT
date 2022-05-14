@@ -585,3 +585,4 @@
  |446|[今日数藏](https://www.tianyancha.com/company/3296915704)|WX_GZH| | | |[H5](http://y3.cn/#/home)| |藏品交易|
  |447|[一拾收藏](https://www.tianyancha.com/company/3267594403)|WX_GZH| | |APP|[H5](https://api.nft.tech-mints.com/index.html#/pages/index?inviteUId=117337)||二级市场|
  |447|[二五壹拾](https://www.tianyancha.com/company/3267594403)|WX_GZH| | |APP|[H5](https://api.nft.tech-mints.com/index.html#/pages/index?inviteUId=117337)||二级市场|
+ |448|[洛离数藏](https://www.tianyancha.com/company/2312447121)|WX_GZH| | | |[H5](https://loverse.art/)|树图链|
