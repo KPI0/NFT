@@ -579,3 +579,4 @@
  |440|[新艺数藏](https://www.tianyancha.com/company/5468199605)|WX_GZH||||[H5](http://www.xin1.art/pages/member/passport/register?share_token=M2L4B9)|天河链|场外转赠|
  |441|[元之初数藏](https://www.tianyancha.com/company/5133869681)|WX_GZH| | |APP|[H5](http://yuanzhichu.art/h5/#/)| |场外转赠|
  |442|[数本位艺术平台](https://www.tianyancha.com/company/5447167156)|WX_GZH| | |APP|[H5](https://digitalstandards.art/pages/signup?referral=Z2K8GZ)|Polygon|场外转赠|
+ |443|[贰肆数藏](https://www.tianyancha.com/company/5438615830)|WX_GZH||||[H5](http://www.24meta.art/#/phone/registered?code=mUNIbb)|
