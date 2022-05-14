@@ -511,7 +511,7 @@
  |379|[艺品数藏](https://www.tianyancha.com/company/5420313867)|WX_GZH| | |APP|[H5](http://yiyishu.cn)|Ethereum|二级市场|
  |380|[臻探](https://www.tianyancha.com/company/539712923)|WX_GZH|WX_XCX| |APP|[H5](https://nfthome.zhyell.com/)|XuperChain、长城链|
  |381|[异宇宙艺术](https://www.tianyancha.com/company/5447657633)|WX_GZH| | | | | |二级市场|
- |382|[第十艺术](https://www.tianyancha.com/company/5321549560)|WX_GZH| | |[APP](http://www.dishiyishu.com/download.html)||BSN-DDC文昌链|场外转赠|
+ |382|[第十艺术](https://www.tianyancha.com/company/5321549560)|WX_GZH| | |[APP](http://www.dishiyishu.com/download.html)||BSN文昌链|场外转赠|
  |383|[跃信数藏](https://www.tianyancha.com/company/4374916171)|WX_GZH| | |[APP](http://yuexin.art:8100/#/?uid=13537)||Ethereum|
  |384|[链物空间](https://www.tianyancha.com/company/2781411241)|WX_GZH| | | |[H5](http://www.lianwukongjian.com/#/)|BSN联盟链|二级市场|
  |385|元涟数藏| | | | |[H5](https://yuan.oooei.cn/#/pages/my/GetShare?code=cV2FzX1Y)|BSN联盟链|场外转赠|
