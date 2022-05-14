@@ -575,3 +575,4 @@
  |437|[中科划痕](https://www.tianyancha.com/company/5412392527)|WX_GZH| | | |[H5](https://h5.zkhh.art/pages/user/login/index?inviter_id=6091)||场外转赠|
  |438|[32号空间](https://www.tianyancha.com/company/5433572084)|WX_GZH| | |[APP](http://32.baokuan.cc:8100/#/?uid=12242)| |
  |439|[龙域meta](https://www.tianyancha.com/company/2448534325)|WX_GZH| | |[APP](http://register.loonggod.cn/?invite=0xbb1542a16775287ade795092f062206676487db8)| | |二级市场|
+ |440|[新艺数藏](https://www.tianyancha.com/company/5468199605)|WX_GZH||||[H5](http://www.xin1.art/pages/member/passport/register?share_token=M2L4B9)|天河链|场外转赠|
