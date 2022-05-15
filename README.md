@@ -41,7 +41,7 @@
  *12、【其他】中出现的[英文字母+数字]为奖励码，不填没有奖励空投*   
  
  ## 三头鸟你要脸吗？盗我写的还助理整理，原文出处也不标明
- [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="353px" />](https://mp.weixin.qq.com/s/F2dUPRrhEE26mQRN2B7Aaw)
+ [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="53px" />](https://mp.weixin.qq.com/s/F2dUPRrhEE26mQRN2B7Aaw)
  ![image](https://github.com/KPI0/NFT/blob/main/images/Snipaste_2022-05-14_14-19-38.png)
 
  ## 四、链上查询
