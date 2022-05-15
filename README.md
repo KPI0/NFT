@@ -22,6 +22,7 @@
 |4|鲸雅、顶艺TopArt、画生Meta、归藏Meta|[软件套壳](https://github.com/KPI0/NFT/blob/main/images/%E5%9B%BE%E7%89%87%E6%8B%BC%E6%8E%A5.png)|
 |5|山海元世界|[侵权](https://github.com/KPI0/NFT/blob/main/images/Screenshot_20220507-133113__01.jpg)|
 |6|U Myth神话宇宙|网站被列为诈骗|
+|7|自由人|[侵权](https://github.com/KPI0/NFT/blob/main/images/Screenshot_20220515-204424__01.jpg)|
 
   ## 三、温馨提示  
  *1、不要上头，管住手！*  
@@ -39,7 +40,7 @@
  *11、不建议走场外转赠，容易被骗。在此顺便祝福骗子们你xxxxxxx*  
  *12、【其他】中出现的[英文字母+数字]为奖励码，不填没有奖励空投*   
  
- # 三头鸟你要脸吗？盗我写的还助理整理，原文出处也不标明
+ ## 三头鸟你要脸吗？盗我写的还助理整理，原文出处也不标明
  ![image](https://github.com/KPI0/NFT/blob/main/images/Snipaste_2022-05-14_14-19-38.png)
 
  ## 四、链上查询
