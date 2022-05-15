@@ -596,3 +596,4 @@
  |454|[NFtea数字茶票](https://www.tianyancha.com/company/5401970854)|WX_GZH| | |APP|[H5](http://m.shuzicha.com.cn/register?incode=1b3f10&app_download=true)|XuperChain|场外转赠|
  |455|[NFT派对](https://www.tianyancha.com/company/3442017962)|WX_GZH|
  |455|[NParty](https://www.tianyancha.com/company/3442017962)|WX_GZH|
+ |456|[环球数藏](https://www.tianyancha.com/company/3433832937)|WX_GZH| | | |[H5](https://market.globalnft.top/market/)|树图链|
