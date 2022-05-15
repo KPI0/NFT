@@ -385,7 +385,7 @@
  |258|[吾本熊元宇宙](https://www.tianyancha.com/company/3222092637)|WX_GZH| | | |[H5](http://h5.wubenbear.com/#/)|BSN文昌链|
  |259|[元艺科技](https://www.tianyancha.com/company/5455460827)|WX_GZH| | |APP|[H5](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)||场外转赠|
  |259|[源艺数藏](https://www.tianyancha.com/company/5455460827)|WX_GZH| | |APP|[H5](https://yuanyimeta.art/#/pages/user/bind/index?lastUserId=14259)||场外转赠|
- |260|本体空间|WX_GZH| | | |[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)||二级市场|
+ |260|本体空间|WX_GZH||NFTCN|APP|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
  |261|[金旭元宇宙](https://www.tianyancha.com/company/5241063848)|WX_GZH| | |[APP](https://jx.jinxunft.com/h5/index.html#/?qid=27775)||
  |262|[Homes元宇宙](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |APP|[H5](https://app.hbsxwl.cn/?code=ZQNTGPAEHMNYBQMP)||二级市场|
  |263|[星幻数字藏品](https://www.tianyancha.com/company/5125419098)|WX_GZH| | |APP|[H5](https://www.star-fans.net/pages/users/login/index?type=register&spread=2833323)|Polygon|二级市场|
