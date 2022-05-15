@@ -185,7 +185,7 @@
  |80|[T MARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |   |   |Polygon|
  |80|[周大福TMARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |  |  |Polygon|
  |81|[TopHolder](https://www.tianyancha.com/company/3212635995)|WX_GZH|  |  |APP|[H5](https://pheebs.topholder.cn/act/pheebstiger?inviteId=78572&from=)|
- |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH||||[H5](https://uujypt.com/)|Polygon|
+ |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH||||[H5](https://uujypt.com/)|Polygon|藏品交易|
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX||[APP](http://ltly.ltd/)||XuperChain|二级市场|
  |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[H5](https://wx.allnfts.cn/)|META|二级市场|
  |85|[雪崩科技](https://www.tianyancha.com/company/5318444820)|WX_GZH|||||树图链|场外转赠|
