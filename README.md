@@ -615,3 +615,4 @@
  |466|[星脉数藏](https://www.tianyancha.com/company/5271406090)|WX_GZH|
  |467|[星空数藏](https://www.tianyancha.com/company/3104455319)|WX_GZH| | | |[H5](https://home.xksc.com.cn/index/)|Polygon|场外转赠|
  |468|[钛可星球](https://www.tianyancha.com/company/5096892221)|WX_GZH|WX_XCX| | |[H5](http://mtikoplanet.com:8090/#/)|
+ |469|[来酷星球](https://www.tianyancha.com/company/3276658869)|WX_GZH|WX_XCX| | |[H5](http://t.weimob.com/BDuYK)|
