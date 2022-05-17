@@ -633,3 +633,4 @@
  |481|[鲸藏](https://www.tianyancha.com/company/3196684818)|WX_GZH| | |[APP](https://h5.jingcang100.com/register?c=0DSQTB)||鲸藏链|场外转赠|
  |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | | |[H5](https://mc.nftsc.vip/#/pages/index?uuid=791770)|
  |483|[艺数坊](https://www.tianyancha.com/company/5290912393)|WX_GZH| |ZFB_XCX| |[H5](https://m.degallery.cn/)|树图链|场外转赠|
+ |484|[梵易艺术](https://www.tianyancha.com/company/5472214385)|WX_GZH| |艺数坊| | |树图链|场外转赠|
