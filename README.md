@@ -631,3 +631,4 @@
  |479|[光子星球](https://www.tianyancha.com/company/5389140935)|WX_GZH||||[H5](https://activity.xplayers.space/flyer/f2ffa146-d58e-11ec-9a84-3ef7d201f60f)|BSN联盟链|
  |480|[icon数字文创](https://www.tianyancha.com/company/5408023991)|WX_GZH| | | |[H5](https://www.iconszwc.com/register?recommender=178727)|BSN联盟链|场外转赠|
  |481|[鲸藏](https://www.tianyancha.com/company/3196684818)|WX_GZH| | |[APP](https://h5.jingcang100.com/register?c=0DSQTB)||鲸藏链|场外转赠|
+ |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | | |[H5](https://mc.nftsc.vip/#/pages/index?uuid=791770)|
