@@ -109,7 +109,7 @@
  |14|[宠物元宇宙](https://www.tianyancha.com/company/3407864673)|WX_GZH|  |  |  |[H5](https://m.thestar.chongbaoxy.com/)|蚂蚁链|二级市场|
  |14|[它宇宙Pet Meta](https://www.tianyancha.com/company/3407864673)|WX_GZH| |  | |[H5](https://m.thestar.chongbaoxy.com/)|蚂蚁链|二级市场| 
  |15|[数字玛特SZMT](https://www.tianyancha.com/company/3448131050)|WX_GZH| | |APP|[H5](https://www.shuzimart.com/#/pages/public/register?usercode=FJxLYh4A)|BSN联盟链|二级市场|
- |16|[映耀](https://www.tianyancha.com/company/5388515360)|WX_GZH|  |  |APP|[H5](http://www.yyycyu.top/signup.html?i=W453194)| |二级市场|
+ |16|[映耀](https://www.tianyancha.com/company/5388515360)|WX_GZH|  |  |APP|[H5](http://www.yyycyu.top/signup.html?i=W453194)|Ethereum|二级市场|
  |17|[光链](https://www.tianyancha.com/company/2351298742)|WX_GZH| | |[APP](https://www.chainoo.cn/login.html?inviteCode=529571)|[H5](https://m.chainoo.cn/pages/index/index)|蚂蚁链|场外转赠|
  |18|[UTONMOS](https://www.tianyancha.com/company/3224553385)|WX_GZH|||APP|[H5](https://h5.metauton.com/)|和数链|场外转赠|
  |19|[元初世界](https://www.tianyancha.com/company/4976096563)|WX_GZH|WX_XCX|||[H5](https://h5.gfanx.com/)|国广元初链|二级市场|
