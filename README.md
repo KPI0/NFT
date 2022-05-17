@@ -82,6 +82,7 @@
  |33|人民链|[https://www.peopleopen.cn](https://check.peoplec.cn/s/dgms-gallery/)|
  |34|中国V链|[http://explorer.ubanquan.cn](http://explorer.ubanquan.cn/#/vlian/index)|
  |35|NFTSCAN|[https://www.nftscan.com](https://www.nftscan.com/)|
+ |36|CIC国信公链|[http://www.cicpub.com](http://www.cicpub.com/)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
@@ -185,7 +186,7 @@
  |79|[碳无限](https://www.tianyancha.com/company/2987376583)|WX_GZH|WX_XCX| |APP|[H5](https://c8.aiwgo.net/TanWuXian/#/)|BSN联盟链|场外转赠|
  |80|[T MARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |   |   |Polygon|
  |80|[周大福TMARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |  |  |Polygon|
- |81|[NFE中文数藏](https://www.tianyancha.com/company/5401690616)|WX_GZH| | | |[H5](http://www.ccdc.vip/)|
+ |81|[NFE中文数藏](https://www.tianyancha.com/company/5401690616)|WX_GZH| | | |[H5](https://www.ccdc.vip/pages/register/register?fid=51522)|CIC|场外转赠|
  |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH||||[H5](https://uujypt.com/)|Polygon|藏品交易|
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX||[APP](http://ltly.ltd/)||XuperChain|二级市场|
  |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[H5](https://wx.allnfts.cn/)|META|二级市场|
