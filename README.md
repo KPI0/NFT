@@ -519,7 +519,7 @@
  |374|[MakerONE](https://www.tianyancha.com/company/3156912356)|WX_GZH| | | |[H5](https://makerone.shengjian.net/front_nft_mobileN/nft_mobileN_buyCollection?worksId=20220408200638415837507136&shareUser=20220419234020760913854741)|XuperChain|二级市场|
  |375|[链玩商城](https://www.tianyancha.com/company/3222842817)|WX_GZH| | |[APP](http://front.lianstreets.com/register?inviteCode=W5cfat)||Ethereum|二级市场|
  |376|[熊猫艺术](https://www.tianyancha.com/company/3144859320)|WX_GZH| | |[APP](https://xiongmao.art/h5?inviteCode=F440619)| | |场外转赠|
- |377|夸克数藏| | | | |[H5](https://www.moyuwenchuang.com/#/pages/login/register?uuid=QBTJEU)|Polygon|二级市场|
+ |377|[夸克数藏](https://www.tianyancha.com/company/5431586227)|WX_GZH| | |APP|[H5](https://www.moyuwenchuang.com/#/pages/login/register?uuid=QBTJEU)|Polygon|二级市场|
  |378|[司藏艺术](https://www.tianyancha.com/company/5416587081)|WX_GZH| | | |[H5](https://www.sicangart.com/#/pages/Login/Login?invite_code=VJe22b)|Polygon|二级市场|
  |379|[艺品数藏](https://www.tianyancha.com/company/5420313867)|WX_GZH| | |APP|[H5](http://yiyishu.cn)|Ethereum|二级市场|
  |380|[臻探](https://www.tianyancha.com/company/539712923)|WX_GZH|WX_XCX| |APP|[H5](https://nfthome.zhyell.com/)|XuperChain、长城链|
