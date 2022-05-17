@@ -262,7 +262,7 @@
  |140|[鹤巢文观](https://www.tianyancha.com/company/3441452705)|WX_GZH|WX_XCX|||[H5](https://m.chaoarts.com/)|新版链|二级市场|
  |141|[薄盒](https://www.tianyancha.com/company/4518970790)|WX_GZH|||APP|[H5](https://m.mintstech.cn/inviteBoxDetail?id=59&inviteStr=eyJ1Ijo2MTE5MCwicCI6NTl9)|树图链|场外转赠|
  |142|[漫联文链](https://www.tianyancha.com/company/3404791365) |WX_GZH|  |      |     |[H5](https://h5.ipbank.top/account/index)  |
- |143|[光笺收藏家](https://www.tianyancha.com/company/3463041471)|WX_GZH|WX_XCX|||[H5](https://lian.0-1universe.com/H5/scj/)|光笺链|
+ |143|[光笺收藏家](https://www.tianyancha.com/company/3463041471)|WX_GZH|WX_XCX|||[H5](https://lian.0-1universe.com/web/scj/#/)|光笺链|场外转赠|
  |144|[TME数字藏品](https://www.tianyancha.com/company/9519792)|WX_GZH||QQ音乐APP|[APP](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK)|[H5](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK)|至信链|
  |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658)|WX_GZH|||APP|[H5](https://www.nftcms.cn/)||场外转赠|
  |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289)|WX_GZH|       |         |       |             |
@@ -632,3 +632,4 @@
  |480|[icon数字文创](https://www.tianyancha.com/company/5408023991)|WX_GZH| | | |[H5](https://www.iconszwc.com/register?recommender=178727)|BSN联盟链|场外转赠|
  |481|[鲸藏](https://www.tianyancha.com/company/3196684818)|WX_GZH| | |[APP](https://h5.jingcang100.com/register?c=0DSQTB)||鲸藏链|场外转赠|
  |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | | |[H5](https://mc.nftsc.vip/#/pages/index?uuid=791770)|
+ |483|[艺数坊](https://www.tianyancha.com/company/5290912393)|WX_GZH| |ZFB_XCX| |[H5](https://m.degallery.cn/)|树图链|场外转赠|
