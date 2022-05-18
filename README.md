@@ -640,3 +640,4 @@
  |487|[云视空间](https://www.tianyancha.com/company/4049864861)|WX_GZH| | |APP|[H5](https://nft-register.yunshiar.com?invitation_code=bxi355ds)|BSN联盟链|场外转赠|
  |488|[鱿物数藏](https://www.tianyancha.com/company/5446106684)|WX_GZH| |优酷APP| | |光笺链|场外转赠|
  |489|[数字藏品馆](https://www.tianyancha.com/company/9519792)| | |腾讯视频APP|[APP](https://m.film.qq.com/h5/nft/index.html?)| |至信链|
+ |490|[星元数藏](https://www.tianyancha.com/company/5445898672)|WX_GZH| | |APP|[H5](https://www.xingyuanwuhan.com/#/login.html?invite_code=400632)||场外转赠|
