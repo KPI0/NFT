@@ -637,4 +637,4 @@
  |485|[铸元数藏](https://www.tianyancha.com/company/5421047191)|WX_GZH| | | | |BSN文昌链|
  |486|TT数藏|WX_GZH| | | | | |停止运营|
  |487|[云视空间](https://www.tianyancha.com/company/4049864861)|WX_GZH| | |APP|[H5](https://nft-register.yunshiar.com?invitation_code=bxi355ds)|BSN联盟链|场外转赠|
- |488|[鱿物数藏](https://www.tianyancha.com/company/5446106684)|WX_GZH| |优酷APP| |  | |场外转赠|
+ |488|[鱿物数藏](https://www.tianyancha.com/company/5446106684)|WX_GZH| |优酷APP| | |光笺链|场外转赠|
