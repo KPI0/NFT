@@ -645,3 +645,4 @@
  |492|[鲸落数藏](https://www.tianyancha.com/company/5422986644)|WX_GZH| | | |[H5](http://www.jingluo521.cn/#/pages/index/index)| |场外转赠|
  |493|[永恒宇宙](https://www.tianyancha.com/company/5462550359)|WX_GZH|
  |494|[三叠纪](https://www.tianyancha.com/company/3341226552)|WX_GZH| | | |[H5](https://3dieji.mokyun.com/register?code=882W0)|BSN联盟链|场外转赠|
+ |495|[元龙悦藏](https://www.tianyancha.com/company/5434949187)|WX_GZH|
