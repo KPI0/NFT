@@ -643,3 +643,4 @@
  |490|[星元数藏](https://www.tianyancha.com/company/5445898672)|WX_GZH| | |APP|[H5](https://www.xingyuanwuhan.com/#/login.html?invite_code=400632)||场外转赠|
  |491|[博物有道](https://www.tianyancha.com/company/4155687369)|WX_GZH|WX_XCX| | | | |场外转赠|
  |492|[鲸落数藏](https://www.tianyancha.com/company/5422986644)|WX_GZH| | | |[H5](http://www.jingluo521.cn/#/pages/index/index)| |场外转赠|
+ |493|[永恒宇宙](https://www.tianyancha.com/company/5462550359)|WX_GZH|
