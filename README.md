@@ -655,3 +655,4 @@
  |503|[CERKA奇咖](https://www.tianyancha.com/company/5346626631)|WX_GZH| | | |[H5](https://www.xiright.com/gw/nft/cerka/#/art)|小犀版权链|
  |504|[灵韵数字艺术](https://www.tianyancha.com/company/3350688990)|WX_GZH| | | |[H5](https://artmazing.cn/#/?adviser_id=62878605fbf5865906aafe72)||场外转赠|
  |505|[幻象meta](https://www.tianyancha.com/company/5431648933)|WX_GZH| | | |[H5](https://h5.huanxiangmeta.com/pages/user/login/index?inviter_id=14455)|XuperChain|场外转赠|
+ |506|[鹏游元宇宙](https://www.tianyancha.com/company/2344522392)|WX_GZH|
