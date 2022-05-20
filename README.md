@@ -652,3 +652,4 @@
  |500|[奈斯Art](https://www.tianyancha.com/company/5489822612)|WX_GZH|
  |501|[Gone艺数](https://www.tianyancha.com/company/5475373789)|WX_GZH| | | |[H5](http://goneart.cn/#/phone/registered?code=36WY1v)|BSN联盟链|
  |502|[麒麟数藏](https://www.tianyancha.com/company/5007411159)|WX_GZH| | | |[H5](https://h5.shucangworld.com/?userCode=7c3522789bcc4de9a647463923970803)|树图链|
+ |503|[CERKA奇咖](https://www.tianyancha.com/company/5346626631)|WX_GZH| | | |[H5](https://www.xiright.com/gw/nft/cerka/#/art)|小犀版权链|
