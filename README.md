@@ -92,7 +92,7 @@
   
  |序号|平台名称|微信公众号|微信小程序|其他|客户端|网页端|上链信息|交易机制|
  |----|--------|---------|----------|----|------|------|-------|--------|
- |1|Chiko&Roko| |  |OpenSea交易| |[H5](https://expo.chikoroko.art/referral/b9kwdry8wm)|Polygon|二级市场|
+ |1|Chiko&Roko| |  |OpenSea| |[H5](https://expo.chikoroko.art/referral/b9kwdry8wm)|Polygon|二级市场|
  |2|[鲸探](https://www.tianyancha.com/company/5012529950)|WX_GZH||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||蚂蚁链|场外转赠|
  |3|[芒果数字藏品](https://www.tianyancha.com/company/624488850)|WX_GZH||芒果TV APP|[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)| |光芒链|场外转赠|
  |4|淘票票APP| | | |[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)           |[H5](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|蚂蚁链|场外转赠|
@@ -502,7 +502,7 @@
  |358|[元潮数字藏品](https://www.tianyancha.com/company/5345409441)|WX_GZH||||[H5](https://m.meta100.art/#/pages/register/register?r_code=2NT6YyYNLZcYZY)|BSN文昌链|场外转赠|
  |358|[Meta100](https://www.tianyancha.com/company/5345409441)|WX_GZH||||[H5](https://m.meta100.art/#/pages/register/register?r_code=2NT6YyYNLZcYZY)|BSN文昌链|场外转赠|
  |359|[阅菁](https://www.tianyancha.com/company/3439848591)|WX_GZH| | | |[H5](https://digist.cyunsmart.com/#/)|BSN文昌链、至信链|
- |360|Buakaw1| |OpenSea交易| | |[H5](https://buakaw.club/)|Ethereum|二级市场|
+ |360|Buakaw1| | |OpenSea| |[H5](https://buakaw.club/)|Ethereum|二级市场|
  |361|[刚刚数字](https://www.tianyancha.com/company/3055220680)|WX_GZH| | |APP|[H5](https://h5.ganggangshuzi.com/#/pages/home)|XuperChain|
  |362|[元宝数字藏品](https://www.tianyancha.com/company/4447184292)|WX_GZH||||[H5](https://h5.yuanbao.co/nft/share?share_id=403c2471d39047fca8931afc4f78f469)|Ethereum、Polygon|
  |363|[灵潮艺术](https://www.tianyancha.com/company/5400548250)|WX_GZH| | | |[H5](https://lingchao.art/pages/public/login?type=1&invitation=CpkFDSx)||二级市场|
@@ -540,7 +540,7 @@
  |394|[元始玩家](https://www.tianyancha.com/company/5233336047)|WX_GZH| | | |[H5](http://m.ysrnft.com/pages/user)|树图链|
  |395|[噬元星](https://www.tianyancha.com/company/4223970768)|WX_GZH||||[H5](https://syx.nftsuper.cn)||场外转赠|
  |396|[山海元世界](https://www.tianyancha.com/company/5481201922)|WX_GZH| | | |[H5](https://shanhai.minpion.com?invite_id=uy1lvze0)|Polygon|
- |397|Browlser| |OpenSea交易|94BG7|[APP](https://browlser.io/)| |Ethereum|二级市场|
+ |397|Browlser| |OpenSea|94BG7|[APP](https://browlser.io/)| |Ethereum|二级市场|
  |398|[造浪元宇宙](https://www.tianyancha.com/company/5386343985)|WX_GZH| | | |[H5](https://sc.zaolang.cn/?invited_id=93353#/)|
  |399|[文博元宇宙](https://www.tianyancha.com/company/3180682587)|WX_GZH| | |APP|[H5](https://h5.tecprove.com)|科证链|场外转赠|  
  |400|[慧收藏](https://www.tianyancha.com/company/116418267)|WX_GZH| | | |[H5](https://hsc.wisdomguide.cn/#/register?userCode=65220532993&activityCode=eb8398b270434cd1aa8975ad0ce3073a)|树图链|
