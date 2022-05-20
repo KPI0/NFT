@@ -163,7 +163,7 @@
  |58|[CN数字藏品](https://www.tianyancha.com/company/3463601729)|WX_GZH|WX_XCX| | |[H5](https://cn-h5.jilianwang.club/pages/home/index)| |场外转赠|
  |59|[BiBiNFT](https://www.tianyancha.com/company/2324148753)|WX_GZH|WX_XCX|    |    |[H5](https://www.bibinft.com)|Ethereum|二级市场|
  |59|[BiBi元宇宙](https://www.tianyancha.com/company/2324148753)|WX_GZH|WX_XCX|    |    |[H5](https://www.bibinft.com)|Ethereum|二级市场|
- |60|OpenSea| | | | |[H5](https://opensea.io/)|Ethereum、Polygon|藏品交易|
+ |60|OpenSea| | | | |[H5](https://opensea.io/)|Ethereum、Polygon|交易市场|
  |61|[AmallART](https://www.tianyancha.com/company/5170842136)|WX_GZH|  |  |  |[H5](https://amall.vip/land?code=5425261466357761046)|Polygon|藏品交换|
  |62|[Art Meta元艺数](https://www.tianyancha.com/company/5241966703)|WX_GZH| | | |[H5](https://artmeta.cn/)|Polygon|二级市场|
  |63|[Avapunk数字藏品](https://www.tianyancha.com/company/5161314421)|WX_GZH|||APP|[H5](https://www.avapunk.com/invited?extensionId=U247385)|金链盟|场外转赠|
@@ -188,7 +188,7 @@
  |80|[T MARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |   |   |Polygon|
  |80|[周大福TMARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |  |  |Polygon|
  |81|[NFE中文数藏](https://www.tianyancha.com/company/5401690616)|WX_GZH| | | |[H5](https://www.ccdc.vip/pages/register/register?fid=51522)|CIC|场外转赠|
- |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH||||[H5](https://uujypt.com/)|Polygon|藏品交易|
+ |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH||||[H5](https://uujypt.com/)|Polygon|交易市场|
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX||[APP](http://ltly.ltd/)||XuperChain|二级市场|
  |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[H5](https://wx.allnfts.cn/)|META|二级市场|
  |85|[雪崩科技](https://www.tianyancha.com/company/5318444820)|WX_GZH|||||树图链|场外转赠|
@@ -245,7 +245,7 @@
  |126|[猛犸数藏](https://www.tianyancha.com/company/4342057852)|WX_GZH|WX_XCX||APP|[H5](https://www.mmasc.cn/h5/#/subPackages/login/register?invite_code=953403)|Polygon|二级市场|
  |127|[TOP1艺术藏品](https://www.tianyancha.com/company/4019062280)|WX_GZH|WX_XCX| | |[H5](http://www.nft02.cn/#/pages/login/register/?userId=704)|版权链|二级市场|
  |128|[FolkSpace](https://www.tianyancha.com/company/3340504939)|WX_GZH||||[H5](https://meta.folkspace.cn/login?userId=1505556631012904960)||二级市场|
- |128|[ZFOLK](https://www.tianyancha.com/company/3340504939)|WX_GZH||||H5||藏品交易|
+ |128|[ZFOLK](https://www.tianyancha.com/company/3340504939)|WX_GZH||||H5||交易市场|
  |129|百度APP|||BD_XCX|[APP](https://mbd.baidu.com/ma/s/BkOzRYND)||XuperChain|
  |130|阿里拍卖APP|||数字拍卖|[APP](https://m.tb.cn/h.fLhUuNV?sm=72c192)||新版链、树图链、知信链|场外转赠|
  |131|[洞壹元典](https://www.tianyancha.com/company/3159905496)|WX_GZH|WX_XCX|  |  |[H5](https://01h5.dongyiyuandian.com/#/)|XuperChain|场外转赠|
@@ -554,7 +554,7 @@
  |407|[提米元宇宙](https://www.tianyancha.com/company/5174761993)|WX_GZH| | | |[H5](https://www.tgnft.com.cn/#/?invite=ovcp7ear)|Polygon|场外转赠|
  |408|[梵元科技数藏](https://www.tianyancha.com/company/5340100246)|WX_GZH| | | |[H5](https://shop.fyuan.cc/)|超块链|场外转赠|
  |409|[云藏数字艺术](https://www.tianyancha.com/company/2329023990)|WX_GZH| | | |[H5](http://yuncang.pkw888.pro/#/register?invitationCode=wjf25c)|BSN联盟链|场外转赠|
- |410|X Meta藏品交易| | | | |[H5](https://xmeta.x-metash.com/prod/xmeta_mall/index.html?)| |藏品交易|
+ |410|X Meta| | | | |[H5](https://xmeta.x-metash.com/prod/xmeta_mall/index.html?)| |交易市场|
  |411|[元物元](https://www.tianyancha.com/company/3433945200)|WX_GZH| | | |[H5](https://www.daoywy.com/#/)|33Chain|场外转赠|
  |412|[Pd数藏](https://www.tianyancha.com/company/5448477731)|WX_GZH| | |APP|[H5](http://pd.pdshucang.com/h5/index.html#/?qid=1789)| |场外转赠|
  |413|[鸟贝数字艺术](https://www.tianyancha.com/company/3161151688)|WX_GZH||秘宝||[H5](https://mibao.net/issuer/d2416f6f-b0f8-4a85-9831-0f577c847fdc)|Nervos|场外转赠|
@@ -574,7 +574,7 @@
  |427|[要有梦数字艺术](https://www.tianyancha.com/company/5422589506)|WX_GZH| | |APP|[H5](https://m.yaoyoumeng.com/)|
  |428|[九维数藏](https://www.tianyancha.com/company/5438072973)|WX_GZH|
  |429|[宇宙博物](https://www.tianyancha.com/company/5456136094)|WX_GZH| | | |[H5](https://www.yuzhoubowu.net/index.html#/pages/share_registe/share_registe?yaoqingma=AIBKQZ)|
- |430|[星库拍卖](https://www.tianyancha.com/company/3409304166)|WX_GZH| | | |[H5](https://paimaitestm.xinxishehui.com/index.html#/pagescommon/register?recommenduserid=24901)| |藏品交易|
+ |430|[星库拍卖](https://www.tianyancha.com/company/3409304166)|WX_GZH| | | |[H5](https://paimaitestm.xinxishehui.com/index.html#/pagescommon/register?recommenduserid=24901)| |交易市场|
  |431|链上源|WX_GZH| | |APP|[H5](https://h5.lianshangnft.com/InvitationRegister.html?pomoteCode=U024028Ht)|BSN文昌链|二级市场|
  |432|[牛堡虫洞](https://www.tianyancha.com/company/4449129262)|WX_GZH| | |APP|[H5](https://newb.art/newbarts?codeMaster=1242925)| |场外转赠|
  |433|[糖果数藏](https://www.tianyancha.com/company/3223238918)|WX_GZH| | | |[H5](https://www.candynft.com.cn/#/pages/account/register?puserid=180131)|糖果联盟链|场外转赠|
@@ -589,8 +589,8 @@
  |442|[数本位艺术平台](https://www.tianyancha.com/company/5447167156)|WX_GZH| | |APP|[H5](https://digitalstandards.art/pages/signup?referral=Z2K8GZ)|Polygon|场外转赠|
  |443|[贰肆数藏](https://www.tianyancha.com/company/5438615830)|WX_GZH||||[H5](http://www.24meta.art/#/phone/registered?code=mUNIbb)|
  |444|[集集文创](https://www.tianyancha.com/company/3227552408)|WX_GZH| | |[APP](https://jiji.tianhe32.cn/)| |酒泉链|场外转赠|
- |445|[元力星球](https://www.tianyancha.com/company/5289687840)|WX_GZH| | |[APP](http://m.metastar.art/)| |网易区块链|场外转赠|
- |446|[今日数藏](https://www.tianyancha.com/company/3296915704)|WX_GZH| | | |[H5](http://y3.cn/#/home)| |藏品交易|
+ |445|[元力星球](https://www.tianyancha.com/company/5289687840)|WX_GZH| | |[APP](http://m.metastar.art/)| |网易链|场外转赠|
+ |446|[今日数藏](https://www.tianyancha.com/company/3296915704)|WX_GZH| | | |[H5](http://y3.cn/#/home)| |交易市场|
  |447|[一拾收藏](https://www.tianyancha.com/company/3267594403)|WX_GZH| | |APP|[H5](https://api.nft.tech-mints.com/index.html#/pages/index?inviteUId=117337)||二级市场|
  |447|[二五壹拾](https://www.tianyancha.com/company/3267594403)|WX_GZH| | |APP|[H5](https://api.nft.tech-mints.com/index.html#/pages/index?inviteUId=117337)||二级市场|
  |448|[洛离数藏](https://www.tianyancha.com/company/2312447121)|WX_GZH| | | |[H5](https://loverse.art/)|树图链|
