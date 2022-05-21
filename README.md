@@ -468,7 +468,7 @@
  |346|[数藏星河](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[H5](https://tyz3inv.chongbaoxy.com/pages/activity/index2?inviteCode=DxDZ7YgV)||场外转赠|
  |346|[THE STAR](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[H5](https://tyz3inv.chongbaoxy.com/pages/activity/index2?inviteCode=DxDZ7YgV)||场外转赠|
  |347|[umx 藏地艺术馆](https://www.tianyancha.com/company/342361551)|WX_GZH| | |APP|[H5](http://www.umxverse.com/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d)|BSC|二级市场|
- |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖_虚猕| | |新版链|场外转赠|
+ |348|[虚猕](https://www.tianyancha.com/company/5238259081)|WX_GZH|WX_XCX|阿里拍卖| | |新版链|场外转赠|
  |349|[星愿宇宙](https://www.tianyancha.com/company/5450161542)|WX_GZH| | | |[H5](https://nft.taikongxingyuan.com/)|超块链|场外转赠|
  |350|[自由人NFT](https://www.tianyancha.com/company/5408784182)|WX_GZH| | |APP|[H5](https://ios.zyrnft.app/#/)||二级市场|
  |351|[OneArt](https://www.tianyancha.com/company/5125910546)|WX_GZH|||APP|[H5](http://h5.oneart.cn/#/?pmid=6266785aa7b6158910174cc8&&aid=undefined)||二级市场|
