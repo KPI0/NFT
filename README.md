@@ -12,20 +12,7 @@
 |APP客户端    |APP       |
 |网页端       |H5        |
 
-## 二、劣质平台
-*曾出现过运营宣传或其他问题的平台，极不建议玩，或许不止下面的平台*  
-
-|序号|平台名称|事件关键词|
-|----|--------|---------|
-|1|秦储|[藏品、台独、港独](https://github.com/KPI0/NFT/blob/main/images/qcsc.vip.jpg)|
-|2|幻灵数藏|[侵权](https://github.com/KPI0/NFT/blob/main/images/huanling2.jpg)|
-|3|Hotlove|[软件全是广告](https://github.com/KPI0/NFT/blob/main/images/HOTLOVE.jpg)|
-|4|鲸雅、顶艺TopArt、画生Meta、归藏Meta|[软件套壳](https://github.com/KPI0/NFT/blob/main/images/%E5%9B%BE%E7%89%87%E6%8B%BC%E6%8E%A5.png)|
-|5|山海元世界|[侵权](https://github.com/KPI0/NFT/blob/main/images/Screenshot_20220507-133113__01.jpg)|
-|6|U Myth神话宇宙|网站被列为诈骗|
-|7|自由人|[侵权](https://github.com/KPI0/NFT/blob/main/images/Screenshot_20220515-204424__01.jpg)|
-
-  ## 三、温馨提示  
+ ## 二、温馨提示  
  *1、不要上头，管住手！*  
  *1、不要上头，管住手！*  
  *1、不要上头，管住手！*  
@@ -44,7 +31,7 @@
  ## 三头鸟你要脸吗？盗我写的还助理整理，原文出处也不标明。[<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="73px" />](https://mp.weixin.qq.com/s/F2dUPRrhEE26mQRN2B7Aaw)
  ![image](https://github.com/KPI0/NFT/blob/main/images/Snipaste_2022-05-14_14-19-38.png)
 
- ## 四、链上查询
+ ## 三、链上查询
  *链上查询地址非公开的未添加*  
  |序号|区块服务|查询地址|
  |----|--------|--------|
@@ -86,7 +73,7 @@
  |36|CIC国信公链|[http://www.cicpub.com](http://www.cicpub.com/)|
  |37|鲸藏链|[https://scan.jingcang100.com](https://scan.jingcang100.com/#/home)|
  |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
- ## 五、平台收集
+ ## 四、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
   *转载请注明出处！*  
