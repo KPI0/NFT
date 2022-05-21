@@ -659,3 +659,4 @@
  |511|[友盾数藏](https://www.tianyancha.com/company/5036914744)|WX_GZH| | | |[H5](http://youdun.shaobaoer.cn/h5/index.html#/?qid=114826)| |场外转赠|
  |512|[零度数字](https://www.tianyancha.com/company/2321640807)|WX_GZH| | | |[H5](http://h5.ezeroshop.com/#/)|海峡链|场外转赠|
  |513|[华人数商](https://www.tianyancha.com/company/2349058652)|WX_GZH| | | |[H5](http://h5.hrce.com/)||交易市场|
+ |514|[新耀未来](https://www.tianyancha.com/company/3405581427)|WX_GZH| | | |[H5](http://h5.xinyaoweilai.com/#/pages/reg/reg?in=448173311722004480)|天河链|二级市场|
