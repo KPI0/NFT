@@ -85,6 +85,7 @@
  |35|NFTSCAN|[https://www.nftscan.com](https://www.nftscan.com/)|
  |36|CIC国信公链|[http://www.cicpub.com](http://www.cicpub.com/)|
  |37|鲸藏链|[https://scan.jingcang100.com](https://scan.jingcang100.com/#/home)|
+ |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
  ## 五、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司参考天眼查数据*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
@@ -659,3 +660,4 @@
  |507|[ANNO数字纪元](https://www.tianyancha.com/company/5431872314)|WX_GZH| | | |[H5](http://anno.eolong.work/#/pages/public/reg?uid=122960)|HECO|场外转赠|
  |508|[隐元数藏](https://www.tianyancha.com/company/5471498033)|WX_GZH| | | |[H5](https://meta.cang-pu.com/#/register?userCode=65220521348&activityCode=d32a4b8ec3fb496eb3f47fc8601ad11c)|树图链|场外转赠|
  |509|[优品数藏](https://www.tianyancha.com/company/5262692657)|WX_GZH| | |APP|[H5](https://h5.youpinmate.com/reg.html?ref=JJSX57)|Polygon|二级市场|
+ |510|[元蛋艺术](https://www.tianyancha.com/company/5503632332)|WX_GZH| | |[APP](https://pro.yuandanart.cn/reg/Y753zlG39)| | |场外转赠|
