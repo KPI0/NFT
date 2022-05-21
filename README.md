@@ -660,3 +660,4 @@
  |509|[优品数藏](https://www.tianyancha.com/company/5262692657)|WX_GZH| | |APP|[H5](https://h5.youpinmate.com/reg.html?ref=JJSX57)|Polygon|二级市场|
  |510|[元蛋艺术](https://www.tianyancha.com/company/5503632332)|WX_GZH| | |[APP](https://pro.yuandanart.cn/reg/Y753zlG39)| | |场外转赠|
  |511|[友盾数藏](https://www.tianyancha.com/company/5036914744)|WX_GZH| | | |[H5](http://youdun.shaobaoer.cn/h5/index.html#/?qid=114826)| |场外转赠|
+ |512|[零度数字](https://www.tianyancha.com/company/2321640807)|WX_GZH| | | |[H5](http://h5.ezeroshop.com/#/)|海峡链|场外转赠|
