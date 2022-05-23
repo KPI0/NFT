@@ -644,3 +644,4 @@
  |519|[元什](https://www.tianyancha.com/company/5397460618)|WX_GZH| | | |[H5](https://metax.ycmot.com/h5/pages/loading/index?id=628afc54d38e7)|知信链、新版链|
  |520|[中网元宇宙](https://www.tianyancha.com/company/4815980916)|WX_GZH| | | |[H5](http://m.zwpaimai.store/#/pages/index/index?&shareGoodsCode=NEOAT5)||场外转赠|
  |521|[烨臻数藏](https://www.tianyancha.com/company/5476908478)|WX_GZH| | |APP|[H5](http://yezhenkeji.art/h5/index.html#/?qid=39946)|BSN联盟链|场外转赠|
+ |522|[铸魂数藏](https://www.tianyancha.com/company/5314849803)|WX_GZH| | | |[H5](https://www.zhuhungame.com/login/outreg?key=55fc6cf9-16cc-4d1a-8153-b7509d3e2320)|BSN联盟链|场外转赠|
