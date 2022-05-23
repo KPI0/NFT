@@ -647,3 +647,4 @@
  |522|[铸魂数藏](https://www.tianyancha.com/company/5314849803)|WX_GZH| | | |[H5](https://www.zhuhungame.com/login/outreg?key=55fc6cf9-16cc-4d1a-8153-b7509d3e2320)|BSN联盟链|场外转赠|
  |523|[元点数藏](https://www.tianyancha.com/company/2320704456)|WX_GZH| | |[APP](https://oss.huaxiayuandian.com.cn/dc/app/android_apk_0_5_31_0505b.apk)| |BSN联盟链|场外转赠|
  |524|[海豹数藏](https://www.tianyancha.com/company/10000951370)| | |海报新闻APP|[APP](https://hb.dzwww.com/zt/nft/invite.php?u=hzKe2)| |大众链|场外转赠|
+ |525|[G3DAO](https://www.tianyancha.com/company/3430194734)|WX_GZH| | | |[H5](http://wx.g3dao.com/registered/:idWsYcwg)|
