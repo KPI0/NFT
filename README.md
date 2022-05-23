@@ -204,8 +204,7 @@
  |114|[数藏世界](https://www.tianyancha.com/company/5412986813)|WX_GZH||||[H5](https://scsjie.com/#/?rec_id=80417)||二级市场|
  |115|[头号藏家](https://www.tianyancha.com/company/3212635995)|WX_GZH|||APP|[H5](https://home.topholder.cn/)||场外转赠|
  |115|[TopHolder](https://www.tianyancha.com/company/3212635995)|WX_GZH|||APP|[H5](https://home.topholder.cn/)||场外转赠|
- |116|[智元数藏](https://www.tianyancha.com/company/4546377065)|WX_GZH|||APP|[H5](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e)|XuperChain|场外转赠|
- |116|[智元艺术](https://www.tianyancha.com/company/4546377065)|WX_GZH|||APP|[H5](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e)|XuperChain|场外转赠|
+ |116|[智元艺术](https://www.tianyancha.com/company/4546377065)|WX_GZH|||APP|[H5](https://www.zhongruitong.cn/#/register?code=006b79def7303b0e)|XuperChain|二级市场|
  |117|[万象元创](https://www.tianyancha.com/company/5022863565)|WX_GZH||||[H5](https://guaiguaitech.com/#/)|BSN文昌链|二级市场|
  |118|[诺亚数商](https://www.tianyancha.com/company/3486428264)|WX_GZH| |华人数商|APP|[H5](https://www.foxyz.cn/h5/#/pages/auth/register?inviteCode=D4L23R)||二级市场|
  |119|[龙猫元创](https://www.tianyancha.com/company/1701841693)|WX_GZH|   | |APP|[H5](http://m.lmnft.net/?invateCode=kvnpq2#/)|BSC|
