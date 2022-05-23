@@ -70,6 +70,7 @@
  |36|CIC国信公链|[http://www.cicpub.com](http://www.cicpub.com/)|
  |37|鲸藏链|[https://scan.jingcang100.com](https://scan.jingcang100.com/#/home)|
  |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
+ |39|蚂蚁链|鲸探APP_我的_区块链信息查询|
  ## 四、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
