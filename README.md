@@ -160,7 +160,7 @@
  |72|[良选数字](https://www.tianyancha.com/company/5307484886)|WX_GZH||||[H5](http://h5.nftzz.cn/index?invite_uid=324767)|XuperChain|二级市场|
  |73|[链上艺术](https://www.tianyancha.com/company/5392774574)|WX_GZH|||APP|[H5](https://mp.lsnft.cn/#/?share=ebqkol)|Polygon|二级市场|
  |74|[ODin元宇宙](https://www.tianyancha.com/company/5044610697)|WX_GZH| | ||[H5](https://m.odinnft.cn/?code=5EqcWs#/login/regist)|树图链|场外转赠|
- |75|[青石幻城](https://www.tianyancha.com/company/5274260589)|WX_GZH||||[H5](https://shop103675631.m.youzan.com/v2/showcase/homepage?alias=Ga3WxNwwvl&reft=1650770862660_1650770905910&spm=f.97587001_f.102229099_uc.103483463)|Ethereum|场外转赠|
+ |75|[青石幻城](https://www.tianyancha.com/company/5274260589)|WX_GZH| |一岛|APP| |XuperChain|二级市场|
  |76|[启元宇宙](https://www.tianyancha.com/company/4359266557)|WX_GZH|WX_XCX| | |[H5](https://www.xn--z4qz4eg7icc.com/#/)|新版链|二级市场|
  |77|[神达元宇宙](https://www.tianyancha.com/company/3422445825)|WX_GZH| | |APP|[H5](https://meta.spiritleap.com/#/pages/mine/invitation?icon=&inviteNo=89841935&vipflag=0&sex=0)|神达福链|场外转赠|
  |78|[双镜博物](https://www.tianyancha.com/company/4082172201)|WX_GZH||||[H5](https://h5.shuangjing.club/#/pages/me/index?inviteId=ipvdjz)|树图链|二级市场|
