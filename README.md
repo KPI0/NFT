@@ -646,3 +646,4 @@
  |527|[久星数藏](https://www.tianyancha.com/company/3013859971)|WX_GZH| | |[APP](https://shop.hzqiaoke.cn/pages/jx/)|H5|云画链|场外转赠|
  |528|[龙传数藏](https://www.tianyancha.com/company/5383032554)|WX_GZH| | |APP|[H5](http://mall.lcscart.com/#/?invite_code=900370)|BSN文昌链|场外转赠|
  |529|[甘道数藏](https://www.tianyancha.com/company/3388708590)|WX_GZH| | | |[H5](https://shucang.gan-dao.com/?)|趣链|
+ |530|[山海数字META](https://www.tianyancha.com/company/3289341425)|WX_GZH| | | |[H5](https://arth5.depoga.cn/#/)|海峡链|二级市场|
