@@ -644,3 +644,4 @@
  |525|[G3DAO](https://www.tianyancha.com/company/3430194734)|WX_GZH| | | |[H5](http://wx.g3dao.com/registered/:idWsYcwg)|
  |526|[元术数藏](https://www.tianyancha.com/company/5449637071)|WX_GZH| | | |[H5](https://h5.art-meta.cn/homePage)|BSN联盟链|场外转赠|
  |527|[久星数藏](https://www.tianyancha.com/company/3013859971)|WX_GZH| | |[APP](https://shop.hzqiaoke.cn/pages/jx/)|H5|云画链|场外转赠|
+ |528|[龙传数藏](https://www.tianyancha.com/company/5383032554)|WX_GZH| | |APP|[]()|BSN文昌链|
