@@ -543,7 +543,7 @@
  |429|[宇宙博物](https://www.tianyancha.com/company/5456136094)|WX_GZH| | | |[H5](https://www.yuzhoubowu.net/index.html#/pages/share_registe/share_registe?yaoqingma=AIBKQZ)|
  |430|[星库拍卖](https://www.tianyancha.com/company/3409304166)|WX_GZH| | | |[H5](https://paimaitestm.xinxishehui.com/index.html#/pagescommon/register?recommenduserid=24901)| |交易市场|
  |431|链上源|WX_GZH| | |APP|[H5](https://h5.lianshangnft.com/InvitationRegister.html?pomoteCode=U024028Ht)|BSN文昌链|二级市场|
- |432|[牛堡虫洞](https://www.tianyancha.com/company/4449129262)|WX_GZH| | |APP|[H5](https://newb.art/newbarts?codeMaster=1242925)| |场外转赠|
+ |432|[牛堡虫洞](https://www.tianyancha.com/company/4449129262)|WX_GZH| | |APP|[H5](https://newb.art/newbarts?codeMaster=1242925)|BSN联盟链|场外转赠|
  |433|[糖果数藏](https://www.tianyancha.com/company/3223238918)|WX_GZH| | | |[H5](https://www.candynft.com.cn/#/pages/account/register?puserid=180131)|糖果联盟链|场外转赠|
  |434|[中藏数字藏品平台](https://www.tianyancha.com/company/3068694340)|WX_GZH| | |APP|[H5](https://zhongcang.solisoli.top/#/)|BSN联盟链|场外转赠|
  |435|[Moment数字藏品](https://www.tianyancha.com/company/5413498592)|WX_GZH| | | |[H5](https://h5.moment.store/login?code=nSH1DL)|BSN联盟链| |
