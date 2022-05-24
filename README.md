@@ -662,3 +662,4 @@
  |542|[Swell艺术](https://www.tianyancha.com/company/5462815496)|WX_GZH|    |   |   |[H5](https://swellsc.com/index.html#/pages/login/login?yqm=RVlPF3&clod=3)|XuperChain|场外转赠|
  |543|[艺藏META](https://www.tianyancha.com/company/5453666236)|WX_GZH| | |[APP](http://eart.dyywshop.com/eart/index.php/home/other/register1?code=47GR3A)| |Ethereum|二级市场|
  |543|[E ART](https://www.tianyancha.com/company/5453666236)|WX_GZH| | |[APP](http://eart.dyywshop.com/eart/index.php/home/other/register1?code=47GR3A)| |Ethereum|二级市场|
+ |544|[绿卡宇宙](https://www.tianyancha.com/company/5457203102)|WX_GZH| | |APP|[H5](https://nft.lvkayuzhou.com/reg/Og8NKPngG)|BSN文昌链|场外转赠|
