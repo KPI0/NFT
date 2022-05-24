@@ -659,3 +659,4 @@
  |539|[城市数藏](https://www.tianyancha.com/company/5410542800)|WX_GZH| | | |[H5](https://www.csscmeta.com/)|BSN文昌链|场外转赠|
  |540|[艺创数联](https://www.tianyancha.com/company/5492633960)|WX_GZH| | |APP|[H5](http://ycsl.cc/?invite_id=20041)||二级市场|
  |541|[混元数藏](https://www.tianyancha.com/company/3330604157)|WX_GZH| | | |[H5](https://shucang.lvchenkeji.com/)|BSN联盟链|场外转赠|
+ |542|[Swell艺术](https://www.tianyancha.com/company/5462815496)|WX_GZH|    |   |   |[H5](https://swellsc.com/index.html#/pages/login/login?yqm=RVlPF3&clod=3)|XuperChain|场外转赠|
