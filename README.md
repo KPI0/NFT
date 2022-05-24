@@ -71,6 +71,7 @@
  |37|鲸藏链|[https://scan.jingcang100.com](https://scan.jingcang100.com/#/home)|
  |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
  |39|蚂蚁链|鲸探APP_我的_区块链信息查询|
+ |40|云画链|[https://explorer.cpaintchain.cn](https://explorer.cpaintchain.cn/)|
  ## 四、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
@@ -641,3 +642,5 @@
  |523|[元点数藏](https://www.tianyancha.com/company/2320704456)|WX_GZH| | |[APP](https://oss.huaxiayuandian.com.cn/dc/app/android_apk_0_5_31_0505b.apk)| |BSN联盟链|场外转赠|
  |524|[海豹数藏](https://www.tianyancha.com/company/10000951370)| | |海报新闻APP|[APP](https://hb.dzwww.com/zt/nft/invite.php?u=hzKe2)| |大众链|场外转赠|
  |525|[G3DAO](https://www.tianyancha.com/company/3430194734)|WX_GZH| | | |[H5](http://wx.g3dao.com/registered/:idWsYcwg)|
+ |526|[元术数藏](https://www.tianyancha.com/company/5449637071)|WX_GZH| | | |[H5](https://h5.art-meta.cn/homePage)|BSN联盟链|场外转赠|
+ |527|[久星数藏](https://www.tianyancha.com/company/3013859971)|WX_GZH| | |[APP](https://shop.hzqiaoke.cn/pages/jx/)|H5|云画链|场外转赠|
