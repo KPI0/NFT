@@ -651,3 +651,4 @@
  |532|[链上跳动](https://www.tianyancha.com/company/5450857273)|WX_GZH| | | |[H5](https://nft.kpguubi.cn/h5/#/?sharecode=jIubn9)| |二级市场|
  |533|[FXTOON沸铜](https://www.tianyancha.com/company/5088378528)|WX_GZH| | | |[H5](https://www.fxtoon.com/)|
  |534|[幻猫数字藏品](https://www.tianyancha.com/company/5362380528)|WX_GZH|
+ |535|[猫爪数藏](https://www.tianyancha.com/company/5505895839)|WX_GZH| | |[APP](https://api.hcnft.cn/down/micia.apk)|[H5](https://www.hcnft.cn/)|至信链|二级市场|
