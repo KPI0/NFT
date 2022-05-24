@@ -649,3 +649,4 @@
  |530|[山海数字META](https://www.tianyancha.com/company/3289341425)|WX_GZH| | | |[H5](https://arth5.depoga.cn/#/)|海峡链|二级市场|
  |531|[灵雎数字Art](https://www.tianyancha.com/company/5459633369)|WX_GZH| | | |[H5](http://nft.lingju.art/)|XuperChain|二级市场|
  |532|[链上跳动](https://www.tianyancha.com/company/5450857273)|WX_GZH| | | |[H5](https://nft.kpguubi.cn/h5/#/?sharecode=jIubn9)| |二级市场|
+ |533|[FXTOON沸铜](https://www.tianyancha.com/company/5088378528)|WX_GZH| | | |[H5](https://www.fxtoon.com/)|
