@@ -115,7 +115,7 @@
  |29|[故纸堆](https://www.tianyancha.com/company/3392533958)|WX_GZH||||[H5](https://www.gzdapp.com/#/signUp?icode=3030232)|文创链|场外转赠|
  |30|[Honnverse](https://www.tianyancha.com/company/3453249615)|WX_GZH|WX_XCX  | |[APP](https://honnverse.stars-mine.com/static/download.html)|     |
  |31|[Hotlove](https://www.tianyancha.com/company/2315093424)|WX_GZH|   |   |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)|    |
- |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554)|WX_GZH|||[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7)|    |树图链|场外转赠|
+ |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554)|WX_GZH|||[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS&headUrl=https://shangjing-static-pro.oss-cn-shanghai.aliyuncs.com/71619_1648976284745&nickName=%E8%83%A1%E7%A1%95%E5%BE%B7)|    |树图链|二级市场|
  |33|[超维元宇宙](https://www.tianyancha.com/company/5225866617)|WX_GZH| |ZFB_XCX|[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)||蚂蚁链|场外转赠|
  |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |APP|[H5](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链|
  |35|[画生Meta](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|场外转赠|
