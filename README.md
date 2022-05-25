@@ -370,7 +370,7 @@
  |267|[万创元宇宙](https://www.tianyancha.com/company/5411469775)|WX_GZH| | |[APP](https://api.yuanyiyz.com/?H5app/reg&code=30cb4)||
  |268|[鲸喜玛特](https://www.tianyancha.com/company/5211536739)|WX_GZH| | |[APP](https://h5.wwmart.cn/download/register.html?inviteCode=4NX9FW7)|||场外转赠|
  |269|[机甲星辰](https://www.tianyancha.com/company/5371936892)|WX_GZH| | | |[H5](http://mech.city/invite/2960e86c67d4b909)|
- |270|[合自数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |APP||
+ |270|[合自数藏](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |[APP](https://ipfs.lito.ml/hezi-v2.1.1.apk)|||二级市场|
  |271|[乐普思](https://www.tianyancha.com/company/3190980543)|WX_GZH| | | |[H5](https://nft.defangchain.com/mobile/#/home)|BSN联盟链|场外转赠|
  |272|[中国蓝TV APP](https://www.tianyancha.com/company/62540720)| | | |[APP](http://tv.cztv.com/life/zt2022/DigitalCollection/index.shtml)||
  |273|[加码射线](https://www.tianyancha.com/company/2339616572)|WX_GZH|||[APP](https://download.jiamashexian.com/pages/download/)|||二级市场|
