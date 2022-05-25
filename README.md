@@ -665,3 +665,4 @@
  |544|[绿卡宇宙](https://www.tianyancha.com/company/5457203102)|WX_GZH| | |[APP](https://nft.lvkayuzhou.com/reg/Og8NKPngG)|[H5](http://www.lvkayuzhou.com/h5/#/)|BSN文昌链|场外转赠|
  |545|FA数藏|WX_GZH| | | |[H5](http://fa.shishangyinli.com/h5#/pages/login/reg?invite=HS06JL)|Ethereum、BSC、HECO|
  |546|[造梦时空Dreamtime](https://www.tianyancha.com/company/5413940968)|WX_GZH| | | |[H5](http://www.dreamtime.art/?inviteId=137015)|A凡达链|场外转赠|
+ |547|[北冥数藏](https://www.tianyancha.com/company/2335587255)|WX_GZH| | | |[H5](http://opennft.web.iflying.com/beiming/?props=%7B%22invitationCode%22%3A%2209974A20564A%22%7D)||场外转赠|
