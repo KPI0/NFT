@@ -673,3 +673,4 @@
  |550|[惊世数藏](https://www.tianyancha.com/company/3352834234)|WX_GZH| | |APP|[H5](http://www.hanhooo.com/#/pages/account/register?puserid=242135)|蚂蚁链|场外转赠|
  |551|[印迹山海](https://www.tianyancha.com/company/5439705250)|WX_GZH| | | |[H5](https://h5.digitcollect.art/#/login?i=O1UGGdfylh)|XuperChain|场外转赠|
  |552|[相素](https://www.tianyancha.com/company/2572500802)|WX_GZH| | |APP|[H5](https://wap.teelab.cn/app/index.html)|保全链|场外转赠|
+ |553|[魅特道](https://www.tianyancha.com/company/5498950404)|
