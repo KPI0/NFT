@@ -672,3 +672,4 @@
  |549|[炎帝灵境](https://www.tianyancha.com/company/5342048917)|WX_GZH| | | |[H5](https://yandi.zwl.net/index2.html?share_uid=b5bc029a3244654dbd75c1443573acc1&pageName=digital)|旅游链|
  |550|[惊世数藏](https://www.tianyancha.com/company/3352834234)|WX_GZH| | |APP|[H5](http://www.hanhooo.com/#/pages/account/register?puserid=242135)|蚂蚁链|场外转赠|
  |551|[印迹山海](https://www.tianyancha.com/company/5439705250)|WX_GZH| | | |[H5](https://h5.digitcollect.art/#/login?i=O1UGGdfylh)|XuperChain|场外转赠|
+ |552|[相素](https://www.tianyancha.com/company/2572500802)|WX_GZH| | |APP|[H5](https://wap.teelab.cn/app/index.html)|保全链|场外转赠|
