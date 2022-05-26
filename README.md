@@ -674,3 +674,4 @@
  |551|[印迹山海](https://www.tianyancha.com/company/5439705250)|WX_GZH| | | |[H5](https://h5.digitcollect.art/#/login?i=O1UGGdfylh)|XuperChain|场外转赠|
  |552|[相素](https://www.tianyancha.com/company/2572500802)|WX_GZH| | |APP|[H5](https://wap.teelab.cn/app/index.html)|保全链|场外转赠|
  |553|[魅特道](https://www.tianyancha.com/company/5498950404)|
+ |554|[GoodMeta](https://www.tianyancha.com/company/5459475387)|WX_GZH| | | |[H5](http://testbeta.goodmeta.club?source_uuid=4735682)||场外转赠|
