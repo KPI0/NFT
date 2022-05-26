@@ -669,4 +669,4 @@
  |546|[造梦时空Dreamtime](https://www.tianyancha.com/company/5413940968)|WX_GZH| | | |[H5](http://www.dreamtime.art/?inviteId=137015)|A凡达链|场外转赠|
  |547|[水晶Meta](https://www.tianyancha.com/company/3153808074)|WX_GZH| | | | |自研链|
  |548|[Healer Meta](https://www.tianyancha.com/company/3428255086)|WX_GZH| | | |[H5](https://www.healerapp.cn/healer_nft_web/nft_page/#/entrance_page?inviteCode=CChp&status=register)|
- |549|[炎帝灵境](https://www.tianyancha.com/company/5342048917)|WX_GZH| | | |[H5](http://yandi.vip/)|
+ |549|[炎帝灵境](https://www.tianyancha.com/company/5342048917)|WX_GZH| | | |[H5](https://yandi.zwl.net/index2.html?share_uid=b5bc029a3244654dbd75c1443573acc1&pageName=digital)|旅游链|
