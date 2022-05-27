@@ -621,7 +621,7 @@
  |496|[元狐数藏](https://www.tianyancha.com/company/3315127257)|WX_GZH| | |APP|[H5](https://yh.msjp.com.cn/web/register?referral_code=rokgoe)|
  |497|[FC数字艺术](https://www.tianyancha.com/company/5424870722)|WX_GZH| | |[APP](https://nft.fcszys.vip/reg/J8Q5OjWoJ)| |HECO|场外转赠|
  |498|[第5殿堂](https://www.tianyancha.com/company/4660294520)|WX_GZH| | | |[H5](https://dwdt.gxdate.cn/#/)|BSN文昌链|场外转赠|
- |499|[幻元鲸](https://www.tianyancha.com/company/5290136707)|WX_GZH| | |APP|[H5](https://www.huanyuanjing.com/whale/#/)|树图链|
+ |499|[幻元鲸](https://www.tianyancha.com/company/5290136707)|WX_GZH| | |APP|[H5](https://www.huanyuanjing.com/whale/#/pages/myCenter/myCenter?userCode=79797410)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
  |500|[奈斯Art](https://www.tianyancha.com/company/5489822612)|WX_GZH| | | |[H5](http://nice.jiubaguanjia.com/index/index/add_user?pid=194932)|
  |501|[Gone艺数](https://www.tianyancha.com/company/5475373789)|WX_GZH| | | |[H5](http://goneart.cn/#/phone/registered?code=36WY1v)|BSN联盟链|
