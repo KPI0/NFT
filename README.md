@@ -714,3 +714,4 @@
  |585|[元誉数藏](https://www.tianyancha.com/company/3294220175)|WX_GZH| | |APP|[H5](https://yy.szcp114.com/h5/)|元誉链|场外转赠|
  |586|[XMOT元屿](https://www.tianyancha.com/company/392414396)|WX_GZH| | | |[H5](https://xmot.ycmot.com/h5/pages/loading/index?id=6290cbe945b57)|新版链|场外转赠|
  |587|[予藏](https://www.tianyancha.com/company/18695545)|WX_GZH| | |APP|[H5](https://uc.hsl.link/digital-collection/#/my)|恒生链|场外转赠|
+ |588|[典藏数字艺术](https://www.tianyancha.com/company/5444630763)|WX_GZH| | |APP|[H5](https://www.diancang.net.cn/h5/#/pages/login/register?inviteCode=PUTL0M)|BSN联盟链|二级市场|
