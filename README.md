@@ -88,6 +88,7 @@
  |7|[千寻数藏](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp-share/bean.html?c=B2991251&f=invite)| |BSN联盟链|场外转赠| 
  |8|[律核Melocore](https://www.tianyancha.com/company/3432747118)|WX_GZH| | |[APP](https://wkzx.store/nC3c)|  |趣链|二级市场|
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[H5](https://m.honghuchain.com/)|鸿鹄链|场外转赠|
+ |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
  |10|[文博数藏](https://www.tianyancha.com/company/3474092560)|WX_GZH| | | |[H5](https://wbsc.wenboip.com/)|信证链|场外转赠|  
  |11|[StarArk数字文创](https://www.tianyancha.com/company/4975523596)|WX_GZH| | |APP|[H5](https://h5.stararknft.art/#/index)|BSC|二级市场|
  |11|[星舟元宇宙](https://www.tianyancha.com/company/5217248671)|WX_GZH| |  |APP|[H5](https://h5.stararknft.art/#/index)|BSC|二级市场|
