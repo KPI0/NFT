@@ -676,3 +676,4 @@
  |552|[相素](https://www.tianyancha.com/company/2572500802)|WX_GZH| | |APP|[H5](https://wap.teelab.cn/app/index.html)|保全链|场外转赠|
  |553|[魅特道](https://www.tianyancha.com/company/5498950404)|
  |554|[沅宇宙第一酒庄](https://www.tianyancha.com/company/1532514286)|WX_GZH|WX_XCX|        |  |[H5](http://vip.metachateau.cn/index.html#/pages/user?uid=13168)|蚂蚁链|二级市场|
+ |555|[混合宇宙](https://www.tianyancha.com/company/5427580809)|WX_GZH| | | |[H5](https://app.hunheyuzhou.com/#/)||二级市场|
