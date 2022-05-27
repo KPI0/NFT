@@ -73,6 +73,7 @@
  |39|蚂蚁链|鲸探APP_我的_区块链信息查询|
  |40|云画链|[https://explorer.cpaintchain.cn](https://explorer.cpaintchain.cn/)|
  |41|元誉区块链|[https://blockchain.yuanyusc.com](https://blockchain.yuanyusc.com/chain-search/)|
+ |42|SILVIA|[https://scan.shuziyuansheng.com](https://scan.shuziyuansheng.com/)|
  ## 四、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
@@ -716,3 +717,4 @@
  |587|[予藏](https://www.tianyancha.com/company/18695545)|WX_GZH| | |APP|[H5](https://uc.hsl.link/digital-collection/#/my)|恒生链|场外转赠|
  |588|[典藏数字艺术](https://www.tianyancha.com/company/5444630763)|WX_GZH| | |APP|[H5](https://www.diancang.net.cn/h5/#/pages/login/register?inviteCode=PUTL0M)|BSN联盟链|二级市场|
  |589|[TheHypeLand](https://www.tianyancha.com/company/5433132118)|WX_GZH| | ||[H5](http://www.thehypeland.cn/index/user/register.html?code=oc8oh3b4)|
+ |590|[数字原生](https://www.tianyancha.com/company/5302272371)|WX_GZH| | | |[H5](https://shuziyuansheng.com/)|SILVIA|
