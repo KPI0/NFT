@@ -189,6 +189,7 @@
  |97|[Nervina Labs](https://www.tianyancha.com/company/4329536260)|WX_GZH| | |  |[H5](https://mibao.net/explore)|Nervos|场外转赠|
  |98|[元宇宙创艺](https://www.tianyancha.com/company/3014706677)|WX_GZH| |   |   |[H5](https://meta.yihuipaimai.com/home)|Ethereum、Polygon|场外转赠|
  |99|[超洞世界](https://www.tianyancha.com/company/5377687255)|WX_GZH|||APP|[H5](https://www.osuper.top/Api/Wxlogin/qkl_home)|新版链|场外转赠|
+ |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
  |100|[时藏](https://www.tianyancha.com/company/208964795)|WX_GZH|  |中国搜索|  |[H5](https://collection.chinaso.com/collection-app/j/r?c=80cae0c0c5294850a119ac5785b6e9a5)|媒体融合链|
  |101|[M-ARTX幻艺空间](https://www.tianyancha.com/company/5362496563)|WX_GZH||||[H5](https://www.m-artx.com/)|自研链|二级市场|
  |102|[RAEX绿洲](https://www.tianyancha.com/company/2349468343)|WX_GZH|||APP|[H5](https://raex.vip/)|蚂蚁链|二级市场|
@@ -620,6 +621,7 @@
  |497|[FC数字艺术](https://www.tianyancha.com/company/5424870722)|WX_GZH| | |[APP](https://nft.fcszys.vip/reg/J8Q5OjWoJ)| |HECO|场外转赠|
  |498|[第5殿堂](https://www.tianyancha.com/company/4660294520)|WX_GZH| | | |[H5](https://dwdt.gxdate.cn/#/)|BSN文昌链|场外转赠|
  |499|[幻元鲸](https://www.tianyancha.com/company/5290136707)|WX_GZH| | |APP|[H5](https://www.huanyuanjing.com/whale/#/)|树图链|
+ |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
  |500|[奈斯Art](https://www.tianyancha.com/company/5489822612)|WX_GZH| | | |[H5](http://nice.jiubaguanjia.com/index/index/add_user?pid=194932)|
  |501|[Gone艺数](https://www.tianyancha.com/company/5475373789)|WX_GZH| | | |[H5](http://goneart.cn/#/phone/registered?code=36WY1v)|BSN联盟链|
  |502|[麒麟数藏](https://www.tianyancha.com/company/5007411159)|WX_GZH| | | |[H5](https://h5.shucangworld.com/?userCode=7c3522789bcc4de9a647463923970803)|树图链|
