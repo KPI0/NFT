@@ -72,6 +72,7 @@
  |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
  |39|蚂蚁链|鲸探APP_我的_区块链信息查询|
  |40|云画链|[https://explorer.cpaintchain.cn](https://explorer.cpaintchain.cn/)|
+ |41|元誉区块链|[https://blockchain.yuanyusc.com](https://blockchain.yuanyusc.com/chain-search/)|
  ## 四、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
@@ -710,3 +711,4 @@
  |582|[稀典数藏](https://www.tianyancha.com/company/3356757341)|WX_GZH|||APP|[H5](https://h5.zgjiju.com/pages/user/register/index?invite_code=8QZW4)|Polygon|场外转赠|
  |583|[元古数字艺术](https://www.tianyancha.com/company/4430506175)|WX_GZH| | |[APP](https://nft.limaiwangluo.cn/reg/z6X1qZqRO)| |HECO、XuperChain|场外转赠|
  |584|[MetaGeek元极客](https://www.tianyancha.com/company/5347948776)|WX_GZH| | | |[H5](https://h5.metageekuniverse.com/register?inviteCode=qu58cwti8w)|Polygon|二级市场|
+ |585|[元誉数藏](https://www.tianyancha.com/company/3294220175)|WX_GZH| | |APP|[H5](https://yy.szcp114.com/h5/)|元誉链|场外转赠|
