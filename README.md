@@ -710,5 +710,6 @@
  |581|[玄城数字世界](https://www.tianyancha.com/company/3437114529)|WX_GZH| | |APP|[H5](https://nft.qyrich.com/h5/pages/login/register?invite_code=a8xk8wkA)|蚂蚁链、XuperChain|场外转赠|
  |582|[稀典数藏](https://www.tianyancha.com/company/3356757341)|WX_GZH|||APP|[H5](https://h5.zgjiju.com/pages/user/register/index?invite_code=8QZW4)|Polygon|场外转赠|
  |583|[元古数字艺术](https://www.tianyancha.com/company/4430506175)|WX_GZH| | |[APP](https://nft.limaiwangluo.cn/reg/z6X1qZqRO)| |HECO、XuperChain|场外转赠|
- |584|[MetaGeek元极客](https://www.tianyancha.com/company/5347948776)|WX_GZH| | | |[H5](https://h5.metageekuniverse.com/register?inviteCode=qu58cwti8w)|Polygon|二级市场|
+ |584|[MetaGeek元极客](https://www.tianyancha.com/company/5347948776)|WX_GZH||||[H5](https://h5.metageekuniverse.com/register?inviteCode=qu58cwti8w)|Polygon|二级市场|
  |585|[元誉数藏](https://www.tianyancha.com/company/3294220175)|WX_GZH| | |APP|[H5](https://yy.szcp114.com/h5/)|元誉链|场外转赠|
+ |586|[XMOT元屿](https://www.tianyancha.com/company/392414396)|WX_GZH| | | |[H5](https://xmot.ycmot.com/h5/pages/loading/index?id=6290cbe945b57)|新版链|场外转赠|
