@@ -607,7 +607,7 @@
  |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | |APP|[H5](https://mc.nftsc.vip/#/pages/index?uuid=791770)||二级市场|
  |483|[艺数坊](https://www.tianyancha.com/company/5290912393)|WX_GZH| |ZFB_XCX| |[H5](https://m.degallery.cn/)|树图链|场外转赠|
  |484|[梵易艺术](https://www.tianyancha.com/company/5472214385)|WX_GZH| |艺数坊| | |树图链|场外转赠|
- |485|[铸元数藏](https://www.tianyancha.com/company/5421047191)|WX_GZH| | | | |BSN文昌链|
+ |485|[铸元数藏](https://www.tianyancha.com/company/5421047191)|WX_GZH| | | |[H5](https://m.mintmeta.cn/?#/)|BSN文昌链|场外转赠|
  |486|TT数藏|WX_GZH| | | | | |停止运营|
  |487|[云视空间](https://www.tianyancha.com/company/4049864861)|WX_GZH| | |APP|[H5](https://nft-register.yunshiar.com?invitation_code=bxi355ds)|BSN联盟链|场外转赠|
  |488|[鱿物数藏](https://www.tianyancha.com/company/5446106684)|WX_GZH| |优酷APP| | |光笺链|场外转赠|
@@ -722,3 +722,4 @@
  |593|[独立艺术](https://www.tianyancha.com/company/5333604461)|WX_GZH| | | |[H5](https://dl.mutoall.com/?inviteUUID=030335)|BSN联盟链|二级市场|
  |594|[开元艺术](https://www.tianyancha.com/company/5309460307)|WX_GZH| | | |H5|BSN文昌链|场外转赠|
  |595|[数藏猫](https://www.tianyancha.com/company/4352812028)|WX_GZH| | |APP|[H5](https://h5.nftscat.cn/#/pages/registered/registered?inviteCode=FHPW1W)||场外转赠|
+ |596|[天元世界](https://www.tianyancha.com/company/3431985670)|WX_GZH| | | |[H5](https://ty.gogowing.com/pages/login/register?sharecode=b16a44ea259e73571a965de150053a4d)|Polygon|二级市场|
