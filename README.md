@@ -605,7 +605,7 @@
  |479|[光子星球](https://www.tianyancha.com/company/5389140935)|WX_GZH||||[H5](https://activity.xplayers.space/flyer/f2ffa146-d58e-11ec-9a84-3ef7d201f60f)|BSN联盟链|
  |480|[icon数字文创](https://www.tianyancha.com/company/5408023991)|WX_GZH| | | |[H5](https://www.iconszwc.com/register?recommender=178727)|BSN联盟链|场外转赠|
  |481|[鲸藏](https://www.tianyancha.com/company/3196684818)|WX_GZH| | |[APP](https://h5.jingcang100.com/register?c=0DSQTB)||鲸藏链|场外转赠|
- |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | | |[H5](https://mc.nftsc.vip/#/pages/index?uuid=791770)|
+ |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | |APP|[H5](https://mc.nftsc.vip/#/pages/index?uuid=791770)||二级市场|
  |483|[艺数坊](https://www.tianyancha.com/company/5290912393)|WX_GZH| |ZFB_XCX| |[H5](https://m.degallery.cn/)|树图链|场外转赠|
  |484|[梵易艺术](https://www.tianyancha.com/company/5472214385)|WX_GZH| |艺数坊| | |树图链|场外转赠|
  |485|[铸元数藏](https://www.tianyancha.com/company/5421047191)|WX_GZH| | | | |BSN文昌链|
