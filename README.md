@@ -722,4 +722,4 @@
  |592|[EVOL乐园宇宙](https://www.tianyancha.com/company/5064278936)|WX_GZH| | | |[H5](https://evol.xiangweisir.com/h5/#/pages/login/login?sharecode=Pfo1B0)|蚂蚁链|
  |593|[独立艺术](https://www.tianyancha.com/company/5333604461)|WX_GZH| | | |[H5](https://dl.mutoall.com/?inviteUUID=030335)|BSN联盟链|二级市场|
  |594|[开元艺术](https://www.tianyancha.com/company/5309460307)|WX_GZH| | | |H5|BSN文昌链|场外转赠|
- |595|[数藏猫](https://www.tianyancha.com/company/4352812028)|WX_GZH| | |APP|[H5](https://h5.nftscat.cn/#/pages/registered/registered?inviteCode=FHPW1W)|
+ |595|[数藏猫](https://www.tianyancha.com/company/4352812028)|WX_GZH| | |APP|[H5](https://h5.nftscat.cn/#/pages/registered/registered?inviteCode=FHPW1W)||场外转赠|
