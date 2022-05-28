@@ -720,3 +720,4 @@
  |590|[数字原生](https://www.tianyancha.com/company/5302272371)|WX_GZH| | | |[H5](https://shuziyuansheng.com/)|SILVIA|
  |591|[陨禾艺数](https://www.tianyancha.com/company/5469781475)|WX_GZH| | | |[H5](http://www.yunhemeta.com/)|
  |592|[EVOL乐园宇宙](https://www.tianyancha.com/company/5064278936)|WX_GZH| | | |[H5](https://evol.xiangweisir.com/h5/#/pages/login/login?sharecode=Pfo1B0)|蚂蚁链|
+ |593|[独立艺术](https://www.tianyancha.com/company/5333604461)|WX_GZH| | | |[H5](https://dl.mutoall.com/?inviteUUID=030335)|BSN联盟链|二级市场|
