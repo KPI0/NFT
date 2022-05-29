@@ -345,7 +345,7 @@
  |241|[混沌数藏](https://www.tianyancha.com/company/3027694563)|WX_GZH| | | |[H5](http://inv.chaostarx.com/#/active/JrcTat)|
  |242|[魔方云数藏](https://www.tianyancha.com/company/5408910881)|WX_GZH| | |APP|[H5](https://www.mofangyun.co)|长安链|场外转赠|
  |243|[藏米数藏](https://www.tianyancha.com/company/4360549107)|WX_GZH| | |APP|[H5](https://shucang.ihope99.cn/pages/register/register?agentid=69201)|藏米链|
- |244|[奇点元宇宙](https://www.tianyancha.com/company/3054898671)|WX_GZH| | | |[H5](https://www.qidiannft.com/H5/#/pages/myTeam/myTeam?joinCode=4826180)|
+ |244|[奇点元宇宙](https://www.tianyancha.com/company/3054898671)|WX_GZH| | | |[H5](https://www.qidiannft.com/H5/#/pages/myTeam/myTeam?joinCode=4826180)|BSN联盟链|
  |245|[水滴数藏](https://www.tianyancha.com/company/3144499477)|WX_GZH| | |[APP](http://c.shu-gu.cn/api/h5register/spreadId/KF9MK)| |
  |246|[宙域](https://www.tianyancha.com/company/5240344473)|WX_GZH| | |[APP](http://api.zhouyunft.com/Public/h5?rid=gsaD39AA)| |蚂蚁链|二级市场|
  |247|[归藏Meta](https://www.tianyancha.com/company/1296272773)|WX_GZH| | |[APP](https://cang.kueen.cc/register?share_code=fcukk)| |蚂蚁链、金链盟|二级市场|
