@@ -701,7 +701,7 @@
  |569|[黑洞谜塔Meta](https://www.tianyancha.com/company/5455528871)|WX_GZH| | | |[H5](https://www.hdmeta.art/)|金链盟|场外转赠|
  |570|[幻音Music Meta](https://www.tianyancha.com/company/5451887026)|WX_GZH| | |APP|[H5](https://h5.music-meta.net/#/pages/login?inviteCode=WPEDY7Y7SJHUA)|XuperChain|场外转赠|
  |571|[鲸选艺品](https://www.tianyancha.com/company/4233963368)|WX_GZH| | |APP|[H5](https://h5.gewukj.vip/#/pages/index?inviteUId=26296)|蚂蚁链|场外转赠|
- |572|[九维艺术平台](https://www.tianyancha.com/company/5484321885)|WX_GZH| | |APP|H5|BSN联盟链|
+ |572|[九维艺创](https://www.tianyancha.com/company/5484321885)|WX_GZH| | |APP|[H5](http://jw.jwnft.cn/h5/index.html#/?qid=88160)|BSN联盟链|场外转赠|
  |573|[开壹元宇宙](https://www.tianyancha.com/company/5492762051)|WX_GZH| | | |[H5](http://m.kaione-sh.cn/?pshop_id=2046604#/app_kaiyi-pshopsharetarget)|XuperChain|二级市场|
  |574|[魔狸moli](https://www.tianyancha.com/company/3224276361)|WX_GZH| | | |[H5](https://m.moli.work/)|
  |575|[光艺数字平台](https://www.tianyancha.com/company/3404835509)|WX_GZH| | | |[H5](https://www.lightofart.cn/?spread=134825#/)||二级市场|
