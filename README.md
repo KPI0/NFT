@@ -387,7 +387,7 @@
  |277|[极蝠数创](https://www.tianyancha.com/company/5385804729)|WX_GZH| | | |[H5](http://www.jifushuchuang.cn)|
  |278|[创者汇](https://www.tianyancha.com/company/3095255718)|WX_GZH|WX_XCX| |APP|[H5](https://chyzhe.chydof.xin/h5/#/pages/home/manghe/register?referee_id=CGK70LH2)||二级市场|
  |279|[数藏绿岛](https://www.tianyancha.com/company/3427284620)|WX_GZH| | |[APP](http://www.lvdao666.com?s_d=m97312694&img_id=1&img_id=fx5.png)| |
- |280|[易数藏](https://www.tianyancha.com/company/1530805485)|WX_GZH| | |[APP](http://media.diandongge.com/yishucang/h5/bear2/register.html?code=efmKMLkF)| |
+ |280|[易数藏](https://www.tianyancha.com/company/1530805485)|WX_GZH|   |    |[APP](http://media.diandongge.com/yishucang/h5/bear2/register.html?code=efmKMLkF)| |BSN联盟链|场外转赠|
  |281|[星元数](https://www.tianyancha.com/company/3113164722)|WX_GZH|WX_XCX| | |[H5](https://xys-m.yikart.cn/pages/market/index)|至信链|
  |282|[新数元](https://www.tianyancha.com/company/5322966004)|WX_GZH|WX_XCX||APP|[H5](https://m.xsynft.com/#/pages/passport/register?query=%7B%22referred_by%22:31585%7D)||二级市场|
  |283|[元宙数藏](https://www.tianyancha.com/company/5415220068)|WX_GZH| | | |[H5](https://yuanzhou.vip/index.html#/pages/login/login?yqm=Tpm3hU)|XuperChain|场外转赠|
