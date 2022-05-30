@@ -600,7 +600,7 @@
  |473|[大艺数家](https://www.tianyancha.com/company/5482159235)|WX_GZH| | | |[H5](http://www.greatartistmeta.com/index)|
  |474|[灵兽宇宙](https://www.tianyancha.com/company/3231030291)|WX_GZH| | | |[H5](https://hlimso.wcyj2020.com/#/pages/Welcome/Welcome?inviteCode=5b5e4240)|至信链|
  |475|[元艺术](https://www.tianyancha.com/company/5415392675)|WX_GZH| | | |[H5](http://h5.yys.art/pages/mine/shareMax?source_uuid=4735682)|BSN联盟链|场外转赠|
- |475|[GoodMeta](https://www.tianyancha.com/company/5459475387)|WX_GZH| | | |[H5](http://testbeta.goodmeta.club?source_uuid=4735682)|BSN联盟链|场外转赠|
+ |475|[GoodMeta](https://www.tianyancha.com/company/5459475387)|WX_GZH| | |APP|[H5](http://testbeta.goodmeta.club?source_uuid=4735682)|BSN联盟链|场外转赠|
  |476|[哈希数藏](https://www.tianyancha.com/company/4995395207)|WX_GZH| | | |[H5](http://ganying365.cn/home/Register/yqregister?invitecode=42759486)|
  |477|[元始部落](https://www.tianyancha.com/company/3319379680)|WX_GZH| | |[APP](https://www.metatribe.social/h5/pages/activity/activity?share_id=710883304070561792&page=invite)||BSN文昌链|
  |478|[BOSS艺术品](https://www.tianyancha.com/company/5402301021)|WX_GZH| | | |[H5](https://shop.bossyyz.cn/#/register?userCode=652205157601&activityCode=669a5c45ea1b4415895be886c224e2d3)|树图链|
