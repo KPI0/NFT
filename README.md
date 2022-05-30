@@ -774,4 +774,5 @@
  |641|[字度数字藏品](https://www.tianyancha.com/company/5457744617)|WX_GZH|   |   |  |[H5](https://vip.zidushucang.com/#/pages/public/register?usercode=ZfZm1IA2)|BSN联盟链|场外转赠|
  |642|[梵星海藏](https://www.tianyancha.com/company/5298848536)|WX_GZH| | |[APP](https://app.nftboxpad.com/register.html?inviteCode=F5PGNHXQ)| |蚂蚁链|场外转赠|
  |643|[数漫社](https://www.tianyancha.com/company/3226054207)|WX_GZH| | |[APP](http://dapi.shuman.art/Public/h5/#/?rid=aQmBB047)| |蚂蚁链|二级市场|
+ |644|[脉乐元宇宙](https://www.tianyancha.com/company/4698038546)|WX_GZH|WX_XCX| | |[H5](https://mailechain.com/mk/box/100007?invite_unionid=o1OTy6HDuBRsQ1ykPJ07dSTPVBPg)|MaileChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
