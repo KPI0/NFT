@@ -336,7 +336,7 @@
  |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[H5](https://h5.yit.com/index.html)|至信链|
  |230|[鲸雅](https://www.tianyancha.com/company/1410089410)|WX_GZH| | |[APP](https://cang.kueen.cc/register/?share_code=fcukk)| |蚂蚁链、金链盟|场外转赠|
  |231|[麒麟文化](https://www.tianyancha.com/company/3412258400)|WX_GZH| | |APP|[H5](https://api.nft-kylin.com/#/?i=OQzwOLI7z4)|BSN联盟链|二级市场|
- |232|[魔元数字藏品](https://www.tianyancha.com/company/5349277462)|WX_GZH| | |[APP](https://h5.moyuan.art/invite/register?customerId=1514157041477222469)| |
+ |232|[魔元数字藏品](https://www.tianyancha.com/company/5349277462)|WX_GZH| | |[APP](https://h5.moyuan.art/invite/register?customerId=1514157041477222469)| ||场外转赠|
  |233|[ADA元宇宙](https://www.tianyancha.com/company/3359300098)|WX_GZH| | | |[H5](https://nftlabm.yuzhouya.com/pages/index/index?invitation=zM7Qm5pG)|数藏链|二级市场|
  |233|[宇宙鸭](https://www.tianyancha.com/company/3359300098)|WX_GZH| | | |[H5](https://nftlabm.yuzhouya.com/pages/index/index?invitation=zM7Qm5pG)|数藏链|二级市场|
  |234|[鸭藏](https://www.tianyancha.com/company/5314349484)|WX_GZH|WX_XCX| | | |中数链|
