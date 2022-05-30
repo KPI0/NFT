@@ -599,7 +599,6 @@
  |472|[知音数藏](https://www.tianyancha.com/company/5075360691)|WX_GZH| | | |[H5](https://www.zyszcp.com/#/pages/index/index?v=592&inviteCode=aajemx4rcjRh3Z67ypM6Hg)|星火·链网|场外转赠|
  |473|[大艺数家](https://www.tianyancha.com/company/5482159235)|WX_GZH| | | |[H5](http://www.greatartistmeta.com/index)|
  |474|[灵兽宇宙](https://www.tianyancha.com/company/3231030291)|WX_GZH| | | |[H5](https://hlimso.wcyj2020.com/#/pages/Welcome/Welcome?inviteCode=5b5e4240)|至信链|
- |475|[元艺术](https://www.tianyancha.com/company/5415392675)|WX_GZH| | | |[H5](http://h5.yys.art/pages/mine/shareMax?source_uuid=4735682)|BSN联盟链|场外转赠|
  |475|[GoodMeta](https://www.tianyancha.com/company/5459475387)|WX_GZH| | |APP|[H5](http://go.goodmeta.club?code=685343358)|BSN联盟链|场外转赠|
  |476|[哈希数藏](https://www.tianyancha.com/company/4995395207)|WX_GZH| | | |[H5](http://ganying365.cn/home/Register/yqregister?invitecode=42759486)|
  |477|[元始部落](https://www.tianyancha.com/company/3319379680)|WX_GZH| | |[APP](https://www.metatribe.social/h5/pages/activity/activity?share_id=710883304070561792&page=invite)||BSN文昌链|
@@ -778,4 +777,5 @@
  |645|[看漫](https://www.tianyancha.com/company/3011518441)|WX_GZH| | | |[H5](https://collect.mh51.com/login?invite_user_id=280433)||场外转赠|
  |646|潘多拉数藏| | | |[APP](http://pdl.jiyikapian.top:83/qr/119277)| |BSN联盟链|二级市场|
  |647|[奇藏果](https://www.tianyancha.com/company/5476515456)|WX_GZH| | |[APP](https://h5.qicang.vip/register?c=0CHHSX)| | |交易市场|
+ |648|[元艺术](https://www.tianyancha.com/company/5415392675)|WX_GZH| | | |[H5](http://h5.yys.art/pages/mine/shareMax?source_uuid=4735682)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
