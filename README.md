@@ -790,4 +790,5 @@
  |657|[金赞元宇宙](https://www.tianyancha.com/company/3397311726)|WX_GZH| | |APP|[H5](http://h5.jinzan.cc?invite_code=MDAwMDAwMDAwMLCasmiGrr52)|XuperChain|二级市场|
  |658|[一画数藏](https://www.tianyancha.com/company/3011518441)|WX_GZH| | |APP|[H5](https://m.1hua.art/wap/login.html?code=BALKPJ)|Polygon|场外转赠|
  |659|[Meta虚元](https://www.tianyancha.com/company/5482028464)|WX_GZH| | |APP|[H5](https://m.v-meta.art/#/home?code=3b7hmi35)|BSN联盟链|二级市场|
+ |660|[云艺数藏](https://www.tianyancha.com/company/5424433007)|WX_GZH| | |[APP](https://nft.yunyi.fit/reg/Z805GVQMQ)| |Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
