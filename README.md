@@ -788,4 +788,5 @@
  |655|[零一数藏](https://www.tianyancha.com/company/5485506135)|WX_GZH| | |[APP](https://h5.lingyishucang.com/#/pages/d)| |BSN联盟链|场外转赠|
  |656|[vMax艺术](https://www.tianyancha.com/company/5494922057)|WX_GZH| | |APP|[H5](https://vmax.wutao7.top/h5/#/pages/user/register?UID=53577)||二级市场|
  |657|[金赞元宇宙](https://www.tianyancha.com/company/3397311726)|WX_GZH| | |APP|[H5](http://h5.jinzan.cc?invite_code=MDAwMDAwMDAwMLCasmiGrr52)|XuperChain|二级市场|
+ |658|[一画数藏](https://www.tianyancha.com/company/3011518441)|WX_GZH| | |APP|[H5](https://m.1hua.art/wap/login.html?code=BALKPJ)|Polygon|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
