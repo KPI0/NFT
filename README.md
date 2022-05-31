@@ -785,4 +785,5 @@
  |652|[道客元宇宙](https://www.tianyancha.com/company/5518695898)|WX_GZH|
  |653|[三万数藏](https://www.tianyancha.com/company/5394282723)|WX_GZH| | | |[H5](http://h5.sanwan.club/#/)|海峡链|场外转赠|
  |654|[元域空间](https://www.tianyancha.com/company/3370224617)|WX_GZH| | |APP|[H5](https://h5.xgr168.com/inviteLink?invitationCode=n6dszj)||场外转赠|
+ |655|[零一数藏](https://www.tianyancha.com/company/5485506135)|WX_GZH| | |[APP](https://h5.lingyishucang.com/#/pages/d)| |BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
