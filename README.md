@@ -335,7 +335,7 @@
  |226|[元代数藏](https://www.tianyancha.com/company/5344807057)|WX_GZH| | | |[H5](https://dc.metaera.tech/)|树图链|场外转赠|
  |227|[东方文明](https://www.tianyancha.com/company/2358793775)|WX_GZH| | |APP||BSC|场外转赠|
  |228|[万链数藏](https://www.tianyancha.com/company/5001649403)|WX_GZH| | |APP|[H5](https://h5.wanlian.art/s/#/register?c=AUTGQP)|Ethereum|二级市场|
- |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[H5](https://h5.yit.com/index.html)|至信链|
+ |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[H5](https://h5.yit.com/index.html)|至信链|场外转赠|
  |230|[鲸雅](https://www.tianyancha.com/company/1410089410)|WX_GZH| | |[APP](https://cang.kueen.cc/register/?share_code=fcukk)| |蚂蚁链、金链盟|场外转赠|
  |231|[麒麟文化](https://www.tianyancha.com/company/3412258400)|WX_GZH| | |APP|[H5](https://api.nft-kylin.com/#/?i=OQzwOLI7z4)|BSN联盟链|二级市场|
  |232|[魔元数字藏品](https://www.tianyancha.com/company/5349277462)|WX_GZH| | |[APP](https://h5.moyuan.art/invite/register?customerId=1514157041477222469)| ||场外转赠|
