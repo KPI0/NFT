@@ -808,4 +808,5 @@
  |673|[天猫数字藏品](https://www.tianyancha.com/company/3275412272)| | |天猫APP|[APP](https://m.tb.cn/h.fGzhJlB?sm=a9506d?tk=ZKMk2OhBQch)||蚂蚁链|场外转赠|
  |674|[玺岳数藏](https://www.tianyancha.com/company/5439468756)|WX_GZH| | | |[H5](http://xiyuemeta.com/)||场外转赠|
  |675|[天极数字文化](https://www.tianyancha.com/company/5125169197)|WX_GZH|
+ |676|[数猕艺术](https://www.tianyancha.com/company/3102294952)|WX_GZH| | |APP|[H5](http://app.sdrkz.cn/web/#/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
