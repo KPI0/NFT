@@ -811,4 +811,5 @@
  |676|[数猕艺术](https://www.tianyancha.com/company/3102294952)|WX_GZH| | |APP|[H5](http://app.sdrkz.cn/web/#/)|天河链|场外转赠|
  |677|[首派藏品](https://www.tianyancha.com/company/5471630640)|WX_GZH| | | |[H5](https://h5.firstpi.cn/h5/)|XuperChain|场外转赠|
  |678|[宙藏艺术](https://www.tianyancha.com/company/5442011881)|WX_GZH| | |APP|[H5](https://art.zcys.vip/pages/register/register?invitationCode=40SDR2)||二级市场|
+ |679|[熵之域](https://www.tianyancha.com/company/3447745861)|WX_GZH| | |[APP](http://szy.yongjiuqucang.cn/#/pages/login/register?yqm=160913174)||熵链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
