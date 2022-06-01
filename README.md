@@ -123,7 +123,7 @@
  |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554)|WX_GZH|||[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS)|  |树图链|二级市场|
  |33|[超维元宇宙](https://www.tianyancha.com/company/5225866617)|WX_GZH| |ZFB_XCX|[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)||蚂蚁链|二级市场|
  |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |APP|[H5](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链|
- |35|[画生Meta](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|场外转赠|
+ |35|[画生Meta](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|二级市场|
  |36|[灵境商店](https://www.tianyancha.com/company/3450444562)|WX_GZH|  |   |[APP](https://lingjingshangdian.com/)| |蚂蚁链|场外转赠|
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300)|WX_GZH| | |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)||XuperChain|二级市场|
  |38|[HOTDOG](https://www.tianyancha.com/company/3215999085)|WX_GZH|||[APP](https://a.app.qq.com/o/simple.jsp?pkgname=aiera.sneaker.snkrs.aiera)||BSN联盟链|二级市场|
