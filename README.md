@@ -78,6 +78,7 @@
  |42|SILVIA|[https://scan.shuziyuansheng.com](https://scan.shuziyuansheng.com/)|
  |43|圆圈链|[https://browser.xbeepay.net](https://browser.xbeepay.net/#/home)|
  |44|存安链|[https://www.cunanchain.com](https://explorer.cunanchain.com/#/home)|
+ |45|摩点链|[https://crypto.lockerr.cn](https://crypto.lockerr.cn/browser#/block)|
  ## 四、平台收集
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
@@ -324,7 +325,7 @@
  |217|[速藏数字文创](https://www.tianyancha.com/company/5436365802)|WX_GZH|||[APP](https://h5.jxrchain.pro/register?c=0DJDZL)||速藏链|场外转赠|
  |218|[Zverse星图比特](https://www.tianyancha.com/company/2342858194)|WX_GZH| | | |[H5](https://zverse.gachafun.com/me)|树图链、Ethereum|场外转赠|
  |219|[麟境](https://www.tianyancha.com/company/3423518998)|WX_GZH| | |APP|[H5](https://www.hashtreas.com/h5/index.html)|XuperChain|场外转赠|
- |220|[摩点](https://www.tianyancha.com/company/3068534124)|WX_GZH| | |[APP](https://m.modian.com/about/share?&utm_source=Appshare&utm_content=1003677704)| |
+ |220|[摩点](https://www.tianyancha.com/company/3068534124)|WX_GZH| | |[APP](https://m.modian.com/)|[H5](https://m-dc.lockerr.cn/#/)|摩点链|场外转赠|
  |221|[DAW大屋](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[H5](https://daw-h5.hncaee.com/pages/main/main)|大唐链|二级市场|
  |221|[嗨艺购](https://www.tianyancha.com/company/5337562576)|WX_GZH| | |APP|[H5](https://daw-h5.hncaee.com/pages/main/main)|大唐链|二级市场|
  |222|[美幻艺术数藏](https://www.tianyancha.com/company/3221774379)|WX_GZH|||APP|[H5](https://www.meihuan.art/index.html#/?content=G9255435)|蚂蚁链|二级市场|
