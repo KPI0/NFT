@@ -139,7 +139,7 @@
  |47|[Hi元宇宙](https://www.tianyancha.com/company/3349949071)|WX_GZH| | |APP|[H5](https://szwc.bojunwenhua.cn/pages/tabBar/index1?invite_code=601F2E51886004F7)|骏途链|场外转赠|
  |48|[稀象](https://www.tianyancha.com/company/3423558507)|WX_GZH| | |APP|[H5](https://shop.yes-nft.com/h5/#/)|BSN文昌链|二级市场|
  |49|Metachaos|WX_GZH|[WX_XCX](https://github.com/KPI0/NFT/blob/main/images/metachaos.png)|                |              |             |
- |50|[女娲NVWA](https://www.tianyancha.com/company/5075896802)|WX_GZH| | | |[H5](https://nvwanft.cc/#/index?inviteCode=57C574F)|CUN|场外转赠|
+ |50|[女娲NVWA](https://www.tianyancha.com/company/5075896802)|WX_GZH| | | |[H5](https://nvwanft.cc/#/index?inviteCode=57C574F)|CUN|二级市场|
  |51|[SKY艺术空间](https://www.tianyancha.com/company/5349013917)|WX_GZH| | |APP|[H5](http://h5.skynfr.cn/pages/register/register?userCode=7c497a214c8f4863b5b293003680fc01)|HECO|二级市场|
  |52|[Cosmos Art](https://www.tianyancha.com/company/2319861080)|WX_GZH||||[H5](https://nft.9space.vip/cosmos/register?invitor=2304692)|Ethereum|二级市场|
  |53|[ONE数字艺术](https://www.tianyancha.com/company/3345735331)|WX_GZH| | | |[H5](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)|HECO|二级市场|
