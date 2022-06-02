@@ -526,7 +526,7 @@
  |402|[HelloNFT](https://www.tianyancha.com/company/5328877527)|WX_GZH||||[H5](http://qrcode.hello-load.com/?invite_code=lLSZuGHpCgKsGioP)|BSN联盟链、至信链|二级市场|
  |403|[会员任我选](https://www.tianyancha.com/company/786980272)|WX_GZH| | | |[H5](http://link.aplusunion.cn/nft/home)|中移链|
  |404|[黔艺数藏](https://www.tianyancha.com/company/5419679621)|WX_GZH| | | |[H5](http://qyszcp.com?inviter_id=15065)| |场外转赠|
- |405|[点击数藏](https://www.tianyancha.com/company/3353112981)|WX_GZH| | | |[H5](https://h5.sc.dj.cn/#/pages/auth/login?referee_id=174f8)|蚂蚁链|场外转赠|
+ |405|[点击数藏](https://www.tianyancha.com/company/3353112981)|WX_GZH| | |APP|[H5](https://h5.sc.dj.cn/#/pages/auth/login?referee_id=174f8)|蚂蚁链|场外转赠|
  |406|[至臻数藏](https://www.tianyancha.com/company/3074440129)|WX_GZH| | | |[H5](http://dc.hzfawei.com/#/phone/activity/?activity_code=mekBQq&invitation_code=QznGkr)|BSN联盟链|
  |407|[提米元宇宙](https://www.tianyancha.com/company/5174761993)|WX_GZH| | | |[H5](https://www.tgnft.com.cn/#/?invite=ovcp7ear)|Polygon|场外转赠|
  |408|[梵元科技数藏](https://www.tianyancha.com/company/5340100246)|WX_GZH| | | |[H5](https://shop.fyuan.cc/)|超块链|场外转赠|
@@ -825,4 +825,5 @@
  |689|[中链艺藏](https://www.tianyancha.com/company/5434688236)|WX_GZH| | | | |BSN文昌链|
  |690|[极盾数藏](https://www.tianyancha.com/company/5439873662)|WX_GZH| | |APP|[H5](http://jdsc.jidunnft.com/home/Index/index?invite_code=JDSC715017)|蚂蚁链|场外转赠|
  |691|华宇宙|
+ |692|[灵鲸数艺](https://www.tianyancha.com/company/5464405250)|WX_GZH| | | |[H5](https://www.metatai.net/?invitationCode=7LhiR7r)|梧桐链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
