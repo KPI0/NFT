@@ -830,7 +830,7 @@
  |694|[奇码数藏](https://www.tianyancha.com/company/3444234585)|WX_GZH| | | |[H5](http://nft.oddcodes.com/signup?inviteUid=55292973486702593)||场外转赠|
  |695|[幻象潮流艺术](https://www.tianyancha.com/company/3092137641)|WX_GZH| | |APP|[H5](https://huanxiang.pro/)||场外转赠|
  |696|狐狸数藏| | | |APP|[H5](http://app.hulinft.art/h5/#/pages/login/reg?invite=TVS4UK)|BSN文昌链|二级市场|
- |697|[玄梦阁数藏](https://www.tianyancha.com/company/5430805454)|WX_GZH| | |[APP](https://source.xuanmengge.com/app-release_1.0.1.apk)|XuperChain|场外转赠|
+ |697|[玄梦阁数藏](https://www.tianyancha.com/company/5430805454)|WX_GZH| | |[APP](https://source.xuanmengge.com/app-release_1.0.1.apk)| |XuperChain|场外转赠|
  |698|[星云艺术空间](https://www.tianyancha.com/company/5428397236)|WX_GZH| | |APP|[H5](https://xyys.xyszzp.com/h5/index.html#/?qid=109265)|蚂蚁链|场外转赠|
  |699|[数藏天下meta](https://www.tianyancha.com/company/3449530500)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
