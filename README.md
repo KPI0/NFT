@@ -777,7 +777,7 @@
  |642|[梵星海藏](https://www.tianyancha.com/company/5298848536)|WX_GZH| | |[APP](https://app.nftboxpad.com/register.html?inviteCode=F5PGNHXQ)| |蚂蚁链|场外转赠|
  |643|[数漫社](https://www.tianyancha.com/company/3226054207)|WX_GZH| | |[APP](http://dapi.shuman.art/Public/h5/#/?rid=aQmBB047)| |蚂蚁链|二级市场|
  |644|[脉乐元宇宙](https://www.tianyancha.com/company/4698038546)|WX_GZH|WX_XCX| | |[H5](https://mailechain.com/mk/box/100007?invite_unionid=o1OTy6HDuBRsQ1ykPJ07dSTPVBPg)|MaileChain|二级市场|
- |645|[看漫](https://www.tianyancha.com/company/3011518441)|WX_GZH| | | |[H5](https://collect.mh51.com/login?invite_user_id=280433)||场外转赠|
+ |645|[看漫](https://www.tianyancha.com/company/3011518441)|WX_GZH| | | |[H5](https://collect.mh51.com/login?invite_user_id=280433)|Polygon|场外转赠|
  |646|潘多拉数藏| | | |[APP](http://pdl.jiyikapian.top:83/qr/119277)| |BSN联盟链|二级市场|
  |647|[奇藏果](https://www.tianyancha.com/company/5476515456)|WX_GZH| | |[APP](https://h5.qicang.vip/register?c=0CHHSX)| | |交易市场|
  |648|[元艺术](https://www.tianyancha.com/company/5415392675)|WX_GZH| | | |[H5](http://h5.yys.art/pages/mine/shareMax?source_uuid=4735682)|BSN联盟链|场外转赠|
