@@ -303,7 +303,7 @@
  |195|[意树数藏](https://www.tianyancha.com/company/5019987083)|WX_GZH|WX_XCX| |APP|[H5](https://h5.secretbox.top/#/pages/login/login?scene=89116)|Polygon|场外转赠|
  |196|[Rivvoo润沃](https://www.tianyancha.com/company/4986633027)|WX_GZH| | | |[H5](https://www.rivvoo.xyz/#/pages/login/register?invitationCode=b89108bf57152cf6)||二级市场|
  |197|[U Myth神话宇宙](https://www.tianyancha.com/company/4359262351)|WX_GZH| | | |[H5](http://u-myth.cn/h5/#/pages/login/register?inviteCode=J5IEQ2)|BSC|二级市场|
- |198|[倚米](https://www.tianyancha.com/company/5413462753)|WX_GZH| | |[APP](https://app.yiminft.com/)||蚂蚁链|场外转赠|
+ |198|[倚米](https://www.tianyancha.com/company/5413462753)|WX_GZH| | |[APP](https://app.yiminft.com/)||蚂蚁链|二级市场|
  |199|[OneTik数字文创](https://www.tianyancha.com/company/3212176952)|WX_GZH| | |APP|[H5](https://h5.onetik.cn)|XuperChain|二级市场|
  |200|[C位数字](https://www.tianyancha.com/company/5364617909)|WX_GZH| | |APP|[H5](https://www.centerwei.com/register?parentUserId=7305)|XFS|二级市场|
  |201|[顶艺TopArt](https://www.tianyancha.com/company/4021813173)|WX_GZH| | |[APP](https://cang.kueen.cc/register/?share_code=fcukk)|[H5](https://m.dingyi.kueen.cc)|蚂蚁链|二级市场|
@@ -592,7 +592,7 @@
  |462|[四维互动](https://www.tianyancha.com/company/2406586766)|WX_GZH| | | |[H5](https://m.siweihudong.com.cn/pages/login/landingPage?inviteCode=uu1l11)|
  |463|[创造宇宙](https://www.tianyancha.com/company/5415107252)|WX_GZH| | |[APP](https://registernft.czyznft.com/index.html?code=4783546)||Polygon|场外转赠|
  |464|[创造者数藏魔方](https://www.tianyancha.com/company/5409205549)|WX_GZH| | | |[H5](https://m.racing-sun.com/pages/blind/index)|BSN泰安链|场外转赠|
- |465|[古登堡市场](https://www.tianyancha.com/company/4310350711)|WX_GZH| | | |[H5](http://h5.meta-ai.work/#/?id=8a69Us)||二级市场|
+ |465|[古登堡市场](https://www.tianyancha.com/company/4310350711)|WX_GZH|    |   |[APP](https://ff.oecva.com/app.php/NjM2)|[H5](http://h5.meta-ai.work/#/?id=8a69Us)|  |二级市场|
  |466|[星脉数藏](https://www.tianyancha.com/company/5271406090)|WX_GZH|
  |467|[星空数藏](https://www.tianyancha.com/company/3104455319)|WX_GZH| | | |[H5](https://home.xksc.com.cn/index/)|Polygon|场外转赠|
  |468|[钛可星球](https://www.tianyancha.com/company/5096892221)|WX_GZH|WX_XCX| | |[H5](http://mtikoplanet.com:8090/#/)|
