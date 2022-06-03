@@ -79,6 +79,9 @@
  |43|圆圈链|[https://browser.xbeepay.net](https://browser.xbeepay.net/#/home)|
  |44|存安链|[https://www.cunanchain.com](https://explorer.cunanchain.com/#/home)|
  |45|摩点链|[https://crypto.lockerr.cn](https://crypto.lockerr.cn/browser#/block)|
+ |46|WaykiChain|[https://www.waykichain.com/](https://www.waykiscan.com/#/)|
+ |47|梧桐链|[https://www.wutongchain.com/](https://ts.wutongchain.com/#/)|
+ |48|MaileChain|[https://www.mailechain.com](https://www.mailechain.com/)|
  ## 四、平台收集🔞
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
