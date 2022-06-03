@@ -836,5 +836,5 @@
  |703|[象探](https://www.tianyancha.com/company/5382850552)|WX_GZH| | |[APP](https://download.friendwing.com.cn?invitationCode=EK22076610)||奇迹链|二级市场|
  |704|[幻域空间](https://www.tianyancha.com/company/4918961864)|WX_GZH|
  |705|[元数藏meta](https://www.tianyancha.com/company/5401971237)|WX_GZH| | | |[H5](https://www.yuanshucang.art/login/register/mLzIhL)||场外转赠|
- |706|[一藏天下](https://www.tianyancha.com/company/5395024264)|WX_GZH| | |APP|[H5](https://mall.yicangtianxia.cn/#/)||BSN文昌链|场外转赠|
+ |706|[一藏天下](https://www.tianyancha.com/company/5395024264)|WX_GZH| | |APP|[H5](https://mall.yicangtianxia.cn/#/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
