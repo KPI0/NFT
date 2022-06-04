@@ -876,4 +876,5 @@
  |739|[数藏一品](https://www.tianyancha.com/company/2330770743)|WX_GZH|    |    |APP|[H5](https://shop.ionepin.com/#/pages/share/register?inviteCode=K4nMkXW6)|Polygon|二级市场|
  |740|[未来数藏](https://www.tianyancha.com/company/274940180)|WX_GZH| | |[APP](https://nft.ottcn.com/)| |至信链|场外转赠|
  |741|[臻域数藏](https://www.tianyancha.com/company/5438174356)|WX_GZH| | | |[H5](https://www.zymeta.art/#/pages/login/index?inviteMeUid=uYs42325)||二级市场|
+ |742|[麦达数字](https://www.tianyancha.com/company/5436694940)|WX_GZH| |6JA522|[APP](http://app.mdszkj.cn/?invite_code=6JA522)|[H5](http://mobile.mdszkj.cn/)|XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
