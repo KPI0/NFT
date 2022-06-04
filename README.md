@@ -861,4 +861,5 @@
  |725|[广西文旅元宇宙](https://www.tianyancha.com/company/5314645810)|WX_GZH| | | |[H5](https://h5.yjygx.com/webapp/collection-mall/)|广西文旅链|场外转赠|
  |726|[元舟艺术](https://www.tianyancha.com/company/5464767928)|WX_GZH| | |APP|[H5](https://nfg.gzyzys.cc/nfg_shop/web/)| |场外转赠|
  |727|[数为空间](https://www.tianyancha.com/company/5496369966)|WX_GZH| | |[APP](https://shuweikj.com/#/?pid=766091)| |蚂蚁链|二级市场|
+ |728|[伯乐艺术](https://www.tianyancha.com/company/5492658035)|WX_GZH| | |APP|[H5](https://art.boleart.com/#/register?code=ceGKOZ)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
