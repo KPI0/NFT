@@ -619,7 +619,7 @@
  |572|[九维艺创](https://www.tianyancha.com/company/5484321885)|WX_GZH| | |APP|[H5](http://jw.jwnft.cn/h5/index.html#/?qid=88160)|BSN联盟链|场外转赠|
  |573|[开壹元宇宙](https://www.tianyancha.com/company/5492762051)|WX_GZH| | | |[H5](http://m.kaione-sh.cn/?pshop_id=2046604#/app_kaiyi-pshopsharetarget)|XuperChain|二级市场|
  |574|[魔狸moli](https://www.tianyancha.com/company/3224276361)|WX_GZH| | | |[H5](https://m.moli.work/)|
- |575|[光艺数字平台](https://www.tianyancha.com/company/3404835509)|WX_GZH| | | |[H5](https://www.lightofart.cn/?spread=134825#/)||二级市场|
+ |575|[光艺数字平台](https://www.tianyancha.com/company/3404835509)|WX_GZH| | | |[H5](https://www.lightofart.cn/?spread=134825#/)|XuperChain|二级市场|
  |576|墨语数藏|WX_GZH| | |APP|
  |577|[秘果数藏](https://www.tianyancha.com/company/5399450486)|WX_GZH| | |APP|[H5](https://oss.yomgoo.com/)|XuperChain|场外转赠|
  |578|[玛雅数藏](https://www.tianyancha.com/company/2325314144)|WX_GZH|||APP|[H5](https://cangpin.h5.langem.net/#/pages/index/index?inviterId=38824)|BSN联盟链|场外转赠|
@@ -784,4 +784,6 @@
  |735|[数藏艺术](https://www.tianyancha.com/company/5446714193)|WX_GZH| | | |[H5](http://shucangys.com/)|天河链|场外转赠|
  |736|[艺数世界Art World](https://www.tianyancha.com/company/4434700308)|WX_GZH|
  |737|[X Labs](https://www.tianyancha.com/company/5475140936)|WX_GZH| | |APP|H5|BSN联盟链|
+ |738|[Cupu Meta艺术元创](https://www.tianyancha.com/company/5485512550)|WX_GZH| | |APP|[H5](http://fang.root.boxiyun.com)| |场外转赠|
+ |739|[数藏一品](https://www.tianyancha.com/company/2330770743)|WX_GZH|    |    |APP|[H5](https://shop.ionepin.com/#/pages/share/register?inviteCode=K4nMkXW6)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
