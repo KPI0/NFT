@@ -49,3 +49,4 @@
  |46|WaykiChain|[https://www.waykichain.com/](https://www.waykiscan.com/#/)|
  |47|梧桐链|[https://www.wutongchain.com/](https://ts.wutongchain.com/#/)|
  |48|MaileChain|[https://www.mailechain.com](https://www.mailechain.com/)|
+ |49|BSN-DDC|[https://ddc.bsnbase.com](https://ddc.bsnbase.com/main/ddc-querys)|
