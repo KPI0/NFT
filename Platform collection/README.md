@@ -249,7 +249,7 @@
  |224|[飞碟数字艺术](https://www.tianyancha.com/company/3347137038)|WX_GZH| | | |[H5](https://www.duart.cc/#/register?Invitation_code=KN7LGL)|BSN联盟链|场外转赠|
  |225|[米塔数字艺术](https://www.tianyancha.com/company/5133527300)|WX_GZH| | |[APP](https://h5.mita.com/#/)|[H5](https://m.17mita.com/#/)||场外转赠|
  |226|[元代数藏](https://www.tianyancha.com/company/5344807057)|WX_GZH| | | |[H5](https://dc.metaera.tech/)|树图链|场外转赠|
- |227|[东方文明](https://www.tianyancha.com/company/2358793775)|WX_GZH| | |APP||BSC|场外转赠|
+ |227|[东方文明](https://www.tianyancha.com/company/2358793775)|WX_GZH| | |APP|[H5](https://df.dfwm.org.cn/web/#/)|BSC|场外转赠|
  |228|[万链数藏](https://www.tianyancha.com/company/5001649403)|WX_GZH| | |APP|[H5](https://h5.wanlian.art/s/#/register?c=AUTGQP)|Ethereum|二级市场|
  |229|[一条艺术](https://www.tianyancha.com/company/4022944664)|WX_GZH|WX_XCX| |APP|[H5](https://h5.yit.com/index.html)|至信链|场外转赠|
  |230|[鲸雅](https://www.tianyancha.com/company/1410089410)|WX_GZH| | |[APP](https://cang.kueen.cc/register/?share_code=fcukk)|H5|蚂蚁链、金链盟|二级市场|
