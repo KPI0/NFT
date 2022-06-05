@@ -809,4 +809,5 @@
  |759|[招财数藏](https://www.tianyancha.com/company/3454638443)|WX_GZH|
  |760|[时光数藏](https://www.tianyancha.com/company/5258558482)|WX_GZH| | |APP|[H5](https://spacetime.art/#/pages/login/reg?invite=9KHI2C)| |二级市场|
  |761|[云尚数藏](https://www.tianyancha.com/company/5444613789)|WX_GZH|
+ |762|[玉山Meta](https://www.tianyancha.com/company/2354171936)|WX_GZH| | | | |BSN联盟链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
