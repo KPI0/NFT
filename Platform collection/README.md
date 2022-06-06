@@ -825,4 +825,5 @@
  |773|[CGMeta](https://www.tianyancha.com/company/5240675918)|WX_GZH| | | |[H5](https://cgmeta.art/h5/#/pages/index/goodsinfo?scene=003058%2C17)|海星链|场外转赠|
  |774|[奇幻数藏](https://www.tianyancha.com/company/3348132717)|WX_GZH| | | |[H5](https://www.qihuansc.com/h5/)|蚂蚁链|场外转赠|
  |775|[ADAMeta](https://www.tianyancha.com/company/3211996295)|WX_GZH| | |[APP](https://pinon.live/nft-wechat/download.html)| | |二级市场|
+ |776|[步星云](https://www.tianyancha.com/company/5482263800)|WX_GZH| | | |[H5](https://xyz.xtepchina.com/#/)|海峡链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
