@@ -77,6 +77,7 @@
  |66|[GEEK数字藏品](https://www.tianyancha.com/company/2358919196)|WX_GZH|||APP|[H5](https://www.geeknft.art/frontend/web/index.php/page/index)||二级市场|
  |67|[海幻境数字艺术](https://www.tianyancha.com/company/5294778475)|WX_GZH||||[H5](https://app.oceandreamland.art/?from=wxmp-menu)|Polygon|二级市场|
  |68|[Xmax星球数藏](https://www.tianyancha.com/company/5407820185)|WX_GZH| | | |[H5](https://xmax.echaincity.com/#/pages/home/index/index)|信证链|场外转赠|
+ |68|[幻极数藏](https://www.tianyancha.com/company/5480663853)|WX_GZH| | | |[H5](https://sc.xmax.tech/pages/login/login-h5?shareCode=YT6GXF)|
  |69|[红洞数藏](https://www.tianyancha.com/company/5247894675)|WX_GZH|WX_XCX| |  |[H5](https://www.redcave.com/#/pages/login/register?code=78NP2uTD62)|趣链|场外转赠|
  |70|[红果数藏](https://www.tianyancha.com/company/5154139788)|WX_GZH|||APP|[H5](https://nftguanfang.com/#/pages/login/index?pid=98309&goods_id=271)|智臻链|二级市场|
  |71|[蓝猫数字](https://www.tianyancha.com/company/5200287929)|WX_GZH| |  | |[H5](https://www.lanmsz.cn/?invitation_code=W1TS2E)|蚂蚁链|二级市场|
@@ -810,7 +811,7 @@
  |760|[时光数藏](https://www.tianyancha.com/company/5258558482)|WX_GZH| | |APP|[H5](https://spacetime.art/#/pages/login/reg?invite=9KHI2C)| |二级市场|
  |761|[云尚数藏](https://www.tianyancha.com/company/5444613789)|WX_GZH|
  |762|[玉山Meta](https://www.tianyancha.com/company/2354171936)|WX_GZH| | | | |BSN联盟链|
- |763|[幻极数藏](https://www.tianyancha.com/company/5480663853)|WX_GZH| | | |[H5](https://sc.xmax.tech/pages/login/login-h5?shareCode=YT6GXF)|
+ |763|
  |764|[悟空数藏](https://www.tianyancha.com/company/5423127348)|WX_GZH| | | | |BSN联盟链|
  |765|[中体数藏](https://www.tianyancha.com/company/4255327352)|WX_GZH| | | |[H5](https://h5.ztmetasports.com/#/)|至信链|
  |766|[天祺数藏](https://www.tianyancha.com/company/4277336995)|WX_GZH|
