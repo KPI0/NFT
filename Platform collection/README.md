@@ -816,4 +816,5 @@
  |766|[天祺数藏](https://www.tianyancha.com/company/4277336995)|WX_GZH|
  |767|[羲州数藏](https://www.tianyancha.com/company/3223124792)|WX_GZH|
  |768|[G2数字文创](https://www.tianyancha.com/company/1445785944)|WX_GZH| | | |[H5](http://www.haicity.com/nft/G2?u=r03Pr5uBj7Rf)|OBJ|二级市场|
+ |769|[爱乐疯](https://www.tianyancha.com/company/3206339852)|WX_GZH| | | |[H5](https://art.mrelefun.com/#/register?userCode=65220667044&activityCode=de30d581875741f8ac892a46dc082818)|树图链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
