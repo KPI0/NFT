@@ -30,6 +30,7 @@
  *13、信息填写错误、未收集的平台请使用[Github issues](https://github.com/KPI0/NFT/issues)或者联系邮箱：<a href="mailto: kkb6969a@gmail.com">kkb6969a@gmail.com</a>*    
  *14、抄就抄呗，点个star行吗*  
  *15、数字藏品NFT平台需要[8个资质](https://new.qq.com/omn/20220412/20220412A01PGL00.html)，真正合规的有几个？*  
+ *16、有些平台上的假链，根本查不多，完全就是卖图片*    
  
  ## 三、链上查询
  *链上查询地址非公开的未添加*  
