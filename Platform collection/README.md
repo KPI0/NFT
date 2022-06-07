@@ -831,4 +831,5 @@
  |779|[灵境壹号](https://www.tianyancha.com/company/3400344560)|WX_GZH| | | |[H5](https://lingjingyihao.com/)|长安链|场外转赠|
  |780|[BOHR](https://www.tianyancha.com/company/3167529095)|WX_GZH| | |[APP](https://bohr.wvoid.com/h5/#/pages/login/recruit?make_code=736431981)| |BSN联盟链|场外转赠|
  |781|[元商店MetaMKT](https://www.tianyancha.com/company/3391436219)|WX_GZH| | | |[H5](https://www.yuanshangdian.tech/#/pages/nft/login/register?inviteCode=z99a9etk3)|Polygon|场外转赠|
+ |782|[火星瓦瓦](https://www.tianyancha.com/company/5341137624)|WX_GZH| | |[APP](http://www.marswawa.com/#/pages/login/register/register?invitationCode=HDO3U6)| |BSC|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
