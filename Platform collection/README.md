@@ -828,4 +828,5 @@
  |776|[步星云](https://www.tianyancha.com/company/5482263800)|WX_GZH| | | |[H5](https://xyz.xtepchina.com/#/)|海峡链|
  |777|[链藏NFT](https://www.tianyancha.com/company/5457503466)|WX_GZH| | | |[H5](http://h5.xingliancang.cn/#/)|海峡链|
  |778|[元气宇宙](https://www.tianyancha.com/company/5520729106)|WX_GZH| | | |[H5](http://www.yqyz111.xyz/app/ur-reg.html?t=69588)|BSN联盟链|场外转赠|
+ |779|[灵境壹号](https://www.tianyancha.com/company/3400344560)|WX_GZH| | | |[H5](https://lingjingyihao.com/)|长安链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
