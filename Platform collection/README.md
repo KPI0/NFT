@@ -550,7 +550,7 @@
  |504|[灵韵数字艺术](https://www.tianyancha.com/company/3350688990)|WX_GZH| | | |[H5](https://artmazing.cn/#/?adviser_id=62878605fbf5865906aafe72)||场外转赠|
  |505|[幻象meta](https://www.tianyancha.com/company/5431648933)|WX_GZH| | | |[H5](https://h5.huanxiangmeta.com/pages/user/login/index?inviter_id=14455)|XuperChain|场外转赠|
  |506|[鹏游元宇宙](https://www.tianyancha.com/company/2344522392)|WX_GZH| | |APP|[H5](https://fresh.17mmmmm.com/#/?code=8gDKduVxJDA)|BSN文昌链|场外转赠|
- |507|[ANNO数字纪元](https://www.tianyancha.com/company/5431872314)|WX_GZH| | | |[H5](http://anno.eolong.work/#/pages/public/reg?uid=122960)|HECO|场外转赠|
+ |507|[ANNO数字纪元](https://www.tianyancha.com/company/5431872314)|WX_GZH| | | |[H5](http://anno.eolong.work/#/pages/public/reg?uid=122960)|HECO|二级市场|
  |508|[隐元数藏](https://www.tianyancha.com/company/5471498033)|WX_GZH| | | |[H5](https://meta.cang-pu.com/#/register?userCode=65220521348&activityCode=d32a4b8ec3fb496eb3f47fc8601ad11c)|树图链|场外转赠|
  |509|[优品数藏](https://www.tianyancha.com/company/5262692657)|WX_GZH| | |APP|[H5](https://h5.youpinmate.com/reg.html?ref=JJSX57)|Polygon|二级市场|
  |510|[元蛋艺术](https://www.tianyancha.com/company/5503632332)|WX_GZH| | |[APP](https://pro.yuandanart.cn/reg/Y753zlG39)| | |场外转赠|
