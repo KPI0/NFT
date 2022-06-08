@@ -44,7 +44,7 @@
  |36|[灵境商店](https://www.tianyancha.com/company/3450444562)|WX_GZH|  |   |[APP](https://lingjingshangdian.com/)| |蚂蚁链|场外转赠|
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300)|WX_GZH| | |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)||XuperChain|二级市场|
  |38|[HOTDOG](https://www.tianyancha.com/company/3215999085)|WX_GZH|||[APP](https://a.app.qq.com/o/simple.jsp?pkgname=aiera.sneaker.snkrs.aiera)||BSN联盟链|二级市场|
- |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  |    |[APP](http://org.shuzicangpin888.com/downloads/download.html)|[http://h5.shuzicangpin888.com/home]|龙链|二级市场|
+ |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  |    |[APP](http://org.shuzicangpin888.com/downloads/download.html)|[H5](http://h5.shuzicangpin888.com/home)|龙链|二级市场|
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)|WX_GZH |||APP|[H5](http://front.metahz.com/register?inviteCode=W7SnyR7)|Ethereum|场外转赠|
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|    |     |APP|[H5](https://meta-h5.genimous.com/#/?spread=106697)|智链|场外转赠|
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)|WX_GZH|  |  |[APP](https://wan2store.com/app-redirect.htm)|   |树图链|场外转赠|
