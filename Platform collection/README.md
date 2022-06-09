@@ -841,4 +841,5 @@
  |789|[TownMeta元小镇](https://www.tianyancha.com/company/5465647561)|WX_GZH| | | |[H5](http://www.town.ip78.cn/h5/#/pages/login/register?code=316069740)||二级市场|
  |790|[趣元数品](https://www.tianyancha.com/company/5004825027)|WX_GZH|
  |791|[幻游数艺](https://www.tianyancha.com/company/3434599295)|WX_GZH| | |APP|[H5](http://www.huanyou.art?invite_code=MDAwMDAwMDAwMLCEyGmHnrZ2)|XuperChain|场外转赠|
+ |792|[zarxl数字电商](https://www.tianyancha.com/company/3444227914)|WX_GZH| | |APP[H5](http://zarxl.com/h5/index.html#/?qid=36554)|XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
