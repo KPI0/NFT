@@ -838,4 +838,5 @@
  |786|[稀识](https://www.tianyancha.com/company/3105069658)| | | |[APP](https://nftfe.qlchain.cn/nftexh5/new?c=FGMUZZCG)| |Ethereum|二级市场|
  |787|[元艺坊](https://www.tianyancha.com/company/5320340084)|WX_GZH|BD_XCX|[百度APP](https://mbd.baidu.com/ma/s/ekyUcQ82)| |[H5](http://kaopulian.com/)|XuperChain|场外转赠|
  |788|[柒文艺术](https://www.tianyancha.com/company/5428560281)|WX_GZH| | |APP|[H5](https://www.theqiwen.art/login?code=XY66C3)| |二级市场|
+ |789|[TownMeta元小镇](https://www.tianyancha.com/company/5465647561)|WX_GZH| | | |[H5](http://www.town.ip78.cn/h5/#/pages/login/register?code=316069740)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
