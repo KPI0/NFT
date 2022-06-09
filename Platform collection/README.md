@@ -342,7 +342,7 @@
  |311|[龙境](https://www.tianyancha.com/company/5180895530)|WX_GZH| | |APP|[H5](http://39.164.52.76:20006/register?userId=1476302540374048)|禄文链|场外转赠|
  |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | |APP|[H5](https://gd.guodongnft.com/web/#/)| |场外转赠|
  |313|[良藏数字艺术](https://www.tianyancha.com/company/4113258438)|WX_GZH| | | |[H5](https://box.wiod.cn/h5/?share_user=50759)|BSN联盟链|二级市场|
- |314|[火种meta](https://www.tianyancha.com/company/5188662562)|WX_GZH| | |[APP](https://hz.wozouglobal.com/h5/index.html#/?qid=32410)| |
+ |314|[火种meta](https://www.tianyancha.com/company/5188662562)|WX_GZH| | |[APP](https://hz.wozouglobal.com/h5/index.html#/?qid=32410)|[H5](http://hznew.wozouglobal.com/h5/index.html#/?qid=32410)|BSN联盟链|场外转赠|
  |315|[链上云谷](https://www.tianyancha.com/company/5375408686)|WX_GZH| | | |[H5](http://h5.metart.zone/#/)|海峡链|场外转赠|
  |316|[熊猫199](https://www.tianyancha.com/company/5327202170)|WX_GZH| |一起NFT| |[H5](https://m.scxm199.com/h5/#/register?invite=3295370)|BSN文昌链|
  |317|[宇盒数字藏品](https://www.tianyancha.com/company/3220049148)|WX_GZH||||[H5](https://vast-box-mini-h5-yuhe.app.vastchain.ltd)|VastChain|场外转赠|
