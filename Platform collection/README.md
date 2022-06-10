@@ -848,7 +848,7 @@
  |796|文开ART| | | |APP|[H5](http://www.wenkai.art/wap/#/pages/login/register/register?id=519776)|Polygon|场外转赠|
  |797|[元梦盒子](https://www.tianyancha.com/company/4115203054)|WX_GZH| | | |[H5](https://m.metapop.mobi/#/trade?sid=8zaL6v_1_1)| |场外转赠|
  |798|2DAO| | |[element](https://element.market/)| |[H5](https://taojin.bihuwh.com/?referer_id=3543)|Polygon|二级市场|
- |799|element| | | | |[H5](https://element.market/)| |交易市场|
+ |799|element| | | |APP|[H5](https://element.market/)| |交易市场|
  |800|[次元星系](https://www.tianyancha.com/company/5445391038)|WX_GZH| | | |[H5](https://h5.yuanbaosc.com/pages/user/login/index?inviter_id=8770)|XuperChain|场外转赠|
  |801|[国创数字艺术](https://www.tianyancha.com/company/5509733829)|WX_GZH| | |APP|[H5](http://digital.guochuang123.com/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
