@@ -570,7 +570,7 @@
  |524|[海豹数藏](https://www.tianyancha.com/company/10000951370)| | |海报新闻APP|[APP](https://hb.dzwww.com/zt/nft/invite.php?u=hzKe2)| |大众链|场外转赠|
  |525|[G3DAO](https://www.tianyancha.com/company/3430194734)|WX_GZH| | | |[H5](http://wx.g3dao.com/registered/:idWsYcwg)|
  |526|[元术数藏](https://www.tianyancha.com/company/5449637071)|WX_GZH| | | |[H5](https://h5.art-meta.cn/homePage)|BSN联盟链|场外转赠|
- |527|[久星数藏](https://www.tianyancha.com/company/3013859971)|WX_GZH| | |[APP](https://shop.hzqiaoke.cn/pages/jx/)|H5|云画链|场外转赠|
+ |527|[久星数藏](https://www.tianyancha.com/company/3013859971)|WX_GZH|               |                   |[APP](https://shop.hzqiaoke.cn/pages/jx/)|[H5](https://h5.hzqiaoke.cn/login)|云画链|二级市场|
  |528|[龙传数藏](https://www.tianyancha.com/company/5383032554)|WX_GZH| | |APP|[H5](http://mall.lcscart.com/#/?invite_code=900370)|BSN文昌链|场外转赠|
  |529|[甘道数藏](https://www.tianyancha.com/company/3388708590)|WX_GZH| | | |[H5](https://shucang.gan-dao.com/?)|趣链|
  |530|[山海数字META](https://www.tianyancha.com/company/3289341425)|WX_GZH| | | |[H5](https://arth5.depoga.cn/#/)|海峡链|二级市场|
