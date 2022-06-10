@@ -852,4 +852,5 @@
  |800|[次元星系](https://www.tianyancha.com/company/5445391038)|WX_GZH| | | |[H5](https://h5.yuanbaosc.com/pages/user/login/index?inviter_id=8770)|XuperChain|场外转赠|
  |801|[国创数字艺术](https://www.tianyancha.com/company/5509733829)|WX_GZH| | |APP|[H5](http://digital.guochuang123.com/)|BSN联盟链|场外转赠|
  |802|[鲲鹏元宇宙](https://www.tianyancha.com/company/3201309697)|WX_GZH| | |APP|[H5](http://kp.lkszkj.com/h5/index.html#/?qid=182350)|蚂蚁链|场外转赠|
+ |803|[鲸鱼艺术藏品](https://www.tianyancha.com/company/3222835470)|WX_GZH| | | |[H5](https://jingyuys.h5.yunzongbu.cn/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
