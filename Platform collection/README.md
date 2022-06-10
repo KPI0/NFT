@@ -847,4 +847,5 @@
  |795|[万境数藏](https://www.tianyancha.com/company/5402620586)|WX_GZH| | |APP|[H5](https://h5.58nft.art/?invite_code=11301762#/invite)|BSN联盟链|场外转赠|
  |796|文开ART| | | |APP|[H5](http://www.wenkai.art/wap/#/pages/login/register/register?id=519776)|Polygon|场外转赠|
  |797|[元梦盒子](https://www.tianyancha.com/company/4115203054)|WX_GZH| | | |[H5](https://m.metapop.mobi/#/trade?sid=8zaL6v_1_1)| |场外转赠|
+ |798|2DAO| | |[element](https://element.market/)| |[H5](https://taojin.bihuwh.com/?referer_id=3543)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
