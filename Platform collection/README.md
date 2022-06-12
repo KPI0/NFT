@@ -868,4 +868,5 @@
  |817|[EraMeta](https://www.tianyancha.com/company/5499269919)|WX_GZH| | | |[H5](http://www.era-meta.cn/)||场外转赠|
  |818|[数字星盒元宇宙](https://www.tianyancha.com/company/5423091250)|WX_GZH| | | |[H5](https://www.xstarmeta.com/#/register?code=clnEL2)|蚂蚁链|二级市场|
  |819|[元U艺术](https://www.tianyancha.com/company/5496340233)|WX_GZH| | |APP|[H5](https://www.yuanusc.com/#/pages/login/register/register?code=LROG10BLCDCSIR1W&type=0)|  |二级市场|
+ |820|[潮艺数藏](https://www.tianyancha.com/company/5515374377)|WX_GZH| | | |[H5](https://trendart.shop/#/pages/reg/reg?ref_code=003839)|BSN联盟链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
