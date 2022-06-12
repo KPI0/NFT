@@ -703,7 +703,7 @@
  |653|[三万数藏](https://www.tianyancha.com/company/5394282723)|WX_GZH| | | |[H5](http://h5.sanwan.club/#/)|海峡链|场外转赠|
  |654|[元域空间](https://www.tianyancha.com/company/3370224617)|WX_GZH| | |APP|[H5](https://h5.xgr168.com/inviteLink?invitationCode=n6dszj)||场外转赠|
  |655|[零一数藏](https://www.tianyancha.com/company/5485506135)|WX_GZH| | |[APP](https://h5.lingyishucang.com/#/pages/d)| |BSN联盟链|场外转赠|
- |656|[vMax艺术](https://www.tianyancha.com/company/5494922057)|WX_GZH| | |APP|[H5](https://www.vmaxmeta.cn/#/pages/user/register?UID=53577)||二级市场|
+ |656|[vMax艺术](https://www.tianyancha.com/company/5494922057)|WX_GZH| | |APP|[H5](https://www.vmaxmeta.cn/#/pages/user/register?UID=53577)|BSN文昌链|二级市场|
  |657|[金赞元宇宙](https://www.tianyancha.com/company/3397311726)|WX_GZH| | |APP|[H5](http://h5.jinzan.cc?invite_code=MDAwMDAwMDAwMLCasmiGrr52)|XuperChain|二级市场|
  |658|[一画数藏](https://www.tianyancha.com/company/3011518441)|WX_GZH| | |APP|[H5](https://m.1hua.art/wap/login.html?code=BALKPJ)|Polygon|场外转赠|
  |659|[Meta虚元](https://www.tianyancha.com/company/5482028464)|WX_GZH| | |APP|[H5](https://m.v-meta.art/#/home?code=3b7hmi35)|BSN联盟链|二级市场|
