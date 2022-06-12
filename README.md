@@ -689,7 +689,7 @@
  |550|[惊世数藏](https://www.tianyancha.com/company/3352834234)|WX_GZH| | |APP|[H5](http://www.hanhooo.com/#/pages/account/register?puserid=242135)|蚂蚁链|停止运营|
  |551|[印迹山海](https://www.tianyancha.com/company/5439705250)|WX_GZH| | | |[H5](https://h5.digitcollect.art/#/login?i=O1UGGdfylh)|XuperChain|场外转赠|
  |552|[相素](https://www.tianyancha.com/company/2572500802)|WX_GZH| | |APP|[H5](https://wap.teelab.cn/app/index.html)|保全链|场外转赠|
- |553|[魅特道](https://www.tianyancha.com/company/5498950404)|WX_GZH|  | |APP|H5|Ethereum|
+ |553|[魅特道](https://www.tianyancha.com/company/5498950404)|WX_GZH|  | |APP|[H5](https://www.web3metadao.cn/#/pages/register/index?code=600815)|Ethereum|二级市场|
  |554|[沅宇宙第一酒庄](https://www.tianyancha.com/company/1532514286)|WX_GZH|WX_XCX|        |  |[H5](http://vip.metachateau.cn/index.html#/pages/user?uid=13168)|蚂蚁链|二级市场|
  |555|[混合宇宙](https://www.tianyancha.com/company/5427580809)|WX_GZH| |加码射线| |[H5](https://app.hunheyuzhou.com/#/)||二级市场|
  |556|[艺数星球](https://www.tianyancha.com/company/5266077775)|WX_GZH| | |APP|[H5](https://www.9inft.com/pages/users/login/reg?code=CJU3B)|
