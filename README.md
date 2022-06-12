@@ -757,7 +757,7 @@
  |617|[捏饭团](https://www.tianyancha.com/company/3221376233)|WX_GZH| | | |[H5](https://www.metaclub.art/#/pages/index/index)|星火链|
  |618|[捧音](https://www.tianyancha.com/company/3147544133)|WX_GZH| | |APP|[H5](https://h5.pengyin.vip/#/home)||场外转赠|
  |619|[祈境](https://www.tianyancha.com/company/5394638744)|WX_GZH| | |APP|[H5](http://m.pubsion.cn/#/pages/index/index?&shareGoodsCode=Q9GQPG)|BSN文昌链|场外转赠|
- |620|[视觉猿数字艺术](https://www.tianyancha.com/company/5224384192)|WX_GZH| | |APP|[H5](https://h5.shijueyuan.cn/#/?spm=163947.1.0.2.1)|BSN联盟链|二级市场|
+ |620|[视觉猿数字艺术](https://www.tianyancha.com/company/5224384192)|WX_GZH| | |APP|[H5](https://h5.shijueyuan.cn/#/?spm=163947.1.0.1.1)|BSN联盟链|二级市场|
  |621|[数秀CN](https://www.tianyancha.com/company/4535450774)|WX_GZH|    |     |APP|[H5](https://h5.shuxiucn.com/index.html#/pages/register/register?id=7994493)|蚂蚁链|场外转赠|
  |622|[数字聚星](https://www.tianyancha.com/company/5016550939)|WX_GZH| | | |[H5](https://h5.artchain.ltd/H5/#/pages/mine/index?pid=49310)||场外转赠|
  |623|[炫弛世界](https://www.tianyancha.com/company/3419932627)|WX_GZH| | |[APP](https://xuanchiapp.oss-cn-beijing.aliyuncs.com/%E7%82%AB%E5%BC%9B%E4%B8%96%E7%95%8C_1.0.0.apk)|
