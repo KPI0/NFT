@@ -886,4 +886,5 @@
  |835|[寰宇数藏](https://www.tianyancha.com/company/5522104312)|WX_GZH| | | |[H5](http://huanyusc.bajiaoxinxi.com/huanyuh5/#/pages/auth/register?code=HN0L0E)|
  |836|[有鱼艺术](https://www.tianyancha.com/company/5402672236)|WX_GZH| | | |[H5](https://share.youyu.art/index/index/index?activity_id=1&invite_id=165993691360788512)|版权链|场外转赠|
  |837|[数藏岛](https://www.tianyancha.com/company/3364010820)|WX_GZH| | | |[H5](https://www.shucangdao.com/me/invite/invitation?pid=56439&sourceType=1&sourceId=1)|Ethereum、Polygon|场外转赠|
+ |838|[集艺数藏](https://www.tianyancha.com/company/5441656832)|WX_GZH| | | |[H5](https://www.jiyisc.com/)| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
