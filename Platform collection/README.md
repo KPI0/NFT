@@ -884,4 +884,5 @@
  |833|[唯瀚](https://www.tianyancha.com/company/5465282629)|WX_GZH| | |APP|[H5](https://cang.kueen.cc/register/?share_code=fcukk)||场外转赠|
  |834|[奇迹元](https://www.tianyancha.com/company/4705634390)|WX_GZH| | | |[H5](https://qijiyuan.hongleme.cn/#/register?userCode=65220636582&activityCode=9e25ae48ca0f4350a3ee6479e47215f3)|树图链|场外转赠|
  |835|[寰宇数藏](https://www.tianyancha.com/company/5522104312)|WX_GZH| | | |H5|
+ |836|[有鱼艺术](https://www.tianyancha.com/company/5402672236)|WX_GZH| | | |[H5](https://share.youyu.art/index/index/index?activity_id=1&invite_id=165993691360788512)|版权链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
