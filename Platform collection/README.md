@@ -876,4 +876,5 @@
  |825|[中文数创](https://www.tianyancha.com/company/3143864778)|WX_GZH| | | |[H5](https://nft.zhongke.art/#/pages/login/index?userId=1535993728747048960)|BSN联盟链|场外转赠|
  |826|[有光数藏](https://www.tianyancha.com/company/2320769365)|WX_GZH|
  |827|[云穹](https://www.tianyancha.com/company/3146769929)|WX_GZH| |游云南APP|APP| |至信链|
+ |828|[滴聚](https://www.tianyancha.com/company/3224001885)|WX_GZH||||[H5](https://m.digih.cn/pages/login/register?inviteCode=0eV5Sfbdemt00cTileAqMQ)|火链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
