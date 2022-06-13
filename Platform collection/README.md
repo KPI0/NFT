@@ -892,4 +892,6 @@
  |841|[METAUP](https://www.tianyancha.com/company/3216202891)|WX_GZH| | | |[H5](https://ntfmall.mpcheshi.com/#/?inviteCode=bnSnrE)|文熙链|场外转赠|
  |842|[北晓数字艺术](https://www.tianyancha.com/company/5481085924)|WX_GZH| | |APP|[H5](https://www.beixaoshuzi.com/h5#/register?code=admHL9)||二级市场|
  |843|[新天世界](https://www.tianyancha.com/company/4021135197)|WX_GZH| | | |[H5](https://store.singtian.world/h5?share_code=wJoUIE)| |二级市场|
+ |844|[幻光艺术](https://www.tianyancha.com/company/5510652172)|WX_GZH| | |APP|H5|
+ |845|[幻码文探](https://www.tianyancha.com/company/3420685045)|WX_GZH| | | |[H5](https://60ma.cn/InvitationRegister.html?pomoteCode=U29876317O4)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
