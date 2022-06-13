@@ -889,4 +889,5 @@
  |838|[集艺数藏](https://www.tianyancha.com/company/5441656832)|WX_GZH| | | |[H5](https://www.jiyisc.com/)| |场外转赠|
  |839|[紫金元宇宙](https://www.tianyancha.com/company/3349772490)|WX_GZH| | | |[H5](http://www.taozhangfang.xyz/register.html?pid=38783830#wechat_redirect)|
  |840|[贝塔数藏](https://www.tianyancha.com/company/5386358724)|WX_GZH| | | |[H5](http://shop.flmtech.cn/#/pages/auth/register/register?invitationCode=81370274396)|Polygon|场爱转赠|
+ |841|[METAUP](https://www.tianyancha.com/company/3216202891)|WX_GZH| | | |[H5](https://ntfmall.mpcheshi.com/#/?inviteCode=bnSnrE)|文熙链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
