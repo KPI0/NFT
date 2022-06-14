@@ -898,4 +898,5 @@
  |847|Model Eros Village| | | | |[H5](https://www.modelerosvillage.com/)|
  |847|麻豆元宇宙| | | | |[H5](https://www.modelerosvillage.com/)|
  |848|[蜘趣像素NFT](https://www.tianyancha.com/company/5498877237)|WX_GZH| | |APP|[H5](https://nt.ntzhiqu.com/h5//#/pages/join/index?code=470778871)|BSN文昌链|场外转赠|
+ |849|[恒星数藏](https://www.tianyancha.com/company/5505185837)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
