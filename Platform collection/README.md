@@ -870,7 +870,7 @@
  |819|[元U艺术](https://www.tianyancha.com/company/5496340233)|WX_GZH| | |APP|[H5](https://www.yuanusc.com/#/pages/login/register/register?code=LROG10BLCDCSIR1W&type=0)|  |二级市场|
  |820|[潮艺数藏](https://www.tianyancha.com/company/5515374377)|WX_GZH| | | |[H5](https://trendart.shop/#/pages/reg/reg?ref_code=003839)|BSN联盟链|
  |821|[元领NFR](https://www.tianyancha.com/company/28852851)|WX_GZH| | |APP|H5|XuperChain|
- |822|[品藏·PIN](https://www.tianyancha.com/company/5487578818)|WX_GZH|WX_XCX| | | |XuperChain|
+ |822|[品藏·PIN](https://www.tianyancha.com/company/5487578818)|WX_GZH|WX_XCX|      |       |[H5](http://home.pincangmeta.com/#/main/registerone?parentId=5364)|XuperChain|场外转赠|
  |823|[幻集艺术](https://www.tianyancha.com/company/3422647884)|WX_GZH|
  |824|[有哇宇宙uWOW](https://www.tianyancha.com/company/2342347972)|WX_GZH| | | |[H5](https://uwow.homaxtv.com/#/register?userCode=6522060864&activityCode=a0768631751547158eef547bade6fbc2)|树图链|场外转赠|
  |825|[中文数创](https://www.tianyancha.com/company/3143864778)|WX_GZH| | | |[H5](https://nft.zhongke.art/#/pages/login/index?userId=1535993728747048960)|BSN联盟链|场外转赠|
