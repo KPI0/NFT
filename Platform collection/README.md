@@ -904,4 +904,5 @@
  |852|中古艺术|WX_GZH|
  |853|[叁壹艺术](https://www.tianyancha.com/company/4014105457)|WX_GZH| | | |[H5](https://sanyi.xwfsb.cn/wap/pages/share/jump?scene=1-74052-)||场外转赠|
  |854|[最九州数藏](https://www.tianyancha.com/company/3445403761)|WX_GZH| | |[APP](https://download.huoxingyunchu.cn/#/pages/home/download/index?inviteCode=44713193&inviteType=1)|[H5](https://download.huoxingyunchu.cn/#/)|树图链|场外转赠|
+ |855|[幻城数字文创](https://www.tianyancha.com/company/5540115635)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
