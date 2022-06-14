@@ -909,4 +909,5 @@
  |857|[IP无限](https://www.tianyancha.com/company/4096761880)|WX_GZH| | | |[H5](http://ipwx.petians.com?inviteUserId=115170)| |场外转赠|
  |857|[InPhinity](https://www.tianyancha.com/company/4096761880)|WX_GZH| | | |[H5](http://ipwx.petians.com?inviteUserId=115170)| |场外转赠|
  |858|[无限音乐藏品](https://www.tianyancha.com/company/50488656)|WX_GZH| | | |[H5](https://m.wmusic.cn/)|火链|场外转赠|
+ |859|[无限艺术平台](https://www.tianyancha.com/company/3298657167)|WX_GZH|   |  |  |[H5](http://meta-infinity.club/wap/#/pages/login/register/register?id=266493)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
