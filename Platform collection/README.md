@@ -896,5 +896,6 @@
  |845|[幻码文探](https://www.tianyancha.com/company/3420685045)|WX_GZH| | | |[H5](https://60ma.cn/InvitationRegister.html?pomoteCode=U29876317O4)| |二级市场|
  |846|鲸起ART| | | | |[H5](http://wx.jlkjgf.cn/reg.html?reg_code=arvu8GqA&abc=1655139376918)|
  |847|Model Eros Village| | | | |[H5](https://www.modelerosvillage.com/)|
- |847|麻豆| | | | |[H5](https://www.modelerosvillage.com/)|
+ |847|麻豆元宇宙| | | | |[H5](https://www.modelerosvillage.com/)|
+ |848|[蜘趣像素NFT](https://www.tianyancha.com/company/5498877237)|WX_GZH| | |APP|[H5](https://nt.ntzhiqu.com/h5//#/pages/join/index?code=470778871)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
