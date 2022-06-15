@@ -162,7 +162,7 @@
  |143|[光笺收藏家](https://www.tianyancha.com/company/3463041471)|WX_GZH|WX_XCX|||[H5](https://lian.0-1universe.com/web/scj/#/)|光笺链|场外转赠|
  |144|[TME数字藏品](https://www.tianyancha.com/company/9519792)|WX_GZH||QQ音乐APP|APP|[H5](https://c.y.qq.com/base/fcgi-bin/u?__=oHnmZKcZ40LK)|至信链|场外转赠|
  |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658)|WX_GZH| | |APP|[H5](https://www.nftcms.cn/pages/login/invite?inviteCode=79N6UY3)|艺数云链|场外转赠|
- |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289)|WX_GZH|  |    |APP|[H5](http://www.weinaax.cn/)|Polygon|二级市场|
+ |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289)|WX_GZH|  |  |APP|[H5](http://nft.weinaax.cn/wap/#/pages/login/register/register?id=747385)|Polygon|二级市场|
  |147|[巢音世代](https://www.tianyancha.com/company/3385377646)|WX_GZH|    |      |[APP](https://www.music-z.com/)| |HECO|二级市场|
  |148|[Maya Meta](https://www.tianyancha.com/company/5301262342)|WX_GZH||||[H5](https://www.mayameta.vip/h5/#/pages/login/register?invite_code=605514)|Polygon|场外转赠|
  |149|[RockFlow Universe](https://www.tianyancha.com/company/4163370911)|WX_GZH| | |APP|[H5](https://www.rockflow.ai/zh/V42lpRBkvxYbe)|
