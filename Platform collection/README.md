@@ -601,7 +601,7 @@
  |555|[混合宇宙](https://www.tianyancha.com/company/5427580809)|WX_GZH| |加码射线| |[H5](https://app.hunheyuzhou.com/#/)||二级市场|
  |556|[艺数星球](https://www.tianyancha.com/company/5266077775)|WX_GZH| | |APP|[H5](https://www.9inft.com/pages/users/login/reg?code=CJU3B)| |二级市场|
  |557|[元启空间](https://www.tianyancha.com/company/5491567707)|WX_GZH| |Bigverse|APP|H5|Ethereum|二级市场|
- |558|[锦鲤藏](https://www.tianyancha.com/company/3401054724)|WX_GZH| | | |[H5](https://jlc.dafuhaoyouxi.com/pages/user/login/index?inviter_id=4036)||场外转赠|
+ |558|[锦鲤藏](https://www.tianyancha.com/company/3401054724)|WX_GZH||||[H5](https://jlc.dafuhaoyouxi.com/pages/user/login/index?inviter_id=4036)|XuperChain|场外转赠|
  |559|[虫洞星图](https://www.tianyancha.com/company/5424810471)|WX_GZH| | | |[H5](https://www.wormholeart.com/h5/#/pages/zaizai-register/index?inviteCode=MiF6UDGS)||二级市场|
  |560|[arcoverse](https://www.tianyancha.com/company/2355520498)|WX_GZH| | | |[H5](http://arco.zxynyun.com/#/pages/mine/login?code=ybd2z7i2)||二级市场|
  |561|[点藏未来](https://www.tianyancha.com/company/4382419449)|WX_GZH| | | |[H5](http://www.tometa.art/h5/pages/register/register?code=FGK7OC)|XuperChain|场外转赠|
