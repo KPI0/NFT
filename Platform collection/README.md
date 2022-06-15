@@ -217,7 +217,7 @@
  |193|[非同数艺](https://www.tianyancha.com/company/38470070)|WX_GZH|  |  |[APP](https://feitong.xunlei.com/)||迅雷链|场外转赠|
  |194|[中国民族文化数字文库](https://www.tianyancha.com/company/3050956862)|WX_GZH| | | |[H5](https://www.chinaip.art)|BSN联盟链|场外转赠|
  |195|[意树数藏](https://www.tianyancha.com/company/5019987083)|WX_GZH|WX_XCX| |APP|[H5](https://h5.secretbox.top/#/pages/login/login?scene=89116)|Polygon|场外转赠|
- |196|[Rivvoo润沃](https://www.tianyancha.com/company/4986633027)|WX_GZH| | | |[H5](https://www.rivvoo.xyz/#/pages/login/register?invitationCode=b89108bf57152cf6)||二级市场|
+ |196|[Rivvoo润沃](https://www.tianyancha.com/company/4986633027)|WX_GZH| |[华辰数字艺术](https://nft.paimaiba.top/reg/RlLlPWZVO)| |[H5](https://www.rivvoo.xyz/#/pages/login/register?invitationCode=b89108bf57152cf6)|Polygon|二级市场|
  |197|[U Myth神话宇宙](https://www.tianyancha.com/company/4359262351)|WX_GZH| | | |[H5](http://u-myth.cn/h5/#/pages/login/register?inviteCode=J5IEQ2)|BSC|二级市场|
  |198|[倚米](https://www.tianyancha.com/company/5413462753)|WX_GZH| | |[APP](https://app.yiminft.com/)||蚂蚁链|二级市场|
  |199|[OneTik数字文创](https://www.tianyancha.com/company/3212176952)|WX_GZH| | |APP|[H5](https://h5.onetik.cn)|XuperChain|二级市场|
@@ -912,4 +912,5 @@
  |862|pyme| | |element| |[H5](https://pyme.team/?ref=KPIZERO)|Polygon|二级市场|
  |863|[纷象](https://www.tianyancha.com/company/5147621432)|WX_GZH| | | |[H5](https://nftime.vip/mobile/)|BSN联盟链、XuperChain、Polygon、海峡链|
  |864|[名藏数字](https://www.tianyancha.com/company/5536373198)|WX_GZH| | | | |BSN文昌链|
+ |865|[华辰数字艺术](https://www.tianyancha.com/company/5062409302)|WX_GZH| | |[APP](https://nft.paimaiba.top/reg/RlLlPWZVO)| | |交易市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
