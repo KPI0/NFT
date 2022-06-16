@@ -919,4 +919,5 @@
  |868|[Uverse](https://www.tianyancha.com/company/5477103001)|WX_GZH| | | |[H5](https://u.uwosi.com/#/pages/public/login?invitecode=8696221)|BSN联盟链|场外转增|
  |869|[原力艺术](https://www.tianyancha.com/company/4344797505)|WX_GZH| | | |[H5](http://force.xindonglife.com/registerH5?code=f0hcvdxc47ivbon8)| |二级市场|
  |870|[元物之门](https://www.tianyancha.com/company/3420202521)|WX_GZH| | | | |星火·链网|
+ |871|[吾得库](https://www.tianyancha.com/company/9519792)|WX_GZH|WX_XCX| | | |至信链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
