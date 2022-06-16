@@ -23,7 +23,7 @@
  |17|[光链](https://www.tianyancha.com/company/2351298742)|WX_GZH| | |[APP](https://www.chainoo.cn/login.html?inviteCode=529571)|[H5](https://m.chainoo.cn/pages/index/index)|蚂蚁链、BSN联盟链|二级市场|
  |18|[UTONMOS](https://www.tianyancha.com/company/3224553385)|WX_GZH|  |   |[APP](https://download.utonmos.com/)|[H5](https://h5.utonmos.com/invite?fcode=EQ652)|和数链|场外转赠|
  |19|[元初世界](https://www.tianyancha.com/company/4976096563)|WX_GZH|WX_XCX||APP|[H5](https://h5.gfanx.com/)|国广元初链|二级市场|
- |20|[umx art](https://www.tianyancha.com/company/3219363889)|WX_GZH|||APP|[H5](https://umx.art/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d)|BSC|二级市场|
+ |20|[umx art](https://www.tianyancha.com/company/3219363889)|WX_GZH|  ||  [APP](https://app.chainmind.xyz/)|[H5](https://umxverse.com/#/main?uid=063C23deeB987451558B7C8d311B6Bf9a65fc33d)|BSC|二级市场|
  |21|[元本空间](https://www.tianyancha.com/company/3452507009)|WX_GZH| | |APP|[H5](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078)|Polygon|二级市场|
  |22|[七级宇宙](https://www.tianyancha.com/company/3288064720)|WX_GZH| | |APP|[H5](https://v3.7jft.com/h5/#/pages/login/register?invite_code=6208484)|蚂蚁链|二级市场|
  |23|[优版权](https://www.tianyancha.com/company/3344853438)|WX_GZH| | |APP|[H5](https://h5.ubanquan.cn/home?code=bo7GeX&type=YZNhappy0415&number=1590141)|天河链|二级市场|
