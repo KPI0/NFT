@@ -543,7 +543,7 @@
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
  |500|[奈斯Art](https://www.tianyancha.com/company/5489822612)|WX_GZH| | | |[H5](http://nice.jiubaguanjia.com/index/index/add_user?pid=194932)|
  |501|[Gone艺数](https://www.tianyancha.com/company/5475373789)|WX_GZH| | | |[H5](http://goneart.cn/#/phone/registered?code=36WY1v)|BSN联盟链|场外转赠|
- |502|[麒麟数藏](https://www.tianyancha.com/company/5007411159)|WX_GZH||||[H5](https://h5.shucangworld.com/?userCode=7c3522789bcc4de9a647463923970803)|树图链|场外转赠|
+ |502|[麒麟数藏](https://www.tianyancha.com/company/5007411159)|WX_GZH|  |   |APP|[H5](https://h5.shucangworld.com/?userCode=7c3522789bcc4de9a647463923970803)|树图链|场外转赠|
  |503|[CERKA奇咖](https://www.tianyancha.com/company/5346626631)|WX_GZH| | | |[H5](https://www.xiright.com/gw/nft/cerka/?distributor=c55bf2cedc8541c6b6b03350ab093146)|小犀版权链|场外转赠|
  |504|[灵韵数字艺术](https://www.tianyancha.com/company/3350688990)|WX_GZH| | | |[H5](https://artmazing.cn/#/?adviser_id=62878605fbf5865906aafe72)||场外转赠|
  |505|[幻象meta](https://www.tianyancha.com/company/5431648933)|WX_GZH| | | |[H5](https://h5.huanxiangmeta.com/pages/user/login/index?inviter_id=14455)|XuperChain|场外转赠|
