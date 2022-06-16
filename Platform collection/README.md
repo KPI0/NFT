@@ -922,5 +922,5 @@
  |871|[吾得库](https://www.tianyancha.com/company/9519792)|WX_GZH|WX_XCX| | | |至信链|
  |872|[DV101](https://www.tianyancha.com/company/5499421089)|WX_GZH| | |APP|[H5](https://xqsz-h5.dv101.com?userId=403600)|大唐链|二级市场|
  |873|[千方元创](https://www.tianyancha.com/company/3315586457)|WX_GZH| | | |[H5](https://art.metashow.vip/pages/login/login?code=82451)|BSN文昌链|场外转赠|
- |874|[趣藏宇宙](https://www.tianyancha.com/company/5501874683)|WX_GZH| | | |[H5](https://nft.qucangyuzhou.com/h5/pages/login/register?invite_code=GIvuwSYk)|蚂蚁链、XuperChain|二级市场|
+ |874|[趣藏宇宙](https://www.tianyancha.com/company/5501874683)|WX_GZH| | | |[H5](https://nft.qucangyuzhou.com/h5/pages/login/register?invite_code=GIvuwSYk)|XuperChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
