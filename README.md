@@ -37,7 +37,7 @@
  |序号|区块服务|查询地址|
  |----|--------|--------|
  |1|速藏|[https://scan.jxrchain.pro](https://scan.jxrchain.pro/#/home)|
- |2|秘宝|[https://explorer.mibao.net](https://explorer.mibao.net/)|
+ |2|秘宝(Nervos)|[https://explorer.mibao.net](https://explorer.mibao.net/)|
  |3|百度超级链(XuperChain)|[https://xuper.baidu.com](https://xuper.baidu.com/n/console#/xuperos/explorer)|
  |4|腾讯至信链|[https://zxscan.qq.com](https://zxscan.qq.com/)|
  |5|BSN文昌链|[https://wenchang.bianjie.ai](https://explorer.wenchang.bianjie.ai/#/home)|
