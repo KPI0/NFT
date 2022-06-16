@@ -25,10 +25,10 @@
  |19|[元初世界](https://www.tianyancha.com/company/4976096563)|WX_GZH|WX_XCX||APP|[H5](https://h5.gfanx.com/)|国广元初链|二级市场|
  |20|[umx art](https://www.tianyancha.com/company/3219363889)|WX_GZH|  ||  [APP](https://app.chainmind.xyz/)|[H5](https://umxverse.com/#/main?uid=063C23deeB987451558B7C8d311B6Bf9a65fc33d)|BSC|二级市场|
  |21|[元本空间](https://www.tianyancha.com/company/3452507009)|WX_GZH| | |[APP](https://manage.3rdplanet.cn/?v=1/#/pages/appDownload/wxAppDownload)|[H5](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078)|Polygon|二级市场|
- |22|[七级宇宙](https://www.tianyancha.com/company/3288064720)|WX_GZH| | |APP|[H5](https://v3.7jft.com/h5/#/pages/login/register?invite_code=6208484)|蚂蚁链|二级市场|
- |23|[优版权](https://www.tianyancha.com/company/3344853438)|WX_GZH| | |APP|[H5](https://h5.ubanquan.cn/home?code=bo7GeX&type=YZNhappy0415&number=1590141)|天河链|二级市场|
- |24|[Meta场景实验室](https://www.tianyancha.com/company/4367516561)|WX_GZH|||APP|[H5](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T)|DCPC|场外转赠|
- |24|[星门](https://www.tianyancha.com/company/4367516561)|WX_GZH|||APP|[H5](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T)|DCPC|场外转赠|
+ |22|[七级宇宙](https://www.tianyancha.com/company/3288064720)|WX_GZH| | |[APP](https://url.7jft.com/app)|[H5](https://v3.7jft.com/h5/#/pages/login/register?invite_code=6208484)|蚂蚁链|二级市场|
+ |23|[优版权](https://www.tianyancha.com/company/3344853438)|WX_GZH| | |[APP](https://h5.ubanquan.cn/other/appDownload)|[H5](https://h5.ubanquan.cn/home?code=bo7GeX&type=YZNhappy0415&number=1590141)|天河链|二级市场|
+ |24|[Meta场景实验室](https://www.tianyancha.com/company/4367516561)|WX_GZH|   |   |[APP](https://digital.metagatestar.com/down)|[H5](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T)|DCPC|场外转赠|
+ |24|[星门](https://www.tianyancha.com/company/4367516561)|WX_GZH|    |    |[APP](https://digital.metagatestar.com/down)|[H5](https://meta.nft.redph.cn/register?invitCode=TIRIPV5T)|DCPC|场外转赠|
  |25|[加密空间](https://www.tianyancha.com/company/4037864239)|WX_GZH| |  |APP|[H5](https://crypts.cn/)|亿条链|二级市场|
  |26|[亿岛互联](https://www.tianyancha.com/company/3480184466)|WX_GZH| | |[APP](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)| |XuperChain|二级市场|
  |26|[一岛](https://www.tianyancha.com/company/3480184466)|WX_GZH| | |[APP](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)| |XuperChain|二级市场|
