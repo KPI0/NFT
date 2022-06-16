@@ -885,7 +885,7 @@
  |836|[有鱼艺术](https://www.tianyancha.com/company/5402672236)|WX_GZH| | | |[H5](https://share.youyu.art/index/index/index?activity_id=1&invite_id=165993691360788512)|版权链|场外转赠|
  |837|[数藏岛](https://www.tianyancha.com/company/3364010820)|WX_GZH| | | |[H5](https://www.shucangdao.com/me/invite/invitation?pid=56439&sourceType=1&sourceId=1)|Ethereum、Polygon|场外转赠|
  |838|[集艺数藏](https://www.tianyancha.com/company/5441656832)|WX_GZH| | | |[H5](https://www.jiyisc.com/)| |场外转赠|
- |839|[紫金元宇宙](https://www.tianyancha.com/company/3349772490)|WX_GZH| | | |[H5](http://www.taozhangfang.xyz/register.html?pid=38783830#wechat_redirect)|
+ |839|[紫金元宇宙](https://www.tianyancha.com/company/3349772490)|WX_GZH| | |[APP](http://app.taozhangfang.xyz/zjsy)|[H5](http://www.taozhangfang.xyz/register.html?pid=38783830#wechat_redirect)|  |场外转赠|
  |840|[贝塔数藏](https://www.tianyancha.com/company/5386358724)|WX_GZH| | | |[H5](http://shop.flmtech.cn/#/pages/auth/register/register?invitationCode=81370274396)|Polygon|场爱转赠|
  |841|[METAUP](https://www.tianyancha.com/company/3216202891)|WX_GZH| | | |[H5](https://ntfmall.mpcheshi.com/#/?inviteCode=bnSnrE)|文熙链|场外转赠|
  |842|[北晓数字艺术](https://www.tianyancha.com/company/5481085924)|WX_GZH| | |APP|[H5](https://www.beixaoshuzi.com/h5#/register?code=admHL9)||二级市场|
