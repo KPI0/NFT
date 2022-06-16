@@ -917,7 +917,7 @@
  |866|[云创数藏](https://www.tianyancha.com/company/5540219907)|WX_GZH| |秘宝| |H5|Nervos|场外转赠|
  |867|[AR数藏](https://www.tianyancha.com/company/3089941445)|WX_GZH| | | | |BSN联盟链|二级市场|
  |868|[Uverse](https://www.tianyancha.com/company/5477103001)|WX_GZH| | | |[H5](https://u.uwosi.com/#/pages/public/login?invitecode=8696221)|BSN联盟链|场外转增|
- |869|[原力艺术](https://www.tianyancha.com/company/4344797505)|WX_GZH| | | |[H5](http://force.xindonglife.com/registerH5?code=f0hcvdxc47ivbon8)| |二级市场|
+ |869|[原力艺术](https://www.tianyancha.com/company/4344797505)|WX_GZH| | |[APP](http://force.xindonglife.com/registerH5?code=f0hcvdxc47ivbon8)| | |二级市场|
  |870|[元物之门](https://www.tianyancha.com/company/3420202521)|WX_GZH| | |[APP](https://www.xrsd.com.cn/)| |星火·链网|
  |871|[吾得库](https://www.tianyancha.com/company/9519792)|WX_GZH|WX_XCX| | | |至信链|
  |872|[DV101](https://www.tianyancha.com/company/5499421089)|WX_GZH| | |APP|[H5](https://xqsz-h5.dv101.com?userId=403600)|大唐链|二级市场|
