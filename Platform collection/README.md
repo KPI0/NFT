@@ -47,7 +47,7 @@
  |39|[元宇宙0号](https://www.tianyancha.com/company/3286141723)|WX_GZH|  |    |[APP](http://org.shuzicangpin888.com/downloads/download.html)|[H5](http://h5.shuzicangpin888.com/home)|龙链|二级市场|
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)|WX_GZH|  |  |[APP](http://front.metahz.com/download)|[H5](http://front.metahz.com/register?inviteCode=W7SnyR7)|Ethereum|场外转赠|
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|  |  |[APP](https://faramita.genimous.com/)|[H5](https://meta-h5.genimous.com/#/?spread=106697)|智链|场外转赠|
- |42|[玩贰+](https://www.tianyancha.com/company/4994817135)|WX_GZH|  |  |[APP](https://wan2store.com/ConsignmentMarket.html)|[H5](https://market.wan2store.com/market)|树图链|二级市场|
+ |42|[玩贰+](https://www.tianyancha.com/company/4994817135)|WX_GZH|  |  |[APP](https://wan2store.com/share.html?invitation_code=7F2B8B8)|[H5](https://market.wan2store.com/market)|树图链|二级市场|
  |43|[Bigverse](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |APP|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
  |43|[NFTCN](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |APP|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
  |44|[MetaBox](https://www.tianyancha.com/company/5227331730)|WX_GZH|||APP|[H5](https://www.metaboxglobal.cn/nft/index?inviteCode=nibb25wy)|HECO|二级市场|
