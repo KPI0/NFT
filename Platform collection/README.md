@@ -717,7 +717,7 @@
  |669|[JustBox](https://www.tianyancha.com/company/5439502448)|WX_GZH| | | |[H5](https://www.justbox.art/index)|Polygon|二级市场|
  |670|[星数藏](https://www.tianyancha.com/company/5435264664)|WX_GZH||||[H5](https://www.playeronenft.com/#/pages/login/register?code=p5sm0Ek61F)|BSN联盟链|场外转赠|
  |671|[悦山数藏](https://www.tianyancha.com/company/5400553956)|WX_GZH| | |APP|[H5](http://guoguolife.cn/#/pages/login/register?code=721651455)||场外转赠|
- |672|[DAO藏](https://www.tianyancha.com/company/4230881007)|WX_GZH| | | |[H5](https://inft.seraphln.com/index.html/mine)|至信链|场外转赠|
+ |672|[DAO藏](https://www.tianyancha.com/company/4230881007)|WX_GZH| | |APP|[H5](https://inft.seraphln.com/index.html/mine)|至信链|场外转赠|
  |673|[天猫数字藏品](https://www.tianyancha.com/company/3275412272)| | |天猫APP|[APP](https://m.tb.cn/h.fGzhJlB?sm=a9506d?tk=ZKMk2OhBQch)||蚂蚁链|场外转赠|
  |674|[玺岳数藏](https://www.tianyancha.com/company/5439468756)|WX_GZH| | | |[H5](http://xiyuemeta.com/)||场外转赠|
  |675|[天极数字文化](https://www.tianyancha.com/company/5125169197)|WX_GZH|
