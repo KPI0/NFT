@@ -74,7 +74,7 @@
  |64|[斑马中国](https://www.tianyancha.com/company/3371645788)|WX_GZH|WX_XCX||  |[H5](https://bmark.cn/#/)|星火·链网|二级市场|
  |65|[蝶宇宙数字藏品](https://www.tianyancha.com/company/3407911791)|WX_GZH|||APP|[H5](https://h5.bfmeta.art/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|OKChain|二级市场|
  |65|[海藏艺术](https://www.tianyancha.com/company/3407911791)|WX_GZH|||APP|[H5](https://h5.bfmeta.art/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|OKChain|二级市场|
- |66|[GEEK数字藏品](https://www.tianyancha.com/company/2358919196)|WX_GZH|||APP|[H5](https://www.geeknft.art/frontend/web/index.php/page/index)||二级市场|
+ |66|[GEEK数字藏品](https://www.tianyancha.com/company/2358919196)|WX_GZH|   |  |[APP](https://www.geeknft.art/download/appdownload.html)|[H5](https://www.geeknft.art/frontend/web/index.php/page/index)|XuperChain|二级市场|
  |67|[海幻境数字艺术](https://www.tianyancha.com/company/5294778475)|WX_GZH||||[H5](https://app.oceandreamland.art/?from=wxmp-menu)|Polygon|二级市场|
  |68|[Xmax星球数藏](https://www.tianyancha.com/company/5407820185)|WX_GZH| | | |[H5](https://sc.xmax.tech/pages/login/login-h5?shareCode=YT6GXF)|信证链|二级市场|
  |69|[红洞数藏](https://www.tianyancha.com/company/5247894675)|WX_GZH|WX_XCX| |[APP](https://www.redcave.com/#/pagesB/download/app)|[H5](https://www.redcave.com/#/pages/login/register?code=78NP2uTD62)|趣链|场外转赠|
