@@ -537,7 +537,7 @@
  |494|[三叠纪](https://www.tianyancha.com/company/3341226552)|WX_GZH| | | |[H5](https://3dieji.mokyun.com/register?code=882W0)|BSN联盟链|场外转赠|
  |495|[元龙悦藏](https://www.tianyancha.com/company/5434949187)|WX_GZH| |4JVVN4| |[H5](http://h5.ycmeta5.com/#/)|BSN文昌链|场外转赠|
  |496|[元狐数藏](https://www.tianyancha.com/company/3315127257)|WX_GZH| | |APP|[H5](https://yh.msjp.com.cn/wap/#/pages/login/register?referral_code=rokgoe)||场外转赠|
- |497|[FC数字艺术](https://www.tianyancha.com/company/5424870722)|WX_GZH| | |[APP](https://nft.fcszys.vip/reg/J8Q5OjWoJ)|[H5](https://m.fcszys.vip/)|HECO|场外转赠|
+ |497|[FC数字艺术](https://www.tianyancha.com/company/5424870722)|WX_GZH| | |[APP](https://nft.fcszys.vip/reg/J8Q5OjWoJ)|[H5](https://m.fcszys.vip/)|HECO|二级市场|
  |498|[第5殿堂](https://www.tianyancha.com/company/4660294520)|WX_GZH| | | |[H5](https://dwdt.gxdate.cn/#/)|BSN文昌链|二级市场|
  |499|[幻元鲸](https://www.tianyancha.com/company/5290136707)|WX_GZH| | |APP|[H5](https://www.huanyuanjing.com/whale/#/pages/myCenter/myCenter?userCode=79797410)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
