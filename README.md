@@ -85,6 +85,8 @@
  |47|梧桐链|[https://www.wutongchain.com/](https://ts.wutongchain.com/#/)|
  |48|MaileChain|[https://www.mailechain.com](https://www.mailechain.com/)|
  |49|BSN-DDC|[https://ddc.bsnbase.com](https://ddc.bsnbase.com/main/ddc-querys)|
+ |50|矩链|[https://www.matrixopen.com](https://explorer.matrixopen.com/#/)|   
+ 
  ## 四、🔞平台收录
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
