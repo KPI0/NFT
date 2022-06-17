@@ -70,7 +70,7 @@
  |60|OpenSea| | | |[APP](https://play.google.com/store/apps/details?id=io.opensea&hl=zh&gl=US)|[H5](https://opensea.io/)|   |交易市场|
  |61|[AmallART](https://www.tianyancha.com/company/5170842136)|WX_GZH|  |  |  |[H5](https://amall.vip/land?code=5425261466357761046)|Polygon|藏品交换|
  |62|[Art Meta元艺数](https://www.tianyancha.com/company/5241966703)|WX_GZH| | | |[H5](https://artmeta.cn/)|Polygon|二级市场|
- |63|[Avapunk数字藏品](https://www.tianyancha.com/company/5161314421)|WX_GZH|||APP|[H5](https://www.avapunk.com/invited?extensionId=U247385)|金链盟|场外转赠|
+ |63|[Avapunk数字藏品](https://www.tianyancha.com/company/5161314421)|WX_GZH| | |[APP](https://m.avapunk.com/static/download.html)|[H5](https://www.avapunk.com/invited?extensionId=U247385)|金链盟|场外转赠|
  |64|[斑马中国](https://www.tianyancha.com/company/3371645788)|WX_GZH|WX_XCX||  |[H5](https://bmark.cn/#/)|星火·链网|二级市场|
  |65|[蝶宇宙数字藏品](https://www.tianyancha.com/company/3407911791)|WX_GZH|    |   |[APP](https://www.bfmeta.art/#/)|[H5](https://h5.bfmeta.art/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|OKChain|二级市场|
  |65|[海藏艺术](https://www.tianyancha.com/company/3407911791)|WX_GZH|    |   |[APP](https://www.bfmeta.art/#/)|[H5](https://h5.bfmeta.art/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|OKChain|二级市场|
