@@ -723,7 +723,7 @@
  |675|[天极数字文化](https://www.tianyancha.com/company/5125169197)|WX_GZH|
  |676|[数猕艺术](https://www.tianyancha.com/company/3102294952)|WX_GZH| | |APP|[H5](http://app.sdrkz.cn/web/#/)|天河链|场外转赠|
  |677|[首派藏品](https://www.tianyancha.com/company/5471630640)|WX_GZH| | | |[H5](https://h5.firstpi.cn/h5/)|XuperChain|场外转赠|
- |678|[宙藏艺术](https://www.tianyancha.com/company/5442011881)|WX_GZH| | |APP|[H5](https://art.zcys.vip/pages/register/register?invitationCode=40SDR2)|BSN联盟链|二级市场|
+ |678|[宙藏艺术](https://www.tianyancha.com/company/5442011881)|WX_GZH| | |[APP](https://art.zcys.vip/download/app_download.html)|[H5](https://art.zcys.vip/pages/register/register?invitationCode=40SDR2)|BSN联盟链|二级市场|
  |679|[熵之域](https://www.tianyancha.com/company/3447745861)|WX_GZH| | |[APP](http://szy.yongjiuqucang.cn/#/pages/login/register?yqm=160913174)||熵链|场外转赠|
  |680|[密盒星球](https://www.tianyancha.com/company/4510782230)|WX_GZH| | |APP|[H5](https://jkyx-api.chiguavod.com/blindBoxMate/?inviteCode=588vgr)|BSN联盟链|二级市场|
  |681|[麒元数藏](https://www.tianyancha.com/company/5392647655)|WX_GZH| | | |[H5](https://h5.zaowanai.com/pages/user/invite-register?code=lmQlLR)|XuperChain|二级市场|
