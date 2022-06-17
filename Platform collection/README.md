@@ -927,5 +927,5 @@
  |876|[悟玩空间](https://www.tianyancha.com/company/3397334954)|WX_GZH| | | |[H5](https://wuan.zone/#/register?userCode=6522069816&activityCode=ddc9fd4b35184c6a81f01f2bb4f4010f)|树图链|场外转赠|
  |877|[版藏](https://www.tianyancha.com/company/3060197948)|WX_GZH|WX_XCX| | | |XuperChain|场外转赠|
  |878|[元素世界](https://www.tianyancha.com/company/5399811734)|WX_GZH| | | |[H5](http://web.yuanjihuaweb3.com/#/login?invite-code=gDuN6CsCAPb)|BSN联盟链|场外转赠|
- |879|[元素图腾](https://www.tianyancha.com/company/5491196423)|WX_GZH| | |APP|[H5](https://ys.yuansututeng.com/h5/index.html#/?qid=85072)|蚂蚁链|场外转赠|
+ |879|[元素图腾](https://www.tianyancha.com/company/5491196423)|WX_GZH| | |[APP](http://jq.yuansututeng.com/downpage/743426700fa04025)|[H5](https://ys.yuansututeng.com/h5/index.html#/?qid=85072)|蚂蚁链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
