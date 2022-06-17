@@ -387,7 +387,7 @@
  |354|[支付宝会员](https://www.tianyancha.com/company/3124622736)| | |支付宝APP|[APP](https://render.alipay.com/p/c/18idtr6ra82o?__H5view_options__=canPullDown%3DNO%26showOptionMenu%3DNO&chInfo=ch_share__chsub_CopyLink&apshareid=09810593-4077-4687-a23c-dc6fe62c15b2)| |蚂蚁链|场外转赠|
  |355|[元宇宙藏品馆](https://www.tianyancha.com/company/3268839461)|WX_GZH| | | |[H5](https://meta.yihuipaimai.com/toBrowser)|Polygon|二级市场|
  |356|[东方易犬](https://www.tianyancha.com/company/527564966)|WX_GZH| | | |[H5](https://nfc.eqain.com/)|XuperChain|
- |357|[元塑](https://www.tianyancha.com/company/3436428448)|WX_GZH| | |APP|[H5](http://www.cqmdm.cn/login/)|XuperChain|场外转赠|
+ |357|[元塑](https://www.tianyancha.com/company/3436428448)|WX_GZH| | |[APP](http://www.cqmdm.cn/downapp/#/)|[H5](http://www.cqmdm.cn/login/)|XuperChain|场外转赠|
  |358|[元潮数字藏品](https://www.tianyancha.com/company/5345409441)|WX_GZH||||[H5](https://m.meta100.art/#/pages/register/register?r_code=2NT6YyYNLZcYZY)|BSN文昌链|二级市场|
  |358|[Meta100](https://www.tianyancha.com/company/5345409441)|WX_GZH||||[H5](https://m.meta100.art/#/pages/register/register?r_code=2NT6YyYNLZcYZY)|BSN文昌链|二级市场|
  |359|[阅菁数藏](https://www.tianyancha.com/company/3439848591)|WX_GZH| | | |[H5](https://digist.cyunsmart.com/#/)|BSN文昌链、至信链|场外转赠|
