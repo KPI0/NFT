@@ -476,7 +476,7 @@
  |439|[龙域meta](https://www.tianyancha.com/company/2448534325)|WX_GZH| | |[APP](http://register.loonggod.cn/?invite=0xbb1542a16775287ade795092f062206676487db8)| |Polygon|二级市场|
  |440|[新艺数藏](https://www.tianyancha.com/company/5468199605)|WX_GZH||||[H5](http://www.xin1.art/pages/member/passport/register?share_token=M2L4B9)|天河链|场外转赠|
  |441|[元之初数藏](https://www.tianyancha.com/company/5133869681)|WX_GZH| | |[APP](http://xz.yuanzhichu.art/)|[H5](https://yuanzhichu.art/index/index/invite?invite_code=6qmrng)| |二级市场|
- |442|[数本位艺术平台](https://www.tianyancha.com/company/5447167156)|WX_GZH| | |APP|[H5](https://digitalstandards.art/pages/signup?referral=Z2K8GZ)|Polygon|场外转赠|
+ |442|[数本位艺术平台](https://www.tianyancha.com/company/5447167156)|WX_GZH| | |APP|[H5](https://digitalstandards.art/pages/signup?referral=Z2K8GZ)|Polygon|二级市场|
  |443|[贰肆数藏](https://www.tianyancha.com/company/5438615830)|WX_GZH||||[H5](http://www.24meta.art/#/phone/registered?code=mUNIbb)|BSN联盟链|场外转赠|
  |444|[集集文创](https://www.tianyancha.com/company/3227552408)|WX_GZH| | |[APP](https://jiji.tianhe32.cn/)| |酒泉链|场外转赠|
  |445|[元力星球](https://www.tianyancha.com/company/5289687840)|WX_GZH| | |[APP](http://m.metastar.art/)| |网易链|场外转赠|
