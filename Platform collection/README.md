@@ -896,7 +896,7 @@
  |847|Model Eros Village| | | | |[H5](https://www.modelerosvillage.com/)|
  |847|麻豆元宇宙| | | | |[H5](https://www.modelerosvillage.com/)|
  |848|[蜘趣像素NFT](https://www.tianyancha.com/company/5498877237)|WX_GZH| | |APP|[H5](https://nt.ntzhiqu.com/h5//#/pages/join/index?code=470778871)|BSN文昌链|场外转赠|
- |849|[恒星数藏](https://www.tianyancha.com/company/5505185837)|WX_GZH|
+ |849|[恒星数藏](https://www.tianyancha.com/company/5505185837)|WX_GZH| | | |[H5](https://www.whszht.com/#/login.html?invite_code=31)|BSN联盟链|场外转赠|
  |850|[晤宇Meta](https://www.tianyancha.com/company/3101386933)|WX_GZH| | | |[H5](https://www.hi-universe.com/#/home)|树图链|场外转赠|
  |851|[梨数字艺术](https://www.tianyancha.com/company/5478156178)|WX_GZH| | | |[H5](https://pearmeta.art/?code=4842656)|Ethereum、Polygon|二级市场|
  |852|中古艺术|WX_GZH|
