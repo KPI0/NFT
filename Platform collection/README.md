@@ -275,7 +275,7 @@
  |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | |APP|[H5](https://h5.mymgkj.com/#/pages/my/register?in_code=ik7bjl)|蚂蚁链|二级市场|
  |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP|[H5](https://nft.api.yihongzhihui.com/index.html)||二级市场|
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |[APP](https://invite.jm-ddc.com/#/pages/index/download)||BSN联盟链|场外转赠|
- |253|[交链数藏](https://www.tianyancha.com/company/2349028571)|WX_GZH| | |[APP](https://down.wiyxyo.org/downpage/9c2de76b4a674319)|[H5](https://jldc.wtsdapp.com/jlsc/)|TBaaS|场外转赠|
+ |253|[交链数藏](https://www.tianyancha.com/company/2349028571)|WX_GZH| | |[APP](https://down.wiyxyo.org/downpage/9c2de76b4a674319)|[H5](https://jldc.wtsdapp.com/jlsc/)|TBaaS|二级市场|
  |254|[BlueSea蓝海数字](https://www.tianyancha.com/company/3334037757)|WX_GZH| | |[APP](http://app.hidianculture.com/lanhai)|[H5](https://h5.hidianculture.com/#/pages/index?inviteUId=61220)|蚂蚁链|场外转赠|
  |255|[星象数字艺术](https://www.tianyancha.com/company/3348198256)|WX_GZH| | |[APP](https://www.starxiang.com/mobile/common/register?invite_code=eq6y7V)| |BSN联盟链|二级市场|
  |256|[卅一数藏](https://www.tianyancha.com/company/4517298022)|WX_GZH| | | |[H5](https://sayi.world?inviter_id=45233)| |二级市场|
