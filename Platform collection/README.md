@@ -523,7 +523,7 @@
  |481|[鲸藏](https://www.tianyancha.com/company/3196684818)|WX_GZH| | |[APP](https://h5.jingcang100.com/register?c=0DSQTB)||鲸藏链|场外转赠|
  |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | |APP|[H5](https://m.nftsc.vip/#/pages/user/auth/login?uuid=791770)||二级市场|
  |483|[艺数坊](https://www.tianyancha.com/company/5290912393)|WX_GZH| |ZFB_XCX| |[H5](https://m.degallery.cn/)|树图链|场外转赠|
- |484|[梵易艺术](https://www.tianyancha.com/company/5472214385)|WX_GZH| |艺数坊| |[H5](https://fanyi.fanyiys.com/web/h5/pages/mine/login)|蚂蚁链|场外转赠|
+ |484|[梵易艺术](https://www.tianyancha.com/company/5472214385)|WX_GZH| |艺数坊| |[H5](https://jybl.hdlkeji.com/web/h5/pages/mine/zhuce?invite_code=392)|蚂蚁链|二级市场|
  |485|[铸元数藏](https://www.tianyancha.com/company/5421047191)|WX_GZH| | | |[H5](https://m.mintmeta.cn/?#/)|BSN文昌链|场外转赠|
  |486|TT数藏|WX_GZH| | | | | |停止运营|
  |487|[云视空间](https://www.tianyancha.com/company/4049864861)|WX_GZH| | |[APP](https://nft-download.yunshiar.com/)|[H5](https://nft-register.yunshiar.com?invitation_code=bxi355ds)|BSN联盟链|场外转赠|
