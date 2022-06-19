@@ -781,7 +781,7 @@
  |735|[数藏艺术](https://www.tianyancha.com/company/5446714193)|WX_GZH| | | |[H5](http://shucangys.com/)|天河链|场外转赠|
  |736|[艺数世界Art World](https://www.tianyancha.com/company/4434700308)|WX_GZH| | | |[H5](http://yssj.0757app.com/h5/index.html#/pages/login/register?spm=74395.1.0.2.1)| |二级市场|
  |737|[X Labs](https://www.tianyancha.com/company/5475140936)|WX_GZH| | |APP|H5|BSN联盟链|
- |738|[Cupu Meta艺术元创](https://www.tianyancha.com/company/5485512550)|WX_GZH| | |APP|[H5](http://fang.root.boxiyun.com)| |场外转赠|
+ |738|[Cupu Meta](https://www.tianyancha.com/company/5485512550)|WX_GZH| | |APP|[H5](http://fang.root.boxiyun.com)| |二级市场|
  |739|[1pin一品](https://www.tianyancha.com/company/2330770743)|WX_GZH| | |[APP](https://shop.ionepin.com/static/yp/download.html)|[H5](https://shop.ionepin.com/#/pages/share/register?inviteCode=K4nMkXW6)|Polygon|二级市场|
  |740|[未来数藏](https://www.tianyancha.com/company/274940180)|WX_GZH| | |[APP](https://nft.ottcn.com/)| |至信链|场外转赠|
  |741|[臻域数藏](https://www.tianyancha.com/company/5438174356)|WX_GZH| | | |[H5](https://www.zymeta.art/#/pages/login/index?inviteMeUid=uYs42325)||二级市场|
