@@ -941,4 +941,5 @@
  |892|[星探艺数](https://www.tianyancha.com/company/5532435907)|WX_GZH| |NFTCN|
  |893|[NFT纪元](https://www.tianyancha.com/company/5396939302)|WX_GZH| | |APP|[H5](https://bytepic.cn/)|树图链|二级市场|
  |894|[赛博艺术](https://www.tianyancha.com/company/5386668555)|WX_GZH| | |APP|[H5](https://app.saiboyishu.cn/#/pages/register/index?code=1)|蚂蚁链|场外转赠|
+ |895|[时境艺术](https://www.tianyancha.com/company/5498978458)|WX_GZH| |秘宝|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
