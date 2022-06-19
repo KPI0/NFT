@@ -662,7 +662,7 @@
  |618|[捧音](https://www.tianyancha.com/company/3147544133)|WX_GZH| | |[APP](https://h5.pengyin.vip/#/download)|[H5](https://h5.pengyin.vip/#/home)| |二级市场|
  |619|[祈境](https://www.tianyancha.com/company/5394638744)|WX_GZH| | |[APP](https://app.pubsion.cn/)|[H5](http://m.pubsion.cn/#/pages/index/index?&shareGoodsCode=Q9GQPG)|BSN文昌链|场外转赠|
  |620|[视觉猿数字艺术](https://www.tianyancha.com/company/5224384192)|WX_GZH| | |APP|[H5](https://h5.shijueyuan.cn/#/?spm=163947.1.0.2.1)| |二级市场|
- |621|[数秀CN](https://www.tianyancha.com/company/4535450774)|WX_GZH| | | |[H5](https://h5.shuxiucn.com/#/)|蚂蚁链|场外转赠|
+ |621|[数秀CN](https://www.tianyancha.com/company/4535450774)|WX_GZH| | |[APP](http://ff.shuxiucn.com/#/)|[H5](https://h5.shuxiucn.com/#/)|蚂蚁链|场外转赠|
  |622|[数字聚星](https://www.tianyancha.com/company/5016550939)|WX_GZH| | | |[H5](https://h5.artchain.ltd/H5/#/pages/mine/index?pid=49310)||场外转赠|
  |623|[炫弛世界](https://www.tianyancha.com/company/3419932627)|WX_GZH| | |[APP](https://xuanchiapp.oss-cn-beijing.aliyuncs.com/%E7%82%AB%E5%BC%9B%E4%B8%96%E7%95%8C_1.0.0.apk)|
  |624|[摇光艺术](https://www.tianyancha.com/company/5503763483)|WX_GZH| | | |[H5](http://tcb-v1nuyjc45fe327-7dvbhe9aa3aaf-1311998066.tcloudbaseapp.com/h5#/)||场外转赠|
