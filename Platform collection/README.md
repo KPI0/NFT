@@ -743,7 +743,7 @@
  |697|[玄梦阁数藏](https://www.tianyancha.com/company/5430805454)|WX_GZH| | |[APP](https://source.xuanmengge.com/app-release_1.0.1.apk)| |XuperChain|场外转赠|
  |698|[星云艺术空间](https://www.tianyancha.com/company/5428397236)|WX_GZH| | |APP|[H5](https://xyys.xyszzp.com/h5/index.html#/?qid=109265)|蚂蚁链|场外转赠|
  |699|[数藏天下meta](https://www.tianyancha.com/company/3449530500)|WX_GZH|
- |700|[小龙数藏](https://www.tianyancha.com/company/3475373001)|WX_GZH| | |APP|[H5](https://meta.stariverpan.com/invitationRegister?phone=0141&code=BPpheoy2sNn)|星河链|场外转赠|
+ |700|[小龙数藏](https://www.tianyancha.com/company/3475373001)|WX_GZH| | |[APP](https://wx.stariverpan.com/download/meta.html)|[H5](https://meta.stariverpan.com/invitationRegister?phone=0141&code=BPpheoy2sNn)|星河链|场外转赠|
  |701|[极光艺术Aurora](https://www.tianyancha.com/company/5497108460)|WX_GZH| | | |[H5](https://jgys.art/register?inviteCode=6a5so7)|天河链|场外转赠|
  |702|[红叶数藏](https://www.tianyancha.com/company/2987534642)|WX_GZH| | | |[H5](https://nft.hongyshop.com/pages/index/user?invite=ZkdECvLJ)||场外转赠|
  |703|[象探](https://www.tianyancha.com/company/5382850552)|WX_GZH| | |[APP](https://download.friendwing.com.cn?invitationCode=EK22076610)||奇迹链|二级市场|
