@@ -939,4 +939,5 @@
  |890|[MEVA Studio](https://www.tianyancha.com/company/5359818066)|WX_GZH| | |APP|[H5](https://mevameta.com/)|XuperChain|二级市场|
  |891|[星光元宇宙](https://www.tianyancha.com/company/5268524114)|WX_GZH| | | |[H5](https://www.starlight.top/?invite_code=NLX2CF&invite_type=0)|BSC|二级市场|
  |892|[星探艺数](https://www.tianyancha.com/company/5532435907)|WX_GZH| |NFTCN|
+ |893|[NFT纪元](https://www.tianyancha.com/company/5396939302)|WX_GZH| | |APP|[H5](https://bytepic.cn/)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
