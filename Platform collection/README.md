@@ -394,7 +394,7 @@
  |361|[刚刚数字](https://www.tianyancha.com/company/3055220680)|WX_GZH| | |[APP](https://api.ganggangshuzi.com/download)|[H5](https://h5.ganggangshuzi.com/#/pages/activities?id=70&invite_code=ff57d9OfQ3je38oaWbSLakEo5fmIZpcF)|XuperChain|场外转赠|
  |362|[元宝数字藏品](https://www.tianyancha.com/company/4447184292)|WX_GZH||||[H5](https://h5.yuanbao.co/nft/share?share_id=403c2471d39047fca8931afc4f78f469)|Ethereum、Polygon|
  |363|[灵潮艺术](https://www.tianyancha.com/company/5400548250)|WX_GZH||||[H5](https://digitalh5.lingchao.art/pages/public/login?type=1&invitation=CpkFDSx)||二级市场|
- |364|[元海数藏](https://www.tianyancha.com/company/5048806289)|WX_GZH| | |APP|[H5](https://m.yuannar.work/#/pages/user/auth/login?uuid=721162)||场外转赠|
+ |364|[元海数藏](https://www.tianyancha.com/company/5048806289)|WX_GZH| | |APP|[H5](https://m.yuannar.work/#/pages/user/auth/login?uuid=721162)|BSN联盟链|二级市场|
  |365|[颖境](https://www.tianyancha.com/company/5321101743)|WX_GZH| | | |[H5](http://m.hinft.cn/#/?agent_id=10006809)|至信链|场外转赠|
  |366|[江南数艺](https://www.tianyancha.com/company/5414924932)|WX_GZH| | | |[H5](https://www.jieyuanart.cn/#/register?invitecode=5DWJMTI)|金链盟|场外转赠|
  |367|[若喜](https://www.tianyancha.com/company/3205176264)|WX_GZH| | |[APP](https://app.nos.art/)|[H5](https://nft.nos.art/activity/1/welcome/2e1043a09ee23e42417abb78706583acaa88a13a91d012dd817690b3f2b7a643)|One Blockchain|二级市场|
