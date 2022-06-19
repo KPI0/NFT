@@ -427,7 +427,7 @@
  |392|[敦远数藏](https://www.tianyancha.com/company/5432974784)|WX_GZH| | |APP|[H5](https://art.fsdy.top/dy/register?invitor=2702825)||二级市场|
  |393|[腾讯金融云数字藏品馆](https://www.tianyancha.com/company/9519792)| |WX_XCX| | | |至信链|
  |394|[元始玩家](https://www.tianyancha.com/company/5233336047)|WX_GZH| | | |[H5](http://m.ysrnft.com/pages/user)|树图链|
- |395|[噬元星](https://www.tianyancha.com/company/4223970768)|WX_GZH| | |APP|[H5](https://syx.nftsuper.cn)|矩链|二级市场|
+ |395|[噬元星](https://www.tianyancha.com/company/4223970768)|WX_GZH| | |[APP](https://www.nftplanet.cc/#/pages/invite/appDownload)|[H5](https://syx.nftsuper.cn)|矩链|二级市场|
  |396|[山海元世界](https://www.tianyancha.com/company/5481201922)|WX_GZH| | |[APP](https://www.shanhaiyucang.com/#/pages/downApp)|[H5](https://www.shanhaiyucang.com/#/pages/index/index?invite_id=uy1lvze0)|Polygon|二级市场|
  |397|Browlser| |OpenSea|94BG7|[APP](https://browlser.io/)| |Ethereum|二级市场|
  |398|[造浪元宇宙](https://www.tianyancha.com/company/5386343985)|WX_GZH| | | |[H5](https://sc.zaolang.cn/?invited_id=93353#/)|超块链|场外转赠|
