@@ -364,7 +364,7 @@
  |333|[国粹文化数藏](https://www.tianyancha.com/company/5447706902)|WX_GZH| | | |[H5](https://m.tuijieip.com/?md=index_index_index&invite_code=Wm1DDPJ1&invite_code=Wm1DDPJ1&item_id=0)|司法联盟链|场外转赠|
  |333|[中国推介数字IP](https://www.tianyancha.com/company/5447706902)|WX_GZH| | | |[H5](https://m.tuijieip.com/?md=index_index_index&invite_code=Wm1DDPJ1&invite_code=Wm1DDPJ1&item_id=0)|司法联盟链|场外转赠|
  |334|[熊猫收藏](https://www.tianyancha.com/company/3470688585)|WX_GZH|||[APP](https://www.cdczhcy.com/downloadapk/?channel=BOkyRYBaoqf9pPoo9kYNkFID&invite_type=2)||BSN联盟链|场外转赠|
- |335|[派链数藏](https://www.tianyancha.com/company/5422989574)|WX_GZH| | |[APP](https://pl.pilian.net/h5/index.html#/?qid=5090)||蚂蚁链|
+ |335|[派链数藏](https://www.tianyancha.com/company/5422989574)|WX_GZH| | |[APP](https://pl.pilian.net/h5/index.html#/?qid=5090)|[H5](http://pl.pilian.net/web/#/pages/login/index)|蚂蚁链|二级市场|
  |336|腾讯动漫APP| | | |[APP](https://cangpin.yuewen.com/tencent-comics/home)| |至信链|
  |337|[叁贰贰 Meta](https://www.tianyancha.com/company/5448468155)|WX_GZH|    | |APP|[H5](http://m.322meta.art/h5/#/pages/extension/login?qid=22478)|BSN文昌链、Polygon|二级市场|
  |338|[云岫数字藏品](https://www.tianyancha.com/company/3088756717)|WX_GZH|WX_XCX| | | |领域链|二级市场|
