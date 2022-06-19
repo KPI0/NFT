@@ -580,7 +580,7 @@
  |538|[ZEUS数藏](https://www.tianyancha.com/company/5477928757)|WX_GZH|   |   |  |[H5](http://b075.sxqichuangkeji.com/h5/#/pages/login/register?code=944234471)|蚂蚁链|场外转赠|
  |538|[宙斯数藏](https://www.tianyancha.com/company/5477928757)|WX_GZH|   |   |  |[H5](http://b075.sxqichuangkeji.com/h5/#/pages/login/register?code=944234471)|蚂蚁链|场外转赠|
  |539|[城市数藏](https://www.tianyancha.com/company/5410542800)|WX_GZH| | | |[H5](https://www.csscmeta.com/)|BSN文昌链|场外转赠|
- |540|[艺创数联](https://www.tianyancha.com/company/5492633960)|WX_GZH| | |APP|[H5](http://ycsl.cc/?invite_id=20041)|蚂蚁链|二级市场|
+ |540|[艺创数联](https://www.tianyancha.com/company/5492633960)|WX_GZH| | |APP|[H5](http://ycsl.cc/?invite_id=20041)|BSN联盟链|二级市场|
  |541|[混元数藏](https://www.tianyancha.com/company/3330604157)|WX_GZH| | | |[H5](https://shucang.lvchenkeji.com/)|BSN联盟链|场外转赠|
  |542|[Swell艺术](https://www.tianyancha.com/company/5462815496)|WX_GZH|    |   |   |[H5](https://swellsc.com/index.html#/pages/login/login?yqm=RVlPF3&clod=3)|XuperChain|场外转赠|
  |543|[艺藏MART](https://www.tianyancha.com/company/5453666236)|WX_GZH| | |APP|[H5](http://ieyicang.kueen.cc/h5/#/)|Ethereum|二级市场|
