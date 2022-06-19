@@ -540,7 +540,7 @@
  |498|[第5殿堂](https://www.tianyancha.com/company/4660294520)|WX_GZH| | | |[H5](https://dwdt.gxdate.cn/#/)|BSN文昌链|二级市场|
  |499|[幻元鲸](https://www.tianyancha.com/company/5290136707)|WX_GZH| | |APP|[H5](https://www.huanyuanjing.com/whale/#/pages/myCenter/myCenter?userCode=79797410)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
- |500|[奈斯Art](https://www.tianyancha.com/company/5489822612)|WX_GZH| | | |[H5](http://nice.jiubaguanjia.com/index/index/add_user?pid=194932)|
+ |500|[奈斯Art](https://www.tianyancha.com/company/5489822612)|WX_GZH| | |[APP](http://download.nai365.com/prjx?utm_source=fir&utm_medium=qr)|[H5](http://nice.jiubaguanjia.com/index/index/add_user?pid=194932)| |二级市场|
  |501|[Gone艺数](https://www.tianyancha.com/company/5475373789)|WX_GZH| | | |[H5](http://goneart.cn/#/phone/registered?code=36WY1v)|BSN联盟链|场外转赠|
  |502|[麒麟数藏](https://www.tianyancha.com/company/5007411159)|WX_GZH|  |   |APP|[H5](https://h5.shucangworld.com/?userCode=7c3522789bcc4de9a647463923970803)|树图链|场外转赠|
  |503|[CERKA奇咖](https://www.tianyancha.com/company/5346626631)|WX_GZH| | | |[H5](https://www.xiright.com/gw/nft/cerka/?distributor=c55bf2cedc8541c6b6b03350ab093146)|小犀版权链|场外转赠|
