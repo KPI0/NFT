@@ -116,7 +116,7 @@
  |103|[YOYO元宇宙](https://www.tianyancha.com/company/3486818418)|WX_GZH| | | |[H5](https://www.yoyonft.vip/#/pages/login/setpwd?shareCode=0NILK0I1)|Polygon|二级市场|
  |104|[IREAL](https://www.tianyancha.com/company/5368236226)|WX_GZH| | |APP|[H5](https://app.ireal.icu/#/userhub)|信安链|二级市场|
  |105|[茫洋](https://www.tianyancha.com/company/5270798876)|WX_GZH| | | |[H5](https://www.mangyang.com/#/pages/regist/index?code=782416599)|茫洋链|二级市场|
- |106|[X光年](https://www.tianyancha.com/company/4534782025)|WX_GZH|||APP|[H5](https://www.xmall.art/)|星蓝云链|二级市场|
+ |106|[X光年](https://www.tianyancha.com/company/4534782025)|WX_GZH|||[APP](https://www.xmall.art/app/download.html)|[H5](https://www.xmall.art/)|BSC|二级市场|
  |107|[道一数藏](https://www.tianyancha.com/company/5146484581)|WX_GZH| | | |[H5](https://apisc.daoyi365.com?spread=15819)|Polygon|场外转赠|
  |108|[Meta数字文创](https://www.tianyancha.com/company/3331715113)|WX_GZH|  | |APP|[H5](https://www.metadac.cn//#/register?uuid=8P3LVA)|XuperChain|二级市场|
  |109|[伽作Meta](https://www.tianyancha.com/company/3412231102)|WX_GZH||[藏佳宇宙](http://metaapi.jiazuo.art/index.php/home/down/downCangJia)|APP|[H5](http://meta.jiazuo.art/#/invite_register?invite_code=B14613154)||二级市场|
