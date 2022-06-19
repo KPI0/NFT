@@ -289,7 +289,7 @@
  |262|[Homes元宇宙](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |[APP](https://app.hbsxwl.cn/?code=YXNXXYYMUS2GKGAS)|[H5](https://h5.bjsxkj.ren/#/)|BSN联盟链|二级市场|
  |262|[星潮艺数](https://www.tianyancha.com/company/5166840047)|WX_GZH| | |[APP](https://app.hbsxwl.cn/?code=YXNXXYYMUS2GKGAS)|[H5](https://h5.bjsxkj.ren/#/)|BSN联盟链|二级市场|
  |263|[星幻数字藏品](https://www.tianyancha.com/company/5125419098)|WX_GZH| | |APP|[H5](https://www.star-fans.net/pages/users/login/index?type=register&spread=2833323)|Polygon|二级市场|
- |264|[盛世斋数字收藏](https://www.tianyancha.com/company/3442867555)|WX_GZH| | |APP|[H5](http://www.shengshizhai.com/h5/#/register?code=moyzDP)||二级市场|
+ |264|[盛世斋数字收藏](https://www.tianyancha.com/company/3442867555)|WX_GZH| | |[APP](http://download.yizhanapp.cn/Br3q22)|[H5](http://www.shengshizhai.com/h5/#/register?code=moyzDP)|BSN联盟链|二级市场|
  |265|[有点数藏](https://www.tianyancha.com/company/5455804469)|WX_GZH| | |[APP](https://ntfmall.mpcheshi.com/#/?inviteCode=bnSnrE)|[H5](https://yd.youdianmeta.com/#/)|蚂蚁链|场外转赠|
  |266|[幻雾宇宙](https://www.tianyancha.com/company/5327459401)|WX_GZH| | | |[H5](https://hw.phantaverse.cn/#/)|元梭链|二级市场|
  |267|[万创元宇宙](https://www.tianyancha.com/company/5411469775)|WX_GZH| | |[APP](https://api.yuanyiyz.com/?webapp/reg&code=30cb4)| | |场外转赠|
