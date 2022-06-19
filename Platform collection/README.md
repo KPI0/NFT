@@ -815,7 +815,7 @@
  |769|[爱乐疯](https://www.tianyancha.com/company/3206339852)|WX_GZH| | | |[H5](https://art.mrelefun.com/#/register?userCode=65220667044&activityCode=de30d581875741f8ac892a46dc082818)|树图链|场外转赠|
  |770|TOGOD| | | | |[H5](http://nft.wujingkeji.xyz/qc.php?pid=33018&apptoken=c185c5d2328776b344a6eb4e62897a38)||二级市场|
  |771|[豹豹青春宇宙](https://www.tianyancha.com/company/28419546)|WX_GZH| | | |[H5](https://nft.cyntv.cn/)|树图链|场外转赠|
- |772|[天体数藏](https://www.tianyancha.com/company/2441147382)|WX_GZH| | | |[H5](https://tt.tjzhaoxing.com/#/?invite_code=bccfw6ccupxy)|BSN联盟链|场外转赠|
+ |772|[天体数藏](https://www.tianyancha.com/company/2441147382)|WX_GZH| | |APP|[H5](https://tt.tjzhaoxing.com/#/?invite_code=bccfw6ccupxy)|BSN联盟链|场外转赠|
  |773|[传阁](https://www.tianyancha.com/company/5240675918)|WX_GZH| | | |[H5](https://cgmeta.art/h5/#/pages/index/goodsinfo?scene=003058%2C17)|海星链|场外转赠|
  |773|[CGMeta](https://www.tianyancha.com/company/5240675918)|WX_GZH| | | |[H5](https://cgmeta.art/h5/#/pages/index/goodsinfo?scene=003058%2C17)|海星链|场外转赠|
  |774|[奇幻数藏](https://www.tianyancha.com/company/3348132717)|WX_GZH| | | |[H5](https://www.qihuansc.com/h5/)|蚂蚁链|场外转赠|
