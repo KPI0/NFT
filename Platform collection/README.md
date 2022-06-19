@@ -560,7 +560,7 @@
  |518|[元宇艺数](https://www.tianyancha.com/company/5240419010)|WX_GZH| | | |[H5](https://yy.9space.vip/yy/home)| |二级市场|
  |519|[元什](https://www.tianyancha.com/company/5397460618)|WX_GZH| | | |[H5](https://metax.ycmot.com/h5/pages/loading/index?id=628afc54d38e7)|文交链|场外转赠|
  |520|[中网元宇宙](https://www.tianyancha.com/company/4815980916)|WX_GZH| | |[APP](https://app.cn-auction.com/)|[H5](http://m.zwpaimai.store/#/pages/index/index?&shareGoodsCode=NEOAT5)|BSN文昌链|二级市场|
- |521|[烨臻数藏](https://www.tianyancha.com/company/5476908478)|WX_GZH| | |APP|[H5](http://yezhenkeji.art/h5/index.html#/?qid=39946)|BSN联盟链|场外转赠|
+ |521|[烨臻数藏](https://www.tianyancha.com/company/5476908478)|WX_GZH| | |[APP](http://yezhenkeji.art/h5/index.html#/?qid=39946)|[H5](http://yezhenkeji.art/web/#/)|蚂蚁链|场外转赠|
  |522|[铸魂数藏](https://www.tianyancha.com/company/5314849803)|WX_GZH| | | |[H5](https://www.zhuhungame.com/login/outreg?key=55fc6cf9-16cc-4d1a-8153-b7509d3e2320)|BSN联盟链|场外转赠|
  |523|[元点数藏](https://www.tianyancha.com/company/2320704456)|WX_GZH| | |[APP](https://oss.huaxiayuandian.com.cn/dc/app/android_apk_0_5_31_0505b.apk)| |BSN联盟链|场外转赠|
  |524|[海豹数字藏品](https://www.tianyancha.com/company/500285072)|WX_GZH| |海报新闻APP|[APP](https://hb.dzwww.com/zt/nft/invite.php?u=hzKe2)| |大众链|场外转赠|
