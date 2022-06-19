@@ -934,5 +934,6 @@
  |886|[元系空间](https://www.tianyancha.com/company/5123211402)|WX_GZH| | |APP|[H5](https://h5.yuanxispace.com/#/)|版权链|二级市场|
  |887|[趣藏艺数](https://www.tianyancha.com/company/3199560241)|WX_GZH| | | |[H5](https://n.zdjoys.com/pages/login/login?yard=IKGFYYELQT)||二级市场|
  |888|[元萌艺术](https://www.tianyancha.com/company/5551255733)|WX_GZH|
- |889|[PandaGo](https://www.tianyancha.com/company/5524835870)|WX_GZH| | |APP|[H5](https://mgejt.club/wap/#/pages/login/register/register?id=637436)|Polygon|二级市场
+ |889|[PandaGo](https://www.tianyancha.com/company/5524835870)|WX_GZH| | |APP|[H5](https://mgejt.club/wap/#/pages/login/register/register?id=637436)|Polygon|二级市场|
+ |890|[MEVA Studio](https://www.tianyancha.com/company/5359818066)|WX_GZH| | |APP|[H5](https://mevameta.com/)|XuperChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
