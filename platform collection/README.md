@@ -293,7 +293,7 @@
  |265|[有点数藏](https://www.tianyancha.com/company/5455804469)|WX_GZH| | |[APP](https://ntfmall.mpcheshi.com/#/?inviteCode=bnSnrE)|[H5](https://yd.youdianmeta.com/#/)|蚂蚁链|场外转赠|
  |266|[幻雾宇宙](https://www.tianyancha.com/company/5327459401)|WX_GZH| | | |[H5](https://hw.phantaverse.cn/#/)|元梭链|二级市场|
  |267|[万创元宇宙](https://www.tianyancha.com/company/5411469775)|WX_GZH| | |[APP](https://api.yuanyiyz.com/?webapp/reg&code=30cb4)| | |场外转赠|
- |268|[鲸喜玛特](https://www.tianyancha.com/company/5211536739)|WX_GZH| | |APP|[H5](https://h5.wwmart.cn/download/register.html?inviteCode=4NX9FW7)| |二级市场|
+ |268|[鲸喜玛特](https://www.tianyancha.com/company/5211536739)|WX_GZH| | |APP|[H5](https://h5.wwmart.cn/download/register.html?inviteCode=4NX9FW7)|Ethereum|二级市场|
  |269|[机甲星辰](https://www.tianyancha.com/company/5371936892)|WX_GZH| | | |[H5](https://dwz.cn/eIakxDvn)|BSN文昌链|二级市场|
  |270|[合自文创](https://www.tianyancha.com/company/5291223985)|WX_GZH| | |[APP](https://app.lcnft.top/download/hezinft.apk)| | |二级市场|
  |271|[乐普思](https://www.tianyancha.com/company/3190980543)|WX_GZH| | | |[H5](https://nft.defangchain.com/mobile/#/home)|BSN联盟链|场外转赠|
@@ -956,4 +956,5 @@
  |907|[蚂蚁艺术](https://www.tianyancha.com/company/5516182060)|WX_GZH| | | |[H5](http://www.mayiyishu.com/login?sdk=tei6XnLI)||二级市场|
  |908|[宝箱数藏](https://www.tianyancha.com/company/5492950622)|WX_GZH| | | |[H5](https://h5.baoxiang.shop/#/pages/login/login?uid=02211282)|BSN联盟链|场外转赠|
  |909|[多比星球](https://www.tianyancha.com/company/5492746684)|WX_GZH| | | |[H5](https://share.haichengtec.com/?user_url=f2fd40aae524a64b4baca9a6f4451e3b6386e7d1)|至信链|二级市场|
+ |910|[brand印记](https://www.tianyancha.com/company/5387932400)|WX_GZH| | |[APP](https://artistnft.com.cn/mobile/index.html#/)| |Solana|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
