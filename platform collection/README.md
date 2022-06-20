@@ -21,7 +21,7 @@
  |16|[映耀](https://www.tianyancha.com/company/5388515360)|WX_GZH|  |  |APP|[H5](http://www.yyycyu.top/signup.html?i=W453194)|Ethereum|二级市场|
  |17|[光链](https://www.tianyancha.com/company/2351298742)|WX_GZH| | |[APP](https://www.chainoo.cn/login.html?inviteCode=529571)|[H5](https://m.chainoo.cn/pages/index/index)|蚂蚁链、BSN联盟链|二级市场|
  |18|[UTONMOS](https://www.tianyancha.com/company/3224553385)|WX_GZH|  |   |[APP](https://download.utonmos.com/)|[H5](https://h5.utonmos.com/invite?fcode=EQ652)|和数链|场外转赠|
- |19|[元初世界](https://www.tianyancha.com/company/4976096563)|WX_GZH|WX_XCX||[APP](https://website-cdn.gfanx.com/metaworld_app/downloadapp/index.html)|[H5](https://h5.gfanx.com/)|国广链|二级市场|
+ |19|[元初世界](https://www.tianyancha.com/company/4976096563)|WX_GZH|WX_XCX|    |[APP](https://website-cdn.gfanx.com/metaworld_app/downloadapp/index.html)|[H5](https://h5.gfanx.com/)|国广链|二级市场|
  |20|[umx art](https://www.tianyancha.com/company/3219363889)|WX_GZH|  ||  [APP](https://app.chainmind.xyz/)|[H5](https://umxverse.com/#/main?uid=063C23deeB987451558B7C8d311B6Bf9a65fc33d)|BSC|二级市场|
  |21|[元本空间](https://www.tianyancha.com/company/3452507009)|WX_GZH| | |[APP](https://manage.3rdplanet.cn/?v=1/#/pages/appDownload/wxAppDownload)|[H5](http://manage.3rdplanet.cn/#/pages/login/res?parentId=249078)|Polygon|二级市场|
  |22|[七级宇宙](https://www.tianyancha.com/company/3288064720)|WX_GZH| | |[APP](https://url.7jft.com/app)|[H5](https://v3.7jft.com/h5/#/pages/login/register?invite_code=6208484)|蚂蚁链|二级市场|
