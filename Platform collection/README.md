@@ -90,7 +90,7 @@
  |80|[周大福TMARK](https://www.tianyancha.com/company/4636733)|WX_GZH|WX_XCX|   |  |  |Polygon|
  |81|[NFE中文数藏](https://www.tianyancha.com/company/5401690616)|WX_GZH| | |[APP](https://www.ccdc.vip/pages/software/software)|[H5](https://www.ccdc.vip/pages/register/register?fid=51522)|CIC|场外转赠|
  |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH||||[H5](https://uujypt.com/)|   |交易市场|
- |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX||[APP](http://ltly.ltd/)||XuperChain|二级市场|
+ |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX|  |[APP](http://app.ltly.ltd/)|  |XuperChain|二级市场|
  |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[H5](https://wx.allnfts.cn/)|META|二级市场|
  |85|[雪崩数藏](https://www.tianyancha.com/company/5318444820)|WX_GZH| |艺数坊|[APP](https://app.avalanchetec.com/share/index.html?invitecode=6dfccd7464e841a89e554efc6185786f)|[H5](http://www.avalanchetec.com/)|树图链|场外转赠|
  |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH| | |[APP](https://www.xuhe.art/reg/w0rkrqkPz)|H5| |二级市场|
