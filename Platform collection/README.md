@@ -879,7 +879,7 @@
  |832|[云顶艺术](https://www.tianyancha.com/company/3439209292)|WX_GZH| | |APP|[H5](https://h5.vvtok.com/pages/login/register?inviteCode=9368175)|蚂蚁链|二级市场|
  |833|[唯瀚](https://www.tianyancha.com/company/5465282629)|WX_GZH| | |APP|[H5](https://cang.kueen.cc/register/?share_code=fcukk)||场外转赠|
  |834|[奇迹元](https://www.tianyancha.com/company/4705634390)|WX_GZH| | | |[H5](https://qijiyuan.hongleme.cn/#/register?userCode=65220636582&activityCode=9e25ae48ca0f4350a3ee6479e47215f3)|树图链|场外转赠|
- |835|[寰宇数藏](https://www.tianyancha.com/company/5522104312)|WX_GZH| | | |[H5](http://huanyusc.bajiaoxinxi.com/huanyuh5/#/pages/auth/register?code=HN0L0E)|
+ |835|[寰宇数藏](https://www.tianyancha.com/company/5522104312)|WX_GZH| | | |[H5](http://huanyusc.bajiaoxinxi.com/huanyuh5/#/pages/auth/register?code=HN0L0E)||场外转赠|
  |836|[有鱼艺术](https://www.tianyancha.com/company/5402672236)|WX_GZH| | |APP|[H5](https://share.youyu.art/index/index/index?activity_id=1&invite_id=165993691360788512)|版权链|二级市场|
  |837|[数藏岛](https://www.tianyancha.com/company/3364010820)|WX_GZH| | | |[H5](https://www.shucangdao.com/me/invite/invitation?pid=56439&sourceType=1&sourceId=1)|Ethereum、Polygon|场外转赠|
  |838|[集艺数藏](https://www.tianyancha.com/company/5441656832)|WX_GZH| | | |[H5](https://www.jiyisc.com/)| |场外转赠|
