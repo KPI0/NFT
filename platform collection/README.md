@@ -959,4 +959,5 @@
  |910|[brand印记](https://www.tianyancha.com/company/5387932400)|WX_GZH| | |[APP](https://artistnft.com.cn/share/index.html?c=0NkO595qs9DgAuDBhmuAVo4Ju3lTLEpn&i=rDZERKJDZbjMtC3kSJh7fSbZMtiRTWzm)| |Solana|场外转赠|
  |911|[元沃数藏](https://www.tianyancha.com/company/5541938932)|WX_GZH|  | | | |XuperChain|二级市场|
  |912|[密塔王国](https://www.tianyancha.com/company/3385595533)|WX_GZH|  | | |[H5](http://meta.pdfbox.cn/h5/#/pages/product/productTX?id=apb0A&inviteCode=2888)|蚂蚁链|场外转赠|
+ |913|[Geetaverse](https://www.tianyancha.com/company/5180803233)|WX_GZH| | | |[H5](https://geetaverse.geelydt.com/#/home)||场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
