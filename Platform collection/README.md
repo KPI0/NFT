@@ -945,4 +945,5 @@
  |896|[国石数藏](https://www.tianyancha.com/company/5432971384)|WX_GZH|
  |897|[口袋SPACE](https://www.tianyancha.com/company/5501874934)|WX_GZH| | | |[H5](http://www.zyserve.cn/pages/invitation/invitation?pid=102029)|XuperChain|二级市场|
  |898|[青山元宇宙](https://www.tianyancha.com/company/2328529795)|WX_GZH| | | |[H5](https://h5.castlepeak.art/)|Ethereum|二级市场|
+ |899|[闪色数字加密艺术](https://www.tianyancha.com/company/88885711)|WX_GZH| | | |[H5](http://www.wownft.com.cn/h5/#/)|Ethereum|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
