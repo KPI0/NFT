@@ -960,4 +960,5 @@
  |912|[密塔王国](https://www.tianyancha.com/company/3385595533)|WX_GZH|  | | |[H5](http://meta.pdfbox.cn/h5/#/pages/product/productTX?id=apb0A&inviteCode=2888)|蚂蚁链|场外转赠|
  |913|[Geetaverse](https://www.tianyancha.com/company/5180803233)|WX_GZH| | | |[H5](https://geetaverse.geelydt.com/#/home)||场外转赠|
  |914|[酷狗数字藏品](https://www.tianyancha.com/company/4146749)|WX_GZH| |酷狗音乐APP|[APP](https://activity.kugou.com/nft/v-2873030e/special.html?has_playing_bar=0&isHideTitleBar=1&goods_id=391)| |至信链|场外转赠|
+ |915|[微游甘肃](https://www.tianyancha.com/company/4467613056)|WX_GZH| |[ZFB_XCX](https://ur.alipay.com/1UOQ5nDjSUYnH6SW8dJT0w)| | |蚂蚁链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
