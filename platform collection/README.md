@@ -634,7 +634,7 @@
  |591|[陨禾艺数](https://www.tianyancha.com/company/5469781475)|WX_GZH| | | |[H5](http://www.yunhemeta.com/pages/register/register?code=cbgatg)|BSN联盟链|场外转赠|
  |592|[EVOL乐园](https://www.tianyancha.com/company/5064278936)|WX_GZH|| | |[H5](https://evol.xiangweisir.com/h5/#/pages/login/login?sharecode=Pfo1B0)|蚂蚁链|场外转赠|
  |593|[独立艺术](https://www.tianyancha.com/company/5333604461)|WX_GZH| | | |[H5](https://dl.mutoall.com/?inviteUUID=030335)|BSN联盟链|二级市场|
- |594|[开元艺术](https://www.tianyancha.com/company/5309460307)|WX_GZH| | | |H5|BSN文昌链|场外转赠|
+ |594|[开元艺术](https://www.tianyancha.com/company/5309460307)|WX_GZH| | | |[H5](https://kaiyuan.art/#/)|BSN武汉链|场外转赠|
  |595|[数藏猫](https://www.tianyancha.com/company/4352812028)|WX_GZH| | |APP|[H5](https://h5.nftscat.cn/#/pages/registered/registered?inviteCode=FHPW1W)|Ethereum、Polygon|二级市场|
  |596|[天元世界](https://www.tianyancha.com/company/3431985670)|WX_GZH| | | |[H5](https://ty.gogowing.com/pages/login/register?sharecode=b16a44ea259e73571a965de150053a4d)|Polygon|二级市场|
  |597|[AutoLinkMeta](https://www.tianyancha.com/company/3423011844)|WX_GZH| | | |[H5](https://www.yuyanshi.com.cn/#/pages/account/login?invite=8L7AD3)||交易市场|
