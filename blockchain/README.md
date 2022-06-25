@@ -51,3 +51,4 @@
  |48|MaileChain|[https://www.mailechain.com](https://www.mailechain.com/)|
  |49|BSN-DDC|[https://ddc.bsnbase.com](https://ddc.bsnbase.com/main/ddc-querys)|
  |50|矩链|[https://www.matrixopen.com](https://explorer.matrixopen.com/#/)|
+ |51|斐德坊链|[http://www.fidesum.com](http://www.fidesum.com/)|
