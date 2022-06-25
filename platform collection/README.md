@@ -869,7 +869,7 @@
  |823|[幻集艺术](https://www.tianyancha.com/company/3422647884)|WX_GZH| | | |[H5](https://api.nft07.cn/h5/index.html#/pages/register/index?invite_id=66850)| |二级市场|
  |824|[有哇宇宙uWOW](https://www.tianyancha.com/company/2342347972)|WX_GZH| | | |[H5](https://uwow.homaxtv.com/#/register?userCode=6522060864&activityCode=a0768631751547158eef547bade6fbc2)|树图链|场外转赠|
  |825|[中文数创](https://www.tianyancha.com/company/3143864778)|WX_GZH| | | |[H5](https://nft.zhongke.art/#/pages/login/index?userId=1535993728747048960)|BSN联盟链|场外转赠|
- |826|[有光数藏](https://www.tianyancha.com/company/2320769365)|WX_GZH|
+ |826|[有光数藏](https://www.tianyancha.com/company/2320769365)|WX_GZH|        | |[APP](http://two.blinktech.cn/app-share/)|[H5](http://www.yby.ink/digitalH5/#/home)|斐德坊链|场外转赠|
  |827|[云穹](https://www.tianyancha.com/company/3146769929)|WX_GZH| |[游云南APP](https://static.ybsjyyn.com/download/#/)| | |腾讯链|
  |828|[滴聚](https://www.tianyancha.com/company/3224001885)|WX_GZH||||[H5](https://m.digih.cn/pages/login/register?inviteCode=0eV5Sfbdemt00cTileAqMQ)|火链|场外转赠|
  |829|[CPUNK](https://www.tianyancha.com/company/5499298737)|WX_GZH| | | |[H5](https://c-punk.top/?invite_code=nZmV)|BSN文昌链|场外转赠|
