@@ -964,4 +964,5 @@
  |917|[盛恒数藏](https://www.tianyancha.com/company/5546859400)|WX_GZH| | | |[H5](https://h5.rryx.xyz/h5/#/)|  |二级市场|
  |918|[天工meta](https://www.tianyancha.com/company/5422545603)|WX_GZH| | | |[H5](https://h5.openartcn.com/#/Loading?inviteCode=IJT6AA)| |场外转赠|
  |919|[飞享艺术](https://www.tianyancha.com/company/5508229792)|WX_GZH| | | |[H5](http://feixiangyishu.top/#/)|天河链|二级市场|
+ |920|[WNA数字艺术](https://www.tianyancha.com/company/5547505274)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
