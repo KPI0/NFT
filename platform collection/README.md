@@ -46,8 +46,8 @@
  |40|[麦塔数字艺术](https://www.tianyancha.com/company/5272133208)|WX_GZH|  |  |[APP](http://front.metahz.com/download)|[H5](http://front.metahz.com/register?inviteCode=W7SnyR7)|Ethereum|场外转赠|
  |41|[Meta彼岸](https://www.tianyancha.com/company/5347183846)|WX_GZH|  |  |[APP](https://faramita.genimous.com/)|[H5](https://meta-h5.genimous.com/#/?spread=106697)|智链|场外转赠|
  |42|[玩贰+](https://www.tianyancha.com/company/4994817135)|WX_GZH|  |  |[APP](https://wan2store.com/share.html?invitation_code=7F2B8B8)|[H5](https://market.wan2store.com/market)|树图链|二级市场|
- |43|[Bigverse](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |APP|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
- |43|[NFTCN](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |APP|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
+ |43|[Bigverse](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |[APP](https://apps.apple.com/us/app/nftcn/id1605702361)|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
+ |43|[NFTCN](https://www.tianyancha.com/company/5038135230)|WX_GZH|  | |[APP](https://apps.apple.com/us/app/nftcn/id1605702361)|[H5](https://www.nftcn.com.cn/h5/#/pagesA/project/personal/inviteRegister?contract_address=nftcn80mquidg626binkqbge707kkg)|Ethereum|二级市场|
  |44|[MetaBox](https://www.tianyancha.com/company/5227331730)|WX_GZH|||APP|[H5](https://www.metaboxglobal.cn/nft/index?inviteCode=nibb25wy)|HECO|二级市场|
  |45|[DAO加密咸鱼](https://www.tianyancha.com/company/5360462473)|WX_GZH| |加密空间| |[H5](https://cryptofish.cn/cryptofish.html)|亿条链|二级市场|
  |46|[淘派数字藏品](https://www.tianyancha.com/company/3344491555)|WX_GZH||||[H5](https://sd4.cn/promo-summer?code=24861941398765568)|树图链|二级市场|
