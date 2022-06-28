@@ -970,4 +970,5 @@
  |923|[家在鼓楼](https://www.tianyancha.com/company/4450370618)|WX_GZH|WX_XCX| | | |兴业数金链|
  |924|[优艺数](https://www.tianyancha.com/company/5376677382)|WX_GZH| | |APP|H5| |二级市场|
  |925|[中传新文创](https://www.tianyancha.com/company/31096540)|WX_GZH| | | |[H5](https://art.ccmgip.com/login?invite_code=8f62lj1wel85uzqd)|新文创链|
+ |926|[梦鱼数字](https://www.tianyancha.com/company/5391371096)|WX_GZH| | |APP|[H5](https://art.sanzai-meta.com/#/register?code=tuCDRV)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
