@@ -994,4 +994,5 @@
  |947|[MAZE未来](https://www.tianyancha.com/company/5435561870)|WX_GZH| | | |[H5](https://www.mazenfr.cn/#/pages/public/register?usercode=ddPeWZ4n)|BSN联盟链|二级市场|
  |948|[五萬数藏](https://www.tianyancha.com/company/4309122380)|WX_GZH| | | |[H5](http://www.wuwansc.cn/h5#/pages/login/reg?invite=PGB06K)|BSN联盟链|二级市场|
  |949|[摩宙MOMETA](https://www.tianyancha.com/company/5298042834)|WX_GZH|
+ |950|[麻瓜数字艺术](https://www.tianyancha.com/company/5476783717)|WX_GZH| | |APP|[H5](https://muggleart.com/#/register?Invitation_code=2GHR9B)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
