@@ -980,4 +980,5 @@
  |933|[G潮艺术空间](https://www.tianyancha.com/company/3378618006)|WX_GZH| | |[APP](http://www.jcyth.cn/index/index/share)|[H5](http://www.jcyth.cn/#/pages/login/register?inviteCode=79U78N)|Ethereum|二级市场|
  |934|赛一艺术|WX_GZH|
  |935|[MetaU](https://www.tianyancha.com/company/3052420216)|WX_GZH| | | |[H5](https://metau.irunbird.com/pages/login/index?id=14944)|BSN联盟链|二级市场|
+ |936|[灵魂场景](https://www.tianyancha.com/company/107751072)|WX_GZH| | | |[H5](https://soul.taihuoniao.com/storage/list)|长安链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
