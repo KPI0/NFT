@@ -974,4 +974,6 @@
  |927|[梅塔](https://www.tianyancha.com/company/53582216)|WX_GZH|WX_XCX| | | | |场外转赠|
  |928|[GGAC银河画廊](https://www.tianyancha.com/company/2319173493)|WX_GZH|WX_XCX| |[APP](https://www.ggac.com/v2/apps/download)|[H5](https://www.ggac.com/v2/home)||场外转赠|
  |929|[火星DAO](https://www.tianyancha.com/company/5231660421)|WX_GZH| | |APP|[H5](http://meta.nsie.org.cn/marsdao.html)|蚂蚁链|二级市场|
+ |930|[南北数藏](https://www.tianyancha.com/company/5512794316)|WX_GZH|
+ |931|[OpenGalaxy星盒](https://www.tianyancha.com/company/5450159723)|WX_GZH| | | |[H5](https://opengalaxy.art/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
