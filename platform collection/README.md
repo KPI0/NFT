@@ -973,4 +973,5 @@
  |926|[梦鱼数字](https://www.tianyancha.com/company/5391371096)|WX_GZH| | |APP|[H5](https://art.sanzai-meta.com/#/register?code=tuCDRV)|BSN联盟链|二级市场|
  |927|[梅塔](https://www.tianyancha.com/company/53582216)|WX_GZH|WX_XCX| | | | |场外转赠|
  |928|[GGAC银河画廊](https://www.tianyancha.com/company/2319173493)|WX_GZH|WX_XCX| |[APP](https://www.ggac.com/v2/apps/download)|[H5](https://www.ggac.com/v2/home)||场外转赠|
+ |929|[火星DAO](https://www.tianyancha.com/company/5231660421)|WX_GZH| | |APP|[H5](http://meta.nsie.org.cn/marsdao.html)|蚂蚁链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
