@@ -898,7 +898,7 @@
  |852|中古艺术|WX_GZH|
  |853|[叁壹艺术](https://www.tianyancha.com/company/4014105457)|WX_GZH| | | |[H5](https://sanyi.xwfsb.cn/wap/pages/share/jump?scene=1-74052-)|BSC|二级市场|
  |854|[最九州数藏](https://www.tianyancha.com/company/3445403761)|WX_GZH| | |[APP](https://download.huoxingyunchu.cn/#/pages/home/download/index?inviteCode=44713193&inviteType=1)|[H5](https://download.huoxingyunchu.cn/#/)|树图链|场外转赠|
- |855|[幻城数字文创](https://www.tianyancha.com/company/5540115635)|WX_GZH|
+ |855|[幻城数字文创](https://www.tianyancha.com/company/5540115635)|WX_GZH| | |[APP](https://m.53hx.com/#/pages/home/download/index?inviteCode=54159293&inviteType=1)|[H5](https://m.53hx.com/#/)|树图链|场外转赠|
  |856|[fly数藏](https://www.tianyancha.com/company/5497213057)|WX_GZH| | | |[H5](https://flyvip.art?inviter_id=216)|Polygon|二级市场|
  |857|[IP无限](https://www.tianyancha.com/company/4096761880)|WX_GZH| | | |[H5](http://ipwx.petians.com?inviteUserId=115170)| |二级市场|
  |857|[InPhinity](https://www.tianyancha.com/company/4096761880)|WX_GZH| | | |[H5](http://ipwx.petians.com?inviteUserId=115170)| |二级市场|
@@ -972,4 +972,5 @@
  |925|[中传新文创](https://www.tianyancha.com/company/31096540)|WX_GZH| | | |[H5](https://art.ccmgip.com/login?invite_code=8f62lj1wel85uzqd)|新文创链|
  |926|[梦鱼数字](https://www.tianyancha.com/company/5391371096)|WX_GZH| | |APP|[H5](https://art.sanzai-meta.com/#/register?code=tuCDRV)|BSN联盟链|二级市场|
  |927|[梅塔](https://www.tianyancha.com/company/53582216)|WX_GZH|WX_XCX| | | | |场外转赠|
+ |928|[GGAC银河画廊](https://www.tianyancha.com/company/2319173493)|WX_GZH|WX_XCX| |[APP](https://www.ggac.com/v2/apps/download)|[H5](https://www.ggac.com/v2/home)||场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
