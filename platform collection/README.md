@@ -999,4 +999,5 @@
  |952|[YLink艺术空间](https://www.tianyancha.com/company/5540246199)|WX_GZH| | | |[H5](https://ylink.h5.yunzongbu.cn/)|BSN文昌链|二级市场|
  |953|[黑洞数字艺术](https://www.tianyancha.com/company/5529131180)|WX_GZH| | |APP|[H5](http://heidongshucang.com/#/pages/login/register?code=742556077)||二级市场|
  |954|[DC数创](https://www.tianyancha.com/company/5541860395)|WX_GZH| | | |[H5](http://www.dcszcp.com/h5/#/pages/login/reg?invite=NGL1AL)| |二级市场|
+ |955|[火星3080](https://www.tianyancha.com/company/5488828556)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
