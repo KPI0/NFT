@@ -1010,4 +1010,5 @@
  |963|[丝路数藏](https://www.tianyancha.com/company/5459380166)|WX_GZH| | |[APP](https://www.siluluntan.com/vip/user/regist?sharecode=SL513601875)||BSN文昌链|二级市场|
  |964|[艺链数藏](https://www.tianyancha.com/company/5460024842)|WX_GZH| | |[APP](https://h5.0110.co/yl/)|[H5](https://rsartlink.com/#/pages/login/register/register?invitationCode=0FRSPS)|XuperChain|二级市场|
  |965|[嘻得数字文创](https://www.tianyancha.com/company/1683067836)|WX_GZH| | | |[H5](https://www.xideshucang.com/#/register?shareCode=f1eca0b4084242bba5d98fcc6ffdb6d4&activityCode=bf6a0561f29f4261b16091e8aff10c35)|树图链|场外转赠|
+ |966|[鲸元](https://www.tianyancha.com/company/3452960398)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
