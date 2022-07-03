@@ -1012,4 +1012,5 @@
  |965|[嘻得数字文创](https://www.tianyancha.com/company/1683067836)|WX_GZH| | | |[H5](https://www.xideshucang.com/#/register?shareCode=f1eca0b4084242bba5d98fcc6ffdb6d4&activityCode=bf6a0561f29f4261b16091e8aff10c35)|树图链|场外转赠|
  |966|[鲸元](https://www.tianyancha.com/company/3452960398)|WX_GZH|
  |967|[数艺空间](https://www.tianyancha.com/company/4367765995)|WX_GZH| | | |[H5](https://nft.eartcn.cn/h5/pages/login/register?invite_code=c4sYwNZw)|BSN联盟链|场外转赠|
+ |968|[八度空间艺术馆](https://www.tianyancha.com/company/5393593640)|WX_GZH| | |[APP](https://bdkjys.com/download/)|[H5](https://bdkjys.com#/pages/login/register?uuid=M3BKAB)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
