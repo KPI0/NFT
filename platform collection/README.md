@@ -1027,4 +1027,5 @@
  |980|[天境数字空间](https://www.tianyancha.com/company/3302955229)|WX_GZH| | | |[H5](https://testh5.metamomo.xyz#/views/login/Register/Register?phone=1543926757069860864)|Polygon|二级市场|
  |981|[BNC宇宙](https://www.tianyancha.com/company/2351547565)|WX_GZH| | | |[H5](https://www.bncmeta.com/reg/oZOJOP70k)| |二级市场|
  |982|[弘基数藏](https://www.tianyancha.com/company/5326352577)|WX_GZH| | |APP|[H5](http://guolanhongji.cn/#/pages/login/login?uid=jsbt5B)|BSN联盟链|场外转赠|
+ |983|[锦鲤数字艺术](https://www.tianyancha.com/company/5012968624)|WX_GZH| | |[APP](https://h5.jlsc.art/#/pages/login/app)|[H5](https://h5.jlsc.art/#/pages/login/login?parentId=68746)|Polygon|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
