@@ -1023,4 +1023,5 @@
  |976|[华宇艺数](https://www.tianyancha.com/company/5525796089)|WX_GZH| | | |[H5](https://h5.wanynet.com/#/pages/public/register?usercode=cRx6MrFI)|BSN文昌链|二级市场|
  |977|[数藏天下Max](https://www.tianyancha.com/company/5522119215)|WX_GZH| | | |[H5](https://defiweb3.sctx.tech/#/register?shareCode=072174477b41460dbb85306f9e5266f4&activityCode=9ca000de665d4d9ba26f6ad04242501b)|树图链|二级市场|
  |978|[蜂网数字](https://www.tianyancha.com/company/5534705131)|WX_GZH| | | | |BSN联盟链|二级市场|
+ |979|[拼图艺术](https://www.tianyancha.com/company/3408889915)|WX_GZH| | | |[H5](https://pintu.guangyinkeji.com/h5#/pages/login/reg?invite=86VATO)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
