@@ -1,6 +1,6 @@
  ### 转载我的没问题，但是必须标明原文出处https://github.com/KPI0/NFT/
  ## 一、平台入口缩写
- *为方便浏览，用以下的缩写表示。*  
+ *为方便浏览，平台入口用以下的缩写表示。*  
  [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
 |原名         |缩写       |
 |-------------|----------|
@@ -87,7 +87,7 @@
  |49|BSN-DDC|[https://ddc.bsnbase.com](https://ddc.bsnbase.com/main/ddc-querys)|
  |50|矩链|[https://www.matrixopen.com](https://explorer.matrixopen.com/#/)|   
  
- ## [四、🔞平台收录](https://github.com/KPI0/NFT/tree/main/Platform%20collection)
+ ## [四、🔞平台收录](https://github.com/KPI0/NFT/tree/main/platform%20collection)
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
   *数据仅供参考！数据仅供参考！数据仅供参考！*   
   *转载请注明出处！*  
