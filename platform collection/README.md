@@ -816,7 +816,7 @@
  |772|[天体数藏](https://www.tianyancha.com/company/2441147382)|WX_GZH| | |APP|[H5](https://tt.tjzhaoxing.com/#/?invite_code=bccfw6ccupxy)|BSN联盟链|场外转赠|
  |773|[传阁](https://www.tianyancha.com/company/5240675918)|WX_GZH| | | |[H5](https://cgmeta.art/h5/#/pages/index/goodsinfo?scene=003058%2C17)|海星链|场外转赠|
  |773|[CGMeta](https://www.tianyancha.com/company/5240675918)|WX_GZH| | | |[H5](https://cgmeta.art/h5/#/pages/index/goodsinfo?scene=003058%2C17)|海星链|场外转赠|
- |774|[奇幻数藏](https://www.tianyancha.com/company/3348132717)|WX_GZH| | | |[H5](https://www.qihuansc.com/h5/)|蚂蚁链|场外转赠|
+ |774|[奇幻数藏](https://www.tianyancha.com/company/3348132717)|WX_GZH| | | |[H5](https://www.qihuansc.art/h5pages/login/register?invite_code=y2fqgQnt)|蚂蚁链|场外转赠|
  |775|[ADAMeta](https://www.tianyancha.com/company/3211996295)|WX_GZH| | |[APP](https://pinon.live/nft-wechat/download.html)| | |二级市场|
  |776|[步星云](https://www.tianyancha.com/company/5482263800)|WX_GZH| | | |[H5](https://xyz.xtepchina.com/#/)|海峡链|
  |777|[链藏NFT](https://www.tianyancha.com/company/5457503466)|WX_GZH| | | |[H5](http://h5.xingliancang.cn/#/)|海峡链|
