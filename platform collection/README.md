@@ -1041,4 +1041,5 @@
  |994|[星创元艺术](https://www.tianyancha.com/company/5588438089)|WX_GZH| | | |[H5](http://chuangy.csctesting.cn/?invite_code=byB0E2)|BSN联盟链|二级市场|
  |995|[创世数字](https://www.tianyancha.com/company/5471617315)|WX_GZH| | |[APP](https://download.hnyhy.cn/)|[H5](https://genesis.hnyhy.cn/?channel_id=10000&inviteid=35773)|BSN文昌链|场外转赠|
  |996|[帝凡文创](https://www.tianyancha.com/company/5579473989)|WX_GZH|
+ |997|[鲲起文创](https://www.tianyancha.com/company/5559458662)|WX_GZH| | | |[H5](https://front.kunqishucang.com/#/pages/public/register?usercode=XIIWnevR)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
