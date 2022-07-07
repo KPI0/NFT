@@ -763,7 +763,7 @@
  |719|[十方数藏](https://www.tianyancha.com/company/5441575309)|WX_GZH| | |APP|[H5](https://www.10f.ink/)|Polygon|场外转赠|
  |720|[凤储](https://www.tianyancha.com/company/3019279501)|WX_GZH| | | |[H5](http://sc.cmbykj.com/wap/#/pages/member/index/index?uuid=owbK30-BoV_e7MTYYGw1_JlpbMws)|蚂蚁链|场外转赠|
  |721|[光铭艺术](https://www.tianyancha.com/company/3044661465)|WX_GZH| | | |[H5](https://www.gmcaee.com/#/login?inviter_id=66934070)|WaykiChain|场外转赠|
- |722|[星大陆数藏](https://www.tianyancha.com/company/5471677468)|WX_GZH| | |APP|[H5](https://www.xdl.art/apph5?content=vsNb2387)|BSN联盟链|场外转赠|
+ |722|[星大陆 World](https://www.tianyancha.com/company/5471677468)|WX_GZH| | |APP|[H5](https://www.xdl.art/apph5?content=vsNb2387)|BSN文昌链|二级市场|
  |723|[炼元数字艺术](https://www.tianyancha.com/company/5497194754)|WX_GZH| | |APP|[H5](https://lianyuan.art/login?inviteCode=T5VwYy)||二级市场|
  |724|[张小泉](https://www.tianyancha.com/company/3199521135)|WX_GZH| | | |[H5](https://zxq.yjkj.art/h5/#/pages/login/register?uuid=O28K01)|VastChain|场外转赠|
  |725|[广西文旅元宇宙](https://www.tianyancha.com/company/5314645810)|WX_GZH| | | |[H5](https://h5.yjygx.com/webapp/collection-mall/)|广西文旅链|场外转赠|
