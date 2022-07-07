@@ -1039,4 +1039,5 @@
  |992|[金色数藏](https://www.tianyancha.com/company/5441823354)|WX_GZH| | |[APP](https://app.jinse.com/)| |至信链|
  |993|[神州一鸣](https://www.tianyancha.com/company/5522523588)|WX_GZH| | |APP|H5|BSN联盟链|
  |994|[星创元艺术](https://www.tianyancha.com/company/5588438089)|WX_GZH| | | |[H5](http://chuangy.csctesting.cn/?invite_code=byB0E2)|BSN联盟链|二级市场|
+ |995|[创世数字](https://www.tianyancha.com/company/5471617315)|WX_GZH| | |[APP](https://download.hnyhy.cn/)|[H5](https://genesis.hnyhy.cn/?channel_id=10000&inviteid=35773)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
