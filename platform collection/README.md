@@ -1043,4 +1043,5 @@
  |996|[帝凡文创](https://www.tianyancha.com/company/5579473989)|WX_GZH|
  |997|[鲲起文创](https://www.tianyancha.com/company/5559458662)|WX_GZH| | | |[H5](https://front.kunqishucang.com/#/pages/public/register?usercode=XIIWnevR)|BSN文昌链|二级市场|
  |998|[藏云阁](https://www.tianyancha.com/company/5506907482)|WX_GZH| | |[APP](http://app.xiwusc.com/xiwu)|[H5](https://nft.xiwusc.com/#/pages/index?inviteUId=148484)|蚂蚁链|二级市场|
+ |999|[cocafe咖菲科技](https://www.tianyancha.com/company/4436223894)|WX_GZH| | | |[H5](https://galaxy.cocafe.co/)|趣链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
