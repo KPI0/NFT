@@ -337,7 +337,7 @@
  |309|[MEME数字世界](https://www.tianyancha.com/company/5351637368)|WX_GZH| | | |[H5](http://meme.mememeta.cn/?phone=1517486362624942080)|BSN联盟链|场外转赠|
  |310|[物空数字文创](https://www.tianyancha.com/company/5435178084)|WX_GZH| | |[APP](http://www.wukongapp.store/reg/gp2GB8Qml)| | |二级市场|
  |311|[龙境](https://www.tianyancha.com/company/5180895530)|WX_GZH| | |APP|[H5](http://39.164.52.76:20006/register?userId=1476302540374048)|禄文链|场外转赠|
- |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | |APP|[H5](https://gd.guodongnft.com/web/#/)| |场外转赠|
+ |312|[果冻数藏](https://www.tianyancha.com/company/3212480806)|WX_GZH| | |APP|[H5](https://gd.guodongnft.com/web/#/)| |二级市场|
  |313|[良藏数字艺术](https://www.tianyancha.com/company/4113258438)|WX_GZH| | | |[H5](http://app.liangcang.online/h5/pages/login/register?invite_code=TuYaKDWW)|BSN联盟链|二级市场|
  |314|[火种meta](https://www.tianyancha.com/company/5188662562)|WX_GZH| | |[APP](https://hz.wozouglobal.com/h5/index.html#/?qid=32410)|[H5](http://hznew.wozouglobal.com/h5/index.html#/?qid=32410)|BSN联盟链|场外转赠|
  |315|[链上云谷](https://www.tianyancha.com/company/5375408686)|WX_GZH| | | |[H5](http://h5.metart.zone/#/)|海峡链|场外转赠|
