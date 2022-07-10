@@ -1059,4 +1059,6 @@
  |1014|[艺海文创ArtSea](https://www.tianyancha.com/company/3362247195)|WX_GZH| | | | |天河链|
  |1015|[AMZE数藏](https://www.tianyancha.com/company/5515264649)|WX_GZH| | |[APP](http://maze.sdaimeizi.cn/M/Weixin/app_load)| | |二级市场|
  |1016|[热巴数藏](https://www.tianyancha.com/company/5534523835)|WX_GZH| | |APP|[H5](https://rbszh5.qianyancloud.com/#/)|XuperChain|二级市场|
+ |1017|[邮艺数藏](https://www.tianyancha.com/company/3367906403)|WX_GZH| | | |[H5](https://www.merkletech.cn/pages/mine/mine)|蚂蚁链|场外转赠|
+ |1018|[华乐数藏](https://www.tianyancha.com/company/5546660638)|WX_GZH| | | |[H5](http://www.lgshucang.com.cn/#/pages/index/index)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
