@@ -1062,4 +1062,5 @@
  |1017|[邮艺数藏](https://www.tianyancha.com/company/3367906403)|WX_GZH| | | |[H5](https://www.merkletech.cn/pages/mine/mine)|蚂蚁链|场外转赠|
  |1018|[华乐数藏](https://www.tianyancha.com/company/5546660638)|WX_GZH| | | |[H5](http://www.lgshucang.com.cn/#/pages/index/index)|BSN联盟链|二级市场|
  |1019|[元游数藏](https://www.tianyancha.com/company/5524180703)|WX_GZH| | | |[H5](http://yuanyoushucang.com/#/)|
+ |1020|[HIGH WOMEN](https://www.tianyancha.com/company/5128378244)|WX_GZH| | |APP|[H5](http://m.highwomen.art/#/pages/index/index?&shareGoodsCode=LNZ62Y)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
