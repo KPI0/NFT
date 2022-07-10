@@ -1066,4 +1066,5 @@
  |1021|[匠心秘藏](https://www.tianyancha.com/company/3407714824)|WX_GZH| | |APP|[H5](http://ichmeta.cn/#/)|BSN联盟链|二级市场|
  |1022|[天元数藏](https://www.tianyancha.com/company/2419741708)|WX_GZH| | | |[H5](https://jseknft.86itn.cn/h5/h5.html#/pages/main/personal?code=FEGL3EAB)|BSN文昌链|场外转赠|
  |1023|[字节数藏](https://www.tianyancha.com/company/2943064261)|WX_GZH| | | |[H5](https://zjs.bit2byte.cn/zjsc/#/)|腾讯链|场外转赠|
+ |1024|[中艺数藏](https://www.tianyancha.com/company/5472598695)|WX_GZH| | | |[H5](https://h5.zycn.vip)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
