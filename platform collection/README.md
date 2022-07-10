@@ -269,7 +269,7 @@
  |246|[宙域](https://www.tianyancha.com/company/5240344473)|WX_GZH| | |[APP](http://api.zhouyunft.com/Public/h5?rid=gsaD39AA)| |蚂蚁链|二级市场|
  |247|[归藏Meta](https://www.tianyancha.com/company/1296272773)|WX_GZH| | |[APP](https://cang.kueen.cc/register?share_code=fcukk)|[H5](https://m.guicang.kueen.cc/pages/appLogin/index)|蚂蚁链、金链盟|二级市场|
  |248|[一号藏馆](https://www.tianyancha.com/company/3475514425)|WX_GZH|WX_XCX| | | |趣链|场外转赠|
- |249|[东方数藏](https://www.tianyancha.com/company/2353970387)|WX_GZH|WX_XCX| |APP|[H5](https://h5.judaiyan.shop/#/pages/ucenter/login-page/index/index?type=smsCode&id=625145bd5a5bf00001cd57b9)| |场外转赠|
+ |249|[东方数藏](https://www.tianyancha.com/company/2353970387)|WX_GZH|WX_XCX| |APP|[H5](http://h5.judaiyan.shop/h5#/)|Polygon|二级市场|
  |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | |APP|[H5](https://h5.mymgkj.com/#/pages/my/register?in_code=ik7bjl)|蚂蚁链|二级市场|
  |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP|[H5](https://nft.api.yihongzhihui.com/index.html)||二级市场|
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |[APP](https://invite.jm-ddc.com/#/pages/index/download)||BSN联盟链|场外转赠|
