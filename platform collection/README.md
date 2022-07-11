@@ -1047,7 +1047,7 @@
  |1002|[达文数藏](https://www.tianyancha.com/company/5525183899)|WX_GZH| | |APP|[H5](https://h5.dawinmeta.com/)|蚂蚁链|二级市场|
  |1003|[牛犊秀数藏](https://www.tianyancha.com/company/3063983722)|WX_GZH| | | |[H5](https://art.niuduxiu.com/#/home)|BSN泰安链|二级市场|
  |1004|[极星艺术](https://www.tianyancha.com/company/5482026707)|WX_GZH| | | |[H5](http://antsworld.cn/InvitationRegister.html?pomoteCode=U003475H6)||二级市场|
- |1005|[百藏艺术](https://www.tianyancha.com/company/5542186398)|WX_GZH| | | |H5|XuperChain、BSN联盟链|二级市场|
+ |1005|[百藏艺术](https://www.tianyancha.com/company/5542186398)|WX_GZH| | | |[H5](http://m.baizang.art/)|XuperChain、BSN联盟链|二级市场|
  |1006|[斑斓森林](https://www.tianyancha.com/company/5553439861)|WX_GZH| | | |[H5](http://www.colorforest.xyz/event/)|树图链|二级市场|
  |1007|[艺元数藏](https://www.tianyancha.com/company/3156948352)|WX_GZH| | | |[H5](http://www.yiyuanshucang.com/#/pages/login/register/?uid=993)|Ethereum|二级市场|
  |1008|[亦趣MagicMarkets](https://www.tianyancha.com/company/5567373156)|WX_GZH| | | |[H5](https://nft.magicmarkets.com.cn/h5/pages/login/register?invite_code=KFedJYQm)||二级市场|
