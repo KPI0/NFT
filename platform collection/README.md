@@ -1084,5 +1084,5 @@
  |1038|[青希艺术](https://www.tianyancha.com/company/3480147752)|WX_GZH| | |[APP](https://mall.qingxi.art/login?inviteCode=Ic5WutyB)| |BSN联盟链|场外转赠|
  |1039|[欣红硕](https://www.tianyancha.com/company/3364339293)|WX_GZH| | |APP|[H5](http://xhs.longteng.xin/#/pages/login/regin?shareCode=pTVKfN)|BSN联盟链|场外转赠|
  |1040|[修罗数艺空间](https://www.tianyancha.com/company/5330155053)|WX_GZH| |   |APP|[H5](https://gxxlsk.com/pages/login/register?InvitationCode=ao44tjWe)|BSN文昌链|二级市场|
- |1041|[沙藏元宇宙](https://www.tianyancha.com/company/5456669359)|WX_GZH| | | |[H5](https://shacang.net/apph5?content=W2o548461)|BSN联盟链|场外转赠|
+ |1041|[沙藏元宇宙](https://www.tianyancha.com/company/5456669359)|WX_GZH| | |  |[H5](https://shacang.net/apph5?content=W2o548461)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
