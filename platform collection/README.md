@@ -1080,4 +1080,7 @@
  |1034|[ing数字艺术](https://www.tianyancha.com/company/5493064773)|WX_GZH| | | |[H5](https://www.ingszys.com/#/index/firends)|
  |1035|[银河Meta](https://www.tianyancha.com/company/5517413564)|WX_GZH| | | |[H5](http://yinheee.com/#/pages/login/register?code=13248948)|BSN武汉链|场外转赠|
  |1036|[坤昂数字DT](https://www.tianyancha.com/company/4033600948)|WX_GZH| |QueenRun|APP|
+ |1037|[艺数链](https://www.tianyancha.com/company/3290981352)|WX_GZH| | | |[H5](https://h5.yszg.com/?#/pages/auth/login?partnercode=27F193E6AAC6A988)|蚂蚁链|场外转赠|
+ |1038|[青希艺术](https://www.tianyancha.com/company/3480147752)|WX_GZH| | |[APP](https://mall.qingxi.art/login?inviteCode=Ic5WutyB)| |BSN联盟链|场外转赠|
+ |1039|[欣红硕](https://www.tianyancha.com/company/3364339293)|WX_GZH| | |APP|[H5](http://xhs.longteng.xin/#/pages/login/regin?shareCode=pTVKfN)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
