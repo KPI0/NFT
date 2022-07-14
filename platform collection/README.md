@@ -1058,7 +1058,7 @@
  |1011|[虚弥山Meta](https://www.tianyancha.com/company/5045579212)|WX_GZH| | |[APP](https://xms-h5.qingniaokx.com/pages/download/index)|[H5](https://xms-h5.qingniaokx.com/pages/user/login/index?inviter_id=6249)||场外转赠|
  |1012|[天辉数字艺术](https://www.tianyancha.com/company/5505207241)|WX_GZH| | | |[H5](http://admin.tianhuisc.cn/h5/index.html#/?qid=48476)|BSN文昌链|二级市场|
  |1013|[星创艺数](https://www.tianyancha.com/company/5579516238)|WX_GZH| | |APP|[H5](http://cdxcnft.com/#/)|BSN文昌链|二级市场|
- |1014|[艺海文创ArtSea](https://www.tianyancha.com/company/3362247195)|WX_GZH| | | | |天河链|
+ |1014|[艺海文创ArtSea](https://www.tianyancha.com/company/3362247195)|WX_GZH| | |APP|[H5](https://h5.yihaidata.com/#/)|天河链|场外转赠|
  |1015|[AMZE数藏](https://www.tianyancha.com/company/5515264649)|WX_GZH| | |[APP](http://maze.sdaimeizi.cn/M/Weixin/app_load)| | |二级市场|
  |1016|[热巴数藏](https://www.tianyancha.com/company/5534523835)|WX_GZH| | |APP|[H5](https://rbszh5.qianyancloud.com/#/)|XuperChain|二级市场|
  |1017|[邮艺数藏](https://www.tianyancha.com/company/3367906403)|WX_GZH| | | |[H5](https://www.merkletech.cn/pages/mine/mine)|蚂蚁链|场外转赠|
