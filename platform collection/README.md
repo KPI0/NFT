@@ -1098,4 +1098,5 @@
  |1050|[精酿元宇宙](https://www.tianyancha.com/company/5551381237)|WX_GZH| | | |[H5](https://qdhpj.app.yjkjmeta.com/#/pages/tabs/home)|VastChain|场外转赠|
  |1051|[国文云藏](https://www.tianyancha.com/company/3445294294)|WX_GZH| | |[APP](https://m.guowen.art/7yzc1?inviteCode=11f16fecca2d47bc98ab2a6ed004dede&channelName=android)| |
  |1052|[天宫TianGong](https://www.tianyancha.com/company/5177140209)|WX_GZH| | |APP|[H5](https://www.tiangongnft.cn/index.html#/pages/login/index?inviteCode=mitpd)|XuperChain|场外转增|
+ |1053|[ColdCore冷核](https://www.tianyancha.com/company/3211818343)|WX_GZH| | | |[H5](http://coldcore.vip/coldcore/home)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
