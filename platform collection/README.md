@@ -1092,4 +1092,5 @@
  |1045|[德艺数字艺术品](https://www.tianyancha.com/company/3419513537)|WX_GZH|
  |1046|鲸图| | | | |[H5](http://3pows.cn/html/registered.html?id=4145)| |二级市场|
  |1047|[数迷empire](https://www.tianyancha.com/company/5199576370)|WX_GZH| | |APP|H5|
+ |1048|[NIUNIU扭扭](https://www.tianyancha.com/company/5473813242)|WX_GZH|WX_XCX| | |H5|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
