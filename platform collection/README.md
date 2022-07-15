@@ -497,7 +497,8 @@
  |458|[星河飞天](https://www.tianyancha.com/company/3475373001)|WX_GZH| | |APP|[H5](https://dct.stariverpan.com/?#/home)|星河链|二级市场|
  |458|[小龙云](https://www.tianyancha.com/company/3475373001)|WX_GZH| | |APP|[H5](https://dct.stariverpan.com/?#/home)|星河链|二级市场|
  |459|[奇点方舟](https://www.tianyancha.com/company/5348001060)|WX_GZH| | |APP|[H5](https://www.qidianfangzhou.ip78.cn/wap/#/)|Polygon|二级市场|
- |460|[幻脑](https://www.tianyancha.com/company/4419903849)|WX_GZH| | |APP|[H5](https://h5.illusorybrain.com)|幻脑链|场外转赠|
+ |460|[幻脑](https://www.tianyancha.com/company/4419903849)|WX_GZH| | |APP|[H5](https://h5.illusorybrain.com)|新版链|二级市场|
+ |460|[QuantumGalaxy](https://www.tianyancha.com/company/4419903849)|WX_GZH| | |APP|[H5](https://h5.illusorybrain.com)|新版链|二级市场|
  |461|[iGO文化](https://www.tianyancha.com/company/5479159548)|WX_GZH| | |[APP](http://app.igo166.com/index/index/invite?invite_code=Vi4KPF)|[H5](http://app.igo166.com/h5/#/)|TORN Chain|场外转赠|
  |462|[四维互动](https://www.tianyancha.com/company/2406586766)|WX_GZH| | |APP|[H5](https://m.siweihudong.com.cn/pages/login/landingPage?inviteCode=uu1l11)|旅游链|二级市场|
  |463|[创造宇宙](https://www.tianyancha.com/company/5415107252)|WX_GZH| | |[APP](https://registernft.czyznft.com/index.html?code=4783546)||Polygon|场外转赠|
