@@ -1093,4 +1093,5 @@
  |1046|鲸图| | | | |[H5](http://3pows.cn/html/registered.html?id=4145)| |二级市场|
  |1047|[数迷empire](https://www.tianyancha.com/company/5199576370)|WX_GZH| | |APP|H5|
  |1048|[NIUNIU扭扭](https://www.tianyancha.com/company/5473813242)|WX_GZH|WX_XCX| | |H5|
+ |1049|[密链空间](https://www.tianyancha.com/company/5547029724)|WX_GZH| | |APP|[H5](https://meelian.art/#/pages/login/login?invitee_id=8QWEGxYzf14Vax7a6v9Fjw==)|蚂蚁链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
