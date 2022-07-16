@@ -1105,4 +1105,5 @@
  |1057|[镜域数藏](https://www.tianyancha.com/company/5534200267)|WX_GZH| | | | | |停止运营|
  |1058|[机遇数藏](https://www.tianyancha.com/company/3480555278)|WX_GZH| | | |[H5](http://jiyushucang.jiyukj.cn/h5/#/pages/login/register?headid=20048)|XuperChain|二级市场|
  |1059|[BiuBiuSpace](https://www.tianyancha.com/company/5042489658)|WX_GZH| | | |[H5](https://m.biubiu.art/pages/login/register?invite_code=be9bd03c)|BSN文昌链|二级市场|
+ |1060|[希壤](https://www.tianyancha.com/company/23289175)|WX_GZH| | |[APP](https://vr.baidu.com/product/xirang?track=weixin)|[H5](https://xirang-mall.baidu.com/h5/#/)|XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
