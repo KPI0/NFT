@@ -1104,4 +1104,5 @@
  |1056|[曌镜数字艺术](https://www.tianyancha.com/company/5453370053)|WX_GZH| | |[APP](http://www.mmirror.cn/3mirror/html/d3m.html)|[H5](https://mmmirror.cn/#/register?shareCode=3fc035929d1d4b1d892aca7ac4f1cb30&activityCode=290d041400154adca977b3f2af2955b6)|树图链|场外转赠|
  |1057|[镜域数藏](https://www.tianyancha.com/company/5534200267)|WX_GZH| | | | | |停止运营|
  |1058|[机遇数藏](https://www.tianyancha.com/company/3480555278)|WX_GZH| | | |[H5](http://jiyushucang.jiyukj.cn/h5/#/pages/login/register?headid=20048)|XuperChain|二级市场|
+ |1059|[BiuBiuSpace](https://www.tianyancha.com/company/5042489658)|WX_GZH| | | |[H5](https://m.biubiu.art/pages/login/register?invite_code=be9bd03c)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
