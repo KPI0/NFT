@@ -1089,7 +1089,7 @@
  |1041|[沙藏元宇宙](https://www.tianyancha.com/company/5456669359)|WX_GZH| | |  |[H5](https://shacang.net/apph5?content=W2o548461)|BSN联盟链|场外转赠|
  |1042|[共画藏家](https://www.tianyancha.com/company/2343741975)|WX_GZH| | |[APP](https://app.ghcangjia.com/app/)|[H5](https://art.ghcangjia.com/#/pages/passport/register?inviteCode=S3gwMUXO12)| |场外转赠|
  |1043|[艺庄艺术](https://www.tianyancha.com/company/5598409984)|WX_GZH|
- |1044|[NU艺数](https://www.tianyancha.com/company/5482995059)|WX_GZH| | |APP|[H5](http://nft.dingfengkj.com/h5/#/)|BSN文昌链|
+ |1044|[NU艺数](https://www.tianyancha.com/company/5482995059)|WX_GZH| | |APP|[H5](http://nft.dingfengkj.com/h5/#/pages/register/index?code=63735)|BSN文昌链|二级市场|
  |1045|[德艺数字艺术品](https://www.tianyancha.com/company/3419513537)|WX_GZH| | | |[H5](http://h5.profit-sz.com/index.html?channelUserId=977)|海峡链|场外转赠|
  |1046|鲸图| | | | |[H5](http://3pows.cn/html/registered.html?id=4145)| |二级市场|
  |1047|[数迷empire](https://www.tianyancha.com/company/5199576370)|WX_GZH| | |APP|H5|
@@ -1106,4 +1106,5 @@
  |1058|[机遇数藏](https://www.tianyancha.com/company/3480555278)|WX_GZH| | | |[H5](http://jiyushucang.jiyukj.cn/h5/#/pages/login/register?headid=20048)|XuperChain|二级市场|
  |1059|[BiuBiuSpace](https://www.tianyancha.com/company/5042489658)|WX_GZH| | | |[H5](https://m.biubiu.art/pages/login/register?invite_code=be9bd03c)|BSN文昌链|二级市场|
  |1060|[希壤](https://www.tianyancha.com/company/23289175)|WX_GZH| | |[APP](https://vr.baidu.com/product/xirang?track=weixin)|[H5](https://xirang-mall.baidu.com/h5/#/)|XuperChain|场外转赠| 
+ |1061|[楚辞艺术](https://www.tianyancha.com/company/5549191789)|WX_GZH| | |APP|[H5](http://www.chucikeji.com/h5#/pages/login/reg?invite=SEM4OL)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
