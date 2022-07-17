@@ -168,7 +168,7 @@
  |152|[哈森艺术](https://www.tianyancha.com/company/3401789203)|WX_GZH|  |  |[APP](https://hasen.vip/#/pages/index/download)|[H5](https://m.hasen.art/#/pages/user/register?invitecode=424631e0b9195640)|  |二级市场|
  |153|[元界数藏](https://www.tianyancha.com/company/2312394750)|WX_GZH|||[APP](https://nft.limaiwluo.cn/reg/qQZDp8wE2)|[H5](http://www.limaiwl.cn)|HECO|二级市场|
  |154|[未艺FUTURE ART](https://www.tianyancha.com/company/3336556145)|WX_GZH|WX_XCX| | |[H5](https://h5.wyszcp.com/)|未艺链|场外转赠|
- |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|||APP|[H5](http://shucang.gmocpd.com:8200/#/?registerCode=5423)|Ethereum|二级市场|
+ |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|||APP|[H5](https://h5.pangushuzi.com/wap/)|Ethereum|二级市场|
  |156|[速藏文化](https://www.tianyancha.com/company/2965133217)|WX_GZH| | |APP|[H5](https://h5.nftsucang.com/#/nft/paradrop/detail?id=1&invite=B54942)|蚂蚁链|二级市场|
  |156|[次稀空](https://www.tianyancha.com/company/2965133217)|WX_GZH| | |APP|[H5](https://h5.nftsucang.com/#/nft/paradrop/detail?id=1&invite=B54942)|蚂蚁链|二级市场|
  |157|[远传数字文化](https://www.tianyancha.com/company/2965133217)|WX_GZH|WX_XCX||APP|[H5](https://nft.yuanchuanwenbo2021.com/h5/?)|远传链|场外转赠|
