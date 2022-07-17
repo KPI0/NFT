@@ -1107,4 +1107,5 @@
  |1059|[BiuBiuSpace](https://www.tianyancha.com/company/5042489658)|WX_GZH| | | |[H5](https://m.biubiu.art/pages/login/register?invite_code=be9bd03c)|BSN文昌链|二级市场|
  |1060|[希壤](https://www.tianyancha.com/company/23289175)|WX_GZH| | |[APP](https://vr.baidu.com/product/xirang?track=weixin)|[H5](https://xirang-mall.baidu.com/h5/#/)|XuperChain|场外转赠| 
  |1061|[楚辞艺术](https://www.tianyancha.com/company/5549191789)|WX_GZH| | |APP|[H5](http://www.chucikeji.com/h5#/pages/login/reg?invite=SEM4OL)|BSN联盟链|场外转赠|
+ |1062|[摸金链](https://www.tianyancha.com/company/5382298471)|WX_GZH| | |[APP](https://www.mojinapp.com/genesis?invite=293276)| |BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
