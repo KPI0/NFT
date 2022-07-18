@@ -786,7 +786,7 @@
  |741|[臻域数藏](https://www.tianyancha.com/company/5438174356)|WX_GZH| | | |[H5](https://www.zymeta.art/#/pages/login/index?inviteMeUid=uYs42325)||二级市场|
  |742|[麦达数字](https://www.tianyancha.com/company/5436694940)|WX_GZH| | |[APP](http://app.mdszkj.cn/down_app/)|[H5](http://app.mdszkj.cn/?invite_code=6JA522)|XuperChain|二级市场|
  |743|[艺洲数藏](https://www.tianyancha.com/company/1655986078)|WX_GZH| | |APP|[H5](https://nft.china7x24.com/?ycode=49445)|Ethereum|二级市场|
- |744|[玖奇艺术](https://www.tianyancha.com/company/3151477890)|WX_GZH| | | | |XuperChain|
+ |744|[玖奇艺术](https://www.tianyancha.com/company/3151477890)|WX_GZH| | |   |[H5](https://nft.jiuqiart.com/h5/pages/login/register?invite_code=tFBrwtrh)|XuperChain|场外转赠|
  |745|[长龙灵境](https://www.tianyancha.com/company/212242688)|WX_GZH| | | |[H5](https://cllj.yjkj.art/h5/#/pages/login/register?uuid=I8O4PH)|VastChain|场外转赠|
  |746|[D UNIVERSE](https://www.tianyancha.com/company/2358328079)|WX_GZH| | | |[H5](https://digital.d-universe.net/#/join?userCode=6522060665)|树图链|场外转赠|
  |747|[创持文化](https://www.tianyancha.com/company/5472142739)|WX_GZH| | |[APP](http://android.chuangchi.vip/yqmx)|[H5](https://h5.chuangchi.vip/#/pages/index?inviteUId=60096)|蚂蚁链|二级市场|
