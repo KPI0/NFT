@@ -1116,5 +1116,5 @@
  |1068|[橘猫数藏](https://www.tianyancha.com/company/5547176957)|WX_GZH| | | |[H5](https://nft.jumao.art/h5/pages/login/register?invite_code=dvhpn6iW)|BSN联盟链|场外转赠|
  |1069|[云界之门](https://www.tianyancha.com/company/5545887058)|WX_GZH| | |APP|[H5](https://login.yunjiezhimen.com/pages/index/register?id=x6dk5w9l23)|BSN联盟链|场外转赠|
  |1070|[魅塔艺术](https://www.tianyancha.com/company/5547766893)|WX_GZH|
- |1071|[元气玛特](https://www.tianyancha.com/company/5139269003)|WX_GZH|WX_XCX| |[APP](https://airmart.vip/)|
+ |1071|[元气玛特](https://www.tianyancha.com/company/5139269003)|WX_GZH|WX_XCX| |[APP](https://airmart.vip/)| |BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
