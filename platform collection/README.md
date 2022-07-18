@@ -1119,4 +1119,5 @@
  |1071|[元气玛特](https://www.tianyancha.com/company/5139269003)|WX_GZH|WX_XCX| |[APP](https://airmart.vip/)| |BSN联盟链|二级市场|
  |1072|[方舟数藏](https://www.tianyancha.com/company/5540855276)|WX_GZH| | |APP|[H5](https://fangzhou.allen3.cn/#/pages/login/register?inviteCode=FZKBYLJBYX)|趣链|二级市场|
  |1073|[万鼎数藏](https://www.tianyancha.com/company/5550497397)|WX_GZH| | |APP|[H5](http://nft.wandingshucang.top/wap/#/pages/login/register/register?id=149710)|Polygon|场外转增|
+ |1074|[起兔](https://www.tianyancha.com/company/3226152755)|WX_GZH| | |APP|[H5](http://www.nftqitu.com/#/pages/login/register?code=582514007)|Ethereum|场外转增|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
