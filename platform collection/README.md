@@ -1088,7 +1088,7 @@
  |1040|[修罗数艺空间](https://www.tianyancha.com/company/5330155053)|WX_GZH| |   |APP|[H5](https://gxxlsk.com/pages/login/register?InvitationCode=ao44tjWe)|BSN文昌链|二级市场|
  |1041|[沙藏元宇宙](https://www.tianyancha.com/company/5456669359)|WX_GZH| | |  |[H5](https://shacang.net/apph5?content=W2o548461)|BSN联盟链|场外转赠|
  |1042|[共画藏家](https://www.tianyancha.com/company/2343741975)|WX_GZH| | |[APP](https://app.ghcangjia.com/app/)|[H5](https://art.ghcangjia.com/#/pages/passport/register?inviteCode=S3gwMUXO12)| |场外转赠|
- |1043|[艺庄艺术](https://www.tianyancha.com/company/5598409984)|WX_GZH|
+ |1043|[艺庄艺术](https://www.tianyancha.com/company/5598409984)|WX_GZH| | | |[H5](http://yzys.pm.qh.cn/h5#/pages/login/reg?invite=5LG473)|BSN文昌链|场外转赠|
  |1044|[NU艺数](https://www.tianyancha.com/company/5482995059)|WX_GZH| | |APP|[H5](http://nft.dingfengkj.com/h5/#/pages/register/index?code=63735)|BSN文昌链|二级市场|
  |1045|[德艺数字艺术品](https://www.tianyancha.com/company/3419513537)|WX_GZH| | | |[H5](http://h5.profit-sz.com/index.html?channelUserId=977)|海峡链|场外转赠|
  |1046|鲸图| | | | |[H5](http://3pows.cn/html/registered.html?id=4145)| |二级市场|
