@@ -1110,7 +1110,7 @@
  |1062|[摸金链](https://www.tianyancha.com/company/5382298471)|WX_GZH| | |[APP](https://www.mojinapp.com/genesis?invite=293276)| |BSN联盟链|场外转赠|
  |1063|[藏聊](https://www.tianyancha.com/company/3383815969)|WX_GZH| | |[APP](https://h5.cangliao.top/register?c=0DDLHS)| | |场外转赠|
  |1064|[九元艺术](https://www.tianyancha.com/company/5499251657)|WX_GZH| | | |[H5](https://www.jiuyuanshucang.com/#/pages/public/register?usercode=LfLvnOg5)|BSN文昌链|二级市场|
- |1065|[九天Art](https://www.tianyancha.com/company/3306367018)|WX_GZH|
+ |1065|[九天Art](https://www.tianyancha.com/company/3306367018)|WX_GZH| | | | |BSN联盟链|
  |1066|[天启艺术](https://www.tianyancha.com/company/5526345447)|WX_GZH| | |APP|[H5](http://47.111.169.51:8300/#/)| |二级市场|
  |1067|[游境艺术](https://www.tianyancha.com/company/5497132569)|WX_GZH| | |APP|[H5](https://huluo888.cn/youjing?codeMaster=1454275)| |场外转赠|
  |1068|[橘猫数藏](https://www.tianyancha.com/company/5547176957)|WX_GZH| | | |[H5](https://nft.jumao.art/h5/pages/login/register?invite_code=dvhpn6iW)|BSN联盟链|场外转赠|
