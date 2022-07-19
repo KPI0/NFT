@@ -1147,4 +1147,5 @@
  |1099|[淘气数字](https://www.tianyancha.com/company/5235892078)|WX_GZH| | |APP|[H5](https://www.taoqishuzi.com/#/)| |场外转赠|
  |1100|[At Max艺创空间](https://www.tianyancha.com/company/5525797345)|WX_GZH| | | |[H5](http://h5.yichuangnft.cn/#/pages/index/index)| |场外转赠|
  |1101|[Deme World](https://www.tianyancha.com/company/5221604358)|WX_GZH|WX_XCX| |APP|[H5](https://beta.demeworld.cn/#/DigitalCollect)||场外转赠|
+ |1102|[超层](https://www.tianyancha.com/company/5539884109)|WX_GZH| | |APP|[H5](https://h5.paralayers.shop/mobile/#/home)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
