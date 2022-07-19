@@ -557,7 +557,7 @@
  |515|[MetaHere](https://www.tianyancha.com/company/5431651042)|WX_GZH| | | |[H5](https://metahere.com?code=2F5912)|Terracoin|二级市场|
  |516|[江滩文创](https://www.tianyancha.com/company/5284930248)|WX_GZH| | | |[H5](https://art.jtchm.com/?ac=userreg&dl=99701)|天河链|二级市场|
  |517|[火源艺数](https://www.tianyancha.com/company/5467634343)|WX_GZH| | | |[H5](http://allspark.club/#/phone/registered?code=BxeHzO)|BSN联盟链|场外转赠|
- |518|[元宇艺数](https://www.tianyancha.com/company/5240419010)|WX_GZH| | | |[H5](https://yy.9space.vip/yy/home)| |二级市场|
+ |518|[元宇艺数](https://www.tianyancha.com/company/5240419010)|WX_GZH| | |APP|[H5](https://yy.9space.vip/yy/home)| |二级市场|
  |519|[元什](https://www.tianyancha.com/company/5397460618)|WX_GZH| | | |[H5](https://metax.ycmot.com/h5/pages/loading/index?id=628afc54d38e7)|文交链|场外转赠|
  |520|[中网元宇宙](https://www.tianyancha.com/company/4815980916)|WX_GZH| | |[APP](https://app.cn-auction.com/)|[H5](http://m.zwpaimai.store/#/pages/index/index?&shareGoodsCode=NEOAT5)|BSN文昌链|二级市场|
  |521|[烨臻数藏](https://www.tianyancha.com/company/5476908478)|WX_GZH| | |[APP](http://yezhenkeji.art/h5/index.html#/?qid=39946)|[H5](http://yezhenkeji.art/web/#/)|蚂蚁链|场外转赠|
