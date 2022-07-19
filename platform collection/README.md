@@ -1124,6 +1124,6 @@
  |1076|[苏韵文交](https://www.tianyancha.com/company/4385000359)|WX_GZH| | |APP|[H5](http://106.15.195.198/h5#/pages/login/reg?invite=5NI133)|文交链|二级市场|
  |1077|[元猫艺术](https://www.tianyancha.com/company/3404659787)|WX_GZH| | | |[H5](http://web.yuanmao.art/#/)|BSN联盟链|
  |1078|[界上界元宇宙](https://www.tianyancha.com/company/5515215102)|WX_GZH| | | |[H5](http://h5.usmeta.vip/#/pages/login/register?uid=129059)|Ethereum|二级市场|
- |1079|[幻马艺术](https://www.tianyancha.com/company/5572333951)|WX_GZH| |秘宝|
- |1080|[乾创艺术](https://www.tianyancha.com/company/5567729083)|WX_GZH| |秘宝| | | |停止运营|
+ |1079|[幻马艺术](https://www.tianyancha.com/company/5572333951)|WX_GZH| |秘宝| | |Nervos|场外转赠|
+ |1080|[乾创艺术](https://www.tianyancha.com/company/5567729083)|WX_GZH| |秘宝| | |Nervos|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
