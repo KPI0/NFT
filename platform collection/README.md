@@ -1139,4 +1139,5 @@
  |1091|[杜梅塔Meta](https://www.tianyancha.com/company/5538896126)|WX_GZH| | |[APP](https://down.acang.art/#/)|[H5](https://h5.acang.art/)|BSN联盟链|二级市场|
  |1092|[东方数聚](https://www.tianyancha.com/company/2828574132)|WX_GZH| | | |[H5](https://0df.cn/h5/#/)| |二级市场|
  |1093|[星辰数藏](https://www.tianyancha.com/company/3458199508)|WX_GZH| | | |[H5](http://nftxcsc.com/#/pages/index/index?uid=46997)|Ethereum|二级市场|
+ |1094|[昌盛数创](https://www.tianyancha.com/company/5503007445)|WX_GZH| | | |[H5](http://cstheone.com/#/)| |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
