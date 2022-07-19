@@ -1149,4 +1149,5 @@
  |1101|[Deme World](https://www.tianyancha.com/company/5221604358)|WX_GZH|WX_XCX| |APP|[H5](https://beta.demeworld.cn/#/DigitalCollect)||场外转赠|
  |1102|[超层](https://www.tianyancha.com/company/5539884109)|WX_GZH| | |APP|[H5](https://h5.paralayers.shop/mobile/#/home)|BSN联盟链|场外转赠|
  |1103|[新大陆数字文化](https://www.tianyancha.com/company/5186900053)|WX_GZH| | | |[H5](https://xindalu-m.rarefy.cn/#/)|蚂蚁链|场外转赠|
+ |1104|[不贰艺术](https://www.tianyancha.com/company/5528885589)|WX_GZH| | |[APP](http://www.gylssxg.cn/wap/#/pages/login/register/register?id=783678)|[H5](http://www.gylssxg.cn/wap/#/)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
