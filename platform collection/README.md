@@ -1045,7 +1045,7 @@
  |997|[鲲起文创](https://www.tianyancha.com/company/5559458662)|WX_GZH| | | |[H5](https://front.kunqishucang.com/#/pages/public/register?usercode=XIIWnevR)|BSN文昌链|二级市场|
  |998|[藏云阁](https://www.tianyancha.com/company/5506907482)|WX_GZH| | |[APP](http://app.xiwusc.com/xiwu)|[H5](https://nft.xiwusc.com/#/pages/index?inviteUId=148484)|蚂蚁链|二级市场|
  |999|[cocafe咖菲科技](https://www.tianyancha.com/company/4436223894)|WX_GZH| | | |[H5](https://galaxy.cocafe.co/)|趣链|
- |1000|[Maple枫藏](https://www.tianyancha.com/company/5552393634)|WX_GZH| | |APP|[H5](http://www.mapleart.cn/h5/)||二级市场|
+ |1000|[Maple枫藏](https://www.tianyancha.com/company/5552393634)|WX_GZH| | |APP|[H5](http://www.mapleart.cn/h5/)|BSN联盟链|二级市场|
  |1001|[Dcube数字艺术](https://www.tianyancha.com/company/5348018995)|WX_GZH| | | |[H5](https://shop.hygcsz.vip/h5/#/pages/login/reg?invite=PQEFNG)|Ethereum、BSC、HECO|二级市场|
  |1002|[达文数藏](https://www.tianyancha.com/company/5525183899)|WX_GZH| | |APP|[H5](https://h5.dawinmeta.com/)|蚂蚁链|二级市场|
  |1003|[牛犊秀数藏](https://www.tianyancha.com/company/3063983722)|WX_GZH| | | |[H5](https://art.niuduxiu.com/#/home)|BSN泰安链|二级市场|
