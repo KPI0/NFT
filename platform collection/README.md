@@ -1129,4 +1129,5 @@
  |1081|[Artverse](https://www.tianyancha.com/company/5332034786)|WX_GZH| | |[APP](https://art.artverse.work/#/pages/common/download/index)|[H5](https://art.artverse.work)|至信链|场外转赠|
  |1082|[八百艺术](https://www.tianyancha.com/company/5552670985)|WX_GZH| | | | | |停止运营|
  |1083|无极数创空间|WX_GZH| | | | | |停止运营|
+ |1084|[华源臻藏](https://www.tianyancha.com/company/2321661300)|WX_GZH| | |APP|[H5](https://www.shucanghuaxia.com/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
