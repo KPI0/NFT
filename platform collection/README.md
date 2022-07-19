@@ -1135,4 +1135,5 @@
  |1087|[天耀艺术空间](https://www.tianyancha.com/company/5545085635)|WX_GZH| | |APP|[H5](https://tianyaoart.cn/#/)|BSN文昌链|二级市场|
  |1088|[同程数字藏品馆](https://www.tianyancha.com/company/3162682874)|WX_GZH| | | |[H5](https://nft.17u.cn/web/#/home?)|至信链|场外转赠|
  |1089|[元享数藏](https://www.tianyancha.com/company/5468109450)|WX_GZH| | |[APP](http://yxsz.yuanxiangshuzang.com/#/pages/user/download)|[H5](http://yxsz.yuanxiangshuzang.com/#/)|BSN联盟链|二级市场|
+ |1090|[猿创数字文创](https://www.tianyancha.com/company/5512755804)|WX_GZH| | |APP|[H5](http://www.ycsc.work/#/pages/indexs/indexs)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
