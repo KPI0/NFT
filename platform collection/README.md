@@ -1141,4 +1141,5 @@
  |1093|[星辰数藏](https://www.tianyancha.com/company/3458199508)|WX_GZH| | | |[H5](http://nftxcsc.com/#/pages/index/index?uid=46997)|Ethereum|二级市场|
  |1094|[昌盛数创](https://www.tianyancha.com/company/5503007445)|WX_GZH| | | |[H5](http://cstheone.com/#/)|树图链|停止运营|
  |1095|星徽科技|WX_GZH| | | | | |停止运营|
+ |1096|[龙虾艺术](https://www.tianyancha.com/company/5494201356)|WX_GZH| | | |[H5](https://www.longxiayishu.com/login?code=ac7xhKLW)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
