@@ -1153,4 +1153,5 @@
  |1105|[灵泉数藏](https://www.tianyancha.com/company/5447145026)|WX_GZH| | |APP|[H5](https://nft.zglingquan.com/reg/289NkjkK1)| |二级市场|
  |1106|[反转月球](https://www.tianyancha.com/company/5500794583)|WX_GZH| | |[APP](https://ulinks.lunarxyz.com/)|[H5](https://wap.lunarxyz.top/#/)|BSN文昌链|场外转赠|
  |1107|[博玲数字艺术](https://www.tianyancha.com/company/5539395842)|WX_GZH| | | |[H5](https://app.artbl.cn/h5/#/pages/login/reg?invite=7JBQKS)|天河链|二级市场|
+ |1108|[Meta宇宙](https://www.tianyancha.com/company/5478953381)|WX_GZH| | |APP|[H5](http://yxy.xn--w2x1x.com/#/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
