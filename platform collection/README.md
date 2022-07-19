@@ -1150,4 +1150,5 @@
  |1102|[超层](https://www.tianyancha.com/company/5539884109)|WX_GZH| | |APP|[H5](https://h5.paralayers.shop/mobile/#/home)|BSN联盟链|场外转赠|
  |1103|[新大陆数字文化](https://www.tianyancha.com/company/5186900053)|WX_GZH| | | |[H5](https://xindalu-m.rarefy.cn/#/)|蚂蚁链|场外转赠|
  |1104|[不贰艺术](https://www.tianyancha.com/company/5528885589)|WX_GZH| | |[APP](http://www.gylssxg.cn/wap/#/pages/login/register/register?id=783678)|[H5](http://www.gylssxg.cn/wap/#/)|Polygon|二级市场|
+ |1105|[灵泉数藏](https://www.tianyancha.com/company/5447145026)|WX_GZH| | |APP|[H5](https://nft.zglingquan.com/reg/289NkjkK1)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
