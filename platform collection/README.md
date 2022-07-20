@@ -1166,4 +1166,5 @@
  |1118|[蓬莱数藏](https://www.tianyancha.com/company/5123862459)|WX_GZH| | | |[H5](http://h5.penglainft.com/#/)|百纳维联盟链|场外转赠|
  |1119|[三藏文创](https://www.tianyancha.com/company/5466592404)|WX_GZH| | |APP|[H5](http://sancangwc.cn/h5#/pages/login/reg?invite=1EBE02)|BSN联盟链|二级市场|
  |1120|[数艺淘](https://www.tianyancha.com/company/3393872651)|WX_GZH| | |[APP](https://shuyitao.zettachain.cn/#/register/index?invitecode=851722)|[H5](https://shuyitao.zettachain.cn/#/dashboard)| |交易市场|
+ |1121|[星火TOP](https://www.tianyancha.com/company/5458077405)|WX_GZH| | |APP|[H5](http://xinhuo-h5.yicangkj.cn/#/)| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
