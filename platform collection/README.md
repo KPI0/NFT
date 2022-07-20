@@ -1168,5 +1168,6 @@
  |1120|[数艺淘](https://www.tianyancha.com/company/3393872651)|WX_GZH| | |[APP](https://shuyitao.zettachain.cn/#/register/index?invitecode=851722)|[H5](https://shuyitao.zettachain.cn/#/dashboard)| |交易市场|
  |1121|[星火TOP](https://www.tianyancha.com/company/5458077405)|WX_GZH| | |APP|[H5](http://xinhuo-h5.yicangkj.cn/#/)| |场外转赠|
  |1122|[海纳佰藏](https://www.tianyancha.com/company/3404964824)|WX_GZH|
- |1123|[猿视界数藏](https://www.tianyancha.com/company/5535416490)|WX_GZH| | |[APP](https://nft-download.shijienft.com/)|[H5](https://nft-h5.shijienft.com/#/)|BSN联盟链|场外转赠|
+ |1123|[猩视界数藏](https://www.tianyancha.com/company/5535416490)|WX_GZH| | |[APP](https://nft-download.shijienft.com/)|[H5](https://nft-h5.shijienft.com/#/)|BSN联盟链|场外转赠|
+ |1124|[界域数字艺术](https://www.tianyancha.com/company/5551127303)|WX_GZH| | | |[H5](https://jieyu.h5.yunzongbu.cn/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
