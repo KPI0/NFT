@@ -47,9 +47,9 @@
  |44|存安链|[https://www.cunanchain.com](https://explorer.cunanchain.com/#/home)|
  |45|摩点链|[https://crypto.lockerr.cn](https://crypto.lockerr.cn/browser#/block)|
  |46|WaykiChain|[https://www.waykichain.com/](https://www.waykiscan.com/#/)|
- |47|梧桐链|[https://www.wutongchain.com/](https://ts.wutongchain.com/#/)|
+ |47|梧桐链|[https://www.wutongchain.com](https://ts.wutongchain.com/#/)|
  |48|MaileChain|[https://www.mailechain.com](https://www.mailechain.com/)|
  |49|BSN-DDC|[https://ddc.bsnbase.com](https://ddc.bsnbase.com/main/ddc-querys)|
  |50|矩链|[https://www.matrixopen.com](https://explorer.matrixopen.com/#/)|
  |51|斐德坊链|[http://www.fidesum.com](http://www.fidesum.com/)|
- |52|BSN大唐链|[https://www.dtchain.net/](https://explorer.mainnet.dtchain.net/#/home)|
+ |52|BSN大唐链|[https://www.dtchain.net](https://explorer.mainnet.dtchain.net/#/home)|
