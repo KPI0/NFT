@@ -1200,4 +1200,5 @@
  |1152|[魔洞Art](https://www.tianyancha.com/company/3076982969)|WX_GZH| | | |[H5](http://h5.mdszcp.com/#/)|BSN联盟链|场外转赠|
  |1153|[IMC艺术](https://www.tianyancha.com/company/5538907492)|WX_GZH| | | |[H5](http://imc.liufangnet.com/pages/my/my)|BSN文昌链|场外转赠|
  |1154|[原初宇宙](https://www.tianyancha.com/company/5538286307)|WX_GZH| | |APP|[H5](http://app.yuanchu777.com/invite/#/)|BSN文昌链|场外转赠|
+ |1155|[墨变META](https://www.tianyancha.com/company/3453435995)|WX_GZH| | |[APP](https://ckmobian.com/)|[H5](https://www.ckmobian.com/#/)|海峡链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
