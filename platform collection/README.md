@@ -1193,4 +1193,5 @@
  |1145|[TMAX至热](https://www.tianyancha.com/company/5522953708)|WX_GZH|| | |[H5](https://www.zrtmax.cn/#/pages/public/register?usercode=dUAtLCF1)|BSN文昌链|二级市场|
  |1146|[魔方数字艺术](https://www.tianyancha.com/company/3033960913)|WX_GZH| | | |[H5](https://crmeb.xiaojiakeji.cn/pages/index/index)| |场外转赠|
  |1147|[柠檬Meta](https://www.tianyancha.com/company/3480012730)|WX_GZH| | | |[H5](https://ningmeng.banshanyd.com/h5/index.html#/)|BSN文昌链|场外转赠|
+ |1148|[顶尖玩家](https://www.tianyancha.com/company/5581158709)|WX_GZH| | |APP|[H5](http://web.dingjianwanjia.com/wap/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
