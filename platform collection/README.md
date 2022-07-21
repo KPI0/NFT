@@ -1175,4 +1175,5 @@
  |1127|[知稀](https://www.tianyancha.com/company/3337326359)|WX_GZH| | |[APP](https://www.zhitumei.cn/wap/download.html)| |花瓣链|
  |1128|[元琮](https://www.tianyancha.com/company/5397460618)|WX_GZH| | | |[H5](https://meta.ycmot.com/h5/)|新版链|场外转赠|
  |1129|[灵派空间](https://www.tianyancha.com/company/3472542729)|WX_GZH| | | |[H5](https://www.0xpets.com/petsweb/#/h5/market)|BSN联盟链|场外转赠|
+ |1130|[闲侣](https://www.tianyancha.com/company/5312475892)|WX_GZH| | |[APP](https://www.hexkej.com/)| |蚂蚁链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
