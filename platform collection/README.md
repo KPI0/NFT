@@ -1188,4 +1188,5 @@
  |1140|[星核元宇宙](https://www.tianyancha.com/company/5521103980)|WX_GZH|| | |[H5](https://h5.xingheyuzhou.com/index.html#/pages/login/reg?invite=BM911L)| |场外转赠|
  |1141|[鸿元艺术](https://www.tianyancha.com/company/4508005122)|WX_GZH| | |APP|[H5](http://hongyuanyishu.sudi666666.cn/h5/#/)| |场外转赠|
  |1142|[知传家藏](https://www.tianyancha.com/company/3414024175)|WX_GZH| | | |[H5](https://www.tianyancha.com/company/3414024175)|知传链|场外转赠|
+ |1143|[镜星球](https://www.tianyancha.com/company/3455203317)|WX_GZH| | |[APP](https://share-prod.jingxq.com/index.html?inviteCode=IZJE57&agentCode=)||BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
