@@ -314,7 +314,7 @@
  |287|饿了么APP| | |[美味珍藏馆](https://to.ele.me/e0gMJpUr?needMixView=1)|[APP](https://to.ele.me/e0gMJpUr?needMixView=1)| |
  |288|[元稀数字藏品](https://www.tianyancha.com/company/3304712212)|WX_GZH| | | |[H5](https://cryptart.cn/#/register?shareCode=xza3w6)|百解链|二级市场|
  |289|[芒境](https://www.tianyancha.com/company/5384019876)|WX_GZH|WX_XCX| | |[H5](https://h5.mangooplanet.com/)|树图链|场外转赠|
- |290|爱奇艺APP| | | |[APP](https://xuper.baidu.com/n/mob/sbc/7691?qyid=8bc8e65ce3639dbe52045a19a72f80001103&network=1999&ov=10&src=android&platform=GPhone&p1=2_22_222&social_platform=link&_psc=c5599006de4a4689b797c604210429b9#/)| |XuperChain|
+ |290|[爱奇艺APP](https://www.tianyancha.com/company/23537076)| | | |[APP](https://xuper.baidu.com/n/mob/sbc/7691?qyid=8bc8e65ce3639dbe52045a19a72f80001103&network=1999&ov=10&src=android&platform=GPhone&p1=2_22_222&social_platform=link&_psc=c5599006de4a4689b797c604210429b9#/)| |XuperChain|
  |291|[牛宝数藏](https://www.tianyancha.com/company/3378709294)|WX_GZH| | | |[H5](https://nb.h5e.com/register?inviter=rUTU&activity=poster)|BSN文昌链|场外转赠|
  |291|[元界未来](https://www.tianyancha.com/company/3378709294)|WX_GZH| | | |[H5](https://nb.h5e.com/register?inviter=rUTU&activity=poster)|BSN文昌链|场外转赠|
  |292|[space数字未来](https://www.tianyancha.com/company/5333248398)|WX_GZH| | |APP|[H5](https://wap.spaceqq.cn/#/pages/user/registered?inviteCode=7P6LY0E7)|BSN联盟链|二级市场|
