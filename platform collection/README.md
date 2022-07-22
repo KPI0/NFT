@@ -1205,4 +1205,5 @@
  |1157|[灵契数藏](https://www.tianyancha.com/company/3327671860)|WX_GZH| | | |[H5](http://h5.chengrong.cc/#/)|海峡链|场外转赠|
  |1158|[雪藏SnowMeta](https://www.tianyancha.com/company/5513798275)|WX_GZH| | | |[H5](https://www.snowmeta.cn/)|蚂蚁链、Ethereum|二级市场|
  |1159|[吾爱艺数](https://www.tianyancha.com/company/3477985175)|WX_GZH| | | |[H5](https://t.mamain.cn/web/#/)|BSN联盟链|二级市场|
+ |1160|[熊的艺术](https://www.tianyancha.com/company/5368893926)|WX_GZH| | | |[H5](https://art.shihuai.tech/index.html#/)|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
