@@ -1211,4 +1211,5 @@
  |1163|[鲸典元宇宙](https://www.tianyancha.com/company/3430358825)|WX_GZH| | |[APP](http://jingdianshucang.com/ns5t?utm_source=fir&utm_medium=qr)|[H5](https://www.jingdianshucang.com/#/)|BSN文昌链|二级市场|
  |1164|[DaoBox](https://www.tianyancha.com/company/5439521808)|WX_GZH| | | |[H5](https://m.daobox.art/#/home)|BSN联盟链、天河链|二级市场|
  |1165|[十八数藏](https://www.tianyancha.com/company/5546805762)|WX_GZH| | |APP|[H5](https://m.18art.art/)|BSN联盟链|二级市场|
+ |1166|[国元文创](https://www.tianyancha.com/company/5549946648)|WX_GZH| | | |[H5](http://www.gywhcy.cn/h5#/pages/login/reg?invite=2U1ETK)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
