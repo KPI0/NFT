@@ -676,7 +676,7 @@
  |633|[元幻数藏](https://www.tianyancha.com/company/3342106342)|WX_GZH||||[H5](https://www.xbeepay.net/mobile/login/share_register?uid=76725)|圆圈链|场外转赠|
  |634|[元核数藏](https://www.tianyancha.com/company/5402560762)|WX_GZH|  |  |[APP](http://wechat.yhsc.cc/download/index.html)|[H5](http://h5.yhsc.cc/#/home)|BSN联盟链|场外转赠|
  |635|[元工坊数藏](https://www.tianyancha.com/company/740501744)|WX_GZH| | | |[H5](https://dc.itacc.com.cn/)|树图链|场外转赠|
- |636|[数字星球](https://www.tianyancha.com/company/3204506408)|WX_GZH| | | |[H5](https://www.dpnft.net/?invite_code=EZFRXH&invite_type=0)|存安链|二级市场|
+ |636|[数字星球](https://www.tianyancha.com/company/3204506408)|WX_GZH| | |APP|[H5](https://www.dpnft.net/?invite_code=EZFRXH&invite_type=0)|存安链|二级市场|
  |637|[低傲](https://www.tianyancha.com/company/4530916789)|WX_GZH| | |[APP](https://m.cdwami.com/pages/login/login)||BIGO|二级市场|
  |638|[OK元宇宙](https://www.tianyancha.com/company/3278493094)|WX_GZH| | |[APP](https://www.okmeta.tv/)|[H5](http://onlysound.top/login)|XuperChain|二级市场|
  |639|[Meta nucleus](https://www.tianyancha.com/company/5186789108)|WX_GZH|    |    |    |[H5](http://shop.yuandianmeta.com/pages/register/register?code=3nuatg)|BSN联盟链|场外转赠|
