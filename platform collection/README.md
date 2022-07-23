@@ -866,7 +866,7 @@
  |820|[潮艺数藏](https://www.tianyancha.com/company/5515374377)|WX_GZH| | | |[H5](https://trendart.shop/#/pages/reg/reg?ref_code=003839)|BSN联盟链|二级市场|
  |821|[元领NFR](https://www.tianyancha.com/company/28852851)|WX_GZH| | |  |[H5](https://m.daocx.com/nft/nft-fe/h5/#/)|XuperChain|二级市场|
  |822|[品藏·PIN](https://www.tianyancha.com/company/5487578818)|WX_GZH|WX_XCX|      |       |[H5](http://home.pincangmeta.com/#/main/registerone?parentId=5364)|XuperChain|场外转赠|
- |823|[幻集艺术](https://www.tianyancha.com/company/3422647884)|WX_GZH| | |[APP](https://api.nft07.cn/download.html)|[H5](https://api.nft07.cn/h5/index.html#/pages/register/index?invite_id=66850)| |二级市场|
+ |823|[幻集艺术](https://www.tianyancha.com/company/3422647884)|WX_GZH| | |[APP](https://api.nft07.cn/download.html)|[H5](https://api.nft07.cn/h5/index.html#/pages/register/index?invite_id=66850)|BSN联盟链|二级市场|
  |824|[有哇宇宙uWOW](https://www.tianyancha.com/company/2342347972)|WX_GZH| | | |[H5](https://uwow.homaxtv.com/#/register?userCode=6522060864&activityCode=a0768631751547158eef547bade6fbc2)|树图链|场外转赠|
  |825|[中文数创](https://www.tianyancha.com/company/3143864778)|WX_GZH| | | |[H5](https://nft.zhongke.art/#/pages/login/index?userId=1535993728747048960)|BSN联盟链|场外转赠|
  |826|[有光数藏](https://www.tianyancha.com/company/2320769365)|WX_GZH|        | |[APP](http://two.blinktech.cn/app-share/)|[H5](http://www.yby.ink/digitalH5/#/home)|斐德坊链|场外转赠|
