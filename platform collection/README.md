@@ -61,7 +61,7 @@
  |53|[ONE数字艺术](https://www.tianyancha.com/company/3345735331)|WX_GZH| | | |[H5](https://h5.onenft.top/#/pages/auth/login?invite_code=894899)|HECO|二级市场|
  |54|[一点数藏](https://www.tianyancha.com/company/5359329416)|WX_GZH|   |    |[APP](https://yidianart.com.cn/#/pages/down)|[H5](http://yidianart.com.cn/#/pages/login/regist?invite_code=341325)|HECO|二级市场|
  |55|[云藏科技](https://www.tianyancha.com/company/5345176446)|WX_GZH|   |    |[APP](http://www.ycmeta.art/#/download)|[H5](http://www.ycmeta.art/#/register?code=dpwGZ2)|BSN联盟链|二级市场|
- |56|[灵境藏品](https://www.tianyancha.com/company/5329792525)|WX_GZH| | |[APP](https://lingjing-download.zhigui.com/)|[H5](https://www.lingjing3.cn/#/pages/index/index?v=625&inviteCode=DxcqqZHB8LPccgVGmhz47E)|星火·链网|场外转赠|
+ |56|[灵境藏品](https://www.tianyancha.com/company/5329792525)|WX_GZH| | |[APP](https://lingjing-download.zhigui.com/)|[H5](https://www.lingjing3.cn/#/pages/index/index?v=625&inviteCode=DxcqqZHB8LPccgVGmhz47E)|星火链|场外转赠|
  |57|[数字藏家](https://www.tianyancha.com/company/3214529696)|WX_GZH||||[H5](https://www.digitalcollector.cn/home?userId=6912066268934161896)|自研链|二级市场|
  |57|[沃野wow yeah](https://www.tianyancha.com/company/3214529696)|WX_GZH||||[H5](https://www.digitalcollector.cn/home?userId=6912066268934161896)|自研链|二级市场|
  |58|[CN数字藏品](https://www.tianyancha.com/company/3463601729)|WX_GZH|WX_XCX| | |[H5](https://cn-h5.jilianwang.club/pages/home/index)| |场外转赠|
@@ -70,7 +70,7 @@
  |61|[AmallART](https://www.tianyancha.com/company/5170842136)|WX_GZH|  |  |  |[H5](https://amall.vip/land?code=5425261466357761046)|Polygon|二级市场|
  |62|[Art Meta元艺数](https://www.tianyancha.com/company/5241966703)|WX_GZH| | | |[H5](https://artmeta.cn/)|Polygon|二级市场|
  |63|[Avapunk数字藏品](https://www.tianyancha.com/company/5161314421)|WX_GZH| | |[APP](https://m.avapunk.com/static/download.html)|[H5](https://www.avapunk.com/invited?extensionId=U247385)|金链盟|场外转赠|
- |64|[斑马中国](https://www.tianyancha.com/company/3371645788)|WX_GZH|WX_XCX||  |[H5](https://bmark.cn/#/)|星火·链网|二级市场|
+ |64|[斑马中国](https://www.tianyancha.com/company/3371645788)|WX_GZH|WX_XCX||  |[H5](https://bmark.cn/#/)|星火链|二级市场|
  |65|[蝶宇宙数字藏品](https://www.tianyancha.com/company/3407911791)|WX_GZH|    |   |[APP](https://www.bfmeta.art/#/)|[H5](https://h5.bfmeta.art/#/packageCenterSet/myCenter/inviteFriend/linkreg/index?invCode=87ULXD)|OKChain|二级市场|
  |65|[海藏艺术](https://www.tianyancha.com/company/3407911791)|WX_GZH| | |[APP](https://www.haicang.pro/#/)|[H5](https://h5.haicang.pro/#/)|OKChain|二级市场|
  |66|[GEEK数字藏品](https://www.tianyancha.com/company/2358919196)|WX_GZH|   |  |[APP](https://www.geeknft.art/download/appdownload.html)|[H5](https://www.geeknft.art/frontend/web/index.php/page/index)|XuperChain|二级市场|
@@ -510,7 +510,7 @@
  |469|[来酷星球](https://www.tianyancha.com/company/3276658869)|WX_GZH|WX_XCX| | |[H5](http://t.weimob.com/BDuYK)|
  |470|[灵龙文创](https://www.tianyancha.com/company/5188360410)|WX_GZH| | |APP|[H5](https://www.lingloong.cn/?#/?inviteCode=2EqF69oD)||二级市场|
  |471|[SOFTMOON](https://www.tianyancha.com/company/4498877969)|WX_GZH| | | |[H5](https://boyang.app.yjkjmeta.com/#/pages/tabs/home)||场外转赠|
- |472|[知音数藏](https://www.tianyancha.com/company/5075360691)|WX_GZH| | | |[H5](https://www.zyszcp.com/#/pages/index/index?v=592&inviteCode=aajemx4rcjRh3Z67ypM6Hg)|星火·链网|场外转赠|
+ |472|[知音数藏](https://www.tianyancha.com/company/5075360691)|WX_GZH| | | |[H5](https://www.zyszcp.com/#/pages/index/index?v=592&inviteCode=aajemx4rcjRh3Z67ypM6Hg)|星火链|场外转赠|
  |473|[大艺数家](https://www.tianyancha.com/company/5482159235)|WX_GZH| | | |[H5](http://www.greatartistmeta.com/index)|BSN联盟链|场外转赠|
  |474|[灵兽宇宙](https://www.tianyancha.com/company/3231030291)|WX_GZH| | |    |[H5](https://hlimso.wcyj2020.com/#/pages/Welcome/Welcome?inviteCode=5b5e4240)|至信链|场外转赠|
  |475|[GoodMeta](https://www.tianyancha.com/company/5459475387)|WX_GZH| | |[APP](https://h5.goodmeta.club)|[H5](http://go.goodmeta.club?code=685343358)|BSN联盟链|场外转赠|
@@ -657,7 +657,7 @@
  |614|[鲸幻数藏](https://www.tianyancha.com/company/4416972557)|WX_GZH| | |APP|[H5](https://h5.mengdongmeng.com/#/pages/index?inviteUId=64417)|蚂蚁链|场外转赠|
  |615|[LookBao](https://www.tianyancha.com/company/2346666179)|WX_GZH| | |[APP](http://down.lookbao.net/)|[H5](http://service.lookbao.net/?invite_code=266813)|DaanChain|场外转赠|
  |616|[Loong龙藏](https://www.tianyancha.com/company/5458482414)|WX_GZH| | |APP|[H5](https://lc.loongcang.com/wap/pages/share/jump?scene=1-77199-)|趣链|二级市场|
- |617|[捏饭团](https://www.tianyancha.com/company/3221376233)|WX_GZH| | | |[H5](https://www.metaclub.art/#/pages/index/index)|星火·链网|二级市场|
+ |617|[捏饭团](https://www.tianyancha.com/company/3221376233)|WX_GZH| | | |[H5](https://www.metaclub.art/#/pages/index/index)|星火链|二级市场|
  |618|[捧音](https://www.tianyancha.com/company/3147544133)|WX_GZH| | |[APP](https://h5.pengyin.vip/#/download)|[H5](https://h5.pengyin.vip/#/home)| |二级市场|
  |619|[祈境](https://www.tianyancha.com/company/5394638744)|WX_GZH| | |[APP](https://app.pubsion.cn/)|[H5](http://m.pubsion.cn/#/pages/index/index?&shareGoodsCode=Q9GQPG)|BSN文昌链|场外转赠|
  |620|[视觉猿数字艺术](https://www.tianyancha.com/company/5224384192)|WX_GZH| | |APP|[H5](https://h5.shijueyuan.cn/#/?spm=163947.1.0.2.1)| |二级市场|
@@ -915,7 +915,7 @@
  |867|[AR数藏](https://www.tianyancha.com/company/3089941445)|WX_GZH| | | |[H5](https://www.qidoukeji.com#/pages/login/register?uuid=JQPS45)|BSN联盟链|场外转赠|
  |868|[Uverse](https://www.tianyancha.com/company/5477103001)|WX_GZH| | | |[H5](https://u.uwosi.com/#/pages/public/login?invitecode=8696221)|BSN联盟链|场外转赠|
  |869|[原力艺术](https://www.tianyancha.com/company/4344797505)|WX_GZH| | |[APP](http://force.xindonglife.com/registerH5?code=f0hcvdxc47ivbon8)| | |二级市场|
- |870|[元物之门](https://www.tianyancha.com/company/3420202521)|WX_GZH| | |[APP](https://www.xrsd.com.cn/)| |星火·链网|
+ |870|[元物之门](https://www.tianyancha.com/company/3420202521)|WX_GZH| | |[APP](https://www.xrsd.com.cn/)| |星火链|
  |871|[吾得库](https://www.tianyancha.com/company/9519792)|WX_GZH|WX_XCX| | |[H5](https://mkt.nft.qq.com/userCenter/)|至信链|
  |872|[METAPASS](https://www.tianyancha.com/company/4544911463)|WX_GZH| | | |[H5](https://m.metapass.net.cn/)|||
  |873|[千方元创](https://www.tianyancha.com/company/3315586457)|WX_GZH| | | |[H5](https://art.metashow.vip/pages/login/login?code=82451)|BSN文昌链|场外转赠|
@@ -1230,4 +1230,5 @@
  |1182|[沸寂Pheagee](https://www.tianyancha.com/company/5332290952)|WX_GZH| | |[APP](https://www.pheagee.com/)|
  |1183|[厚米美塔](https://m.homiefun.com/#/pages/isWeixin/isWeixin)|WX_GZH| | |[APP](https://m.homiefun.com/#/pages/isWeixin/isWeixin)|[H5](https://m.homiefun.com/#/)|
  |1184|[东数稀藏](https://www.tianyancha.com/company/3044186617)|WX_GZH| | | |[H5](http://dsxc.art/#/)| |二级市场|
+ |1185|[地球漫游指南](https://www.tianyancha.com/company/3018547587)|WX_GZH| | |APP| |星火链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
