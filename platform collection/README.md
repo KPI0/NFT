@@ -1217,4 +1217,6 @@
  |1169|[炙梦数藏](https://www.tianyancha.com/company/4225540542)|WX_GZH| | |APP|[H5](https://www.dmsplay.com/h5/#/pages/login/userRegistration?uuid=2GFHRT)|BSN联盟链|场外转赠|
  |1170|[箩技空间](https://www.tianyancha.com/company/3360048525)|WX_GZH| | | |[H5](https://meta.wukoo.com.cn/)|树图链|场外转赠|
  |1171|[iu数藏](https://www.tianyancha.com/company/5594841767)|WX_GZH| | |[APP](https://www.iuuniverse.com/#/pages/login/register)|[H5](https://www.iuuniverse.com/#/pages/index/index)|BSN联盟链|场外转赠|
+ |1172|[艺陶平行宇宙](https://www.tianyancha.com/company/3297008318)|WX_GZH| | |[APP](https://sc.ytpxyz.com/)|[H5](https://api.ytpxyz.com/h5#/pages/login/reg?invite=LCSCBI)|XuperChain|场外转赠|
+ |1173|[飞灵数藏](https://www.tianyancha.com/company/3112635049)|WX_GZH| | | |[H5](http://m.feilingnft.com/home)|树图链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
