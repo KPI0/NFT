@@ -1228,4 +1228,6 @@
  |1180|[墨一空间](https://www.tianyancha.com/company/5528013137)|WX_GZH| | | |[H5](http://app.moyicp.com/#/)| |二级市场|
  |1181|[绝影文化](https://www.tianyancha.com/company/3195038102)|WX_GZH| | |APP|[H5](http://nft.icdcservice.cn/#/pages/home/homeIndex)|BSN联盟链|场外转赠|
  |1182|[沸寂Pheagee](https://www.tianyancha.com/company/5332290952)|WX_GZH| | |[APP](https://www.pheagee.com/)|
+ |1183|[厚米美塔](https://m.homiefun.com/#/pages/isWeixin/isWeixin)|WX_GZH| | |[APP](https://m.homiefun.com/#/pages/isWeixin/isWeixin)|[H5](https://m.homiefun.com/#/)|
+ |1184|[东数稀藏](https://www.tianyancha.com/company/3044186617)|WX_GZH| | | |[H5](http://dsxc.art/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
