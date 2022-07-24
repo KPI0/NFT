@@ -1216,4 +1216,5 @@
  |1168|[一梦元艺术](https://www.tianyancha.com/company/5549083723)|WX_GZH| | | |[H5](https://onedream.yfdnb.com/#/)| |场外转赠|
  |1169|[炙梦数藏](https://www.tianyancha.com/company/4225540542)|WX_GZH| | |APP|[H5](https://www.dmsplay.com/h5/#/pages/login/userRegistration?uuid=2GFHRT)|BSN联盟链|场外转赠|
  |1170|[箩技空间](https://www.tianyancha.com/company/3360048525)|WX_GZH| | | |[H5](https://meta.wukoo.com.cn/)|树图链|场外转赠|
+ |1171|[iu数藏](https://www.tianyancha.com/company/5594841767)|WX_GZH| | |[APP](https://www.iuuniverse.com/#/pages/login/register)|[H5](https://www.iuuniverse.com/#/pages/index/index)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
