@@ -1236,4 +1236,5 @@
  |1187|[象万千](https://www.tianyancha.com/company/5416645407)|WX_GZH| | | |[H5](https://cndigital.art/)|BSN文昌链|二级市场|
  |1188|[西元数字](https://www.tianyancha.com/company/5408149642)|WX_GZH| | |[APP](https://download.sh-jiaxiao.cn/)|[H5](https://christ1.sh-jiaxiao.cn/)|BSN文昌链|场外转赠|
  |1189|[Sevenverse数藏](https://www.tianyancha.com/company/5541916377)|WX_GZH| | |[APP](https://sevenverse.art/index.html#/pages/login/register)|[H5](https://sevenverse.art/index.html#/)|BSN文昌链|二级市场|
+ |1190|[虫洞元宇宙](https://www.tianyancha.com/company/5372490114)|WX_GZH| | | |[H5](https://h5.cdnft.art/)|虫洞链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
