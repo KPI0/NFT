@@ -1247,4 +1247,5 @@
  |1198|[天一元宇宙](https://www.tianyancha.com/company/3203112827)|WX_GZH|||[APP](http://download.app.tiyimeta.com/)|[H5](https://h5.tiyimeta.com/)|BSN联盟链|场外转赠|
  |1199|[大有艺术](https://www.tianyancha.com/company/3476381633)|WX_GZH| | |[APP](https://meta.dayou.art/home)|[H5](https://dayou.art/)|BSN文昌链|场外转赠|
  |1200|[红色数字藏品](https://www.tianyancha.com/company/4745855522)|WX_GZH| | |[APP](https://m.nft-red.cn/pages/index/DownloadLead)|[H5](https://m.nft-red.cn/)|链达链|场外转赠|
+ |1201|[YMS元美数](https://www.tianyancha.com/company/3347080188)|WX_GZH| | | |[H5](https://yms.lvnao.net/)|安存链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
