@@ -1245,4 +1245,5 @@
  |1196|[红石艺术](https://www.tianyancha.com/company/4066485886)|WX_GZH| | |[APP](https://www.redstoneart.cn/)| |BSN联盟链|场外转赠|
  |1197|[闪萌牛牛](https://www.tianyancha.com/company/2391276884)|WX_GZH| | |[APP](https://meta.weshineapp.com/)| |树图链|二级市场|
  |1198|[天一元宇宙](https://www.tianyancha.com/company/3203112827)|WX_GZH|||[APP](http://download.app.tiyimeta.com/)|[H5](https://h5.tiyimeta.com/)|BSN联盟链|场外转赠|
+ |1199|[大有艺术](https://www.tianyancha.com/company/3476381633)|WX_GZH| | |[APP](https://meta.dayou.art/home)|[H5](https://dayou.art/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
