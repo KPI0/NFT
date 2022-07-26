@@ -1243,4 +1243,5 @@
  |1194|[偶像工厂](https://www.tianyancha.com/company/5564131492)|WX_GZH| | | |[H5](https://web.starworks.top/#/pages/login/home)|
  |1195|[开元数创](https://www.tianyancha.com/company/3462898734)|WX_GZH| | |APP|[H5](http://www.datangkaiyuannft.com/#/)|至信链、BSN联盟链|场外转赠|
  |1196|[红石艺术](https://www.tianyancha.com/company/4066485886)|WX_GZH| | |[APP](https://www.redstoneart.cn/)| |BSN联盟链|场外转赠|
+ |1197|[闪萌牛牛](https://www.tianyancha.com/company/2391276884)|WX_GZH| | |[APP](https://meta.weshineapp.com/)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
