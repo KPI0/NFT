@@ -1258,4 +1258,5 @@
  |1209|[甘肃文交丝路](https://www.tianyancha.com/company/2346895224)|WX_GZH| | | |[H5](https://slsc-gwweb.gscaee.com/dashboard)|甘文交链|二级市场|
  |1210|[概礼数字新生活](https://www.tianyancha.com/company/5517588679)|WX_GZH| | | |[H5](https://www.thethree.com.cn/pages/index/index)|
  |1211|[灵猫数字艺术](https://www.tianyancha.com/company/3286825089)|WX_GZH| | |APP|[H5](https://h5.lingmao.art/web/#/pages/login/register?code=325596)|BSN文昌链|场外转赠|
+ |1212|[PEACE艺术](https://www.tianyancha.com/company/5543168801)|WX_GZH| | |[APP](http://xz.peace888.cn/)|[H5](http://app.peace888.cn/h5/#/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
