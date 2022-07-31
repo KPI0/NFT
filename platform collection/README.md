@@ -527,7 +527,7 @@
  |485|[铸元数藏](https://www.tianyancha.com/company/5421047191)|WX_GZH| | | |[H5](https://m.mintmeta.cn/?#/)|BSN文昌链|场外转赠|
  |486|TT数藏|WX_GZH| | | | | |停止运营|
  |487|[云视空间](https://www.tianyancha.com/company/4049864861)|WX_GZH| | |[APP](https://nft-download.yunshiar.com/)|[H5](https://nft-register.yunshiar.com?invitation_code=bxi355ds)|BSN联盟链|二级市场|
- |488|[鱿物数藏](https://www.tianyancha.com/company/5446106684)|WX_GZH| |优酷APP| | |光笺链|场外转赠|
+ |488|[鱿物数藏](https://www.tianyancha.com/company/5446106684)|WX_GZH| |优酷APP| | |光笺链、鱿物链|场外转赠|
  |489|[数字藏品馆](https://www.tianyancha.com/company/9519792)| | |腾讯视频APP|[APP](https://m.film.qq.com/h5/nft/index.html?)| |至信链|
  |490|[星元数藏](https://www.tianyancha.com/company/5445898672)|WX_GZH| | |[APP](https://download.xingyuanwuhan.top/)|[H5](https://www.xingyuanwuhan.com/#/login.html?invite_code=400632)|BSN联盟链|二级市场|
  |491|[博物有道](https://www.tianyancha.com/company/4155687369)|WX_GZH|WX_XCX| | |[H5](https://h5.bowuyoudao.com/pages/nft/home/index?channel=80592761&isShare=1&inviteUserId=UA14236586038312966808&activityId=5000001)| |二级市场|
