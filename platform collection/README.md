@@ -1267,4 +1267,5 @@
  |1218|[禾言艺品](https://www.tianyancha.com/company/5084273061)|WX_GZH| | |APP|[H5](http://metawuyuan.com/)|
  |1219|[绘梦艺数](https://www.tianyancha.com/company/5541530946)|WX_GZH| | | |[H5](https://www.huimengnft.com/#/register?code=hqLUY0)|BSN联盟链|二级市场|
  |1220|[OPenC古今元宇宙](https://www.tianyancha.com/company/2965234831)|WX_GZH| | | |[H5](https://openc.huarongxunfang.com/)|XuperChain|场外转赠|
+ |1221|[宇跃数藏艺术](https://www.tianyancha.com/company/5469480652)|WX_GZH| | |[APP](http://download.zcyuanyu.com/download.html)|[H5](https://nft.zcyuanyu.com/h5/)|知金链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
