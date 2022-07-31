@@ -1273,4 +1273,5 @@
  |1224|[新华能阔](https://www.tianyancha.com/company/3456423808)|WX_GZH| | |APP|[H5](https://nft.hanweiip.com/h5/pages/index/index)|BSN文昌链|场外转赠|
  |1225|[维他益数](https://www.tianyancha.com/company/5571202528)|WX_GZH| | | |[H5](http://www.soulofcn.com/apph5/#/)| |场外转赠|
  |1226|[奇幻艺术](https://www.tianyancha.com/company/5500655165)|WX_GZH| | |[APP](https://master.hxdwlkj.top/download/index.html#/)| |BSN文昌链|场外转赠|
+ |1227|[麒幻艺术](https://www.tianyancha.com/company/5545397345)|WX_GZH| | |APP|[H5](https://qihuan.art/)|树图链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
