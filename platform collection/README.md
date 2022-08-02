@@ -1283,4 +1283,5 @@
  |1234|[传世数藏](https://www.tianyancha.com/company/5361917793)|WX_GZH| | | |[H5](http://chuanshinft.com/h5/login/index)|至信链|场外转赠|
  |1235|[MoArt数藏](https://www.tianyancha.com/company/5533623584)|WX_GZH| | | |[H5](https://app.moart.art/h5/)|天河链|二级市场|
  |1236|[万象数藏art](https://www.tianyancha.com/company/4599810585)|WX_GZH| | |[APP](https://www.wxsc.art/#/pages/other/download)|[H5](https://www.wxsc.art/#/pages/login/index)|BSN文昌链|场外转赠|
+ |1237|[鸿运数藏](https://www.tianyancha.com/company/3089796054)|WX_GZH| | | |[H5](http://szcp.changguannft.com/#/pages/login/index)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
