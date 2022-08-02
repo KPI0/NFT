@@ -1028,7 +1028,7 @@
  |979|[拼图艺术](https://www.tianyancha.com/company/3408889915)|WX_GZH| | | |[H5](https://pintu.guangyinkeji.com/h5#/pages/login/reg?invite=86VATO)|BSN文昌链|二级市场|
  |980|[天境数字空间](https://www.tianyancha.com/company/3302955229)|WX_GZH| | | |[H5](https://testh5.metamomo.xyz#/views/login/Register/Register?phone=1543926757069860864)|Polygon|二级市场|
  |981|[BNC宇宙](https://www.tianyancha.com/company/2351547565)|WX_GZH| | | |[H5](https://www.bncmeta.com/reg/oZOJOP70k)| |二级市场|
- |982|[弘基数藏](https://www.tianyancha.com/company/5326352577)|WX_GZH| | |[APP](http://www.yl-9.cn/=0zWj)|[H5](http://guolanhongji.cn/#/pages/login/login?uid=jsbt5B)|BSN联盟链|场外转赠|
+ |982|[弘基数藏](https://www.tianyancha.com/company/5326352577)|WX_GZH| | |[APP](http://www.yl-9.cn/=0zWj)|[H5](http://guolanhongji.cn/#/pages/login/login?uid=jsbt5B)|BSN联盟链|二级市场|
  |983|[锦鲤数字艺术](https://www.tianyancha.com/company/5012968624)|WX_GZH| | |[APP](https://h5.jlsc.art/#/pages/login/app)|[H5](https://h5.jlsc.art/#/pages/login/login?parentId=68746)|Polygon|场外转赠|
  |984|[骏网数藏](https://www.tianyancha.com/company/3468624919)|WX_GZH| | |[APP](https://junwangshucang.com/down.html)|[H5](https://junwangshucang.com/h5/#/pages/login/reg?invite=PJNC2F)|Polygon|场外转赠|
  |985|[星舰数藏](https://www.tianyancha.com/company/5298313787)|WX_GZH| | |[APP](https://www.starshiart.com/#/pages/login/appdownload/appdownload)|[H5](https://www.starshiart.com/#/pages/login/registration?uid=U2625767)|天河链|场外转赠|
