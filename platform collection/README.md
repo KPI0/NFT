@@ -1288,6 +1288,6 @@
  |1239|[ISPACE数藏](https://www.tianyancha.com/company/3435234036)|WX_GZH| | | |[H5](https://ispace.hnslwlkj.cn/h5/#/)|BSN文昌链|场外转赠|
  |1240|[泡泡数藏](https://www.tianyancha.com/company/5381476771)|WX_GZH| | |[APP](https://h5.poptown.club/#/download)| |Polygon|
  |1241|[楚藏](https://www.tianyancha.com/company/5568358325)|WX_GZH|
- |1242|[极灵数语](https://www.tianyancha.com/company/3430339798)|WX_GZH|
+ |1242|[极灵数语](https://www.tianyancha.com/company/3430339798)|WX_GZH| | | |[H5](http://cp.jlsyu.com/h5/#/pages/login/reg?invite=F29BMR)|Ethereum|场外转赠||
  |1243|[观宙艺术](https://www.tianyancha.com/company/5178772270)|WX_GZH| | |[APP](https://app.guanzhou.top/app_download.html)| | |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
