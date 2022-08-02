@@ -1220,7 +1220,7 @@
  |1171|[iu数藏](https://www.tianyancha.com/company/5594841767)|WX_GZH| | |[APP](https://www.iuuniverse.com/#/pages/login/register)|[H5](https://www.iuuniverse.com/#/pages/index/index)|BSN联盟链|场外转赠|
  |1172|[艺陶平行宇宙](https://www.tianyancha.com/company/3297008318)|WX_GZH| | |[APP](https://sc.ytpxyz.com/)|[H5](https://api.ytpxyz.com/h5#/pages/login/reg?invite=LCSCBI)|XuperChain|场外转赠|
  |1173|[飞灵数藏](https://www.tianyancha.com/company/3112635049)|WX_GZH| | | |[H5](http://m.feilingnft.com/home)|树图链|场外转赠|
- |1174|[晴艺文创空间](https://www.tianyancha.com/company/5419810561)|WX_GZH| | | |[H5](https://nft.qyspace.art/h5/#/pages/index/index)|BSN文昌链|二级市场|
+ |1174|[晴艺文创](https://www.tianyancha.com/company/5419810561)|WX_GZH| | | |[H5](https://nft.qyspace.art/h5/#/pages/index/index)|BSN文昌链|二级市场|
  |1175|[Fine臻藏](https://www.tianyancha.com/company/5050177479)|WX_GZH| | |APP|[H5](https://nft.yunzhenyan.com/#/)|BSN联盟链|二级市场|
  |1176|[艾珠元创艺术](https://www.tianyancha.com/company/3329105251)|WX_GZH| | |APP|[H5](https://acometa.cn/#/)|XuperChain|场外转赠|
  |1177|[零镜空间](https://www.tianyancha.com/company/5590090864)|WX_GZH|
