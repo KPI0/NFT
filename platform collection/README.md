@@ -1291,4 +1291,5 @@
  |1242|[极灵数语](https://www.tianyancha.com/company/3430339798)|WX_GZH| | | |[H5](http://cp.jlsyu.com/h5/#/pages/login/reg?invite=F29BMR)|Ethereum|场外转赠||
  |1243|[观宙艺术](https://www.tianyancha.com/company/5178772270)|WX_GZH| | |[APP](https://app.guanzhou.top/app_download.html)| | |场外转赠|
  |1244|[海沃斯元宇宙](https://www.tianyancha.com/company/5474057192)|WX_GZH| | | |[H5](https://www.hivers.cn/)|海创链|场外转赠|
+ |1245|[Avatar数字艺术](https://www.tianyancha.com/company/5591707174)|WX_GZH| | | |[H5](http://avatarys.art/#/pages/reg/reg?ref_code=048410)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
