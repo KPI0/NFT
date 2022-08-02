@@ -1280,4 +1280,5 @@
  |1231|[趣探元宇宙](https://www.tianyancha.com/company/5239102065)|WX_GZH| | |[APP](https://h5.qutan.club/#/pages/register/register?c=)| |至信链|场外转赠|
  |1232|[后浪数藏](https://www.tianyancha.com/company/5398713369)|WX_GZH| | | |[H5](https://mall.yuanbaometa.com/)|复华链|场外转赠|
  |1233|[蜜罐圈数藏](https://www.tianyancha.com/company/3364364657)|WX_GZH| | | |[H5](https://h5.mihuanquan.cn/)|BSN文昌链|场外转赠|
+ |1234|[传世数藏](https://www.tianyancha.com/company/5361917793)|WX_GZH| | | |[H5](http://chuanshinft.com/h5/login/index)|至信链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
