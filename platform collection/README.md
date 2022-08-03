@@ -1303,4 +1303,5 @@
  |1254|[数著](https://www.tianyancha.com/company/5525568544)|WX_GZH| | | |[H5](https://shop.shuzhu.cc/#/)|BSN文昌链|场外转赠|
  |1255|[钛狗](https://www.tianyancha.com/company/5545197386)|WX_GZH| | | |[H5](http://kamalun.cn/#/pages/reg/reg?ref_code=090850)|BSN联盟链|场外转赠|
  |1256|[伊甸元藏品](https://www.tianyancha.com/company/5065533422)|WX_GZH| | | |[H5]()|
+ |1257|[柚盒潮流艺术](https://www.tianyancha.com/company/5557723055)|WX_GZH| | | |[H5](http://wap.zuoyouyc.com/wap/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
