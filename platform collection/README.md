@@ -1294,4 +1294,5 @@
  |1245|[Avatar数字艺术](https://www.tianyancha.com/company/5591707174)|WX_GZH| | | |[H5](http://avatarys.art/#/pages/reg/reg?ref_code=048410)|BSN联盟链|场外转赠|
  |1246|[巨鲸艺术](https://www.tianyancha.com/company/5425027494)|WX_GZH| | | |[H5](http://www.jujing.art/pages/homePage/index)| |场外转赠|
  |1247|[羚羊艺术](https://www.tianyancha.com/company/5555508582)|WX_GZH| | |APP|[H5](http://www.huanlian.art/apph5/#/)|BSN联盟链|场外转赠|
+ |1248|[柒壹数藏](https://www.tianyancha.com/company/5419122021)|WX_GZH| | | |[H5](http://h5.to71.com/#/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
