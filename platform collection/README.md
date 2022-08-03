@@ -1296,7 +1296,7 @@
  |1247|[羚羊艺术](https://www.tianyancha.com/company/5555508582)|WX_GZH| | |APP|[H5](http://www.huanlian.art/apph5/#/)|BSN联盟链|场外转赠|
  |1248|[柒壹数藏](https://www.tianyancha.com/company/5419122021)|WX_GZH| | | |[H5](http://h5.to71.com/#/)|BSN联盟链|场外转赠|
  |1249|[元化数字文创](https://www.tianyancha.com/company/3348137144)|WX_GZH| | | | |BSN联盟链|
- |1250|[元话数藏](https://www.tianyancha.com/company/5556757632)|WX_GZH| | | | |基纳链|
+ |1250|[元话数藏](https://www.tianyancha.com/company/5556757632)|WX_GZH| | | |[H5](https://www.metakina.com/#/)|基纳链|二级市场|
  |1251|[宫匠数艺](https://www.tianyancha.com/company/5491587956)|WX_GZH| | | |[H5](https://h5.gongjiangnft.com/)|BSN武汉链|二级市场|
  |1252|[森岛MAET](https://www.tianyancha.com/company/5522813091)|WX_GZH| | |APP|[H5](http://app.sendaomaet.com/wap/)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
