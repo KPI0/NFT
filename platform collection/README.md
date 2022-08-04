@@ -1312,4 +1312,5 @@
  |1263|[凯茜数字艺术](https://www.tianyancha.com/company/5526152254)|WX_GZH| | |APP|[H5](https://hartree.cn/h5/#/)|XuperChain|二级市场|
  |1264|[Hotb热吧](https://www.tianyancha.com/company/5598608796)|WX_GZH| | |[APP](https://m.hotb.cn/download)|[H5](https://m.hotb.cn/)| |交易市场|
  |1265|[观艺数藏](https://www.tianyancha.com/company/5590686244)|WX_GZH|
+ |1266|[新数藏](https://www.tianyancha.com/company/5453713148)|WX_GZH| | | |[H5](http://m.nftxsc.com/#/)|Polygon|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
