@@ -1310,4 +1310,6 @@
  |1261|[一幕宇宙](https://www.tianyancha.com/company/2323724760)|WX_GZH| | | |[H5](https://mall.inmvo.com/#/)|一幕影链|场外转赠|
  |1262|[博观数藏](https://www.tianyancha.com/company/2353240764)|WX_GZH| | | |[H5](https://h5.boguan.live/#/)|BSN联盟链|场外转赠|
  |1263|[凯茜数字艺术](https://www.tianyancha.com/company/5526152254)|WX_GZH| | |APP|[H5](https://hartree.cn/h5/#/)|XuperChain|二级市场|
+ |1264|[Hotb热吧](https://www.tianyancha.com/company/5598608796)|WX_GZH| | |[APP](https://m.hotb.cn/download)|[H5](https://m.hotb.cn/)| |交易市场|
+ |1265|[观艺数藏](https://www.tianyancha.com/company/5590686244)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
