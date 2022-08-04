@@ -56,3 +56,4 @@
  |53|甘文交链|[https://slsc-scan.gscaee.com](https://slsc-scan.gscaee.com/#/home)|
  |54|基纳链|[https://www.kinachain.cn](https://scan.metakina.com/)|
  |55|一幕影链|[https://nft.inmvo.com](https://nft.inmvo.com/auth/Login)|
+ |56|草田链|[https://ctsign.cn](http://www.ctblock.cn/)|
