@@ -1318,4 +1318,5 @@
  |1269|[锦绣数创](https://www.tianyancha.com/company/5550690043)|WX_GZH| | |APP|[H5](https://jinxiusy.art/h5/#/)|蚂蚁链|二级市场|
  |1270|[殿藏数藏](https://www.tianyancha.com/company/5559796098)|WX_GZH| | |APP|[H5](https://web.dcnft.net/)|殿藏链|场外转赠|
  |1271|[华旗艺创](https://www.tianyancha.com/company/5088161792)|WX_GZH| | | |[H5](https://www.huaqinft.com/h5#/register?code=hiuENW)|BSN联盟链|二级市场|
+ |1272|[比诺数字](https://www.tianyancha.com/company/5555449598)|WX_GZH| | |[APP](http://rf.cdrongfan.com/urfb)|[H5](https://www.cdrongfan.com/#)||场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
