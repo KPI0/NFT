@@ -1323,4 +1323,5 @@
  |1274|[神域数漫](https://www.tianyancha.com/company/3135597635)|WX_GZH| | | |[H5](http://www.godsc.cn/h5)| |二级市场|
  |1275|[神域数字艺术](https://www.tianyancha.com/company/5542558589)|WX_GZH| | |[APP](https://sc.shenyushucang.art/share/#/)|[H5](https://sc.shenyushucang.art/h5/#/)|XuperChain|二级市场|
  |1276|[神都数藏](https://www.tianyancha.com/company/5573246006)|WX_GZH| | | |[H5](http://www.sdsc.duociyuan.net/h5/#/)| |场外转赠|
+ |1277|[盈轩文创](https://www.tianyancha.com/company/5544236410)|WX_GZH| | |APP|[H5](http://yxwcys.cfyxsc.cn/#/pages/index/index)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
