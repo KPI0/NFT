@@ -58,3 +58,4 @@
  |55|一幕影链|[https://nft.inmvo.com](https://nft.inmvo.com/auth/Login)|
  |56|草田链|[https://ctsign.cn](http://www.ctblock.cn/)|
  |57|殿藏链|[https://scan.dcnft.net](https://scan.dcnft.net)|
+ |58|启元链|[https://qy.chainscan.com.cn](https://qy.chainscan.com.cn/)|
