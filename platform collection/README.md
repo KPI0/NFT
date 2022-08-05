@@ -1325,4 +1325,5 @@
  |1277|[盈轩文创](https://www.tianyancha.com/company/5544236410)|WX_GZH| | |APP|[H5](http://yxwcys.cfyxsc.cn/#/pages/index/index)|BSN联盟链|场外转赠|
  |1278|[隐藏数艺](https://www.tianyancha.com/company/4544978558)|WX_GZH| | | |[H5](https://h5.cqyishikj.cn/#/)|BSN联盟链|场外转赠|
  |1279|[洛克藏品](https://www.tianyancha.com/company/4064409332)|WX_GZH| | |APP|[H5](https://www.rocknft.top/)|海峡链|二级市场|
+ |1280|[永恒链藏](https://www.tianyancha.com/company/3054579744)|WX_GZH| | |[APP](https://app.cnssdb.com/yh/)| |XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
