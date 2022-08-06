@@ -1331,4 +1331,5 @@
  |1283|[元藏](https://www.tianyancha.com/company/5283702817)|WX_GZH| | |APP|[H5](http://metacang.cn/#/)|BSN联盟链|二级市场|
  |1284|[星原数艺](https://www.tianyancha.com/company/2314925283)|WX_GZH| | | |[H5](https://meta.stargend.com/index.aspx)|至信链|场外转赠|
  |1285|[网易新闻数字藏品馆](https://www.tianyancha.com/company/24122279)|WX_GZH|||[APP](https://www.163.com/newsapp)|[H5](https://dc.m.163.com/)|易闻链|场外转赠|
+ |1286|[图灵艺术](https://www.tianyancha.com/company/2549509579)|WX_GZH| | | |[H5](https://nft-h5.tlinkart.com/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
