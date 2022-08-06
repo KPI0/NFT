@@ -1328,4 +1328,5 @@
  |1280|[永恒链藏](https://www.tianyancha.com/company/3054579744)|WX_GZH| | |[APP](https://app.cnssdb.com/yh/)| |XuperChain|场外转赠|
  |1281|[恒度](https://www.tianyancha.com/company/3198888906)|WX_GZH| | |APP|[H5](https://app.hengdu.art)| |二级市场|
  |1282|[开元世界](https://www.tianyancha.com/company/3113965963)|WX_GZH| | |[APP](http://down.kywnft.com/sa4u)|[H5](http://h5.kywnft.com/#/)|BSN文昌链|场外转赠|
+ |1283|[元藏](https://www.tianyancha.com/company/5283702817)|WX_GZH| | |APP|[H5](http://metacang.cn/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
