@@ -3,7 +3,7 @@
  |序号|平台名称|微信公众号|微信小程序|其他|客户端|网页端|上链信息|交易机制|
  |----|--------|---------|----------|----|------|------|-------|--------|
  |1|Chiko&Roko| |  |OpenSea| |[H5](https://expo.chikoroko.art/referral/b9kwdry8wm)|Polygon|二级市场|
- |2|[鲸探](https://www.tianyancha.com/company/5012529950)|WX_GZH||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?fansurl=antfans%3A%2F%2Fpage%2Fhome&chInfo=mini&)||蚂蚁链|场外转赠|
+ |2|[鲸探](https://www.tianyancha.com/company/5012529950)|WX_GZH||[ZFB_XCX](https://ur.alipay.com/2PSRO9)|[APP](https://m.antfans.com/download.html?)||蚂蚁链|场外转赠|
  |3|[芒果数字藏品](https://www.tianyancha.com/company/624488850)|WX_GZH||芒果TV APP|[APP](https://app.mgtv.com/h/n/?isHideNavBar=1&isFullScreen=1&source_channel=outsideQR)| |光芒链|场外转赠|
  |4|[淘票票](https://www.tianyancha.com/company/2358878914)| | |鲸探|[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|[H5](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|蚂蚁链|场外转赠|
  |4|[灵境文化](https://www.tianyancha.com/company/5278761401)|WX_GZH| |鲸探|[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|[H5](https://t.taopiaopiao.com/yep/page/m/5w3p1kt4yt?)|蚂蚁链|场外转赠|
@@ -325,9 +325,9 @@
  |296|[山海数藏](https://www.tianyancha.com/company/5230011106)|WX_GZH| | | |[H5](http://www.nmuss.com/mobile/index/index/pid/4130.html)|Polygon|二级市场|
  |297|[小度寻宇](https://www.tianyancha.com/company/3485130445)|WX_GZH| |小度APP|APP|[H5](https://xiaodu.baidu.com/saiya/superapp/commodity.html?uid=1653051638014_630&traceid=#/collection?)|XuperChain|场外转赠|
  |298|[多维数藏](https://www.tianyancha.com/company/2339364910)|WX_GZH| | | |[H5](https://h5.manynft.cn/login?invitation_code=0O4A)|XuperChain|场外转赠|
- |299|[幻彩数藏](https://www.tianyancha.com/company/3471836175)|WX_GZH| | |[APP](https://appgallery.huawei.com/app/C106159357)|[H5](https://mobile.colorblock.cn/login?invite_code=FM20wq)|Ethereum|场外转赠|
+ |299|[幻彩数藏](https://www.tianyancha.com/company/3471836175)|WX_GZH| | |[APP](https://appupdate.colorblock.cn/pkgs/1)|[H5](https://mobile.colorblock.cn)|Ethereum|场外转赠|
  |300|[头号藏品](https://www.tianyancha.com/company/5194245924)|WX_GZH| | |[APP](https://www.touhaoclub.com/)| ||场外转赠|
- |301|[观澜数字艺术品平台](https://www.tianyancha.com/company/5243014040)|WX_GZH| | | |[H5](https://h5.guanlanart.com/index.html#/pages/login/login?referee=143824)|BSN联盟链|二级市场|
+ |301|[观澜数字艺术品平台](https://www.tianyancha.com/company/5243014040)|WX_GZH| | | |[H5](https://h5.guanlanart.com/)|BSN联盟链|二级市场|
  |302|[像素蜜蜂](https://www.tianyancha.com/company/3191670342)|WX_GZH| | |[APP](https://www.pixbe.com/zh/share-inviting?code=p63174236)| |9BaaS|场外转赠|
  |303|[淘宇宙数藏](https://www.tianyancha.com/company/5397120525)|WX_GZH| | |[APP](http://download.taoyuzhou.net/#/pages/home/download/index?inviteCode=6bphu0tc&inviteType=1)|[H5](https://download.taoyuzhou.net/#/)|树图链|场外转赠|
  |304|[zCloud云宇宙](https://www.tianyancha.com/company/5415187990)|WX_GZH| | | |[H5](https://m.yqszkjz.cn/mobile/?invite_code=U3XET7)|树图链|场外转赠|
