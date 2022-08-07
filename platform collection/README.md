@@ -1339,4 +1339,5 @@
  |1291|[艺趣数藏](https://www.tianyancha.com/company/5573513285)|WX_GZH| | | |[H5](http://echeer.art/)|BSN文昌链|二级市场|
  |1292|[壹飞藏品](https://www.tianyancha.com/company/5528877103)|WX_GZH| | | |[H5](https://web.lvxxing.cn/)|壹飞链|场外转赠|
  |1293|[X Egg数藏](https://www.tianyancha.com/company/3339297890)|WX_GZH| | |[APP](https://www.pangtuzi.cn/apks/download.html)|[H5](https://www.pangtuzi.cn)|BSN文昌链|场外转赠|
+ |1294|[奇驴星球](https://www.tianyancha.com/company/5576630423)|WX_GZH| | | |[H5](https://xiqi.app.magiclv.com/)|VastChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
