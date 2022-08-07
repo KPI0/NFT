@@ -33,7 +33,7 @@
  |25|[稀物](https://www.tianyancha.com/company/4037864239)|WX_GZH| | |[APP](https://crypts.cn/appDownload/index.html)|[H5](https://crypts.cn/)|亿条链|二级市场|
  |26|[一岛OneDao](https://www.tianyancha.com/company/3480184466)|WX_GZH| | |[APP](https://h5.onedao.com.cn/register.html?inviter=e3tfv2wq2f5a)| |XuperChain|二级市场|
  |27|[丸卡](https://www.tianyancha.com/company/4797824070)|WX_GZH| | |[APP](https://www.onecards.net/mobile/index.html)|[H5](https://h5.castcards.com/pagesProduct/invite?invitationId=99&channelId=99&shareInviteId=0GG5hhk-5yJSe_izwoJvNg&share=1&isShare=1)|XuperChain|二级市场|
- |28|[一花YIHUA](https://www.tianyancha.com/company/2350663115)|WX_GZH|  |  |[APP](http://yihua-api.taoqikid.com)| |蚂蚁链|场外转赠|
+ |28|[一花YIHUA](https://www.tianyancha.com/company/2350663115)|WX_GZH|||[APP](https://shop-beta.taoqikid.com/active/page/#/download)||蚂蚁链|二级市场|
  |29|[故纸堆](https://www.tianyancha.com/company/3392533958)|WX_GZH| | |[APP](https://www.gzdapp.com/#/signUp?icode=3030232)| |文创链|二级市场|
  |30|[Honnverse虹宇宙](https://www.tianyancha.com/company/3453249615)|WX_GZH|WX_XCX| |[APP](https://honnverse.stars-mine.com/static/download.html)|[H5](https://apps.honnverse.cn/apps/shopping-h5/index.html#/homePage)|Hashii|场外转赠|
  |31|[Hotlove](https://www.tianyancha.com/company/2315093424)|WX_GZH| | |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)| |蚂蚁链|二级市场|
