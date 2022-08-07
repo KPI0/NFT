@@ -1333,4 +1333,5 @@
  |1285|[网易新闻数字藏品馆](https://www.tianyancha.com/company/24122279)|WX_GZH|||[APP](https://www.163.com/newsapp)|[H5](https://dc.m.163.com/)|易闻链|场外转赠|
  |1286|[图灵艺术](https://www.tianyancha.com/company/2549509579)|WX_GZH| | | |[H5](https://nft-h5.tlinkart.com/)|BSN联盟链|二级市场|
  |1287|[Mars Meta](https://www.tianyancha.com/company/3408538270)|WX_GZH| | |APP|[H5](https://www.mars-meta.com/h5/)|海峡链|场外转赠|
+ |1288|[Free艺术](https://www.tianyancha.com/company/5581612563)|WX_GZH|||[APP](https://www.freeart.cc/download/index.html)|[H5](https://www.freeart.cc)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
