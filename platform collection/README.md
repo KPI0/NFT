@@ -1336,4 +1336,5 @@
  |1288|[Free艺术](https://www.tianyancha.com/company/5581612563)|WX_GZH|||[APP](https://www.freeart.cc/download/index.html)|[H5](https://www.freeart.cc)||二级市场|
  |1289|ABC数藏|WX_GZH| | | |[H5](https://abcsc.art/h5)| |场外转赠|
  |1290|[Doer数藏](https://www.tianyancha.com/company/5540863476)|WX_GZH| | | |[H5](http://www.gxbohou.com/)|BSN文昌链|二级市场|
+ |1291|[艺趣数藏](https://www.tianyancha.com/company/5573513285)|WX_GZH| | | |[H5](http://echeer.art/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
