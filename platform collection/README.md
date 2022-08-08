@@ -1007,7 +1007,7 @@
  |959|[斐藏](https://www.tianyancha.com/company/5369288375)|WX_GZH| | |[APP](https://fay.museum-verse.com/home/invite/success.html#)| |数字文博链|
  |960|[唯U文创](https://www.tianyancha.com/company/5540711843)|WX_GZH| | |APP|[H5](http://www.weiuwenchuang.com/#/pages/login/register?code=168483753)|Polygon|二级市场|
  |961|[元艺元创](https://www.tianyancha.com/company/5501213492)|WX_GZH| | | |[H5](https://www.yyycnft.com/h5/index.html#/?qid=47686)|BSN联盟链|二级市场|
- |962|[海派元数](https://www.tianyancha.com/company/4377509751)|WX_GZH| | |APP|[H5](https://xiyi.xunshun.net/sc/index.html#/)|BSN联盟链|
+ |962|[海派元数](https://www.tianyancha.com/company/4377509751)|WX_GZH| | |APP|[H5](https://xiyi.xunshun.net/sc/index.html#/)|BSN联盟链|场外转赠|
  |963|[丝路数藏](https://www.tianyancha.com/company/5459380166)|WX_GZH| | |[APP](https://www.siluluntan.com/vip/user/regist?sharecode=SL513601875)||BSN文昌链|二级市场|
  |964|[艺链数藏](https://www.tianyancha.com/company/5460024842)|WX_GZH| | |[APP](https://h5.0110.co/yl/)|[H5](https://rsartlink.com/#/pages/login/register/register?invitationCode=0FRSPS)|XuperChain|二级市场|
  |965|[嘻得数字文创](https://www.tianyancha.com/company/1683067836)|WX_GZH| | | |[H5](https://www.xideshucang.com/#/register?shareCode=f1eca0b4084242bba5d98fcc6ffdb6d4&activityCode=bf6a0561f29f4261b16091e8aff10c35)|树图链|场外转赠|
