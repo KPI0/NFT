@@ -1352,5 +1352,5 @@
  |1304|[起飞艺术](https://www.tianyancha.com/company/5609912908)|WX_GZH| | | |[H5](http://art.qifeiyishu.cn/)| |场外转赠|
  |1305|[中元Art](https://www.tianyancha.com/company/5564295188)|WX_GZH| | | |[H5](https://u.bainuopv.com/#/)| |场外转赠|
  |1306|[百家数艺](https://www.tianyancha.com/company/3447990115)|WX_GZH| | | |[H5](https://baijia.bjsy.art/wap/)|BSN文昌链|场外转赠|
- |1307|[NewField](https://www.tianyancha.com/company/5579629333)|WX_GZH| | | |[H5](http://yaochang.art/#/)|BSN联盟链|二级市场|
+ |1307|[NewField艺术](https://www.tianyancha.com/company/5579629333)|WX_GZH| | | |[H5](http://yaochang.art/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
