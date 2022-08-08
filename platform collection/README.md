@@ -1354,4 +1354,5 @@
  |1306|[百家数艺](https://www.tianyancha.com/company/3447990115)|WX_GZH| | | |[H5](https://baijia.bjsy.art/wap/)|BSN文昌链|场外转赠|
  |1307|[NewField艺术](https://www.tianyancha.com/company/5579629333)|WX_GZH| | | |[H5](http://yaochang.art/#/)|BSN联盟链|二级市场|
  |1308|[星征](https://www.tianyancha.com/company/3337353251)|WX_GZH| | |[APP](https://app.dcright.cn/_2/?t=1/#/pages/index/index?inviter=0&p=7)|[H5](http://xz.ayalm.com/#/)|数字版权链|场外转赠|
+ |1309|[奇点艺术](https://www.tianyancha.com/company/5540554654)|WX_GZH| | | |[H5](https://qdys.art/)|树图链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
