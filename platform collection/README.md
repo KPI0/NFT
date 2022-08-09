@@ -1359,4 +1359,5 @@
  |1311|[玖数拍卖](https://www.tianyancha.com/company/3486795746)|WX_GZH| | |[APP](http://dl.9fishnft.com/#/download)|[H5](https://h5.9fishnft.com/#/)|NSC|二级市场|
  |1312|[矢量磁场](https://www.tianyancha.com/company/5446104372)|WX_GZH| | |[APP](https://app.cichang.art/down.html)| |星火链|场外转赠|
  |1313|[中传新文创](https://www.tianyancha.com/company/22278593)|WX_GZH| | |[APP](https://art.ccmgip.com/download)|[H5](https://art.ccmgip.com/)|中传新文创链|场外转赠|
+ |1314|[绿地G优](https://www.tianyancha.com/company/22271684)|WX_GZH| | |[APP](https://app.gkewang.com/app)| | |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
