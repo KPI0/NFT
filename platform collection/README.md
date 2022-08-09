@@ -1356,4 +1356,5 @@
  |1308|[星征](https://www.tianyancha.com/company/3337353251)|WX_GZH| | |[APP](https://app.dcright.cn/_2/?t=1/#/pages/index/index?inviter=0&p=7)|[H5](http://xz.ayalm.com/#/)|数字版权链|场外转赠|
  |1309|[奇点艺术](https://www.tianyancha.com/company/5540554654)|WX_GZH| | | |[H5](https://qdys.art/)|树图链|场外转赠|
  |1310|[光环meta](https://www.tianyancha.com/company/1582603336)|WX_GZH| | | |[H5](https://app.chashanji.com/index/#/)||二级市场|
+ |1311|[玖数拍卖](https://www.tianyancha.com/company/3486795746)|WX_GZH| | |[APP](http://dl.9fishnft.com/#/download)|[H5](https://h5.9fishnft.com/#/)|NSC|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
