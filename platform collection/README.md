@@ -67,7 +67,7 @@
  |57|[沃野wow yeah](https://www.tianyancha.com/company/3214529696)|WX_GZH||||[H5](https://www.digitalcollector.cn/home?userId=6912066268934161896)|自研链|二级市场|
  |58|[CN数字藏品](https://www.tianyancha.com/company/3463601729)|WX_GZH|WX_XCX| | |[H5](https://cn-h5.jilianwang.club/pages/home/index)| |场外转赠|
  |59|[BiBi元宇宙](https://www.tianyancha.com/company/2324148753)|WX_GZH|WX_XCX| |[APP](https://www.bibinft.com/nft/down)|[H5](https://www.bibinft.com/account/login?aff=JTc)|Ethereum|二级市场|
- |60|OpenSea| | | |[APP](https://play.google.com/store/apps/details?id=io.opensea&hl=zh&gl=US)|[H5](https://opensea.io/)|   |交易市场|
+ |60|[OpenSea](https://baike.baidu.com/item/Opensea/58621459)| | | |[APP](https://play.google.com/store/apps/details?id=io.opensea&hl=zh&gl=US)|[H5](https://opensea.io/)|   |交易市场|
  |61|[AmallART阿特猫](https://www.tianyancha.com/company/5170842136)|WX_GZH|  |  |  |[H5](https://amall.vip/land?code=5425261466357761046)|Polygon|二级市场|
  |62|[Art Meta元艺数](https://www.tianyancha.com/company/5241966703)|WX_GZH| | | |[H5](https://artmeta.cn/)|Polygon|二级市场|
  |63|[Avapunk数字藏品](https://www.tianyancha.com/company/5161314421)|WX_GZH| | |[APP](https://m.avapunk.com/static/download.html)|[H5](https://www.avapunk.com/invited?extensionId=U247385)|金链盟|场外转赠|
