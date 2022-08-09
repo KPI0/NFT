@@ -970,7 +970,7 @@
  |922|[壹牛数藏](https://www.tianyancha.com/company/4326727624)|WX_GZH| | |APP|[H5](http://sc.yiniuzhuzang.com/h5/#/pages/login/reg?invite=6MH1H9)|天河链|二级市场|
  |923|[家在鼓楼](https://www.tianyancha.com/company/4450370618)|WX_GZH|WX_XCX| | | |兴业数金链|
  |924|[优艺数](https://www.tianyancha.com/company/5376677382)|WX_GZH| | |APP|H5| |停止运营|
- |925|[中传新文创](https://www.tianyancha.com/company/31096540)|WX_GZH| | | |[H5](https://art.ccmgip.com/login?invite_code=8f62lj1wel85uzqd)|新文创链|
+ |925|[版权天下](https://www.tianyancha.com/company/3457620680)|WX_GZH| | | |[H5](https://bq.pattin.top/)|BSC|场外转赠|
  |926|[梦鱼数字](https://www.tianyancha.com/company/5391371096)|WX_GZH| | |APP|[H5](https://art.sanzai-meta.com/#/register?code=tuCDRV)|BSN联盟链|二级市场|
  |927|[梅塔](https://www.tianyancha.com/company/53582216)|WX_GZH|WX_XCX| | | | |场外转赠|
  |928|[GGAC银河画廊](https://www.tianyancha.com/company/2319173493)|WX_GZH|WX_XCX| |[APP](https://www.ggac.com/v2/apps/download)|[H5](https://www.ggac.com/v2/home)||场外转赠|
