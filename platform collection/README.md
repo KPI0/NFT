@@ -64,7 +64,7 @@
  |55|[云藏科技](https://www.tianyancha.com/company/5345176446)|WX_GZH|   |    |[APP](http://www.ycmeta.art/#/download)|[H5](http://www.ycmeta.art/#/register?code=dpwGZ2)|BSN联盟链|二级市场|
  |56|[灵境藏品](https://www.tianyancha.com/company/5329792525)|WX_GZH| | |[APP](https://lingjing-download.zhigui.com/)|[H5](https://www.lingjing3.cn/#/pages/index/index?v=625&inviteCode=DxcqqZHB8LPccgVGmhz47E)|星火链|场外转赠|
  |57|[数字藏家](https://www.tianyancha.com/company/3214529696)|WX_GZH||||[H5](https://www.digitalcollector.cn/home?userId=6912066268934161896)|自研链|二级市场|
- |57|[沃野wow yeah](https://www.tianyancha.com/company/3214529696)|WX_GZH||||[H5](https://www.digitalcollector.cn/home?userId=6912066268934161896)|自研链|二级市场|
+ |57|[沃野wow yeah](https://www.tianyancha.com/company/3214529696)|WX_GZH| | |[APP](https://official.wowyeah.fun)|[H5](https://store.wowyeah.fun)|数藏链|二级市场|
  |58|[CN数字藏品](https://www.tianyancha.com/company/3463601729)|WX_GZH|WX_XCX| | |[H5](https://cn-h5.jilianwang.club/pages/home/index)| |场外转赠|
  |59|[BiBi元宇宙](https://www.tianyancha.com/company/2324148753)|WX_GZH|WX_XCX| |[APP](https://www.bibinft.com/nft/down)|[H5](https://www.bibinft.com/account/login?aff=JTc)|Ethereum|二级市场|
  |60|[OpenSea](https://zh.wikipedia.org/zh-cn/OpenSea)| | | |[APP](https://play.google.com/store/apps/details?id=io.opensea)|[H5](https://opensea.io)||交易市场|
