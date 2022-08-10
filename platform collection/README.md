@@ -1366,4 +1366,5 @@
  |1318|[浔画艺术](https://www.tianyancha.com/company/4064409332)|WX_GZH|||[APP](https://xz.xunmeta.cn/appdownload/index.html)|[H5](https://xunmeta.cn)|海峡链|二级市场|
  |1319|[ONECAT超喵](https://www.tianyancha.com/company/5501947014)|WX_GZH| | | |[H5](https://onecat.cn/)|Polygon|二级市场|
  |1320|[奇艺岛Meta](https://www.tianyancha.com/company/3447542543)|WX_GZH| | | |[H5](https://meta.qydao.net/app/)|花瓣链|场外转赠|
+ |1321|[天异艺术](https://www.tianyancha.com/company/5519167981)|WX_GZH| | | |[H5](http://www.tianyishucang.com/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
