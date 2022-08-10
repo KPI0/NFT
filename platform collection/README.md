@@ -1012,7 +1012,7 @@
  |964|[艺链数藏](https://www.tianyancha.com/company/5460024842)|WX_GZH| | |[APP](https://h5.0110.co/yl/)|[H5](https://rsartlink.com/#/pages/login/register/register?invitationCode=0FRSPS)|XuperChain|二级市场|
  |965|[嘻得数字文创](https://www.tianyancha.com/company/1683067836)|WX_GZH| | | |[H5](https://www.xideshucang.com/#/register?shareCode=f1eca0b4084242bba5d98fcc6ffdb6d4&activityCode=bf6a0561f29f4261b16091e8aff10c35)|树图链|场外转赠|
  |966|[鲸元](https://www.tianyancha.com/company/3452960398)|WX_GZH| | |APP|[H5](https://biz.91erong.com/index.html#/pages/user/login?redirect=index&inviteUId=24460)||场外转赠|
- |967|[数艺空间](https://www.tianyancha.com/company/4367765995)|WX_GZH| | | |[H5](https://nft.eartcn.cn/h5/pages/login/register?invite_code=c4sYwNZw)|BSN联盟链|场外转赠|
+ |967|[数艺空间](https://www.tianyancha.com/company/4367765995)|WX_GZH| | | |[H5](https://nft.eartcn.cn/h5/)|BSN联盟链|二级市场|
  |968|[八度空间艺术馆](https://www.tianyancha.com/company/5393593640)|WX_GZH| | |[APP](https://bdkjys.com/download/)|[H5](https://bdkjys.com#/pages/login/register?uuid=M3BKAB)|BSN联盟链|场外转赠|
  |969|[须弥数藏](https://www.tianyancha.com/company/5509198242)|WX_GZH| | | |[H5](https://www.xuminft.com/#/register.html?invite_code=269584)||场外转赠|
  |970|[数字爱藏](https://www.tianyancha.com/company/5539890189)|WX_GZH| | |[APP](http://116.62.120.216/?uuid=596075000633667585)| |版权链、司法联盟链|场外转赠|
