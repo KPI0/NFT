@@ -1239,7 +1239,7 @@
  |1191|[版链元](https://www.tianyancha.com/company/5144283889)|WX_GZH|WX_XCX| | |[H5](https://drm.shenghaoduo.cn/h5/)|新版链|场外转赠|
  |1192|[屯乾数藏](https://www.tianyancha.com/company/5487604986)|WX_GZH| | |APP|[H5](https://www.tunqiannft.com/#/)|BSN文昌链|场外转赠|
  |1193|[海丝数艺](https://www.tianyancha.com/company/3285261668)|WX_GZH| | | |[H5](https://hssy.art/wap/)|BSN联盟链|二级市场|
- |1194|[偶像工厂](https://www.tianyancha.com/company/5564131492)|WX_GZH| | | |[H5](https://web.starworks.top/#/pages/login/home)|
+ |1194|[偶像工厂](https://www.tianyancha.com/company/5564131492)|WX_GZH| | | |[H5](https://web.starworks.top/#/pages/login/home)|XuperChain|场外转赠|
  |1195|[开元数创](https://www.tianyancha.com/company/3462898734)|WX_GZH| | |APP|[H5](http://www.datangkaiyuannft.com/#/)|至信链、BSN联盟链|场外转赠|
  |1196|[红石艺术](https://www.tianyancha.com/company/4066485886)|WX_GZH| | |[APP](https://www.redstoneart.cn/)| |BSN联盟链|场外转赠|
  |1197|[闪萌牛牛](https://www.tianyancha.com/company/2391276884)|WX_GZH| | |[APP](https://meta.weshineapp.com/)| |树图链|二级市场|
