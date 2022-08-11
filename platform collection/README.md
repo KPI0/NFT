@@ -1375,4 +1375,5 @@
  |1327|[寻晶数藏](https://www.tianyancha.com/company/5592347487)|WX_GZH| | |APP|[H5](http://xunjing.xun-jing.net/#/)|BSN文昌链|场外转赠|
  |1328|[文瀚数藏](https://www.tianyancha.com/company/3344470846)|WX_GZH| | |[APP](https://www.wenhan8.com/agreement/download.html)|[H5](https://art.wenhan8.com)|XuperChain|二级市场|
  |1329|[艺哆数藏](https://www.tianyancha.com/company/5513618370)|WX_GZH| | | |[H5](https://sc.yiduoart.cn/#/)|长安链|二级市场|
+ |1330|[Galaxy数潮](https://www.tianyancha.com/company/5594137747)|WX_GZH| | |[APP](https://www.wwnet.vip/download/app/install)|[H5](https://app.app.wwnet.vip)|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
