@@ -1369,4 +1369,5 @@
  |1321|[天异艺术](https://www.tianyancha.com/company/5519167981)|WX_GZH| | | |[H5](http://www.tianyishucang.com/)|天河链|二级市场|
  |1322|[聚沙数藏](https://www.tianyancha.com/company/2354695955)|WX_GZH| | | | |聚沙数藏链|场外转赠|
  |1323|[雪原 Neve](https://www.tianyancha.com/company/5392740737)|WX_GZH| | | |[H5](https://neve.co/)|BSN联盟链|场外转赠|
+ |1324|[柒艺数藏](https://www.tianyancha.com/company/5486610761)|WX_GZH| | |APP|[H5](http://yupin.club/web/#/)|蚂蚁链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
