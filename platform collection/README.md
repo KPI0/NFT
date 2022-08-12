@@ -1382,4 +1382,5 @@
  |1334|[HopeArt](https://www.tianyancha.com/company/3351864906)|WX_GZH| | |APP|[H5](http://hjkj68.com/#/)| |二级市场|
  |1335|[如果Meta](https://www.tianyancha.com/company/5471676796)|WX_GZH| | | |[H5](https://h5.ifmeta.art/)| |场外转赠|
  |1336|[千年Art](https://www.tianyancha.com/company/3442926586)|WX_GZH| | |APP|[H5](http://www.yuhongwl.com/wap/)|BSN文昌链、XuperChain|二级市场|
+ |1337|[魔盒meta](https://www.tianyancha.com/company/5595343494)|WX_GZH| | | |[H5](http://www.meta.nextbox.top/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
