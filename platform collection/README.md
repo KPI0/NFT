@@ -1390,4 +1390,5 @@
  |1342|[幻博艺术](https://www.tianyancha.com/company/5640976593)|WX_GZH| | |APP|H5|
  |1343|[墩墩艺术](https://www.tianyancha.com/company/5352958543)|WX_GZH| | | |[H5](https://h5.dundunkj.com/#/)|BSN文昌链|二级市场|
  |1344|[麟海藏源](https://www.tianyancha.com/company/5550139231)|WX_GZH| | | |[H5](http://www.yxkkj.com.cn/h5/#/)| |二级市场|
+ |1345|[云易艺术](https://www.tianyancha.com/company/3076325869)|WX_GZH| | |[APP](https://api.huanain.com/download.html)|H5| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
