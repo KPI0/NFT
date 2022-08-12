@@ -60,3 +60,4 @@
  |57|殿藏链|[https://scan.dcnft.net](https://scan.dcnft.net)|
  |58|启元链|[https://qy.chainscan.com.cn](https://qy.chainscan.com.cn/)|
  |59|壹飞链|[https://scan.lvxxing.cn](https://scan.lvxxing.cn/#/home)|
+ |60|模科链|[https://mooko.moacchain.net](https://mooko.moacchain.net/blockchain)|
