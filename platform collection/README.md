@@ -1080,7 +1080,7 @@
  |1032|[Yueshao乐韶艺术](https://www.tianyancha.com/company/5468793751)|WX_GZH| | |APP|[H5](https://www.yueshao.top/zhuce/28829)|XuperChain|场外转赠|
  |1033|[E境藏品](https://www.tianyancha.com/company/5479512122)|WX_GZH| | |APP|[H5](https://e-jing.com/wap/register?id=676362)|BSN联盟链|场外转赠|
  |1034|[ing数字艺术](https://www.tianyancha.com/company/5493064773)|WX_GZH| | | |[H5](https://www.ingszys.com/#/)|XuperChain|二级市场|
- |1035|[银河Meta](https://www.tianyancha.com/company/5517413564)|WX_GZH| | | |[H5](http://yinheee.com/#/pages/login/register?code=13248948)|BSN武汉链|场外转赠|
+ |1035|[银河Meta](https://www.tianyancha.com/company/5517413564)|WX_GZH| | |[APP](http://yinheee.com/app.apk)|[H5](http://yinheee.com/#/)|BSN武汉链|场外转赠|
  |1036|[坤昂数字DT](https://www.tianyancha.com/company/4033600948)|WX_GZH| |QueenRun|APP|
  |1037|[艺数链](https://www.tianyancha.com/company/3290981352)|WX_GZH| | | |[H5](https://h5.yszg.com/?#/)|蚂蚁链|场外转赠|
  |1038|[青希艺术](https://www.tianyancha.com/company/3480147752)|WX_GZH| | |[APP](https://mall.qingxi.art/login?inviteCode=Ic5WutyB)| |BSN联盟链|场外转赠|
