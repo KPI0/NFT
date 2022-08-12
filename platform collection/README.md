@@ -1384,4 +1384,5 @@
  |1336|[千年Art](https://www.tianyancha.com/company/3442926586)|WX_GZH| | |APP|[H5](http://www.yuhongwl.com/wap/)|BSN文昌链、XuperChain|二级市场|
  |1337|[魔盒meta](https://www.tianyancha.com/company/5595343494)|WX_GZH| | | |[H5](http://www.meta.nextbox.top/)|BSN联盟链|二级市场|
  |1338|[幻质5](https://www.tianyancha.com/company/5511369709)|WX_GZH| | | |[H5](http://05metaspace.com/#/)|BSN文昌链|场外转赠|
+ |1339|[晋元Art](https://www.tianyancha.com/company/5548117604)|WX_GZH| | |[APP](https://jinyuanshucang.com/down.html)|H5|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
