@@ -1393,4 +1393,5 @@
  |1345|[云易艺术](https://www.tianyancha.com/company/3076325869)|WX_GZH| | |[APP](https://api.huanain.com/download.html)|H5| |场外转赠|
  |1346|[天玺Art](https://www.tianyancha.com/company/5581634099)|WX_GZH| | |[APP](http://nft.tx-art.com/h5)|[H5](https://guanli.tx-art.com/txart)|BSN文昌链|二级市场|
  |1347|[分贝数艺](https://www.tianyancha.com/company/3289118578)|WX_GZH| | | |[H5](http://www.fenbeishucang.com/)| |二级市场|
+ |1348|[豫见云宇宙](https://www.tianyancha.com/company/5567208768)|WX_GZH| | |APP|[H5](https://yj.baosui.xyz/web/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
