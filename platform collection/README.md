@@ -1205,7 +1205,7 @@
  |1157|[灵契数藏](https://www.tianyancha.com/company/3327671860)|WX_GZH| | | |[H5](http://h5.chengrong.cc/#/)|海峡链|场外转赠|
  |1158|[雪藏SnowMeta](https://www.tianyancha.com/company/5513798275)|WX_GZH| | | |[H5](https://www.snowmeta.cn/)|蚂蚁链、Ethereum|二级市场|
  |1159|[吾爱艺数](https://www.tianyancha.com/company/3477985175)|WX_GZH| | | |[H5](https://t.mamain.cn/web/#/)|BSN联盟链|二级市场|
- |1160|[熊的艺术](https://www.tianyancha.com/company/5368893926)|WX_GZH| | | |[H5](https://art.shihuai.tech/index.html#/)|
+ |1160|[熊的艺术](https://www.tianyancha.com/company/5368893926)|WX_GZH| | | |[H5](https://art.shihuai.tech/index.html#/)|BSN文昌链|场外转赠|
  |1161|[MyBox](https://www.tianyancha.com/company/5515835186)|WX_GZH| | |[APP](https://mybox6.com/xz/)|[H5](http://www.drp1p.cn/h5/#/)|BSN联盟链|二级市场|
  |1162|[玉兔艺术](https://www.tianyancha.com/company/5509199137)|WX_GZH| | | |[H5](https://www.xxitclub.com/#/)|BSN文昌链|二级市场|
  |1163|[鲸典元宇宙](https://www.tianyancha.com/company/3430358825)|WX_GZH| | |[APP](http://jingdianshucang.com/ns5t?utm_source=fir&utm_medium=qr)|[H5](https://www.jingdianshucang.com/#/)|BSN文昌链|二级市场|
