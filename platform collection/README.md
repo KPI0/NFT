@@ -1395,4 +1395,5 @@
  |1347|[分贝数艺](https://www.tianyancha.com/company/3289118578)|WX_GZH| | | |[H5](http://www.fenbeishucang.com/)| |二级市场|
  |1348|[豫见云宇宙](https://www.tianyancha.com/company/5567208768)|WX_GZH| | |APP|[H5](https://yj.baosui.xyz/web/#/)| |二级市场|
  |1349|[小石头数藏](https://www.tianyancha.com/company/3161477249)|WX_GZH| | | |[H5](http://nft.xstit.com/#/)|Ethereum、BSC、HECO|二级市场|
+ |1350|[际空jikong](https://www.tianyancha.com/company/447226575)|WX_GZH| | | |[H5](http://h5.jikong.art/index)|树图链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
