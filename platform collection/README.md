@@ -1400,4 +1400,5 @@
  |1352|[九冥数字艺术](https://www.tianyancha.com/company/4524712267)|WX_GZH|
  |1353|[三剑客藏品](https://www.tianyancha.com/company/2351601825)|WX_GZH| | | |[H5](https://h5.sjknft.com/)| |场外转赠|
  |1354|[SevenLink](https://www.tianyancha.com/company/5547609769)|WX_GZH| | | |[H5](http://m.l7seven.com/#/)|BSN文昌链|二级市场|
+ |1355|[无限Meta](https://www.tianyancha.com/company/5439418166)|WX_GZH| | | |[H5](https://wuxianmeta.cn/)|Polygon|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
