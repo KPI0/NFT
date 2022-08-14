@@ -1096,7 +1096,7 @@
  |1048|[NIUNIU扭扭](https://www.tianyancha.com/company/5473813242)|WX_GZH|WX_XCX| |[APP](https://www.niuniu.ren/)|[H5](https://h5niuland.niuniu.ren/#)||场外转赠|
  |1049|[密链空间](https://www.tianyancha.com/company/5547029724)|WX_GZH| | |APP|[H5](https://meelian.art/#)|蚂蚁链|场外转赠|
  |1050|[精酿元宇宙](https://www.tianyancha.com/company/5551381237)|WX_GZH| | | |[H5](https://qdhpj.app.yjkjmeta.com/#/pages/tabs/home)|VastChain|场外转赠|
- |1051|[国文云藏](https://www.tianyancha.com/company/3445294294)|WX_GZH| | |[APP](https://www.guowen.art/index.html)| | |场外转赠|
+ |1051|[国文云藏](https://www.tianyancha.com/company/3445294294)|WX_GZH| | |[APP](https://www.guowen.art/index.html)| | |二级市场|
  |1052|[天宫TianGong](https://www.tianyancha.com/company/5177140209)|WX_GZH| | |APP|[H5](https://www.tiangongnft.cn)|XuperChain|场外转赠|
  |1053|[ColdCore冷核](https://www.tianyancha.com/company/3211818343)|WX_GZH| | | |[H5](http://coldcore.vip/coldcore/home)|BSN文昌链|二级市场|
  |1054|[长安元创](https://www.tianyancha.com/company/5431097464)|WX_GZH| | | |[H5](https://xuanjingmeta.cn/)|BSN联盟链|场外转赠|
