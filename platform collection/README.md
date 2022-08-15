@@ -1403,4 +1403,5 @@
  |1355|[无限Meta](https://www.tianyancha.com/company/5439418166)|WX_GZH| | | |[H5](https://wuxianmeta.cn/)|Polygon|场外转赠|
  |1356|[大河数藏](https://www.tianyancha.com/company/176651164)|WX_GZH| |豫视频APP|[APP](http://news.dahebao.cn/appdownload/)|[H5](https://news.dahebao.cn/dahe/h5/xmcollection/index.html#/home)|至信链|场外转赠|
  |1357|[元空间数藏](https://www.tianyancha.com/company/5568865427)|WX_GZH| | |APP| |金链盟|二级市场|
+ |1358|[Nb空间](https://www.tianyancha.com/company/3163161157)|WX_GZH| | | |[H5](http://h5.nbkongjian.com/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
