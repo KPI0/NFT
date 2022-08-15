@@ -1014,7 +1014,7 @@
  |966|[鲸元](https://www.tianyancha.com/company/3452960398)|WX_GZH| | |APP|[H5](https://biz.91erong.com/index.html#/pages/user/login?redirect=index&inviteUId=24460)||场外转赠|
  |967|[数艺空间](https://www.tianyancha.com/company/4367765995)|WX_GZH| | | |[H5](https://nft.eartcn.cn/h5/)|BSN联盟链|二级市场|
  |968|[八度空间艺术馆](https://www.tianyancha.com/company/5393593640)|WX_GZH| | |[APP](https://bdkjys.com/download/)|[H5](https://bdkjys.com#/pages/login/register?uuid=M3BKAB)|BSN联盟链|场外转赠|
- |969|[须弥数藏](https://www.tianyancha.com/company/5509198242)|WX_GZH| | | |[H5](https://www.xuminft.com/#/register.html?invite_code=269584)||场外转赠|
+ |969|[须弥数藏](https://www.tianyancha.com/company/5509198242)|WX_GZH| | | |[H5](https://www.xuminft.com/#/register.html?invite_code=269584)||二级市场|
  |970|[数字爱藏](https://www.tianyancha.com/company/5539890189)|WX_GZH| | |[APP](http://116.62.120.216/?uuid=596075000633667585)| |版权链、司法联盟链|场外转赠|
  |971|[鲸玺META](https://www.tianyancha.com/company/3405994454)|WX_GZH| | |APP|[H5](http://meta.mangle88.com/#/login?parentId=1543573794115096578)|海峡链|场外转赠|
  |972|[iBook数藏](https://www.tianyancha.com/company/5542088208)|WX_GZH| | |[APP](http://download.ibook.icu/)|[H5](https://front.ibook.icu/#/pages/public/register?usercode=eU79kzgn)|BSN文昌链|二级市场|
