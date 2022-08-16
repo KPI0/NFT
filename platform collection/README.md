@@ -1409,4 +1409,5 @@
  |1361|[壹羲数藏](https://www.tianyancha.com/company/5595595505)|WX_GZH| | | |[H5](https://haicangwenhua.com/wap)|Polygon|二级市场|
  |1362|[丰雅艺品](https://www.tianyancha.com/company/5245734751)|WX_GZH| | | |[H5](http://h5.fyyp.art/)| |场外转赠|
  |1363|[极客公园](https://www.tianyancha.com/company/3000887289)|WX_GZH| | | |[H5](https://0001.geekpark.net/home)|至信链|
+ |1364|[多元宇宙](https://www.tianyancha.com/company/5602566163)|WX_GZH| | | |[H5](http://dyyz.vip)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
