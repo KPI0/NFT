@@ -1407,4 +1407,5 @@
  |1359|[in Meta](https://www.tianyancha.com/company/5551020135)|WX_GZH| | |APP|[H5](http://nft.ruyuanrui.com/#/)|BSN文昌链|场外转赠|
  |1360|[卡尔收藏家](https://www.tianyancha.com/company/5619168103)|WX_GZH| | | |[H5](https://kaer.jhnc.vip/)|BSN文昌链|场外转赠|
  |1361|[壹羲数藏](https://www.tianyancha.com/company/5595595505)|WX_GZH| | | |[H5](https://haicangwenhua.com/wap)|Polygon|二级市场|
+ |1362|[丰雅艺品](https://www.tianyancha.com/company/5245734751)|WX_GZH| | | |[H5](http://h5.fyyp.art/)| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
