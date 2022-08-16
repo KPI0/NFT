@@ -1412,4 +1412,5 @@
  |1364|[多元宇宙](https://www.tianyancha.com/company/5602566163)|WX_GZH| | | |[H5](http://dyyz.vip)|BSN联盟链|二级市场|
  |1365|[山海艺术Meta](https://www.tianyancha.com/company/5592289084)|WX_GZH| | | |[H5](https://shanhai33.cn/#/)||二级市场|
  |1366|[ZART艺术](https://www.tianyancha.com/company/5517133745)|WX_GZH| | | |[H5](http://ss.songshuart.cn/zart/index.html#/home)| |二级市场|
+ |1367|[悟腾宇宙](https://www.tianyancha.com/company/5573519116)|WX_GZH| | | |[H5](https://h5.topxzw.com/h5/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
