@@ -1417,4 +1417,5 @@
  |1369|[积目](https://www.tianyancha.com/company/3158507449)|WX_GZH| | |[APP](https://hi.hitup.cn/)|
  |1370|[幻维空间](https://www.tianyancha.com/company/5545392949)|WX_GZH| | |APP|[H5](http://www.huanweikongjian.cn/)| |二级市场|
  |1371|[MetaTool](https://www.tianyancha.com/company/4519985550)|WX_GZH| | |[APP](https://coin-h5.bilinyun.cn/downapp.html)|[H5](https://coin-h5.bilinyun.cn/h5/#/)|BSN文昌链|二级市场|
+ |1372|[立藏](https://www.tianyancha.com/company/5556864958)|WX_GZH| | |[APP](http://licang.vip/app.html)|[H5](http://licang.vip/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
