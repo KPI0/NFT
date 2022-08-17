@@ -973,7 +973,7 @@
  |925|[版权天下](https://www.tianyancha.com/company/3457620680)|WX_GZH| | | |[H5](https://bq.pattin.top/)|BSC|场外转赠|
  |926|[梦鱼数字](https://www.tianyancha.com/company/5391371096)|WX_GZH| | |APP|[H5](https://art.sanzai-meta.com/#/register?code=tuCDRV)|BSN联盟链|二级市场|
  |927|[梅塔](https://www.tianyancha.com/company/53582216)|WX_GZH|WX_XCX| | | | |场外转赠|
- |928|[GGAC银河画廊](https://www.tianyancha.com/company/2319173493)|WX_GZH|WX_XCX| |[APP](https://www.ggac.com/v2/apps/download)|[H5](https://www.ggac.com/v2/home)||场外转赠|
+ |928|[GGAC银河画廊](https://www.tianyancha.com/company/2319173493)|WX_GZH|WX_XCX| |[APP](https://www.ggac.com/v2/apps/download)|[H5](https://www.ggac.com/v2/home)|BSN文昌链|场外转赠|
  |929|[火星DAO](https://www.tianyancha.com/company/5231660421)|WX_GZH| | |APP|[H5](http://meta.nsie.org.cn/marsdao.html)|蚂蚁链|二级市场|
  |930|[南北数藏](https://www.tianyancha.com/company/5512794316)|WX_GZH| | | |[H5](https://m.nanbei.art/#/)|天河链|场外转赠|
  |931|[OpenGalaxy星盒](https://www.tianyancha.com/company/5450159723)|WX_GZH| | | |[H5](https://opengalaxy.art/#/)| |二级市场|
