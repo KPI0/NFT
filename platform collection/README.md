@@ -862,7 +862,7 @@
  |816|[洪荒数字艺术](https://www.tianyancha.com/company/5503928676)|WX_GZH| | |[APP](https://download.honghuang.pro/)|[H5](http://www.honghuang.pro/#/pages/h5_index/h5_index?code=645814501)|Polygon|二级市场|
  |817|[EraMeta](https://www.tianyancha.com/company/5499269919)|WX_GZH| | | |[H5](http://www.era-meta.cn/)||场外转赠|
  |818|[数字星盒元宇宙](https://www.tianyancha.com/company/5423091250)|WX_GZH| | | |[H5](https://www.xstarmeta.com/#/register?code=clnEL2)|蚂蚁链|二级市场|
- |819|[元U艺术](https://www.tianyancha.com/company/5496340233)|WX_GZH| | |APP|[H5](https://www.yuanusc.com/#/pages/login/register/register?code=LROG10BLCDCSIR1W&type=0)|  |二级市场|
+ |819|[元U艺术](https://www.tianyancha.com/company/5496340233)|WX_GZH| | |APP|[H5](https://www.yuanusc.com/#/)|保全链|二级市场|
  |820|[潮艺数藏](https://www.tianyancha.com/company/5515374377)|WX_GZH| | | |[H5](https://trendart.shop/#/pages/reg/reg?ref_code=003839)|BSN联盟链|二级市场|
  |821|[元领NFR](https://www.tianyancha.com/company/28852851)|WX_GZH| | |  |[H5](https://m.daocx.com/nft/nft-fe/h5/#/)|XuperChain|二级市场|
  |822|[品藏·PIN](https://www.tianyancha.com/company/5487578818)|WX_GZH|WX_XCX|      |       |[H5](http://home.pincangmeta.com/#/main/registerone?parentId=5364)|XuperChain|场外转赠|
