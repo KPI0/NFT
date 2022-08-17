@@ -1414,4 +1414,5 @@
  |1366|[ZART艺术](https://www.tianyancha.com/company/5517133745)|WX_GZH| | | |[H5](http://ss.songshuart.cn/zart/index.html#/home)| |二级市场|
  |1367|[悟腾宇宙](https://www.tianyancha.com/company/5573519116)|WX_GZH| | | |[H5](https://h5.topxzw.com/h5/#/)|BSN文昌链|二级市场|
  |1368|[良延艺术](https://www.tianyancha.com/company/5610885498)|WX_GZH| | | |[H5](http://nft.lt666.art/#/)||二级市场|
+ |1369|[积目](https://www.tianyancha.com/company/3158507449)|WX_GZH| | |[APP](https://hi.hitup.cn/)|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
