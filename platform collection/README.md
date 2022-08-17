@@ -1426,4 +1426,5 @@
  |1378|[699文创](https://www.tianyancha.com/company/5512870976)|WX_GZH| | |APP|[H5](http://www.jxxiuying.com/h5/)||二级市场|
  |1379|[通古商城](https://www.tianyancha.com/company/3468464265)|WX_GZH| | |[APP](https://app.tonggu.art/app/)|[H5](https://app.tonggu.art/h5/#/)|天河链|二级市场|
  |1380|[一如数藏](https://www.tianyancha.com/company/1068180280)|WX_GZH| | |[APP](https://nft.yiruit.com/#/pages/download/download)|[H5](https://nft.yiruit.com)|天河链|二级市场|
+ |1381|[Boxs数字艺术](https://www.tianyancha.com/company/5522954604)|WX_GZH| | |[APP](http://xz.boxs.art/)|[H5](http://app.boxs.art/h5/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
