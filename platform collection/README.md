@@ -1198,7 +1198,7 @@
  |1150|[应物非遗](https://www.tianyancha.com/company/217412542)|WX_GZH| | | |[H5](http://m.yingwufeiyi.com/home)|树图链|场外转赠|
  |1151|[寻龙数藏](https://www.tianyancha.com/company/5541663914)|WX_GZH| | | |[H5](https://nft.xunlongshucang.com/xunlongapp/)|BSN文昌链|场外转赠|
  |1152|[魔洞Art](https://www.tianyancha.com/company/3076982969)|WX_GZH| | | |[H5](http://h5.mdszcp.com/#/)|BSN联盟链|场外转赠|
- |1153|[IMC艺术](https://www.tianyancha.com/company/5538907492)|WX_GZH| | | |[H5](http://imc.liufangnet.com/pages/my/my)|BSN文昌链|场外转赠|
+ |1153|[IMC艺术](https://www.tianyancha.com/company/5538907492)|WX_GZH| | |APP|[H5](http://imc.liufangnet.com/pages/my/my)|BSN文昌链|二级市场|
  |1154|[原初宇宙](https://www.tianyancha.com/company/5538286307)|WX_GZH| | |APP|[H5](http://app.yuanchu777.com/invite/#/)|BSN文昌链|场外转赠|
  |1155|[墨变META](https://www.tianyancha.com/company/3453435995)|WX_GZH| | |[APP](https://ckmobian.com/)|[H5](https://www.ckmobian.com/#/)|海峡链|场外转赠|
  |1156|[集优藏](https://www.tianyancha.com/company/5478194662)|WX_GZH| | |[APP](http://www.jyc2022.com/h5/#/pages/user/download)|[H5](http://www.jyc2022.com/h5/#/)||二级市场|
