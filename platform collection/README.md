@@ -1421,4 +1421,5 @@
  |1373|[OpenArt元宇宙](https://www.tianyancha.com/company/5496371659)|WX_GZH| | |[APP](https://www.openart.vip/)|[H5](https://h5.openart.vip/#/)|BSN联盟链|二级市场|
  |1374|[品元艺术](https://www.tianyancha.com/company/3179269798)|WX_GZH| | | |[H5](https://1pin1shu.com/)|XuperChain|二级市场|
  |1375|[Supyeah](https://www.tianyancha.com/company/5559735112)|WX_GZH| | |APP| | |二级市场|
+ |1376|[Magic魔力艺术](https://www.tianyancha.com/company/5537829983)|WX_GZH| | |APP|[H5](http://lingjingkj.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
