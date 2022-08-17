@@ -771,7 +771,7 @@
  |726|[元舟艺术](https://www.tianyancha.com/company/5464767928)|WX_GZH| | |APP|[H5](https://nfg.gzyzys.cc/nfg_shop/web/)| |场外转赠|
  |727|[数为空间](https://www.tianyancha.com/company/5496369966)|WX_GZH| | |[APP](https://shuweikj.com/#/pages/download/index)|[H5](https://shuweikj.com/#/?pid=766091)|蚂蚁链|二级市场|
  |728|[伯乐艺术](https://www.tianyancha.com/company/5492658035)|WX_GZH| | |APP|[H5](https://art.boleart.com/#/register?code=ceGKOZ)||二级市场|
- |729|[DadaGaga](https://www.tianyancha.com/company/5304381735)|WX_GZH| | | |[H5](https://www.dadagaga.art/#/)|简印链|场外转赠|
+ |729|[DadaGaga](https://www.tianyancha.com/company/5304381735)|WX_GZH| | |[APP](https://dadagaga.art/#/pages/index/bannerContent/bannerContent)|[H5](https://www.dadagaga.art/#/)|简印链|二级市场|
  |730|[藏元](https://www.tianyancha.com/company/2321135349)|WX_GZH| | | |[H5](http://www.cangyuan.art/#/register?inviteUserGUID=724d13a3-3581-42f1-bdf1-39b59e08da2a)| |场外转赠|
  |731|[赛博岛Cyber](https://www.tianyancha.com/company/5515363534)|WX_GZH| | |APP|[H5](https://app.yunchucangpin.com/reg/gpkYlEQE9)| |二级市场|
  |732|[鹿鼎文化艺术](https://www.tianyancha.com/company/5517190003)|WX_GZH| | | |[H5](https://luding.qingguoapp.cn/h5/index.html?invite_code=yiur31)|
