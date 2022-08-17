@@ -1428,4 +1428,5 @@
  |1380|[一如数藏](https://www.tianyancha.com/company/1068180280)|WX_GZH| | |[APP](https://nft.yiruit.com/#/pages/download/download)|[H5](https://nft.yiruit.com)|天河链|二级市场|
  |1381|[Boxs数字艺术](https://www.tianyancha.com/company/5522954604)|WX_GZH| | |[APP](http://xz.boxs.art/)|[H5](http://app.boxs.art/h5/#/)||二级市场|
  |1382|[爱启艺术](https://www.tianyancha.com/company/5515866570)|WX_GZH| | |[APP](http://nft.aiqi.art/aiqi.apk)|[H5](http://nft.aiqi.art/h5/#/)|天河链|二级市场|
+ |1383|[King](https://www.tianyancha.com/company/5552400358)|WX_GZH| | |[APP](http://xiazai.kingshuzicangpin.com/app.html)| |BSN文昌链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
