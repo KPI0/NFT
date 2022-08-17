@@ -1423,4 +1423,5 @@
  |1375|[Supyeah](https://www.tianyancha.com/company/5559735112)|WX_GZH| | |APP| | |二级市场|
  |1376|[Magic魔力艺术](https://www.tianyancha.com/company/5537829983)|WX_GZH| | |APP|[H5](http://lingjingkj.com/#/)||二级市场|
  |1377|[魔力宇宙](https://www.tianyancha.com/company/3291726310)|WX_GZH| | | |[H5](https://mhbl-h5.manquaner.com/h5/#/)|XuperChain|二级市场|
+ |1378|[699文创](https://www.tianyancha.com/company/5512870976)|WX_GZH| | |APP|[H5](http://www.jxxiuying.com/h5/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
