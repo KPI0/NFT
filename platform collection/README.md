@@ -1415,4 +1415,5 @@
  |1367|[悟腾宇宙](https://www.tianyancha.com/company/5573519116)|WX_GZH| | | |[H5](https://h5.topxzw.com/h5/#/)|BSN文昌链|二级市场|
  |1368|[良延艺术](https://www.tianyancha.com/company/5610885498)|WX_GZH| | | |[H5](http://nft.lt666.art/#/)||二级市场|
  |1369|[积目](https://www.tianyancha.com/company/3158507449)|WX_GZH| | |[APP](https://hi.hitup.cn/)|
+ |1370|[幻维空间](https://www.tianyancha.com/company/5545392949)|WX_GZH| | |APP|[H5](http://www.huanweikongjian.cn/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
