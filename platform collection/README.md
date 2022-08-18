@@ -1310,7 +1310,7 @@
  |1262|[博观数艺](https://www.tianyancha.com/company/2353240764)|WX_GZH| | |APP|[H5](https://h5.boguan.live/#/)|BSN联盟链|场外转赠|
  |1263|[凯茜数字艺术](https://www.tianyancha.com/company/5526152254)|WX_GZH| | |APP|[H5](https://hartree.cn/h5/#/)|XuperChain|二级市场|
  |1264|[Hotb热吧](https://www.tianyancha.com/company/5598608796)|WX_GZH| | |[APP](https://m.hotb.cn/download)|[H5](https://m.hotb.cn/)| |交易市场|
- |1265|[观艺数藏](https://www.tianyancha.com/company/5590686244)|WX_GZH| | | |[H5](http://guanyishuzi.com/#/)| |二级市场|
+ |1265|[观艺数藏](https://www.tianyancha.com/company/5590686244)|WX_GZH| | | |[H5](http://h5.guanyishuzi.com/#/)|天河链|二级市场|
  |1266|[新数藏](https://www.tianyancha.com/company/5453713148)|WX_GZH| | | |[H5](http://m.nftxsc.com/#/)|Polygon|场外转赠|
  |1267|[大蛇文创](https://www.tianyancha.com/company/5539375318)|WX_GZH| | | |[H5](https://h5.largesnake.cn/#/pages/home/index)|草田链|二级市场|
  |1268|[Meta书藏](https://www.tianyancha.com/company/325879784)|WX_GZH| | |APP|[H5](https://h5.metabookstore.com.cn/nft-store/home)|蚂蚁链|场外转赠|
