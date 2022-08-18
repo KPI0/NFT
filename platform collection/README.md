@@ -1293,7 +1293,7 @@
  |1244|[海沃斯元宇宙](https://www.tianyancha.com/company/5474057192)|WX_GZH| | | |[H5](https://www.hivers.cn/)|海创链|场外转赠|
  |1245|[Avatar数字艺术](https://www.tianyancha.com/company/5591707174)|WX_GZH| | | |[H5](http://avatarys.art/#/)|BSN联盟链|二级市场|
  |1246|[巨鲸艺术](https://www.tianyancha.com/company/5425027494)|WX_GZH| | | |[H5](http://www.jujing.art/pages/homePage/index)| |场外转赠|
- |1247|[羚羊艺术](https://www.tianyancha.com/company/5555508582)|WX_GZH| | |APP|[H5](http://www.huanlian.art/apph5/#/)|BSN联盟链|场外转赠|
+ |1247|[羚羊艺术](https://www.tianyancha.com/company/5555508582)|WX_GZH|||[APP](http://www.huanlian.art/theme)|[H5](http://www.huanlian.art/apph5)|BSN联盟链|场外转赠|
  |1248|[柒壹数藏](https://www.tianyancha.com/company/5419122021)|WX_GZH| | | |[H5](http://h5.to71.com/#/)|BSN联盟链|场外转赠|
  |1249|[元化数字文创](https://www.tianyancha.com/company/3348137144)|WX_GZH| | |[APP](https://app.yuanhuaart.art)|[H5](https://yuanhuaart.art)|BSN联盟链|二级市场|
  |1250|[元话数藏](https://www.tianyancha.com/company/5556757632)|WX_GZH| | | |[H5](https://www.metakina.com/#/)|基纳链|二级市场|
