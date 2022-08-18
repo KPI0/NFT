@@ -999,7 +999,7 @@
  |950|[麻瓜数字艺术](https://www.tianyancha.com/company/5476783717)|WX_GZH| | |APP|[H5](https://muggleart.com/#/register?Invitation_code=2GHR9B)|BSN联盟链|二级市场|
  |951|[魏域文创](https://www.tianyancha.com/company/5409679232)|WX_GZH| | |[APP](https://wy.jingqucm.com/h5/down/register/tel/MznyjM4Y)| |XuperChain|二级市场|
  |952|[YLink艺术空间](https://www.tianyancha.com/company/5540246199)|WX_GZH| | | |[H5](https://ylink.h5.yunzongbu.cn/)|BSN文昌链|二级市场|
- |953|[黑洞数字艺术](https://www.tianyancha.com/company/5529131180)|WX_GZH| | |APP|[H5](http://heidongshucang.com/#/pages/login/register?code=742556077)||二级市场|
+ |953|[黑洞数字艺术](https://www.tianyancha.com/company/5529131180)|WX_GZH| | |[APP]( http://heidongshucang.com/app.apk)|[H5](http://heidongshucang.com)||二级市场|
  |954|[DC数创](https://www.tianyancha.com/company/5541860395)|WX_GZH| | | |[H5](http://www.dcszcp.com/h5/#/pages/login/reg?invite=NGL1AL)| |二级市场|
  |955|[火星3080](https://www.tianyancha.com/company/5488828556)|WX_GZH| | |[APP](https://mars3080s.com/)|[H5](https://mars3080s.com/i/jKBPEBmZ)|蚂蚁链|场外转赠|
  |956|[STARMETA数藏](https://www.tianyancha.com/company/5234338301)|WX_GZH| | | |[H5](https://star.xingtumeta.com/)|蚂蚁链|场外转赠|
