@@ -1431,4 +1431,5 @@
  |1383|[King](https://www.tianyancha.com/company/5552400358)|WX_GZH| | |[APP](http://xiazai.kingshuzicangpin.com/app.html)| |BSN文昌链|
  |1384|[造链](https://www.tianyancha.com/company/5552395018)|WX_GZH| | |APP|[H5](https://www.zaolian.vip/web/h5/)||二级市场|
  |1385|[MetaTop](https://www.tianyancha.com/company/3410482736)|WX_GZH| | | |[H5](http://www.metatop.cn/#/)||二级市场|
+ |1386|[上游数藏](https://www.tianyancha.com/company/771933427)|WX_GZH| | | |[H5](https://sysc.syxwvote.com/#/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
