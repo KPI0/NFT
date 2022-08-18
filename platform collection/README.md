@@ -1435,4 +1435,5 @@
  |1386|[上游数藏](https://www.tianyancha.com/company/771933427)|WX_GZH| | | |[H5](https://sysc.syxwvote.com/#/)|BSN联盟链|场外转赠|
  |1387|[Meta镜像宇宙](https://www.tianyancha.com/company/4401553891)|WX_GZH| | | |[H5](https://www.jxyz.art/dist/#/home)|BSN文昌链|二级市场|
  |1388|[UP艺术数藏](https://www.tianyancha.com/company/5353396398)|WX_GZH| | |[APP](http://t.66up.art/h7q9?utm_source=fir&utm_medium=qr)| |天河链|二级市场|
+ |1389|[元艺空间](https://www.tianyancha.com/company/5284965609)|WX_GZH| | |[APP](https://nft.materspace.cn/)|[H5](https://nft.materspace.cn/h5/#/)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
