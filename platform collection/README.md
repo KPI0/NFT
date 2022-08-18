@@ -804,7 +804,7 @@
  |759|[招财数藏](https://www.tianyancha.com/company/3454638443)|WX_GZH||||[H5](http://zhaocai-h5.lianjiermb.com/pages/invitation/invitation?pid=247)|Ethereum|场外转赠|
  |760|[时空数藏](https://www.tianyancha.com/company/5258558482)|WX_GZH| | |APP|[H5](https://spacetime.art/#/pages/login/reg?invite=9KHI2C)|Polygon|二级市场|
  |761|[云尚数藏](https://www.tianyancha.com/company/5444613789)|WX_GZH|
- |762|[玉山Meta](https://www.tianyancha.com/company/2354171936)|WX_GZH|     |    |APP|[H5](http://yushanshucang.top/#/pages/login/register?code=133375222)|BSN联盟链|场外转赠|
+ |762|[玉山Meta](https://www.tianyancha.com/company/2354171936)|WX_GZH| | |APP|[H5](http://shucang.yushanshucang.top/#/)|BSN联盟链|二级市场|
  |763|[永恒大陆数藏](https://www.tianyancha.com/company/1167254579)|WX_GZH| | |[APP](https://meta.2345.cc/eternalland/h5/pages/share/index?ChID=banner)|[H5](https://meta.2345.cc/eternalland/h5/pages/activity/inviteShare?code=149027)|BSN联盟链|场外转赠|
  |764|[悟空数藏](https://www.tianyancha.com/company/5423127348)|WX_GZH| | | |[H5](http://www.wkong.cn/#/register?code=emtGV3)|BSN联盟链|二级市场|
  |765|[中体数藏](https://www.tianyancha.com/company/4255327352)|WX_GZH| | | |[H5](https://h5.ztmetasports.com/#/)|至信链|
