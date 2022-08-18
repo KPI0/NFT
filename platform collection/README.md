@@ -1439,4 +1439,5 @@
  |1390|[哇哦数字艺术](https://www.tianyancha.com/company/3112706080)|WX_GZH| | |[APP](https://www.metaoooh.com/)|[H5](https://app.metaoooh.com/)|BSN联盟链|二级市场|
  |1391|[Stray Art数藏](https://www.tianyancha.com/company/5139614669)|WX_GZH| | | |[H5](https://sah5.strayart.cn/)|BSN联盟链、XuperChain|二级市场|
  |1392|[神境数藏](https://www.tianyancha.com/company/2943396689)|WX_GZH| | |[APP](http://sjapp.shenxunwl.com/)|[H5](http://shenxunwl.com/h5/#/pages/login/reg?invitecode=EDTF3)||二级市场|
+ |1393|[数智长城](https://www.tianyancha.com/company/5532925136)|WX_GZH| | | |[H5](https://nfr.szcc888.com/h5/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
