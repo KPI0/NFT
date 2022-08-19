@@ -518,7 +518,7 @@
  |476|[哈希数藏](https://www.tianyancha.com/company/4995395207)|WX_GZH| | | |[H5](http://ganying365.cn/home/Register/yqregister?invitecode=42759486)|
  |477|[元始部落](https://www.tianyancha.com/company/3319379680)|WX_GZH| | |[APP](https://www.metatribe.social/h5/pages/activity/activity?share_id=710883304070561792&page=invite)||BSN文昌链|
  |478|[BOSS艺术品](https://www.tianyancha.com/company/5402301021)|WX_GZH| | | |[H5](https://shop.bossyyz.cn/#/register?userCode=652205157601&activityCode=669a5c45ea1b4415895be886c224e2d3)|树图链|
- |479|[光子星球](https://www.tianyancha.com/company/5389140935)|WX_GZH||||[H5](https://activity.xplayers.space/flyer/f2ffa146-d58e-11ec-9a84-3ef7d201f60f)|BSN联盟链|
+ |479|[光子星球](https://www.tianyancha.com/company/5389140935)|WX_GZH| | |[APP](https://www.xplayers.space/download)|[H5](https://activity.xplayers.space)|BSN联盟链|二级市场|
  |480|[icon数字文创](https://www.tianyancha.com/company/5408023991)|WX_GZH| | | |[H5](https://www.iconszwc.com/register?recommender=178727)|BSN联盟链|场外转赠|
  |481|[鲸藏](https://www.tianyancha.com/company/3196684818)|WX_GZH| | |[APP](https://h5.jingcang100.com/register?c=0DSQTB)||鲸藏链|场外转赠|
  |482|[Meta藏宝阁](https://www.tianyancha.com/company/4059439192)|WX_GZH| | |APP|[H5](https://m.nftsc.vip/#/pages/user/auth/login?uuid=791770)||二级市场|
