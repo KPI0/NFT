@@ -508,7 +508,7 @@
  |466|[星脉数藏](https://www.tianyancha.com/company/5271406090)|WX_GZH| | | |[H5](http://xingmaiart.cn/)|
  |467|[星空数藏](https://www.tianyancha.com/company/3104455319)|WX_GZH| | |[APP](https://cdn.xksc.com.cn/download/)|[H5](https://home.xksc.com.cn/index/)|Polygon|场外转赠|
  |468|[钛可星球](https://www.tianyancha.com/company/5096892221)|WX_GZH|WX_XCX| |[APP](https://login.tikoplanet.com/h5/index.html#/)|[H5](http://mtikoplanet.com:8090/#/)|BSN联盟链|二级市场|
- |469|[来酷星球](https://www.tianyancha.com/company/3276658869)|WX_GZH|WX_XCX| | |[H5](http://t.weimob.com/BDuYK)|
+ |469|[来酷星球](https://www.tianyancha.com/company/3276658869)|WX_GZH|WX_XCX| |[APP](http://lecooapk.suomofei.com/)|[H5](http://t.weimob.com/BDuYK)|酷星链|场外转赠|
  |470|[灵龙文创](https://www.tianyancha.com/company/5188360410)|WX_GZH|||[APP](https://www.lingloong.cn/app/download.html)|[H5](https://www.lingloong.cn)||二级市场|
  |471|[SOFTMOON](https://www.tianyancha.com/company/4498877969)|WX_GZH| | | |[H5](https://boyang.app.yjkjmeta.com/#/pages/tabs/home)|VastChain|场外转赠|
  |472|[知音数藏](https://www.tianyancha.com/company/5075360691)|WX_GZH| | | |[H5](https://www.zyszcp.com/#/pages/index/index?v=592&inviteCode=aajemx4rcjRh3Z67ypM6Hg)|星火链|场外转赠|
