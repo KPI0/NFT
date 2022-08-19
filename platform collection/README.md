@@ -1441,4 +1441,5 @@
  |1393|[数智长城](https://www.tianyancha.com/company/5532925136)|WX_GZH| | | |[H5](https://nfr.szcc888.com/h5/)|BSN文昌链|二级市场|
  |1394|[hongmai红脉](https://www.tianyancha.com/company/5451913561)|WX_GZH| | | |[H5](http://hongmai.vip/home)|安存链|场外转赠|
  |1395|[汇藏文化](https://www.tianyancha.com/company/5568891756)|WX_GZH| | |APP|[H5](http://hcwh.huicangwenhua.com/h5/#/)||二级市场|
+ |1396|[元气世界](https://www.tianyancha.com/company/5543019962)|WX_GZH| | | |[H5](http://www.yqwc.cc/h5/#/)|XuperChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
