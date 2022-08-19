@@ -489,7 +489,7 @@
  |450|[数创空间](https://www.tianyancha.com/company/3228643841)|WX_GZH| | |[APP](http://front.shj.ibc2008.com/register?inviteCode=e6G9at)| | |二级市场|
  |451|[基因数字艺术](https://www.tianyancha.com/company/5480343857)|WX_GZH| | | |[H5](http://www.jiyinyishu.com/)| |二级市场|
  |452|[开源数藏](https://www.tianyancha.com/company/3397460494)|WX_GZH| | | |[H5](https://2022.kynft.com.cn/#/?inviteCode=Z86XGJ)|Polygon|场外转赠|
- |453|[麟翼数字艺术品](https://www.tianyancha.com/company/3000294445)|WX_GZH| |翼支付APP|[APP](https://h5.bestpay.cn/subapps/nft-h5/index.html?hybridVersion=3.0#/home)| |Ofin-BaaS|
+ |453|[麟翼数藏](https://www.tianyancha.com/company/3000294445)|WX_GZH| |翼支付APP|[APP](https://h5.bestpay.cn/subapps/nft-h5/index.html?hybridVersion=3.0#/home)| |Ofin-BaaS|
  |454|[NFtea数字茶票](https://www.tianyancha.com/company/5401970854)|WX_GZH| | |APP|[H5](http://m.shuzicha.com.cn/)|XuperChain|二级市场|
  |455|[NFT派对](https://www.tianyancha.com/company/3442017962)|WX_GZH| | | |[H5](http://www.nftparty1.com/)|树图链|二级市场|
  |455|[NParty](https://www.tianyancha.com/company/3442017962)|WX_GZH| | | |[H5](http://www.nftparty1.com/)|树图链|二级市场|
