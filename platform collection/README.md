@@ -1419,7 +1419,7 @@
  |1372|[立藏](https://www.tianyancha.com/company/5556864958)|WX_GZH| | |[APP](http://licang.vip/app.html)|[H5](http://licang.vip/#/)|BSN联盟链|二级市场|
  |1373|[OpenArt元宇宙](https://www.tianyancha.com/company/5496371659)|WX_GZH| | |[APP](https://www.openart.vip/)|[H5](https://h5.openart.vip/#/)|BSN联盟链|二级市场|
  |1374|[品元艺术](https://www.tianyancha.com/company/3179269798)|WX_GZH| | | |[H5](https://1pin1shu.com/)|XuperChain|二级市场|
- |1375|[Supyeah](https://www.tianyancha.com/company/5559735112)|WX_GZH| | |APP| | |二级市场|
+ |1375|[Supyeah超野](https://www.tianyancha.com/company/5559735112)|WX_GZH| | |[APP](https://down.wrthfu.com/downpage/7afbf5552d4d4aab)| | |二级市场|
  |1376|[Magic魔力艺术](https://www.tianyancha.com/company/5537829983)|WX_GZH| | |APP|[H5](http://lingjingkj.com/#/)||二级市场|
  |1377|[魔力宇宙](https://www.tianyancha.com/company/3291726310)|WX_GZH| | | |[H5](https://mhbl-h5.manquaner.com/h5/#/)|XuperChain|二级市场|
  |1378|[699文创](https://www.tianyancha.com/company/5512870976)|WX_GZH| | |APP|[H5](http://www.jxxiuying.com/h5/)||二级市场|
