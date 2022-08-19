@@ -1443,4 +1443,5 @@
  |1395|[汇藏文化](https://www.tianyancha.com/company/5568891756)|WX_GZH| | |APP|[H5](http://hcwh.huicangwenhua.com/h5/#/)||二级市场|
  |1396|[元气世界](https://www.tianyancha.com/company/5543019962)|WX_GZH| | | |[H5](http://www.yqwc.cc/h5/#/)|XuperChain|二级市场|
  |1397|[银盒](https://www.tianyancha.com/company/4037221493)|WX_GZH| | | |[H5](https://h5.galaxy-box.com/)|Polygon|二级市场|
+ |1398|[奇点DAO](https://www.tianyancha.com/company/5517504893)|WX_GZH| | | |[H5](http://www.qidiandao.cn/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
