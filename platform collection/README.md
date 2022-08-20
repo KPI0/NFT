@@ -1451,4 +1451,5 @@
  |1403|[元禾艺术](https://www.tianyancha.com/company/5551337773)|WX_GZH| | |APP|[H5](https://nft.yhyhart.com/h5/#/)|BSN文昌链|二级市场|
  |1404|[河大卫数字星球](https://www.tianyancha.com/company/3430855674)|WX_GZH| | | |[H5](https://hdw.hyzhenpin.com/)|腾讯链|场外转赠|
  |1405|[之影数文](https://www.tianyancha.com/company/5579569532)|WX_GZH| | | |[H5](https://h5.zyswsc.com/#/)|之影链|场外转赠|
+ |1406|[kyspace数字文化](https://www.tianyancha.com/company/5628750490)|WX_GZH| | |APP|[H5](https://meta.kyspace.art/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
