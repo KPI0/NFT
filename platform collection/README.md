@@ -872,7 +872,7 @@
  |826|[有光数藏](https://www.tianyancha.com/company/2320769365)|WX_GZH|        | |[APP](http://two.blinktech.cn/app-share/)|[H5](http://www.yby.ink/digitalH5/#/home)|斐德坊链|场外转赠|
  |827|[云穹](https://www.tianyancha.com/company/3146769929)|WX_GZH| |[游云南APP](https://static.ybsjyyn.com/download/#/)| | |腾讯链|
  |828|[滴聚](https://www.tianyancha.com/company/3224001885)|WX_GZH||||[H5](https://m.digih.cn/pages/login/register?inviteCode=0eV5Sfbdemt00cTileAqMQ)|火链|场外转赠|
- |829|[CPUNK](https://www.tianyancha.com/company/5499298737)|WX_GZH| | | |[H5](https://c-punk.top/?invite_code=nZmV)|BSN文昌链|场外转赠|
+ |829|[CPUNK](https://www.tianyancha.com/company/5499298737)|WX_GZH| | | |[H5](https://c-punk.top/?invite_code=nZmV)|BSN文昌链|二级市场|
  |830|[海丝数字藏品](https://www.tianyancha.com/company/4254794646)|WX_GZH|
  |831|[元寰数藏](https://www.tianyancha.com/company/5531059332)|WX_GZH| | |APP|[H5](http://www.noteexpert.top/#/?invite_code=zsJGz1)|BSN联盟链|场外转赠|
  |832|[云顶艺术](https://www.tianyancha.com/company/3439209292)|WX_GZH| | |APP|[H5](https://h5.vvtok.com/pages/login/register?inviteCode=9368175)|蚂蚁链|二级市场|
