@@ -1461,4 +1461,5 @@
  |1413|[听陶艺术](https://www.tianyancha.com/company/3445403761)|WX_GZH|||[APP](https://art.tingtao.art/tingtao/app)|[H5](https://tingtao.art/wap)|BSN文昌链|二级市场|
  |1414|[麻吉MAXCHI](https://www.tianyancha.com/company/3468550349)|WX_GZH| | |[APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.mjhy.MDLive&fromcase=40003#opened)|||二级市场|
  |1415|[盛世寻藏](https://www.tianyancha.com/company/5537794663)|WX_GZH| | |[APP](https://nft.737n.com/down/)|[H5](https://nft.737n.com/h5/#/)||二级市场|
+ |1416|[星愿数藏](https://www.tianyancha.com/company/4048478744)|WX_GZH| | |[APP](https://wap.qwetug.top/xinyuan.apk)|[H5](https://wap.qwetug.top/apph5/#/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
