@@ -1189,7 +1189,7 @@
  |1141|[鸿元艺术](https://www.tianyancha.com/company/4508005122)|WX_GZH| | |APP|[H5](http://hongyuanyishu.sudi666666.cn/h5/#/)| |场外转赠|
  |1142|[知传家藏](https://www.tianyancha.com/company/3414024175)|WX_GZH| | | |[H5](https://gallery.keledgechain.com/index)|知传链|场外转赠|
  |1143|[镜星球](https://www.tianyancha.com/company/3455203317)|WX_GZH| | |[APP](https://share-prod.jingxq.com/index.html?inviteCode=IZJE57&agentCode=)||BSN联盟链|场外转赠|
- |1144|[幻艺元宇宙](https://www.tianyancha.com/company/29758260)|WX_GZH||| |[H5](https://hy-h5.qingniaokx.com/pages/user/login/index?inviter_id=56)|BSN武汉链|场外转赠|
+ |1144|[幻艺元宇宙](https://www.tianyancha.com/company/29758260)|WX_GZH|||[APP](https://hy-h5.qingniaokx.com/pages/download/index)|[H5](https://hy-h5.qingniaokx.com/)|BSN武汉链|二级市场|
  |1145|[TMAX至热](https://www.tianyancha.com/company/5522953708)|WX_GZH|| | |[H5](https://www.zrtmax.cn/#/pages/public/register?usercode=dUAtLCF1)|BSN文昌链|二级市场|
  |1146|[魔方数字艺术](https://www.tianyancha.com/company/3033960913)|WX_GZH| | | |[H5](https://crmeb.xiaojiakeji.cn/pages/index/index)| |场外转赠|
  |1147|[柠檬Meta](https://www.tianyancha.com/company/3480012730)|WX_GZH| | | |[H5](https://ningmeng.banshanyd.com/h5/index.html#/)|BSN文昌链|场外转赠|
