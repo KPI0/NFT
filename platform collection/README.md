@@ -1464,4 +1464,5 @@
  |1416|[星愿数藏](https://www.tianyancha.com/company/4048478744)|WX_GZH| | |[APP](https://wap.qwetug.top/xinyuan.apk)|[H5](https://wap.qwetug.top/apph5/#/)|BSN联盟链|场外转赠|
  |1417|[星源数藏](https://www.tianyancha.com/company/5544915980)|WX_GZH| | | |[H5](https://starsource.xinghaoruiye.cn/wap/)||二级市场|
  |1418|[印迹星球](https://www.tianyancha.com/company/5617144530)|WX_GZH|||[APP](https://h5.hhour.cn/pages/common/down)|[H5](https://h5.hhour.cn)|XuperChain|场外转赠|
+ |1419|[洞悉数藏](https://www.tianyancha.com/company/5484225133)|WX_GZH| | | |[H5](https://m.insmeta.art/)|洞悉链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
