@@ -1289,7 +1289,7 @@
  |1240|[泡泡数藏](https://www.tianyancha.com/company/5381476771)|WX_GZH| | |[APP](https://h5.poptown.club/#/download)|[H5](https://poptown.club)|Polygon|场外转赠|
  |1241|[楚藏](https://www.tianyancha.com/company/5568358325)|WX_GZH| | | |[H5](http://chucang888.com:8093/#/)| |场外转赠|
  |1242|[极灵数语](https://www.tianyancha.com/company/3430339798)|WX_GZH| | | |[H5](http://cp.jlsyu.com/h5/#/pages/login/reg?invite=F29BMR)|Ethereum|场外转赠||
- |1243|[观宙艺术](https://www.tianyancha.com/company/5178772270)|WX_GZH| | |[APP](https://app.guanzhou.top/app_download.html)| | |场外转赠|
+ |1243|[观宙艺术](https://www.tianyancha.com/company/5178772270)|WX_GZH| | |[APP](https://app.guanzhou.top/app_download.html)| | |二级市场|
  |1244|[海沃斯元宇宙](https://www.tianyancha.com/company/5474057192)|WX_GZH| | | |[H5](https://www.hivers.cn/)|海创链|场外转赠|
  |1245|[Avatar数字艺术](https://www.tianyancha.com/company/5591707174)|WX_GZH| | | |[H5](http://avatarys.art/#/)|BSN联盟链|二级市场|
  |1246|[巨鲸艺术](https://www.tianyancha.com/company/5425027494)|WX_GZH| | | |[H5](http://www.jujing.art/pages/homePage/index)| |场外转赠|
