@@ -1469,4 +1469,5 @@
  |1420|[蓝海空间](https://www.tianyancha.com/company/5343068864)|WX_GZH| | |[APP](http://h5.blueseazone.com/download.html)|[H5](http://h5.blueseazone.com/#/home)|BSN联盟链|二级市场|
  |1421|[二元星球meta](https://www.tianyancha.com/company/5488765895)|WX_GZH| | |[APP](https://h5.metatwo.cn/download.html)|[H5](https://h5.metatwo.cn)|树图链|二级市场|
  |1422|[嬉皮元兽](https://www.tianyancha.com/company/5585081644)|WX_GZH| | | |[H5](https://m.xipiyuanshou.com/#/)||二级市场|
+ |1423|[Me幻艺](https://www.tianyancha.com/company/5509337619)|WX_GZH| | |[APP](https://www.magicspace.art/pages/public/appdown)|[H5](https://www.magicspace.art/pages/nft/index/index)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
