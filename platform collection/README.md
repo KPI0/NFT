@@ -1483,4 +1483,5 @@
  |1433|[守艺数藏](https://www.tianyancha.com/company/5588678406)|WX_GZH| | | |[H5](https://www.shouyishucang.cn/h5/)|BSN文昌链|场外转赠|
  |1434|[云游数藏](https://www.tianyancha.com/company/36384245)|WX_GZH| | | |[H5](https://shucang.zhihuiyunyou.com/#/)|BSN联盟链|场外转赠|
  |1435|[华夏风物](https://www.tianyancha.com/company/3414478403)|WX_GZH| | |[APP](https://h5.huaxiafengwu.com/)| | |场外转赠|
+ |1436|[源光META](https://www.tianyancha.com/company/5558194908)|WX_GZH| | | |[H5](http://www.nft123456.cn/#/)|贵州版权链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
