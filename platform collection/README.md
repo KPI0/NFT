@@ -1475,4 +1475,5 @@
  |1426|[中漫数文](https://www.tianyancha.com/company/5547445501)|WX_GZH| | | |[H5](http://digital.zmdna.com/)|
  |1427|[蟹藏](https://www.tianyancha.com/company/5541283319)|WX_GZH| | |[APP](http://xc.jxxiezang.com/dist/common/download.html)|H5|BSN文昌链|场外转赠|
  |1428|[鲲洲](https://www.tianyancha.com/company/5342047284)|WX_GZH| | |APP|[H5](https://m.kunisland.com/h5)|人民智链|二级市场|
+ |1429|[峰境艺术](https://www.tianyancha.com/company/5539291296)|WX_GZH| | | |[H5](http://web.xmup.art/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
