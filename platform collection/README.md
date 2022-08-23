@@ -1488,4 +1488,5 @@
  |1438|[源起数字艺术](https://www.tianyancha.com/company/5494841093)|WX_GZH| | | |[H5](http://yuanqiart.cn/#/)|BSN联盟链|场外转赠|
  |1439|[艺玩潮流](https://www.tianyancha.com/company/5592994963)|WX_GZH| | | |[H5](http://www.yiwanchaoliu.art/#/)|天河链|二级市场|
  |1440|[京奥数藏](https://www.tianyancha.com/company/5484454071)|WX_GZH| | |[APP](https://m.jingaoshucang.com/#/pages/passport/download)|[H5](https://m.jingaoshucang.com/)||场外转赠|
+ |1441|[NewBorn新生](https://www.tianyancha.com/company/5611936235)|WX_GZH| | |[APP](https://app.newborn1.art/)|[H5](https://h5.newborn1.art/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
