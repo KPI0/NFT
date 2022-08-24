@@ -1491,4 +1491,5 @@
  |1441|[NewBorn新生艺术](https://www.tianyancha.com/company/5611936235)|WX_GZH| | |[APP](https://app.newborn1.art/)|[H5](https://h5.newborn1.art/#/)||二级市场|
  |1442|[飓风艺数](https://www.tianyancha.com/company/3031762026)|WX_GZH| | | |[H5](http://art.xiaoyuan-tech.com/#/)|BSN联盟链|二级市场|
  |1443|[久视樂乐数藏](https://www.tianyancha.com/company/5328906838)|WX_GZH| | |[APP](https://down.94lele.com/#/download)||
+ |1444|[大千境Art](https://www.tianyancha.com/company/5605465385)|WX_GZH| | |APP|[H5](http://dqj.shenliankj.com/#/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
