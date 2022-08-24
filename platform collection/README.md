@@ -1495,4 +1495,5 @@
  |1445|[链迈宇宙艺术](https://www.tianyancha.com/company/5592270488)|WX_GZH| | | |[H5](http://m.lianmaiyyz.cn/#/)||场外转赠|
  |1446|[idead艺术馆](https://www.tianyancha.com/company/5599600095)|WX_GZH| | |APP|[H5](http://idead.cc/index.html#/)||场外转赠|
  |1447|[梵六](https://www.tianyancha.com/company/5543443459)|WX_GZH| | | |[H5](https://h5.fansix.cn/#/)|HECO|二级市场|
+ |1448|[链玩世界](https://www.tianyancha.com/company/5527594738)|WX_GZH| | | |[H5](https://meta.lianwan.art/#/)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
