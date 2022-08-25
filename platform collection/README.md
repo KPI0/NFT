@@ -1505,4 +1505,5 @@
  |1454|[数字魔方](https://www.tianyancha.com/company/1301125310)|WX_GZH| | |[APP](https://h5.5y.com.cn/pages/download/download)|[H5](https://h5.5y.com.cn/)|BSN联盟链|场外转赠|
  |1455|[零次元ART](https://www.tianyancha.com/company/5635657392)|WX_GZH| | | | |BSN联盟链|
  |1456|[蓝海艺藏](https://www.tianyancha.com/company/5060789743)|WX_GZH| | | |[H5](https://m.hangxiang.art/#/)|BSN联盟链|二级市场|
+ |1457|[炎森数字](https://www.tianyancha.com/company/5248032272)|WX_GZH| | | |[H5](http://14.sh3413.cn/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
