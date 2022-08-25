@@ -1196,7 +1196,7 @@
  |1146|[魔方数字艺术](https://www.tianyancha.com/company/3033960913)|WX_GZH| | | |[H5](https://crmeb.xiaojiakeji.cn/pages/index/index)| |场外转赠|
  |1147|[柠檬Meta](https://www.tianyancha.com/company/3480012730)|WX_GZH| | | |[H5](https://ningmeng.banshanyd.com/h5/index.html#/)|BSN文昌链|场外转赠|
  |1148|[顶尖玩家](https://www.tianyancha.com/company/5581158709)|WX_GZH| | |APP|[H5](http://web.dingjianwanjia.com/wap/)|BSN文昌链|二级市场|
- |1149|
+ |1149|[乐收星球](https://www.tianyancha.com/company/3476588199)|WX_GZH| | |APP|[H5](http://jintaomarket.com/#/)| |二级市场|
  |1150|[应物非遗](https://www.tianyancha.com/company/217412542)|WX_GZH| | | |[H5](http://m.yingwufeiyi.com/home)|树图链|场外转赠|
  |1151|[寻龙数藏](https://www.tianyancha.com/company/5541663914)|WX_GZH| | | |[H5](https://nft.xunlongshucang.com/xunlongapp/)|BSN文昌链|场外转赠|
  |1152|[魔洞Art](https://www.tianyancha.com/company/3076982969)|WX_GZH| | | |[H5](http://h5.mdszcp.com/#/)|BSN联盟链|场外转赠|
