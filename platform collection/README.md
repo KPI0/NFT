@@ -1195,7 +1195,7 @@
  |1146|[魔方数字艺术](https://www.tianyancha.com/company/3033960913)|WX_GZH| | | |[H5](https://crmeb.xiaojiakeji.cn/pages/index/index)| |场外转赠|
  |1147|[柠檬Meta](https://www.tianyancha.com/company/3480012730)|WX_GZH| | | |[H5](https://ningmeng.banshanyd.com/h5/index.html#/)|BSN文昌链|场外转赠|
  |1148|[顶尖玩家](https://www.tianyancha.com/company/5581158709)|WX_GZH| | |APP|[H5](http://web.dingjianwanjia.com/wap/)|BSN文昌链|二级市场|
- |1149|[五洲文化art](https://www.tianyancha.com/company/5430270430)|WX_GZH| | |[APP](http://www.shuihu.art/#/pages/login/download)|[H5](http://www.shuihu.art/#/)|
+ |1149|[五洲文化art](https://www.tianyancha.com/company/5430270430)|WX_GZH| | |[APP](http://www.shuihu.art/#/pages/login/download)|[H5](http://www.shuihu.art)| |停止运营|
  |1150|[应物非遗](https://www.tianyancha.com/company/217412542)|WX_GZH| | | |[H5](http://m.yingwufeiyi.com/home)|树图链|场外转赠|
  |1151|[寻龙数藏](https://www.tianyancha.com/company/5541663914)|WX_GZH| | | |[H5](https://nft.xunlongshucang.com/xunlongapp/)|BSN文昌链|场外转赠|
  |1152|[魔洞Art](https://www.tianyancha.com/company/3076982969)|WX_GZH| | | |[H5](http://h5.mdszcp.com/#/)|BSN联盟链|场外转赠|
@@ -1502,4 +1502,5 @@
  |1452|[盛猿藏品](https://www.tianyancha.com/company/5543678925)|WX_GZH| | |[APP](https://shengyuan.shengyuancangpin.com/index/index/download.html)|[H5](https://shengyuan.shengyuancangpin.com/web/#/)|天河链|二级市场|
  |1453|[禹创艺术](https://www.tianyancha.com/company/5567707223)|WX_GZH| | | |[H5](https://www.yuchuangyishu.com/h5/h5.html#/)|BSN联盟链|二级市场|
  |1454|[数字魔方](https://www.tianyancha.com/company/1301125310)|WX_GZH| | |[APP](https://h5.5y.com.cn/pages/download/download)|[H5](https://h5.5y.com.cn/)|BSN联盟链|场外转赠|
+ |1455|[零次元ART](https://www.tianyancha.com/company/5635657392)|WX_GZH| | | | |BSN联盟链|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
