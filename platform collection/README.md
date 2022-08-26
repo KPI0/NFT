@@ -1506,4 +1506,5 @@
  |1455|[零次元ART](https://www.tianyancha.com/company/5635657392)|WX_GZH| | | | |BSN联盟链|
  |1456|[蓝海艺藏](https://www.tianyancha.com/company/5060789743)|WX_GZH| | | |[H5](https://m.hangxiang.art/#/)|BSN联盟链|二级市场|
  |1457|[炎森数字](https://www.tianyancha.com/company/5248032272)|WX_GZH| | | |[H5](http://14.sh3413.cn/#/)||二级市场|
+ |1458|[LoveVerse](https://www.tianyancha.com/company/5197821429)|WX_GZH| | | |[H5](https://loveverse.xmxianglv.xyz/h5/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
