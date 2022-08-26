@@ -1379,7 +1379,7 @@
  |1329|[艺哆数藏](https://www.tianyancha.com/company/5513618370)|WX_GZH| | | |[H5](https://sc.yiduoart.cn/#/)|长安链|二级市场|
  |1330|[Galaxy数潮](https://www.tianyancha.com/company/5594137747)|WX_GZH| | |[APP](https://www.wwnet.vip/download/app)|[H5](https://app.app.wwnet.vip)||场外转赠|
  |1331|[名家数字艺术](https://www.tianyancha.com/company/3226174892)|WX_GZH| | |APP|[H5](http://mjys.rraga.cn/h5/#/)|BSN文昌链|二级市场|
- |1332|[亚太数字](https://www.tianyancha.com/company/4175100025)|WX_GZH| | | |[H5](https://www.apd.top/)| |场外转赠|
+ |1332|[亚太数字](https://www.tianyancha.com/company/4175100025)|WX_GZH| | | |[H5](https://www.apd.top/)| |二级市场|
  |1333|[MateU Store](https://www.tianyancha.com/company/5032160760)|WX_GZH| | |[APP](http://www.mateuart.com/)|[H5](http://m.mateuart.com)| |场外转赠|
  |1334|[HopeArt](https://www.tianyancha.com/company/3351864906)|WX_GZH| | |APP|[H5](http://hjkj68.com/#/)| |二级市场|
  |1335|[如果Meta](https://www.tianyancha.com/company/5471676796)|WX_GZH| | | |[H5](https://h5.ifmeta.art/)|树图链|场外转赠|
