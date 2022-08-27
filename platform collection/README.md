@@ -930,7 +930,7 @@
  |880|[星昼数字藏品](https://www.tianyancha.com/company/4300421916)|WX_GZH| | |[APP](https://xingzhou.xfyun.cn/h5/#/share?uid=11967&type=2)| |讯飞链|场外转赠|
  |881|[寅生研创](https://www.tianyancha.com/company/5483815708)|WX_GZH| | | |[H5](https://yinbeborn.cqchain.cn/#/pages/home/index?icode=64a5518598d252f9)|文博链|场外转赠|
  |882|[海川数藏](https://www.tianyancha.com/company/5497252879)|WX_GZH| | | |[H5](http://www.hcmeta.top/?invite_code=MDAwMDAwMDAwMLCazGuIdaJ2)|XuperChain|二级市场|
- |883|[爱豆数藏](https://www.tianyancha.com/company/5521058382)|WX_GZH| | | |[H5](https://aidou.art/#/Discovery)|树图链|场外转赠|
+ |883|[爱豆数藏](https://www.tianyancha.com/company/5521058382)|WX_GZH| | | |[H5](https://aidou.art/#/Discovery)|树图链|二级市场|
  |884|[LONGART龙数字](https://www.tianyancha.com/company/3459100731)|WX_GZH| | | |[H5](https://h5.long.art/)|龙数字链|场外转赠|
  |885|[宏超艺数](https://www.tianyancha.com/company/5033318542)|WX_GZH| | |APP|[H5](https://hongchaoshucang.vip/#/register?userCode=6522063604&activityCode=ed85e2746e6d44fea17d791a971cacbd)|树图链|场外转赠|
  |886|[元系空间](https://www.tianyancha.com/company/5123211402)|WX_GZH| | |APP|[H5](https://h5.yuanxispace.com/#/)|版权链|二级市场|
