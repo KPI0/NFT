@@ -632,7 +632,7 @@
  |587|[予藏](https://www.tianyancha.com/company/18695545)|WX_GZH| | |[APP](https://uc.hsl.link/digital-collection/#/appDownload)|[H5](https://uc.hsl.link/digital-collection/#/my)|恒生链|场外转赠|
  |588|[典藏数字艺术](https://www.tianyancha.com/company/5444630763)|WX_GZH| | |APP|[H5](https://www.diancang.net.cn/h5/#)|BSN联盟链|二级市场|
  |589|[TheHypeLand](https://www.tianyancha.com/company/5433132118)|WX_GZH| | ||[H5](http://www.thehypeland.cn/index/user/register.html?code=oc8oh3b4)|
- |590|[数字原生](https://www.tianyancha.com/company/5302272371)|WX_GZH| | | |[H5](https://shuziyuansheng.com/)|SILVIA|
+ |590|[数字原生](https://www.tianyancha.com/company/5302272371)|WX_GZH| | | |[H5](https://shuziyuansheng.com/)|丝路链|场外转赠|
  |591|[陨禾艺数](https://www.tianyancha.com/company/5469781475)|WX_GZH| | | |[H5](http://www.yunhemeta.com/pages/register/register?code=cbgatg)|BSN联盟链|场外转赠|
  |592|[EVOL乐园](https://www.tianyancha.com/company/5064278936)|WX_GZH|| | |[H5](https://evol.xiangweisir.com/h5/#/pages/login/login?sharecode=Pfo1B0)|蚂蚁链|场外转赠|
  |593|[独立艺术](https://www.tianyancha.com/company/5333604461)|WX_GZH| | | |[H5](https://dl.mutoall.com/?inviteUUID=030335)|BSN联盟链|二级市场|
