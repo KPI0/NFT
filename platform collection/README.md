@@ -1527,4 +1527,5 @@
  |1475|[SO藏](https://www.tianyancha.com/company/5544352027)|WX_GZH| | | |[H5](http://so.socang.vip/web/#/)|天河链|停止运营|
  |1476|[G717](https://www.tianyancha.com/company/3417249651)|WX_GZH| | | |[H5](https://www.g717.top/wap/#/)||二级市场|
  |1477|[元流偶像](https://www.tianyancha.com/company/5480920409)|WX_GZH| | |APP|[H5](http://yuanliuouxiang.com/#/)|Polygon|二级市场|
+ |1478|[艺典|臻藏](https://www.tianyancha.com/company/2943670013)|WX_GZH| | | |[H5](https://meta.yijianshuzi.com/)|丝路链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
