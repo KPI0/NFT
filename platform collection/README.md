@@ -1522,4 +1522,5 @@
  |1471|[灵启艺术META](https://www.tianyancha.com/company/5588633625)|WX_GZH| | | |[H5](http://www.lingqimeta.com/#/)|天河链|二级市场|
  |1472|[星野Meta](https://www.tianyancha.com/company/5425377528)|WX_GZH| | |[APP](https://xingshucang.com/down/)|[H5](https://xingshucang.com/wap)|BSN联盟链|二级市场|
  |1473|[艾克斯数藏](https://www.tianyancha.com/company/5540880693)|WX_GZH| | | |[H5](https://www.x-meta.art/)||二级市场|
+ |1474|[VT META](https://www.tianyancha.com/company/5576100502)|WX_GZH| | | |[H5](https://www.vtyun.cn/wap/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
