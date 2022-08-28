@@ -1,3 +1,6 @@
+ ### 送给某些平台，APP网页做得跟![I`Q{A5T7DK7QUG@~%L46 3T](https://user-images.githubusercontent.com/52638884/187074398-a977a64e-7aa4-463c-b73d-f45f7213de7f.png)一样，还好意思商务合作，哪来的脸啊。<br>
+ [![image](https://github.com/KPI0/NFT/blob/main/images/9150e4e5gy1gbtemua2jtj20k00k00u2.jpg)
+
  ### 转载我的没问题，但是必须标明原文出处https://github.com/KPI0/NFT/
  ## 一、平台入口缩写
  *为方便浏览，平台入口用以下的缩写表示。*  
