@@ -1530,4 +1530,5 @@
  |1478|[艺典_臻藏](https://www.tianyancha.com/company/2943670013)|WX_GZH| | | |[H5](https://meta.yijianshuzi.com/)|丝路链|场外转赠|
  |1479|[N次音](https://www.tianyancha.com/company/3164041424)|WX_GZH| || |[H5](https://nciyin.hifiveai.com/)|丝路链|场外转赠|
  |1480|[新艺境数藏](https://www.tianyancha.com/company/5346546942)|WX_GZH| | | |[H5](http://nftxyj.com/login)|XuperChain|场外转赠|
+ |1481|[新越数藏](https://www.tianyancha.com/company/3447364199)|WX_GZH| | |[APP](http://www.xinyuenft.com/download)|[H5](http://www.5077.top)|XuperChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
