@@ -612,7 +612,7 @@
  |568|[泓界](https://www.tianyancha.com/company/2982789778)|WX_GZH| | | |[H5](https://h5.hongjienft.com/register?referralCode=5X3SA5IK)|文旅链|场外转赠|
  |569|[黑洞谜塔Meta](https://www.tianyancha.com/company/5455528871)|WX_GZH| | | |[H5](https://www.hdmeta.art/)|金链盟|场外转赠|
  |570|[幻音Music Meta](https://www.tianyancha.com/company/5451887026)|WX_GZH| | |[APP](http://www.music-meta.net/download/)|[H5](https://h5.music-meta.net/#/pages/login?inviteCode=WPEDY7Y7SJHUA)|XuperChain|场外转赠|
- |571|[鲸选艺品](https://www.tianyancha.com/company/4233963368)|WX_GZH| | |APP|[H5](https://h5.gewukj.vip/#/pages/index?inviteUId=26296)|蚂蚁链|场外转赠|
+ |571|[鲸选艺品](https://www.tianyancha.com/company/4233963368)|WX_GZH| | |APP|[H5](https://h5.gewukj.vip/#/pages/index?inviteUId=26296)|蚂蚁链|二级市场|
  |572|[九维艺术](https://www.tianyancha.com/company/5484321885)|WX_GZH| | |APP|[H5](http://kelianjiuwei.com/)|BSN联盟链|场外转赠|
  |573|[开壹元宇宙](https://www.tianyancha.com/company/5492762051)|WX_GZH| | | |[H5](http://m.kaione-sh.cn/)|XuperChain|二级市场|
  |574|[魔狸moli](https://www.tianyancha.com/company/3224276361)|WX_GZH| | | |[H5](https://m.moli.work/)| |场外转赠|
