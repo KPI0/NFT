@@ -1533,4 +1533,5 @@
  |1481|[新越数藏](https://www.tianyancha.com/company/3447364199)|WX_GZH| | |[APP](http://www.xinyuenft.com/download)|[H5](http://www.5077.top)|XuperChain|二级市场|
  |1482|[心动Verse](https://www.tianyancha.com/company/5065689126)|WX_GZH| | | |[H5](https://www.bodongxinxuan.com/#/)|BSN文昌链|二级市场|
  |1483|[Rainbow潮玩](https://www.tianyancha.com/company/2807504494)|WX_GZH| | | |[H5](http://m.rainbowgf.com/#/)||二级市场|
+ |1484|[2052战士](https://www.tianyancha.com/company/3272484940)|WX_GZH| | | |[H5](https://h5.war2052.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
