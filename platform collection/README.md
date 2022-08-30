@@ -1541,4 +1541,5 @@
  |1489|[数盒谷](https://www.tianyancha.com/company/3448579264)|WX_GZH| | ||[H5](https://m.dboxbj.com/home)|数盒链|场外转赠|
  |1490|[神墟艺术](https://www.tianyancha.com/company/5581579486)|WX_GZH| | | |[H5](https://h5.luohejiehuo.com)|BSN武汉链|二级市场|
  |1491|[文创数藏](https://www.tianyancha.com/company/5609775149)|WX_GZH| | |[APP](https://www.wenchuang.link/download/app/)|||二级市场|
+ |1492|[千创文创](https://www.tianyancha.com/company/3071035872)|WX_GZH| | | |[H5](https://nft.bitworld.pro/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
