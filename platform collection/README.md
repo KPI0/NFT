@@ -1535,4 +1535,5 @@
  |1483|[Rainbow潮玩](https://www.tianyancha.com/company/2807504494)|WX_GZH| | | |[H5](http://m.rainbowgf.com/#/)||二级市场|
  |1484|[2052战士](https://www.tianyancha.com/company/3272484940)|WX_GZH| | | |[H5](https://h5.war2052.com/#/)||二级市场|
  |1485|[必尔佳藏](https://www.tianyancha.com/company/5628221401)|WX_GZH| | |APP|[H5](https://h5.nvmkee.cn/h5/#/)|XuperChain|场外转赠|
+ |1486|[Lion Art](https://www.tianyancha.com/company/5562281050)|WX_GZH| | |[APP](https://web.artlion.cn/)|[H5](https://h5.artlion.cn/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
