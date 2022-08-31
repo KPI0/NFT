@@ -1548,4 +1548,5 @@
  |1496|[宙一数字艺术](https://www.tianyancha.com/company/5629645505)|WX_GZH| | | |[H5](http://h5.zysz.art/)|XuperChain|场外转赠|
  |1497|[灵鹿文化艺术](https://www.tianyancha.com/company/5472962931)|WX_GZH| | |APP|[H5](http://shop.linglu.top/web/#/)||二级市场|
  |1498|[潮流meta](https://www.tianyancha.com/company/5511275996)|WX_GZH| | | |[H5](https://art.cpop.cc/#/)|BSN文昌链|场外转赠|
+ |1499|[NFT唂咚网](https://www.tianyancha.com/company/5206106594)|WX_GZH| | |[APP](https://www.guutoo.com/download)|[H5](https://www.guutoo.com/)|唂咚链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
