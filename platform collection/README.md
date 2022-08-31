@@ -917,7 +917,7 @@
  |866|[云创数藏](https://www.tianyancha.com/company/5540219907)|WX_GZH| |秘宝| |H5|Nervos|场外转赠|
  |867|[AR数藏](https://www.tianyancha.com/company/3089941445)|WX_GZH| | |[APP](http://cesss.qidoukeji.com/appxiazai/)|[H5](https://www.qidoukeji.com#/pages/login/register?uuid=JQPS45)|BSN联盟链|场外转赠|
  |868|[Uverse](https://www.tianyancha.com/company/5477103001)|WX_GZH| | | |[H5](https://u.uwosi.com/#/pages/public/login?invitecode=8696221)|BSN联盟链|场外转赠|
- |869|[原力艺术](https://www.tianyancha.com/company/4344797505)|WX_GZH| | |[APP](http://force.xindonglife.com/registerH5?code=f0hcvdxc47ivbon8)| | |二级市场|
+ |869|[原力艺术](https://www.tianyancha.com/company/4344797505)|WX_GZH| | |[APP](http://force.xindonglife.com/registerH5?code=f0hcvdxc47ivbon8)| |BSC|二级市场|
  |870|[元物之门](https://www.tianyancha.com/company/3420202521)|WX_GZH| | |[APP](https://www.xrsd.com.cn/)| |星火链|
  |871|[吾得库](https://www.tianyancha.com/company/9519792)|WX_GZH|WX_XCX| | |[H5](https://mkt.nft.qq.com/userCenter/)|至信链|
  |872|[METAPASS](https://www.tianyancha.com/company/4544911463)|WX_GZH| | | |[H5](https://m.metapass.net.cn/)|||
