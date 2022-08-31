@@ -1550,4 +1550,5 @@
  |1498|[潮流meta](https://www.tianyancha.com/company/5511275996)|WX_GZH| | | |[H5](https://art.cpop.cc/#/)|BSN文昌链|场外转赠|
  |1499|[NFT唂咚网](https://www.tianyancha.com/company/5206106594)|WX_GZH| | |[APP](https://www.guutoo.com/download)|[H5](https://www.guutoo.com/)|唂咚链|场外转赠|
  |1500|[皇家艺数](https://www.tianyancha.com/company/5659263633)|WX_GZH| | | |[H5](http://shuzicangpin.sksapg.cn/h5/#/)||场外转赠|
+ |1501|[翼元数藏](https://www.tianyancha.com/company/5611852667)|WX_GZH| | |APP|H5|XuperChain|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
