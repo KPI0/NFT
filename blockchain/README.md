@@ -64,3 +64,4 @@
  |61|HyperRedox|[https://scan.redcave.com](https://scan.redcave.com/#/)|
  |62|安存链|[https://www.hub-chain.com](https://www.hub-chain.com/home/index)|
  |63|天河链|[https://explorer.tianhecloud.com](https://explorer.tianhecloud.com/#/tiChain/index)|
+ |64|云图链|[https://scan.hnyt.shop](https://scan.hnyt.shop/#/home)|
