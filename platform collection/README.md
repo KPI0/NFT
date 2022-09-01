@@ -1556,4 +1556,5 @@
  |1504|[有趣玩艺](https://www.tianyancha.com/company/5568483726)|WX_GZH| | | |[H5](https://m.yocho.art/H5/index.html#/)||二级市场|
  |1505|[中龙文创](https://www.tianyancha.com/company/2395428652)|WX_GZH| | | |[H5](https://www.zhong88.cn/#/)|BSN文昌链|二级市场|
  |1506|[火壳立方](https://www.tianyancha.com/company/3404577878)|WX_GZH| | | |[H5](https://nfr.muhuawangluo.com/#/)|BSN联盟链|二级市场|
+ |1507|[美藏数字](https://www.tianyancha.com/company/5501063619)|WX_GZH| | |[APP](https://www.meicang.art/appdownload/html/)|[H5](https://www.meicang.art/Index/index.html)|蚂蚁链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
