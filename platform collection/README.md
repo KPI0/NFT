@@ -1268,7 +1268,7 @@
  |1217|[C宇宙](https://www.tianyancha.com/company/5358160138)|WX_GZH| | |[APP](https://app.ccyz.cc/share/share.html?user_id=)| | |二级市场|
  |1218|[禾言艺品](https://www.tianyancha.com/company/5084273061)|WX_GZH| | |[APP](http://h5.metawuyuan.com/#/pages/downloadApp/downloadApp)|[H5](http://metawuyuan.com/)|BSN文昌链|二级市场|
  |1219|[绘梦艺数](https://www.tianyancha.com/company/5541530946)|WX_GZH| | | |[H5](https://www.huimengnft.com/#/register?code=hqLUY0)|BSN联盟链|二级市场|
- |1220|[OPenC古今元宇宙](https://www.tianyancha.com/company/2965234831)|WX_GZH| | | |[H5](https://openc.huarongxunfang.com/)|XuperChain|场外转赠|
+ |1220|[OPenC古今元宇宙](https://www.tianyancha.com/company/2965234831)|WX_GZH| | | |[H5](https://openc.huarongxunfang.com/)|XuperChain|二级市场|
  |1221|[宇跃数藏艺术](https://www.tianyancha.com/company/5469480652)|WX_GZH| | |[APP](http://download.zcyuanyu.com/download.html)|[H5](https://nft.zcyuanyu.com/h5/)|知金链|二级市场|
  |1222|[京墟数字](https://www.tianyancha.com/company/4986239519)|WX_GZH| | | |[H5](https://www.baychain.cn/#/)| |二级市场|
  |1223|[太极数藏](https://www.tianyancha.com/company/5562173326)|WX_GZH| | | |[H5](https://taijishucang.com/#/)|天河链|二级市场|
