@@ -39,7 +39,7 @@
  |30|[Honnverse虹宇宙](https://www.tianyancha.com/company/3453249615)|WX_GZH|WX_XCX| |[APP](https://honnverse.stars-mine.com/static/download.html)|[H5](https://apps.honnverse.cn/apps/shopping-h5/index.html#/homePage)|Hashii|场外转赠|
  |31|[Hotlove](https://www.tianyancha.com/company/2315093424)|WX_GZH| | |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)| |蚂蚁链|二级市场|
  |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554)|WX_GZH|||[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS)|  |树图链|二级市场|
- |33|[超维元宇宙](https://www.tianyancha.com/company/5225866617)|WX_GZH| |ZFB_XCX|[APP](http://superdapp.hzchainup.com/#/?invite_code=BGD9IA)||蚂蚁链|二级市场|
+ |33|[超维空间](https://www.tianyancha.com/company/5225866617)|WX_GZH| |ZFB_XCX|[APP](https://superdapi.hzchainup.com/h5/#/pages/download/download)||蚂蚁链|二级市场|
  |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |[APP](https://apps.apple.com/app/apple-store/id1574468967)|[H5](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链、腾讯链|
  |35|[画生Meta](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|二级市场|
  |36|[灵境商店](https://www.tianyancha.com/company/3450444562)|WX_GZH|    |    |[APP](https://lingjingshangdian.com/)|[H5](http://lingjingshangdian.com/html/#/)|蚂蚁链|场外转赠|
