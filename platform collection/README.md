@@ -1562,4 +1562,5 @@
  |1510|[隼月数藏](https://www.tianyancha.com/company/5051156036)|WX_GZH| | | |[H5](http://h5.mfcollection.net/#/)||场外转赠|
  |1511|[零六数藏](https://www.tianyancha.com/company/5443508736)|WX_GZH| | | |[H5](https://h5.zerosix.art/#/index)|海峡链|场外转赠|
  |1512|[反转未来](https://www.tianyancha.com/company/4405744270)|WX_GZH| | | |[H5](https://fanzhuanweilai.com/)||场外转赠|
+ |1513|[幻海数创](https://www.tianyancha.com/company/5675200426)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
