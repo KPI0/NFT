@@ -1504,7 +1504,7 @@
  |1452|[盛猿藏品](https://www.tianyancha.com/company/5543678925)|WX_GZH| | |[APP](https://shengyuan.shengyuancangpin.com/index/index/download.html)|[H5](https://shengyuan.shengyuancangpin.com/web/#/)|天河链|二级市场|
  |1453|[禹创艺术](https://www.tianyancha.com/company/5567707223)|WX_GZH| | | |[H5](https://www.yuchuangyishu.com/h5/h5.html#/)|BSN联盟链|二级市场|
  |1454|[数字魔方](https://www.tianyancha.com/company/1301125310)|WX_GZH| | |[APP](https://h5.5y.com.cn/pages/download/download)|[H5](https://h5.5y.com.cn/)|BSN联盟链|场外转赠|
- |1455|[零次元ART](https://www.tianyancha.com/company/5635657392)|WX_GZH| | | | |BSN联盟链|
+ |1455|[零次元ART](https://www.tianyancha.com/company/5635657392)|WX_GZH| | | |[H5](https://nft.0cy.cc/)|BSN联盟链|场外转赠|
  |1456|[蓝海艺藏](https://www.tianyancha.com/company/5060789743)|WX_GZH| | | |[H5](https://m.hangxiang.art/#/)|BSN联盟链|二级市场|
  |1457|[炎森数字](https://www.tianyancha.com/company/5248032272)|WX_GZH| | | |[H5](http://14.sh3413.cn/#/)||二级市场|
  |1458|[LoveVerse](https://www.tianyancha.com/company/5197821429)|WX_GZH| | | |[H5](https://loveverse.xmxianglv.xyz/h5/)|BSN文昌链|二级市场|
