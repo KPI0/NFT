@@ -1565,4 +1565,5 @@
  |1513|[幻海数创](https://www.tianyancha.com/company/5675200426)|WX_GZH|
  |1514|[镜界艺术](https://www.tianyancha.com/company/3342725392)|WX_GZH| | |APP|[H5](http://h5.yx3721.cn/#/)|XuperChain|场外转赠|
  |1515|[十三朝新文创](https://www.tianyancha.com/company/3149758980)|WX_GZH| | |[APP](http://app.yuanhuanys.xyz/shisanchao)|[H5](https://h5.shisanchao.cn/#/)|蚂蚁链|场外转赠|
+ |1516|[爱藏艺术](https://www.tianyancha.com/company/931452451)|WX_GZH| | | |[H5](https://www.aicangart.com/h5/#/)|草田链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
