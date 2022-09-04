@@ -66,3 +66,4 @@
  |63|天河链|[https://explorer.tianhecloud.com](https://explorer.tianhecloud.com/#/tiChain/index)|
  |64|云图链|[https://scan.hnyt.shop](https://scan.hnyt.shop/#/home)|
  |65|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
+ |66|数实链|[https://chain-info.shushibao.top](https://chain-info.shushibao.top/home)|
