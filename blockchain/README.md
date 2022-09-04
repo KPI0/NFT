@@ -12,7 +12,7 @@
  |9|智臻链浏览器|[http://jdd-nft.jd.com](http://jdd-nft.jd.com/#/)|
  |10|海星区块链(IOV Blockchain)|[http://explorer.scaniov.com](http://explorer.scaniov.com/)|
  |11|海峡链|[https://www.straitchain.com](https://explorer.straitchain.com/#/index)|
- |12|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
+ |12|方特海峡链|[https://ftscan.hytch.com](https://ftscan.hytch.com/#/index)|
  |13|超块链|[https://www.hyperchain.net](https://www.hyperchain.net/static/hyperchainExplorer.html#/)|
  |14|Polygon|[https://polygonscan.com](https://polygonscan.com/)|
  |15|趣链|微信小程序_趣链服务平台|
@@ -65,3 +65,4 @@
  |62|安存链|[https://www.hub-chain.com](https://www.hub-chain.com/home/index)|
  |63|天河链|[https://explorer.tianhecloud.com](https://explorer.tianhecloud.com/#/tiChain/index)|
  |64|云图链|[https://scan.hnyt.shop](https://scan.hnyt.shop/#/home)|
+ |65|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
