@@ -1567,4 +1567,5 @@
  |1515|[十三朝新文创](https://www.tianyancha.com/company/3149758980)|WX_GZH| | |[APP](http://app.yuanhuanys.xyz/shisanchao)|[H5](https://h5.shisanchao.cn/#/)|蚂蚁链|场外转赠|
  |1516|[爱藏艺术](https://www.tianyancha.com/company/931452451)|WX_GZH| | | |[H5](https://www.aicangart.com/h5/#/)|草田链|二级市场|
  |1517|[Super Sign](https://www.tianyancha.com/company/5571163750)|WX_GZH| | |APP| |DAC|二级市场|
+ |1518|[Yoogy数字艺术](https://www.tianyancha.com/company/5607326067)|WX_GZH| | |[APP](https://yoogy.vip/#/pages/downloadApp/index)|[H5](https://yoogy.vip/#/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
