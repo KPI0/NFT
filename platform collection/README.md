@@ -1574,4 +1574,5 @@
  |1522|[有藏艺术](https://www.tianyancha.com/company/5605504339)|WX_GZH| | | |[H5](https://h5.ycyishu.com/#/)||二级市场|
  |1523|[源宇艺术](https://www.tianyancha.com/company/5620769700)|WX_GZH| | | |[H5](https://www.u-meta.art/index.html#/pages/login/index)|BSN文昌链|二级市场|
  |1524|[中发数藏](https://www.tianyancha.com/company/5617312225)|WX_GZH| | | |[H5](http://m.z8art.com/h5/)|BSN联盟链|场外转赠|
+ |1525|[蒙自艺术](https://www.tianyancha.com/company/3169381687)|WX_GZH| | | |[H5](https://meta.glkj.online/#/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
