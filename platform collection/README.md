@@ -1571,4 +1571,5 @@
  |1519|[方特数字空间](https://www.tianyancha.com/company/5212135959)|WX_GZH| | | |H5|方特海峡链|场外转赠|
  |1520|[物农数藏](https://www.tianyancha.com/company/4490199836)|WX_GZH| | | |[H5](https://wn-web.80dsp.com/login)|数实链|场外转赠|
  |1521|[Meta鲸鲲数字艺术](https://www.tianyancha.com/company/5603852165)|WX_GZH| | |APP|[H5](https://newnft.sdjkys.cn/h5/index.html#/)|BSN文昌链|二级市场|
+ |1522|[有藏艺术](https://www.tianyancha.com/company/5605504339)|WX_GZH| | | |[H5](https://h5.ycyishu.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
