@@ -1273,7 +1273,7 @@
  |1222|[京墟数字](https://www.tianyancha.com/company/4986239519)|WX_GZH| | | |[H5](https://www.baychain.cn/#/)| |二级市场|
  |1223|[太极数藏](https://www.tianyancha.com/company/5562173326)|WX_GZH| | | |[H5](https://taijishucang.com/#/)|天河链|二级市场|
  |1224|[新华能阔](https://www.tianyancha.com/company/3456423808)|WX_GZH| | |APP|[H5](https://nft.hanweiip.com/h5/pages/index/index)|BSN文昌链|场外转赠|
- |1225|[维他益数](https://www.tianyancha.com/company/5571202528)|WX_GZH| | | |[H5](http://www.soulofcn.com/apph5/#/)| |场外转赠|
+ |1225|[维他益数](https://www.tianyancha.com/company/5571202528)|WX_GZH| | | |[H5](http://www.soulofcn.com/apph5/#/)| |二级市场|
  |1226|[奇幻艺术](https://www.tianyancha.com/company/5500655165)|WX_GZH| | |[APP](https://master.hxdwlkj.top/download/index.html#/)| |BSN文昌链|场外转赠|
  |1227|[麒幻艺术](https://www.tianyancha.com/company/5545397345)|WX_GZH| | |APP|[H5](https://qihuan.art/)|树图链|二级市场|
  |1228|[体育艺术](https://www.tianyancha.com/company/5544897938)|WX_GZH| | | |[H5](https://h5.hancang.art/pages/user/index/index)| |二级市场|
