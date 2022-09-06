@@ -1581,4 +1581,5 @@
  |1529|[九九数藏](https://www.tianyancha.com/company/3471833935)|WX_GZH| | |[APP](http://static.99.ink/pages/download/index.html)|[H5](https://h5.99.ink/)|BSN文昌链|二级市场|
  |1530|[星洞艺术](https://www.tianyancha.com/company/5466396821)|WX_GZH| | | |[H5](https://meta.eerss.cn)|BSN联盟链|二级市场|
  |1531|[幻Dao](https://www.tianyancha.com/company/5595888224)|WX_GZH| | |APP|[H5](https://dao.magicd.art/h5/index.html#/)|BSN文昌链|二级市场|
+ |1532|[筑元](https://www.tianyancha.com/company/5539084989)|WX_GZH| | | |[H5](https://app.zysk8.cn/index.html#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
