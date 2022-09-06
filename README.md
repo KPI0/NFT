@@ -1028,7 +1028,8 @@
  |877|[版藏](https://www.tianyancha.com/company/3060197948)|WX_GZH|WX_XCX| | | |XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
  
+
 # 历史:star:
 
-[![Stargazers over time](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
+[![Stargazers over time](https://starchart.cc/KPI0/NFT.svg)](https://starchart.cc/KPI0/NFT)
 
