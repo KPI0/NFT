@@ -1568,7 +1568,7 @@
  |1516|[爱藏艺术](https://www.tianyancha.com/company/931452451)|WX_GZH| | | |[H5](https://www.aicangart.com/h5/#/)|草田链|二级市场|
  |1517|[Super Sign](https://www.tianyancha.com/company/5571163750)|WX_GZH| | |APP| |DAC|二级市场|
  |1518|[Yoogy数字艺术](https://www.tianyancha.com/company/5607326067)|WX_GZH| | |[APP](https://yoogy.vip/#/pages/downloadApp/index)|[H5](https://yoogy.vip/#/)|BSN联盟链|二级市场|
- |1519|[方特数字空间](https://www.tianyancha.com/company/5212135959)|WX_GZH| | | |H5|方特海峡链|场外转赠|
+ |1519|[方元数藏](https://www.tianyancha.com/company/5212135959)|WX_GZH| | | |[H5](https://fysc-h5.hytch.com/lp/index.html#/login)|方特海峡链|场外转赠|
  |1520|[物农数藏](https://www.tianyancha.com/company/4490199836)|WX_GZH| | | |[H5](https://wn-web.80dsp.com/login)|数实链|场外转赠|
  |1521|[Meta鲸鲲数字艺术](https://www.tianyancha.com/company/5603852165)|WX_GZH| | |APP|[H5](https://newnft.sdjkys.cn/h5/index.html#/)|BSN文昌链|二级市场|
  |1522|[有藏艺术](https://www.tianyancha.com/company/5605504339)|WX_GZH| | | |[H5](https://h5.ycyishu.com/#/)||二级市场|
