@@ -1584,4 +1584,5 @@
  |1532|[筑元](https://www.tianyancha.com/company/5539084989)|WX_GZH| | | |[H5](https://app.zysk8.cn/index.html#/)||二级市场|
  |1533|[元境Meta](https://www.tianyancha.com/company/3471651913)|WX_GZH|
  |1534|[炫奥数藏](https://www.tianyancha.com/company/5566336510)|WX_GZH| | | |[H5](http://wechat.xuanao.vip/#/)||二级市场|
+ |1535|[新界数藏](https://www.tianyancha.com/company/3226667046)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
