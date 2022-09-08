@@ -1387,7 +1387,7 @@
  |1336|[千年Art](https://www.tianyancha.com/company/3442926586)|WX_GZH| | |APP|[H5](http://www.yuhongwl.com/wap/)|BSN文昌链、XuperChain|二级市场|
  |1337|[魔盒meta](https://www.tianyancha.com/company/5595343494)|WX_GZH| | | |[H5](http://www.meta.nextbox.top/)|BSN联盟链|二级市场|
  |1338|[幻质5](https://www.tianyancha.com/company/5511369709)|WX_GZH| | | |[H5](http://05metaspace.com/#/)|BSN文昌链|场外转赠|
- |1339|[晋元Art](https://www.tianyancha.com/company/5548117604)|WX_GZH| | |[APP](https://jinyuanshucang.com/down.html)|H5|BSN联盟链|场外转赠|
+ |1339|[晋元Art](https://www.tianyancha.com/company/5548117604)|WX_GZH| | |[APP](https://jinyuanshucang.com/down.html)|[H5](https://web.jinyuanshucang.com)|BSN文昌链|二级市场|
  |1340|[遥作数字艺术](https://www.tianyancha.com/company/3347707151)|WX_GZH| | | |[H5](https://nft.fanmeicity.com/h5/)|BSN联盟链、XuperChain|二级市场|
  |1341|[百度网盘朝云](https://www.tianyancha.com/company/3483296962)|WX_GZH| |百度网盘APP|APP|[H5](https://pan.baidu.com/operation/activitys/nftmall/main?na_theme=141414&view_type=fullscreen)|XuperChain|场外转赠|
  |1342|[幻博艺术](https://www.tianyancha.com/company/5640976593)|WX_GZH| | |APP|H5|
