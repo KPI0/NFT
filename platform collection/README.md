@@ -1588,4 +1588,5 @@
  |1536|[鱿鱼Meta](https://www.tianyancha.com/company/3387414128)|WX_GZH| | |[APP](http://h5.youyumeta.com/squid.apk)|[H5](http://h5.youyumeta.com)||交易市场|
  |1537|[起点数藏](https://www.tianyancha.com/company/2357896743)|WX_GZH| | |[APP](http://sch5.outset.vip/#/download)|[H5](http://sch5.outset.vip/#/)|树图链|二级市场|
  |1538|[光头艺数](https://www.tianyancha.com/company/3349534735)|WX_GZH|
+ |1539|[磐龙数字艺术](https://www.tianyancha.com/company/5126652009)|WX_GZH| | |[APP](https://panlong.lemeng666.com/#/pages/download)|[H5](https://panlong.lemeng666.com/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
