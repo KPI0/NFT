@@ -1591,7 +1591,7 @@
  |1538|[光头艺数](https://www.tianyancha.com/company/3349534735)|WX_GZH|
  |1539|[磐龙数字艺术](https://www.tianyancha.com/company/5126652009)|WX_GZH| | |[APP](https://panlong.lemeng666.com/#/pages/download)|[H5](https://panlong.lemeng666.com/#/)|BSN文昌链|二级市场|
  |1540|[膨胀星球](https://www.tianyancha.com/company/5529805909)|WX_GZH| | | | |BSN文昌链|
- |1541|[韭菜Box](https://www.tianyancha.com/company/5628292131)|WX_GZH| | |APP|[H5](https://jiucaibox.vip/h5/h5.html#/)||二级市场|
+ |1541|[韭菜Box](https://www.tianyancha.com/company/5628292131)|WX_GZH| | |APP|[H5](https://jiucaibox.vip/h5/h5.html#/)|BSN文昌链|二级市场|
  |1542|[美天艺术](https://www.tianyancha.com/company/5488835109)|WX_GZH| | |APP|[H5](https://www.meta-time.art/)|BSN文昌链|二级市场|
  |1543|[象链](https://www.tianyancha.com/company/5553744671)|WX_GZH| | | |[H5](https://xlapi.xiangliannft.com/h5/)|蚂蚁链|二级市场|
  |1544|[WitBox](https://www.tianyancha.com/company/3192368624)|WX_GZH| | | |[H5](https://www.witbox.vip/#/)|XuperChain|场外转赠|
