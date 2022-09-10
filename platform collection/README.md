@@ -909,7 +909,7 @@
  |857|[InPhinity](https://www.tianyancha.com/company/4096761880)|WX_GZH| | | |[H5](http://ipwx.petians.com?inviteUserId=115170)| |二级市场|
  |858|[无限音乐藏品](https://www.tianyancha.com/company/50488656)|WX_GZH| | | |[H5](https://m.wmusic.cn/)|火链|场外转赠|
  |859|[无限艺术平台](https://www.tianyancha.com/company/3298657167)|WX_GZH|   |  |  |[H5](http://meta-infinity.club/wap/#/pages/login/register/register?id=266493)|Polygon|二级市场|
- |860|[MOSSAI宇宙](https://www.tianyancha.com/company/4335845239)|WX_GZH| | |[APP](https://www.mossai.net.cn/island)|[H5](https://m.datahyperloop.com/)|树图链|
+ |860|[MOSSAI宇宙](https://www.tianyancha.com/company/4335845239)|WX_GZH| | |[APP](https://www.mossai.net.cn/)|[H5](https://m.datahyperloop.com/)|树图链|场外转赠|
  |861|[华数文创](https://www.tianyancha.com/company/2349058652)|WX_GZH| | | |[H5](https://s.hrce.com/#/pages/login/register?id=12824)| |交易市场|
  |862|pyme| | |element| |[H5](https://pyme.team/?ref=KPIZERO)|Polygon|二级市场|
  |863|[纷象](https://www.tianyancha.com/company/5147621432)|WX_GZH| | | |[H5](https://nftime.vip/mobile/)|BSN联盟链、XuperChain、Polygon、海峡链|场外转赠|
