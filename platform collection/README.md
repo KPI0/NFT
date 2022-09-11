@@ -1518,7 +1518,7 @@
  |1465|[梦幻艺术](https://www.tianyancha.com/company/5481143897)|WX_GZH| | | |[H5](http://menghuan.art/h5/index)||二级市场|
  |1466|[瞬境数藏](https://www.tianyancha.com/company/3469578891)|WX_GZH| | | |[H5](http://h5.soonmeta.art/)||二级市场|
  |1467|[GridCity网格同城](https://www.tianyancha.com/company/5507662431)|WX_GZH| | |[APP](https://admin.gridcity.cc/#/)|[H5](https://admin.gridcity.cc/h5/#/)|BSN联盟链|二级市场|
- |1468|[合漫数藏](https://www.tianyancha.com/company/5605944799)|WX_GZH| | |APP|[H5](https://h5.hemansc.com/wap/)|BSN文昌链|二级市场|
+ |1468|[合漫肃创](https://www.tianyancha.com/company/5605944799)|WX_GZH| | |APP|[H5](https://h5.hemansc.com/wap/)|BSN文昌链|二级市场|
  |1469|[星恒空间](https://www.tianyancha.com/company/5609016050)|WX_GZH| | |[APP](https://app.xingheng.art/)|[H5](https://h5.xingheng.art/#/)|BSN文昌链|场外转赠|
  |1470|[奥艺数字文创](https://www.tianyancha.com/company/5577465048)|WX_GZH| | | |[H5](https://aoyishuzi.com/)|蚂蚁链|二级市场|
  |1471|[灵启艺术META](https://www.tianyancha.com/company/5588633625)|WX_GZH| | | |[H5](http://www.lingqimeta.com/#/)|天河链|二级市场|
