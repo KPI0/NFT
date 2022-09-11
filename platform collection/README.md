@@ -1595,4 +1595,5 @@
  |1542|[美天艺术](https://www.tianyancha.com/company/5488835109)|WX_GZH| | |APP|[H5](https://www.meta-time.art/)|BSN文昌链|二级市场|
  |1543|[象链](https://www.tianyancha.com/company/5553744671)|WX_GZH| | | |[H5](https://xlapi.xiangliannft.com/h5/)|蚂蚁链|二级市场|
  |1544|[WitBox](https://www.tianyancha.com/company/3192368624)|WX_GZH| | | |[H5](https://www.witbox.vip/#/)|XuperChain|场外转赠|
+ |1545|[CeDeArt](https://www.tianyancha.com/company/49982401)|WX_GZH| | | |[H5](https://cede.art/#/)|蚂蚁链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
