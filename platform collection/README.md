@@ -2,7 +2,7 @@
 
  |序号|平台名称|微信公众号|微信小程序|其他|客户端|网页端|上链信息|交易机制|
  |----|--------|---------|----------|----|------|------|-------|--------|
- |1|Chiko&Roko| |  |OpenSea| |[H5](https://expo.chikoroko.art/referral/b9kwdry8wm)|Polygon|二级市场|
+ |1|Chiko&Roko| |  |OpenSea| |[H5](https://chikoroko.art/referral/b9kwdry8wm)|Polygon|二级市场|
  |2|[鲸探](https://www.tianyancha.com/company/5012529950)|WX_GZH| |ZFB_XCX|[APP](https://m.antfans.com/download.html?)| |蚂蚁链|场外转赠|
  |3|[芒果数字藏品](https://www.tianyancha.com/company/624488850)|WX_GZH||芒果TV APP|[APP](https://app.mgtv.com/h/n/)| |光芒链|场外转赠|
  |4|[淘票票](https://www.tianyancha.com/company/2358878914)| | |鲸探|[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|[H5](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|蚂蚁链|场外转赠|
@@ -1598,4 +1598,5 @@
  |1545|[CeDeArt](https://www.tianyancha.com/company/49982401)|WX_GZH| | |APP|[H5](https://cede.art/#/)|蚂蚁链|二级市场|
  |1546|[地球制造](https://www.tianyancha.com/company/5455785940)|WX_GZH| | |APP|[H5](http://app.madeonearth.com.cn/#/)|BSN文昌链|二级市场|
  |1547|[华人道藏](https://www.tianyancha.com/company/2349058652)|WX_GZH| | |[APP](https://dao.hrce.com/#/download)|[H5](https://dao.hrce.com/#/login)||二级市场|
+ |1548|[艺狐数藏](https://www.tianyancha.com/company/118621213)|WX_GZH| | | |[H5](https://www.artfoxmeta.link/#/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
