@@ -1601,4 +1601,5 @@
  |1547|[华人道藏](https://www.tianyancha.com/company/2349058652)|WX_GZH| | |[APP](https://dao.hrce.com/#/download)|[H5](https://dao.hrce.com/#/login)||二级市场|
  |1548|[艺狐数藏](https://www.tianyancha.com/company/118621213)|WX_GZH| | | |[H5](https://www.artfoxmeta.link/#/)|BSN文昌链|场外转赠|
  |1549|[水星艺术](https://www.tianyancha.com/company/5483698122)|WX_GZH| | |[APP](https://sxapp.8planets.cn/down/)|[H5](https://sxapp.8planets.cn)|BSN联盟链|场外转赠|
+ |1550|[阁方文藏](https://www.tianyancha.com/company/5522019246)|WX_GZH| | |[APP](http://app.gefangnft.com/appDown/)|[H5](http://h5.gefangnft.com/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
