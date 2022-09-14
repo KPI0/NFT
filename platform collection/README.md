@@ -942,7 +942,7 @@
  |889|[PandaGo](https://www.tianyancha.com/company/5524835870)|WX_GZH| | |APP|[H5](https://mgejt.club/wap/#/pages/login/register/register?id=637436)|Polygon|二级市场|
  |890|[MEVA Studio](https://www.tianyancha.com/company/5359818066)|WX_GZH| | |APP|[H5](https://mevameta.com/)|XuperChain|二级市场|
  |891|[星光元宇宙](https://www.tianyancha.com/company/5268524114)|WX_GZH| | | |[H5](https://www.starlight.top/?invite_code=NLX2CF&invite_type=0)|BSC|二级市场|
- |892|[星探艺数](https://www.tianyancha.com/company/5532435907)|WX_GZH| |NFTCN|
+ |892|[星探艺数](https://www.tianyancha.com/company/5532435907)|WX_GZH| | | |[H5](https://xingtan-m.rarefy.cn/#/)||二级市场|
  |893|[NFT纪元](https://www.tianyancha.com/company/5396939302)|WX_GZH| | |APP|[H5](https://bytepic.cn/)|树图链|二级市场|
  |894|[赛博艺术](https://www.tianyancha.com/company/5386668555)|WX_GZH| | |APP|[H5](https://app.saiboyishu.cn/#/pages/register/index?code=1)|蚂蚁链|场外转赠|
  |895|[时境艺术](https://www.tianyancha.com/company/5498978458)|WX_GZH| |秘宝| |[H5](https://shijingart.com/wap/)| |场外转赠|
