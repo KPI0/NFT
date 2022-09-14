@@ -1604,4 +1604,5 @@
  |1550|[阁方文藏](https://www.tianyancha.com/company/5522019246)|WX_GZH| | |[APP](http://app.gefangnft.com/appDown/)|[H5](http://h5.gefangnft.com/)|BSN联盟链|二级市场|
  |1551|[啄壳艺术](https://www.tianyancha.com/company/4147494180)|WX_GZH| | | |[H5](https://h5.peckshell.art/#/)|BSN文昌链|二级市场|
  |1552|[AC数字文创](https://www.tianyancha.com/company/4058460659)|WX_GZH| | | |[H5](https://www.acmeta.top/)|XuperChain|二级市场|
+ |1553|[D UNIVERSE](https://www.tianyancha.com/company/2358328079)|WX_GZH| | | |[H5](https://digital.d-universe.net/#/)|树图链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
