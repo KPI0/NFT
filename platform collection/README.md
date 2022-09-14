@@ -1606,4 +1606,5 @@
  |1552|[AC数字文创](https://www.tianyancha.com/company/4058460659)|WX_GZH| | | |[H5](https://www.acmeta.top/)|XuperChain|二级市场|
  |1553|[D UNIVERSE](https://www.tianyancha.com/company/2358328079)|WX_GZH| | | |[H5](https://digital.d-universe.net/#/)|树图链|场外转赠|
  |1554|[尘境艺术](https://www.tianyancha.com/company/5606076695)|WX_GZH| | |APP|[H5](https://meta.chenjingyishu.com/)|树图链|二级市场|
+ |1555|[花生Meta](https://www.tianyancha.com/company/5519272930)|WX_GZH| | | |[H5](http://huashen.peanutnft.com/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| 
