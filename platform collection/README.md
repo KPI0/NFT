@@ -1613,4 +1613,5 @@
  |1559|[橘洲数字文化](https://www.tianyancha.com/company/5493105029)|WX_GZH|||[APP](http://app.juzhoulian.cn/appdownload)|[H5](http://jz.juzhoulian.cn/web)||二级市场|
  |1560|[寻雾数藏](https://www.tianyancha.com/company/5588245846)|WX_GZH| | |[APP](https://meta.xwnft.art/#/pages/download)|[H5](http://meta.xwnft.art/#/)|BSN文昌链|二级市场|
  |1561|[数泉](https://www.tianyancha.com/company/5405932412)|WX_GZH| | | |[H5](https://app.shuquan.art/home)|国版链|二级市场|
+ |1562|[Alice数创艺术](https://www.tianyancha.com/company/5660919597)|WX_GZH| | |APP|[H5](https://meta.alicenft.cn/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
