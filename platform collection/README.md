@@ -1611,4 +1611,5 @@
  |1557|[一度梦幻](https://www.tianyancha.com/company/5557878902)|WX_GZH| | | |[H5](http://mqqwl.com/#/)||二级市场|
  |1558|[恒晋数藏](https://www.tianyancha.com/company/5650539835)|WX_GZH| | |APP|[H5](https://app.hengjinsz.cn/#/)|BSN文昌链|二级市场|
  |1559|[橘洲数字文化](https://www.tianyancha.com/company/5493105029)|WX_GZH|||[APP](http://app.juzhoulian.cn/appdownload)|[H5](http://jz.juzhoulian.cn/web)||二级市场|
+ |1560|[寻雾数藏](https://www.tianyancha.com/company/5588245846)|WX_GZH| | |[APP](https://meta.xwnft.art/#/pages/download)|[H5](http://meta.xwnft.art/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
