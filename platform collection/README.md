@@ -1618,4 +1618,5 @@
  |1564|[闪藏](https://www.tianyancha.com/company/4500035505)|WX_GZH| | | |[H5](https://app.atfun.cc/)|BSN武汉链|二级市场|
  |1565|[MTO少女](https://www.tianyancha.com/company/5586533967)|WX_GZH| | | |[H5](https://h5.mto520.com/)||二级市场|
  |1566|[起东山](https://www.tianyancha.com/company/5647418066)|WX_GZH| | | |[H5](https://qidongshan.itliusu.com/web/h5/)|BSN文昌链|二级市场|
+ |1567|[宇寻艺术](https://www.tianyancha.com/company/38629749)|WX_GZH| | |[APP](https://huanqiushengao.cn/download/index.html)|[H5](https://huanqiushengao.cn/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
