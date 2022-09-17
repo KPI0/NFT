@@ -1564,7 +1564,7 @@
  |1510|[隼月数藏](https://www.tianyancha.com/company/5051156036)|WX_GZH| | | |[H5](http://h5.mfcollection.net/#/)||场外转赠|
  |1511|[零六数藏](https://www.tianyancha.com/company/5443508736)|WX_GZH| | | |[H5](https://h5.zerosix.art/#/index)|海峡链|场外转赠|
  |1512|[反转未来](https://www.tianyancha.com/company/4405744270)|WX_GZH| | | |[H5](https://fanzhuanweilai.com/)||场外转赠|
- |1513|[幻海数创](https://www.tianyancha.com/company/5675200426)|WX_GZH| | | |[H5](https://h5.jffddc.cn/index.html)|BSN文昌链|二级市场|
+ |1513|[幻海数创](https://www.tianyancha.com/company/5675200426)|WX_GZH| | | |[H5](https://h5.jffddc.cn/index.html)|BSN文昌链|停止运营|
  |1514|[镜界艺术](https://www.tianyancha.com/company/3342725392)|WX_GZH| | |APP|[H5](http://h5.yx3721.cn/#/)|XuperChain|场外转赠|
  |1515|[十三朝新文创](https://www.tianyancha.com/company/3149758980)|WX_GZH| | |[APP](http://app.yuanhuanys.xyz/shisanchao)|[H5](https://h5.shisanchao.cn/#/)|蚂蚁链|场外转赠|
  |1516|[爱藏艺术](https://www.tianyancha.com/company/931452451)|WX_GZH| | | |[H5](https://www.aicangart.com/h5/#/)|草田链|二级市场|
