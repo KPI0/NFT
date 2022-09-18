@@ -67,3 +67,4 @@
  |64|云图链|[https://scan.hnyt.shop](https://scan.hnyt.shop/#/home)|
  |65|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
  |66|数实链|[https://chain-info.shushibao.top](https://chain-info.shushibao.top/home)|
+ |67|HWChain|[https://www.hwelltech.com](https://explorer.hwelltech.com/)|
