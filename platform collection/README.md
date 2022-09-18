@@ -1620,4 +1620,5 @@
  |1566|[起东山](https://www.tianyancha.com/company/5647418066)|WX_GZH| | | |[H5](https://qidongshan.itliusu.com/web/h5/)|BSN文昌链|二级市场|
  |1567|[宇寻艺术](https://www.tianyancha.com/company/38629749)|WX_GZH| | |[APP](https://huanqiushengao.cn/download/index.html)|[H5](https://huanqiushengao.cn/#/)|BSN文昌链|二级市场|
  |1568|[吉吉Meta](https://www.tianyancha.com/company/4977560544)|WX_GZH| | | |[H5](http://mate.jijipai.cn/#/)|HECO|二级市场|
+ |1569|[幻海艺术](https://www.tianyancha.com/company/5611260346)|WX_GZH| | |APP|[H5](https://www.huanhaiart.com/h5/h5.html#/)||停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
