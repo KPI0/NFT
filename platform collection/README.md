@@ -1624,4 +1624,5 @@
  |1570|[星藏元宇宙](https://www.tianyancha.com/company/5385431724)|WX_GZH| | |[APP](https://xcmeta.top/pk-home/download)|[H5](https://xcmeta.top/)|Polygon|二级市场|
  |1571|[三鼎数艺](https://www.tianyancha.com/company/5021349231)|WX_GZH| | |APP|[H5](https://sandingnft.com/web/#/)|BSN联盟链|二级市场|
  |1572|[中舟Metaverse](https://www.tianyancha.com/company/5537503640)|WX_GZH| | |APP|[H5](http://www.zhongzhoumeta.com/wap/#/)|Ethereum、Polygon|二级市场|
+ |1573|[神话数创](https://www.tianyancha.com/company/5658689114)|WX_GZH| | | |[H5](http://art.tuanbeixinxi.com/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
