@@ -1392,7 +1392,7 @@
  |1339|[晋元Art](https://www.tianyancha.com/company/5548117604)|WX_GZH| | |[APP](https://jinyuanshucang.com/down.html)|[H5](https://web.jinyuanshucang.com)|BSN文昌链|二级市场|
  |1340|[遥作数字艺术](https://www.tianyancha.com/company/3347707151)|WX_GZH| | | |[H5](https://nft.fanmeicity.com/h5/)|BSN联盟链、XuperChain|二级市场|
  |1341|[百度网盘朝云](https://www.tianyancha.com/company/3483296962)|WX_GZH| |百度网盘APP|APP|[H5](https://pan.baidu.com/operation/activitys/nftmall/main?na_theme=141414&view_type=fullscreen)|XuperChain|场外转赠|
- |1342|[幻博艺术](https://www.tianyancha.com/company/5640976593)|WX_GZH| | |APP|H5|
+ |1342|[幻博文化](https://www.tianyancha.com/company/5640976593)|WX_GZH| | |APP|[H5](http://hb18meta.com/#/)||二级市场|
  |1343|[墩墩艺术](https://www.tianyancha.com/company/5352958543)|WX_GZH| | | |[H5](https://h5.dundunkj.com/#/)|BSN文昌链|二级市场|
  |1344|[麟海藏源](https://www.tianyancha.com/company/5550139231)|WX_GZH| | | |[H5](http://www.yxkkj.com.cn/h5/#/)| |二级市场|
  |1345|[云易艺术](https://www.tianyancha.com/company/3076325869)|WX_GZH| | |[APP](https://api.huanain.com/download.html)|H5| |场外转赠|
