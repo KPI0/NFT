@@ -1,5 +1,3 @@
-![image](https://github.com/KPI0/NFT/blob/main/images/9150e4e5gy1gbtemua2jtj20k00k00u2.jpg)
-
  ## 一、平台入口缩写
  *为方便浏览，平台入口用以下的缩写表示。*  
  [<img align="right" src="https://github.com/KPI0/NFT/blob/main/images/mmexport328699d6b8cfb1eb74abfd9e223e18ab_16483806.gif" width="353px" />](https://baike.baidu.com/item/NFT/56358612?fr=aladdin/)
