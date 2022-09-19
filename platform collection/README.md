@@ -1628,4 +1628,5 @@
  |1574|[央数藏](https://www.tianyancha.com/company/21357498)|WX_GZH| |央视影音|[APP](https://app.cctv.com/#page1)| | |场外转赠|
  |1575|[TOP艺数](https://www.tianyancha.com/company/5647713459)|WX_GZH| | | |[H5](http://web.topyishu.com.cn/#/)|BSN联盟链|二级市场|
  |1576|[元宇宙大学城](https://www.tianyancha.com/company/2311783703)|WX_GZH| | | |[H5](http://wap.metacollege.live/#/)|BSN联盟链|场外转赠|
+ |1577|[UG艺术](https://www.tianyancha.com/company/5089751890)|WX_GZH| | | |[H5](https://www.ugyishu.art/h5/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
