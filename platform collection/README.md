@@ -1637,4 +1637,5 @@
  |1583|[MJ数字平台](https://www.tianyancha.com/company/5636953255)|WX_GZH| | |APP|[H5](https://h5.mjshucang.com)|BSN文昌链|二级市场|
  |1584|[beesart蜂巢](https://www.tianyancha.com/company/5652862434)|WX_GZH| | | |[H5](https://bees.art/#/)||二级市场|
  |1585|[共享Art](https://www.tianyancha.com/company/5641191892)|WX_GZH| | |APP|[H5](http://www.shareplayer.cn/#/)|BSN文昌链|二级市场|
+ |1586|[传承赋文化](https://www.tianyancha.com/company/5544829168)|WX_GZH| | |APP|[H5](http://www.chuanchengfu.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
