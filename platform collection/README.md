@@ -1631,4 +1631,5 @@
  |1577|[UG艺术](https://www.tianyancha.com/company/5089751890)|WX_GZH| | | |[H5](https://www.ugyishu.art/h5/)|BSN联盟链|二级市场|
  |1578|[尚数藏](https://www.tianyancha.com/company/695890477)|WX_GZH| | | |[H5](https://ss.sassp.cn/)|安可联盟链|场外转赠|
  |1579|[洞天数藏](https://www.tianyancha.com/company/3373204134)|WX_GZH| | | |[H5](https://www.dongtianart.com/)|BSN联盟链|二级市场|
+ |1580|[宇游艺术](https://www.tianyancha.com/company/5625000911)|WX_GZH| | | |[H5](http://yuyouart.cn/web/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
