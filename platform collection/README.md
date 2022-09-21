@@ -1552,7 +1552,7 @@
  |1498|[潮流meta](https://www.tianyancha.com/company/5511275996)|WX_GZH| | | |[H5](https://art.cpop.cc/#/)|BSN文昌链|场外转赠|
  |1499|[GUUTOO唂咚](https://www.tianyancha.com/company/5206106594)|WX_GZH| | |[APP](https://www.guutoo.com/download)|[H5](https://www.guutoo.com/)|唂咚链|二级市场|
  |1500|[皇家艺数](https://www.tianyancha.com/company/5659263633)|WX_GZH| | | |[H5](http://shuzicangpin.sksapg.cn/h5/#/)||场外转赠|
- |1501|[翼元数藏](https://www.tianyancha.com/company/5611852667)|WX_GZH| | |APP|[H5](https://www.yiyuannfr.com/)|XuperChain|场外转赠|
+ |1501|[翼元YY](https://www.tianyancha.com/company/5611852667)|WX_GZH| | |APP|[H5](https://www.yiyuannfr.com/)|XuperChain|停止运营|
  |1502|[萤火荣耀](https://www.tianyancha.com/company/3414382868)|WX_GZH| | |APP|[H5](https://www.ifirefly.art/#/indexview)|萤火链|二级市场|
  |1503|[91文创](https://www.tianyancha.com/company/3326747728)|WX_GZH| | | |[H5](https://hnzonghui.xyz/#/)|BSN文昌链|二级市场|
  |1504|[有趣玩艺](https://www.tianyancha.com/company/5568483726)|WX_GZH| | | |[H5](https://m.yocho.art/H5/index.html#/)||二级市场|
