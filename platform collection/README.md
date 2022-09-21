@@ -1638,4 +1638,5 @@
  |1584|[beesart蜂巢](https://www.tianyancha.com/company/5652862434)|WX_GZH| | | |[H5](https://bees.art/#/)||二级市场|
  |1585|[共享Art](https://www.tianyancha.com/company/5641191892)|WX_GZH| | |APP|[H5](http://www.shareplayer.cn/#/)|BSN文昌链|二级市场|
  |1586|[传承赋文化](https://www.tianyancha.com/company/5544829168)|WX_GZH| | |APP|[H5](http://www.chuanchengfu.com/#/)||二级市场|
+ |1587|[八宝艺术](https://www.tianyancha.com/company/5637656146)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
