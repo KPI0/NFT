@@ -39,7 +39,7 @@
  |36|CIC国信公链|[http://www.cicpub.com](http://www.cicpub.com/)|
  |37|鲸藏链|[https://scan.jingcang100.com](https://scan.jingcang100.com/#/home)|
  |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
- |39|||
+ |39|蚂蚁链||
  |40|云画链|[https://explorer.cpaintchain.cn](https://explorer.cpaintchain.cn/)|
  |41|元誉区块链|[https://blockchain.yuanyusc.com](https://blockchain.yuanyusc.com/chain-search/)|
  |42|SILVIA|[https://scan.shuziyuansheng.com](https://scan.shuziyuansheng.com/)|
