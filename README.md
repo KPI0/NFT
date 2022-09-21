@@ -19,10 +19,8 @@
  
  ## [四、平台收录](https://github.com/KPI0/NFT/tree/main/platform%20collection)
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
-  *数据仅供参考！数据仅供参考！数据仅供参考！*   
+  *数据仅供参考！数据仅供参考！数据仅供参考！以平台事实为准！*   
   *转载请注明出处！*  
  
-# 历史Star
-
+## 历史Star
 [![Stargazers over time](https://starchart.cc/KPI0/NFT.svg)](https://starchart.cc/KPI0/NFT)
-
