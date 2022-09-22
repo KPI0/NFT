@@ -39,7 +39,7 @@
  |36|CIC国信公链|[http://www.cicpub.com](http://www.cicpub.com/)|
  |37|鲸藏链|[https://scan.jingcang100.com](https://scan.jingcang100.com/#/home)|
  |38|高能链|[https://www.upowerchain.com](https://www.upowerchain.com/explorer)|
- |39|蚂蚁链||
+ |39|HWChain|[https://www.hwelltech.com](https://explorer.hwelltech.com/)|
  |40|云画链|[https://explorer.cpaintchain.cn](https://explorer.cpaintchain.cn/)|
  |41|元誉区块链|[https://blockchain.yuanyusc.com](https://blockchain.yuanyusc.com/chain-search/)|
  |42|SILVIA|[https://scan.shuziyuansheng.com](https://scan.shuziyuansheng.com/)|
@@ -68,3 +68,30 @@
  |65|科证链|[https://explorer.tecprove.com](https://explorer.tecprove.com/)|
  |66|数实链|[https://chain-info.shushibao.top](https://chain-info.shushibao.top/home)|
  |67|HWChain|[https://www.hwelltech.com](https://explorer.hwelltech.com/)|
+ |68|蚂蚁链||
+ |69|光芒链|
+ |70|鸿鹄链|
+ |71|信证链|
+ |72|和数链|
+ |73|丝路链|
+ |74|国广链|
+ |75|亿条链|
+ |76|文创链|
+ |77|龙链|
+ |78|智链|
+ |79|骏途链|
+ |80|CUN|
+ |81|星火链|
+ |82|数藏链|
+ |83|新版链|
+ |84|神达福链|
+ |85|CIC|
+ |86|长安链|
+ |87|媒体融合链|
+ |88|信安链|
+ |89|茫洋链|
+ |90|网易链|
+ |91|火链|
+ |92|版权链|
+ |93|启元链|
+ |94|银联云链|
