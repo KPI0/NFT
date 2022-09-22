@@ -1651,4 +1651,5 @@
  |1597|[元素星球](https://www.tianyancha.com/company/5541263975)|WX_GZH| | |APP|[H5](http://www.ele-star.cn/wap/)|BSN文昌链|二级市场|
  |1598|[鼎盛数藏](https://www.tianyancha.com/company/5624048830)|WX_GZH| | | |[H5](https://www.zzds.live/index.html#/)|BSN文昌链|二级市场|
  |1599|[乾元Meta](https://www.tianyancha.com/company/5152811765)|WX_GZH| | |APP|[H5](https://www.qianyuanmeta.com/h5/index.html#/)|海峡链|二级市场|
- |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
+ |1600|[阳光数字](https://www.tianyancha.com/company/3036451781)|WX_GZH| | |[APP](https://nft-download.yangjunar.com/)|[H5](https://nft-h5.yangjunar.com/#/)|BSN联盟链|场外转赠|
+ |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
