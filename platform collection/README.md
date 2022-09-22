@@ -1595,7 +1595,7 @@
  |1541|[韭菜Box](https://www.tianyancha.com/company/5628292131)|WX_GZH| | |APP|[H5](https://jiucaibox.vip/h5/h5.html#/)|BSN文昌链|二级市场|
  |1542|[美天艺术](https://www.tianyancha.com/company/5488835109)|WX_GZH| | |APP|[H5](https://www.meta-time.art/)|BSN文昌链|二级市场|
  |1543|[象链](https://www.tianyancha.com/company/5553744671)|WX_GZH| | | |[H5](https://xlapi.xiangliannft.com/h5/)|蚂蚁链|二级市场|
- |1544|[WitBox](https://www.tianyancha.com/company/3192368624)|WX_GZH| | | |[H5](https://www.witbox.vip/#/)|XuperChain|场外转赠|
+ |1544|[WitBox](https://www.tianyancha.com/company/3192368624)|WX_GZH| | | |[H5](https://www.witbox.vip/#/)|XuperChain|二级市场|
  |1545|[CeDeArt](https://www.tianyancha.com/company/49982401)|WX_GZH| | |APP|[H5](https://cede.art/#/)|蚂蚁链|二级市场|
  |1546|[地球制造](https://www.tianyancha.com/company/5455785940)|WX_GZH| | |APP|[H5](http://app.madeonearth.com.cn/#/)|BSN文昌链|二级市场|
  |1547|[华人道藏](https://www.tianyancha.com/company/2349058652)|WX_GZH| | |[APP](https://dao.hrce.com/#/download)|[H5](https://dao.hrce.com/#/login)||二级市场|
