@@ -1649,4 +1649,5 @@
  |1595|[汉唐收藏](https://www.tianyancha.com/company/5468433684)|WX_GZH| | |APP|[H5](http://www.hantangshucang.cn/#/)||二级市场|
  |1596|[第九幻宇](https://www.tianyancha.com/company/5568340279)|WX_GZH| | | |[H5](https://www.dijiuyusu.cn/#/)||二级市场|
  |1597|[元素星球](https://www.tianyancha.com/company/5541263975)|WX_GZH| | |APP|[H5](http://www.ele-star.cn/wap/)|BSN文昌链|二级市场|
+ |1598|[鼎盛数藏](https://www.tianyancha.com/company/5624048830)|WX_GZH| | | |[H5](https://www.zzds.live/index.html#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
