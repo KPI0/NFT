@@ -16,6 +16,7 @@
 
  ## [三、链上查询](https://github.com/KPI0/NFT/tree/main/blockchain)
  *~~链上查询地址非公开的未添加~~*  
+ 算了，知道的都写上去，管他有没有查询
  
  ## [四、平台收录](https://github.com/KPI0/NFT/tree/main/platform%20collection)
   *排名前后不代表平台品质优劣，相同的序号为同一个平台或同一个公司，平台公司信息参考天眼查数据。*  
