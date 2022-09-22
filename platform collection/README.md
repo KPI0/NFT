@@ -1644,4 +1644,5 @@
  |1590|[幻升艺术](https://www.tianyancha.com/company/5562272114)|WX_GZH| | | |[H5](https://hsy.hnmilke.cn/h5/#/)|BSN文昌链|停止运营|
  |1591|[龙延Meta](https://www.tianyancha.com/company/5678760162)|WX_GZH| | | |[H5](https://longyan-m.rarefy.cn/#/)||场外转赠|
  |1592|[第三世界](https://www.tianyancha.com/company/5628083342)|WX_GZH| | |APP|[H5](http://shucang.thethirdworld.art/h5/#/)|Ethereum|二级市场|
+ |1593|[AceMeta](https://www.tianyancha.com/company/5675745883)|WX_GZH| | | |[H5](http://ace.acemeta.cc/web/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|  
