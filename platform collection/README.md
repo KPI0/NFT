@@ -40,7 +40,7 @@
  |31|[Hotlove](https://www.tianyancha.com/company/2315093424)|WX_GZH| | |[APP](http://share.inkanke.net/index.html?referee=YEVBGOMC)| |蚂蚁链|二级市场|
  |32|[上镜UPLAB](https://www.tianyancha.com/company/4322994554)|WX_GZH|||[APP](https://m.oxyz.ltd/app/index.html?userId=17&inviteCode=MMU4ZCPS)|  |树图链|二级市场|
  |33|[超维空间](https://www.tianyancha.com/company/5225866617)|WX_GZH| |ZFB_XCX|[APP](https://superdapi.hzchainup.com/h5/#/pages/download/download)||蚂蚁链|二级市场|
- |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |[APP](https://apps.apple.com/app/apple-store/id1574468967)|[H5](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链、腾讯链|
+ |34|[腾讯幻核](https://www.tianyancha.com/company/9519792)|WX_GZH| | |[APP](https://apps.apple.com/app/apple-store/id1574468967)|[H5](https://huanhe.qq.com/dist/boss.html#/index/home)|至信链、腾讯链|停止运营|
  |35|[画生Meta](https://www.tianyancha.com/company/5412169051)|WX_GZH|||[APP](https://cang.kueen.cc/register?share_code=fcukk)||蚂蚁链、金链盟|二级市场|
  |36|[灵境商店](https://www.tianyancha.com/company/3450444562)|WX_GZH|    |    |[APP](https://lingjingshangdian.com/)|[H5](http://lingjingshangdian.com/html/#/)|蚂蚁链|场外转赠|
  |37|[轻松小镇](https://www.tianyancha.com/company/3372819300)|WX_GZH| | |[APP](http://app.relaverse.cn/?invited_id=281763&activity_id=1)||XuperChain|二级市场|
