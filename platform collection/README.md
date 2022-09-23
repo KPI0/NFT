@@ -1653,4 +1653,5 @@
  |1599|[乾元Meta](https://www.tianyancha.com/company/5152811765)|WX_GZH| | |APP|[H5](https://www.qianyuanmeta.com/h5/index.html#/)|海峡链|二级市场|
  |1600|[阳光数字](https://www.tianyancha.com/company/3036451781)|WX_GZH| | |[APP](https://nft-download.yangjunar.com/)|[H5](https://nft-h5.yangjunar.com/#/)|BSN联盟链|场外转赠|
  |1601|[乐在数藏](https://www.tianyancha.com/company/5495625597)|WX_GZH| | | |[H5](https://h5.sxlzkj.com/#/)|天河链|二级市场|
+ |1602|[苍穹元宇宙](https://www.tianyancha.com/company/1334682980)|WX_GZH| | |[APP](https://metaz.scszcb.com/h5/#/pages/downloadPage/downloadPage)|[H5](https://metaz.scszcb.com/h5/#/)|新版链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
