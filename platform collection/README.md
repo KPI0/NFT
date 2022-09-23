@@ -1656,4 +1656,5 @@
  |1602|[苍穹元宇宙](https://www.tianyancha.com/company/1334682980)|WX_GZH| | |[APP](https://metaz.scszcb.com/h5/#/pages/downloadPage/downloadPage)|[H5](https://metaz.scszcb.com/h5/#/)|新版链|二级市场|
  |1603|[漫宇宙艺术](https://www.tianyancha.com/company/5501082874)|WX_GZH| | | |[H5](http://h5.dianmankeji.com/#/)||二级市场|
  |1604|[海星数字艺术](https://www.tianyancha.com/company/5650522749)|WX_GZH| | | |[H5](https://www.haixingshuzi.com/)|BSN文昌链|二级市场|
+ |1605|[加一数藏](https://www.tianyancha.com/company/5225087739)|WX_GZH| | | |[H5](http://www.jiafukj.cn/)|XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
