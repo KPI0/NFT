@@ -1661,4 +1661,5 @@
  |1607|[祁梦岛数藏](https://www.tianyancha.com/company/5684267861)|WX_GZH| | | |[H5](http://www.qlbutwn.cn/#/)||二级市场|
  |1608|[青蛙数字艺术](https://www.tianyancha.com/company/41729804)|WX_GZH| | | |[H5](https://www.cbitlove.cn/)|Polygon|场外转赠|
  |1609|[蓝狐文创](https://www.tianyancha.com/company/5686059696)|WX_GZH| | | |[H5](http://www.BlueFox.lanhumeta.com/h5/)||二级市场|
+ |1610|[IP世界](https://www.tianyancha.com/company/3394276674)|WX_GZH| | | |[H5](https://www.ipshijie.cn/)||场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
