@@ -1663,4 +1663,5 @@
  |1609|[蓝狐文创](https://www.tianyancha.com/company/5686059696)|WX_GZH| | | |[H5](http://www.BlueFox.lanhumeta.com/h5/)||二级市场|
  |1610|[IP世界](https://www.tianyancha.com/company/3394276674)|WX_GZH| | | |[H5](https://www.ipshijie.cn/)||场外转赠|
  |1611|[壹帆数字](https://www.tianyancha.com/company/5656195188)|WX_GZH| | | |[H5](https://www.yifanshuzi.com/h5/h5.html#/)|BSN文昌链|二级市场|
+ |1612|[丹青瑶光](https://www.tianyancha.com/company/5555161581)|WX_GZH| | |[APP](https://h5.yunlianyuan.com/appDownloadGuide.html)|[H5](https://h5.yunlianyuan.com/#/)|海峡链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
