@@ -1672,4 +1672,5 @@
  |1618|[亿一Box](https://www.tianyancha.com/company/4438142709)|WX_GZH| | |APP|[H5](https://art.duowant.com/#/)||二级市场|
  |1619|[VG数藏](https://www.tianyancha.com/company/5646150853)|WX_GZH| | |APP|[H5](https://www.yuanqios.cn)||二级市场|
  |1619|[源启文创Meta](https://www.tianyancha.com/company/5646150853)|WX_GZH| | |APP|[H5](https://www.yuanqios.cn)||二级市场|
+ |1620|[魔戒数藏](https://www.tianyancha.com/company/5499808690)|WX_GZH| | | |[H5](http://mjj.mjsjsc.cn/#/login)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
