@@ -1669,4 +1669,5 @@
  |1615|[藏羚羊潮流艺术](https://www.tianyancha.com/company/3445319519)|WX_GZH| | | |[H5](https://zanglingyang.art/h5/#/)||二级市场|
  |1616|[艺幻元宇宙](https://www.tianyancha.com/company/3439875864)|WX_GZH| | |APP|[H5](https://yihuanart.com/)|SmartX|场外转赠|
  |1617|[十八神蛇](https://www.tianyancha.com/company/5621679519)|WX_GZH| | | |[H5](http://m.yaofankj.cn/#/)||二级市场|
+ |1618|[亿一Box](https://www.tianyancha.com/company/4438142709)|WX_GZH| | |APP|[H5](https://art.duowant.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
