@@ -1337,7 +1337,7 @@
  |1284|[星原数艺](https://www.tianyancha.com/company/2314925283)|WX_GZH| | | |[H5](https://meta.stargend.com/index.aspx)|至信链|场外转赠|
  |1285|[网易新闻数字藏品馆](https://www.tianyancha.com/company/24122279)|WX_GZH|||[APP](https://www.163.com/newsapp)|[H5](https://dc.m.163.com/)|易闻链|场外转赠|
  |1286|[图灵艺术](https://www.tianyancha.com/company/2549509579)|WX_GZH| | | |[H5](https://nft-h5.tlinkart.com/)|BSN联盟链|二级市场|
- |1287|[Mars Meta](https://www.tianyancha.com/company/3408538270)|WX_GZH| | |APP|[H5](https://www.mars-meta.com/h5/)|海峡链|场外转赠|
+ |1287|[Mars Meta](https://www.tianyancha.com/company/3408538270)|WX_GZH| | |APP|[H5](https://www.mars-meta.com/h5/)|海峡链|停止运营|
  |1288|[Free艺术](https://www.tianyancha.com/company/5581612563)|WX_GZH|||[APP](https://www.freeart.cc/download/index.html)|[H5](https://www.freeart.cc)||二级市场|
  |1289|ABC数藏|WX_GZH| | | |[H5](https://abcsc.art/h5)| |场外转赠|
  |1290|[Doer数藏](https://www.tianyancha.com/company/5540863476)|WX_GZH| | | |[H5](http://www.gxbohou.com/)|BSN文昌链|二级市场|
