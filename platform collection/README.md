@@ -1462,7 +1462,7 @@
  |1409|[链元文创](https://www.tianyancha.com/company/5526328991)|WX_GZH| | |[APP](https://www.circlemeta.cn/#/pages/setting/downApp)|[H5](https://www.circlemeta.cn/#/)||二级市场|
  |1410|[茶meta](https://www.tianyancha.com/company/5479184688)|WX_GZH| | | |[H5](http://cha.teemt.cn/#/)||场外转赠|
  |1411|[Flame Meta火焰艺术](https://www.tianyancha.com/company/5531397461)|WX_GZH| | |APP|[H5](http://h5.flamemeta.art/#/)||场外转赠|
- |1412|[肯藏数商](https://www.tianyancha.com/company/5408678871)|WX_GZH| | | |[H5]( https://mall.kencang.com/#/)|BSN联盟链|场外转赠|
+ |1412|[肯藏数商](https://www.tianyancha.com/company/5408678871)|WX_GZH| | |[APP](https://mall.kencang.com/app/)|[H5]( https://mall.kencang.com/#/)|BSN联盟链|场外转赠|
  |1413|[听陶艺术](https://www.tianyancha.com/company/3445403761)|WX_GZH|||[APP](https://art.tingtao.art/tingtao/app)|[H5](https://tingtao.art/wap)|BSN文昌链|二级市场|
  |1414|[麻吉MAXCHI](https://www.tianyancha.com/company/3468550349)|WX_GZH| | |[APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.mjhy.MDLive&fromcase=40003#opened)|||二级市场|
  |1415|[盛世寻藏](https://www.tianyancha.com/company/5537794663)|WX_GZH| | |[APP](https://nft.737n.com/down/)|[H5](https://nft.737n.com/h5/#/)||二级市场|
