@@ -1476,7 +1476,7 @@
  |1423|[Me幻艺](https://www.tianyancha.com/company/5509337619)|WX_GZH| | |[APP](https://www.magicspace.art/pages/public/appdown)|[H5](https://www.magicspace.art/pages/nft/index/index)|天河链|二级市场|
  |1424|[御宸数字艺术](https://www.tianyancha.com/company/5567196696)|WX_GZH| | |[APP](http://app.yucmate.cn/)|[H5](http://h5.yucmate.cn/#/)||二级市场|
  |1425|[数字江湖](https://www.tianyancha.com/company/5431415596)|WX_GZH| | | |[H5](https://h5.washeart.com/)|XuperChain|二级市场|
- |1426|[中漫数文](https://www.tianyancha.com/company/5547445501)|WX_GZH| | | |[H5](http://digital.zmdna.com/)|
+ |1426|[中漫数文](https://www.tianyancha.com/company/5547445501)|WX_GZH| | |[APP](http://digital.zmdna.com/digital-collection/#/appDownload)|[H5](http://digital.zmdna.com/)|天平链|场外转赠|
  |1427|[蟹藏](https://www.tianyancha.com/company/5541283319)|WX_GZH| | |[APP](http://xc.jxxiezang.com/dist/common/download.html)|H5|BSN文昌链|场外转赠|
  |1428|[鲲洲](https://www.tianyancha.com/company/5342047284)|WX_GZH| | |APP|[H5](https://m.kunisland.com/h5)|人民智链|二级市场|
  |1429|[峰境艺术](https://www.tianyancha.com/company/5539291296)|WX_GZH| | | |[H5](http://web.xmup.art/#/)||二级市场|
@@ -1676,5 +1676,5 @@
  |1621|[京溢Meta](https://www.tianyancha.com/company/5305500520)|WX_GZH| | | |[H5](https://nft.jystm.com/h5/h5.html#/)|BSN联盟链|场外转赠|
  |1622|[灵鹊艺术](https://www.tianyancha.com/company/5001711959)|WX_GZH| | | |[H5](https://ys.xiunchat.com/)|蚂蚁链|二级市场|
  |1623|[元境博域](https://www.tianyancha.com/company/5276197669)|WX_GZH| | | |[H5](https://boyu.zone)|蚂蚁链|场外转赠|
- |1624|[天翼数藏](https://www.tianyancha.com/company/464985845)|WX_GZH| | | |[H5](https://tysc.118114.cn/#/home/index)|翼支付链|场外转赠|
+ |1624|[天翼数藏](https://www.tianyancha.com/company/464985845)|WX_GZH| | |APP|[H5](https://tysc.118114.cn/#/home/index)|翼支付链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
