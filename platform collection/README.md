@@ -1674,4 +1674,5 @@
  |1619|[源启文创Meta](https://www.tianyancha.com/company/5646150853)|WX_GZH| | |APP|[H5](https://www.yuanqios.cn)||二级市场|
  |1620|[魔戒数藏](https://www.tianyancha.com/company/5499808690)|WX_GZH| | | |[H5](http://mjj.mjsjsc.cn/#/login)|BSN联盟链|场外转赠|
  |1621|[京溢Meta](https://www.tianyancha.com/company/5305500520)|WX_GZH| | | |[H5](https://nft.jystm.com/h5/h5.html#/)|BSN联盟链|场外转赠|
+ |1622|[灵鹊艺术](https://www.tianyancha.com/company/5001711959)|WX_GZH| | | |[H5](https://ys.xiunchat.com/)|蚂蚁链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
