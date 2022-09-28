@@ -9,7 +9,7 @@
  |4|[灵境文化](https://www.tianyancha.com/company/5278761401)|WX_GZH| |鲸探|[APP](https://t.taopiaopiao.com/yep/page/m/stqoin1s13?sqm=dianying.dy.1.1.MineService_bd7f9a57b888cb99&cityCode=440100&spm=a2115o.8783827.0.0)|[H5](https://t.taopiaopiao.com/yep/page/m/5w3p1kt4yt?)|蚂蚁链|场外转赠|
  |5|[唯一艺术](https://www.tianyancha.com/company/4650905129)|WX_GZH|WX_XCX| |[APP](https://www.theone.art/app_download)|[H5](https://www.theone.art)|Ethereum、Polygon|二级市场|
  |6|[秦储](https://www.tianyancha.com/company/5340144483)|WX_GZH| | |[APP](https://h5.qcsc.vip/register?c=0DLLKM)| |秦储链|场外转赠|
- |7|[千寻数字](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](https://qxh5.pinbs.cn/inapp/share-product1-wx.html)|[H5](http://qianxunshuzi.com/#/)|BSN联盟链|二级市场| 
+ |7|[千寻数字](https://www.tianyancha.com/company/3287018537)|WX_GZH| | |[APP](http://qianxunshuzi.com/#/)|[H5](https://128.art/spa/#/)|BSN联盟链|二级市场| 
  |8|[律核Melocore](https://www.tianyancha.com/company/3432747118)|WX_GZH| | |[APP](https://wkzx.store/nC3c)|[H5](http://melocore.art/#/)|天河链、BSN文昌链|二级市场|
  |8|[梅洛MELO](https://www.tianyancha.com/company/3432747118)|WX_GZH| | |[APP](https://wkzx.store/nC3c)|[H5](http://melocore.art/#/)|天河链、BSN文昌链|二级市场|
  |9|[蟾宫Digital](https://www.tianyancha.com/company/5081463776)|WX_GZH|WX_XCX| | |[H5](https://m.honghuchain.com/)|鸿鹄链|二级市场|
