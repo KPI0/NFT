@@ -1683,4 +1683,5 @@
  |1630|[筑梦ART](https://www.tianyancha.com/company/5576821513)|WX_GZH| | | |[H5](http://wap.zhumeng-art.com/#/)||二级市场|
  |1631|[Base Meta](https://www.tianyancha.com/company/5630820711)|WX_GZH| | |APP|[H5](http://m.xunnankj.cn/#/)||二级市场|
  |1632|[WHATSART](https://www.tianyancha.com/company/5605977409)|WX_GZH| | |[APP](http://activity.metamall.cc/app/)| |海峡链|二级市场|
+ |1633|[Gaea宇宙空间](https://www.tianyancha.com/company/5613058938)|WX_GZH| | | |[H5](http://meta.xiynft.com/#/home)|BSN文昌链|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
