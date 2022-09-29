@@ -377,7 +377,7 @@
  |341|[熊猫数藏](https://www.tianyancha.com/company/5412374949)|WX_GZH| | |APP|[H5](http://dev.xmsc.art/index.html#/?content=W2765342)|BSN联盟链|二级市场|
  |342|[爱尔猫AIC](https://www.tianyancha.com/company/2323789617)|WX_GZH| | |[APP](https://nft-download.iercat.com)|[H5](https://nft-h5.iercat.com)|BSN联盟链|二级市场|
  |343|[数藏九州JZNFT](https://www.tianyancha.com/company/3224182548)|WX_GZH| | |[APP](http://app.jznft.cn/downpage/32384bec0b6d4fc8)|[H5](https://nft.lscqgame.com/#)|树图链|二级市场|
- |344|[瓷藏艺术](https://www.tianyancha.com/company/5409084505)|WX_GZH| | |APP|[H5](https://nft.cizang.art/Member?uid=MTXJcRUDiRgl1mdElAeP4Q==)||场外转赠|
+ |344|[瓷藏艺术](https://www.tianyancha.com/company/5409084505)|WX_GZH| | |APP|[H5](https://nft.cizang.art/)||停止运营|
  |345|[象寻](https://www.tianyancha.com/company/5392740841)|WX_GZH| | |[APP](http://sc.xxuns.com/h5/login.html?invite_code=113724)| |BSN联盟链|二级市场|
  |346|[星河TheStar](https://www.tianyancha.com/company/5451914345)|WX_GZH| | | |[H5](https://tyz3inv.chongbaoxy.com/pages/activity/index2?inviteCode=DxDZ7YgV)|Polygon|二级市场|
  |347|[umx 藏地艺术馆](https://www.tianyancha.com/company/342361551)|WX_GZH| | |APP|[H5](http://www.umxverse.com/#/main?uid=063c23deeb987451558b7c8d311b6bf9a65fc33d)|BSC|二级市场|
