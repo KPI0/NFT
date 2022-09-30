@@ -457,7 +457,7 @@
  |417|[旺仔俱乐部](https://www.tianyancha.com/company/1258879999)|WX_GZH|WX_XCX| | |[H5](http://hotkidclub.com/cpn/2022-write-want/#/)|
  |418|[星启数藏](https://www.tianyancha.com/company/5468347787)|WX_GZH| | |[APP](https://www.xingqinft.com/#/pagesB/download/app)|[H5](https://www.xingqinft.com)|BSN联盟链|二级市场|
  |419|[幻境meta](https://www.tianyancha.com/company/3448657015)|WX_GZH| | | |[H5](http://apocalypse.p3.qwangluo.net:93/#/)|HECO|二级市场|
- |420|[觅塔](https://www.tianyancha.com/company/5397481011)|WX_GZH| | |APP|[H5](https://m.tfn.art/)|知信链、新版链|场外转赠|
+ |420|[觅塔](https://www.tianyancha.com/company/5397481011)|WX_GZH| | |APP|[H5](https://m.tfn.art/)|知信链、新版链|二级市场|
  |421|[博藏未来](https://www.tianyancha.com/company/2322572029)|WX_GZH| | |APP|[H5](https://metablaz.ar-max.com/tcs/app/index.html#/)|BSN联盟链|场外转赠|
  |422|[满糖META](https://www.tianyancha.com/company/3300670118)|WX_GZH|||[APP](https://h5.fullcandymeta.com/download)|[H5](https://h5.fullcandymeta.com)|蚂蚁链|二级市场|
  |423|[Centra善藏](https://www.tianyancha.com/company/3224003603)|WX_GZH| | | |[H5](https://nhf.91centra.com/front/invite)|BSN文昌链|场外转赠|
