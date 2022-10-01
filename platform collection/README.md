@@ -1688,4 +1688,5 @@
  |1635|[404VERSE RUA](https://www.tianyancha.com/company/5654098527)|WX_GZH| | | |[H5](https://www.404verse.art/#/)|BSN文昌链|二级市场|
  |1636|[创宇艺术art](https://www.tianyancha.com/company/5606877614)|WX_GZH| | | |[H5](https://www.chuangyuyishu.cn/h5/#/)||二级市场|
  |1637|[元洞Space](https://www.tianyancha.com/company/5552010642)|WX_GZH| | | |[H5](http://www.yd-space.cn/h5/#/)|草田链|二级市场|
+ |1638|[71数字空间](https://www.tianyancha.com/company/5599449061)|WX_GZH| | |APP|[H5](http://www.71qysz.com/#/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
