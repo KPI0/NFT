@@ -1017,7 +1017,7 @@
  |966|[鲸元](https://www.tianyancha.com/company/3452960398)|WX_GZH| | |APP|[H5](https://biz.91erong.com/index.html#/)||场外转赠|
  |967|[数艺空间](https://www.tianyancha.com/company/4367765995)|WX_GZH| | | |[H5](https://nft.eartcn.cn/h5/)|BSN联盟链|二级市场|
  |968|[八度空间艺术馆](https://www.tianyancha.com/company/5393593640)|WX_GZH| | |[APP](https://bdkjys.com/download/)|[H5](https://bdkjys.com)|BSN联盟链|场外转赠|
- |969|[须弥数藏](https://www.tianyancha.com/company/5509198242)|WX_GZH| | | |[H5](https://www.xuminft.com/#/)|花瓣链|停止运营|
+ |969|[须弥艺术](https://www.tianyancha.com/company/5509198242)|WX_GZH| | | |[H5](https://www.xuminft.com/#/)|花瓣链|停止运营|
  |970|[数字爱藏](https://www.tianyancha.com/company/5539890189)|WX_GZH| | |[APP](http://116.62.120.216/?uuid=596075000633667585)| |版权链、司法联盟链|场外转赠|
  |971|[鲸玺META](https://www.tianyancha.com/company/3405994454)|WX_GZH| | |APP|[H5](http://meta.mangle88.com/#/)|海峡链|停止运营|
  |972|[iBook数藏](https://www.tianyancha.com/company/5542088208)|WX_GZH| | |[APP](http://download.ibook.icu/)|[H5](https://front.ibook.icu/#/pages/public/register?usercode=eU79kzgn)|BSN文昌链|二级市场|
