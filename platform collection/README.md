@@ -1633,7 +1633,7 @@
  |1581|[幻视星球](https://www.tianyancha.com/company/5656960354)|WX_GZH| | |APP|[H5](https://dahengsc.top/web/h5)|蚂蚁链|二级市场|
  |1582|[有熊数藏](https://www.tianyancha.com/company/5568913745)|WX_GZH| | | |[H5](https://m.nfr100.net/#/)|中链|二级市场|
  |1583|[MJ数字平台](https://www.tianyancha.com/company/5636953255)|WX_GZH| | |APP|[H5](https://h5.mjshucang.com)|BSN文昌链|二级市场|
- |1584|[beesart蜂巢](https://www.tianyancha.com/company/5652862434)|WX_GZH| | | |[H5](https://bees.art/#/)||二级市场|
+ |1584|[beesart蜂巢](https://www.tianyancha.com/company/5652862434)|WX_GZH| | | |[H5](https://bees.art/#/)||停止运营|
  |1585|[共享Art](https://www.tianyancha.com/company/5641191892)|WX_GZH| | |APP|[H5](http://www.shareplayer.cn/#/)|BSN文昌链|二级市场|
  |1586|[传承赋文化](https://www.tianyancha.com/company/5544829168)|WX_GZH| | |APP|[H5](http://www.chuanchengfu.com/#/)||二级市场|
  |1587|[八宝艺术](https://www.tianyancha.com/company/5637656146)|WX_GZH| | | |[H5](https://bbys.yunchangwan.cn/)| |二级市场|
