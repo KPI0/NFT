@@ -1701,4 +1701,5 @@
  |1648|艾温艺术|WX_GZH| | | |H5|BSN文昌链|二级市场|
  |1649|[子衿数藏](https://www.tianyancha.com/company/3286310512)|WX_GZH| | |APP|[H5](http://nft.zijinyb.com/)|BSN联盟链|场外转赠|
  |1650|[CY数藏](https://www.tianyancha.com/company/4969335019)|WX_GZH| | | |[H5](https://h5.cyxk.net/#/)|华为链DAC|二级市场|
+ |1651|[Fingertip数藏](https://www.tianyancha.com/company/5547346766)|WX_GZH| | |APP|[H5](http://h5.zhijian.art/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
