@@ -1699,4 +1699,5 @@
  |1646|[潮牛文创](https://www.tianyancha.com/company/4309825537)|WX_GZH| | | |[H5](http://yuqianart.com/h5/#/)||场外转赠|
  |1647|[星际鲨](https://www.tianyancha.com/company/5492414714)|WX_GZH| | | |[H5](http://appqfuzfwp20528.yr.xyz/home)|长安链|二级市场|
  |1648|艾温艺术|WX_GZH| | | |H5|BSN文昌链|二级市场|
+ |1649|[子衿数藏](https://www.tianyancha.com/company/3286310512)|WX_GZH| | |APP|[H5](http://nft.zijinyb.com/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
