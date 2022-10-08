@@ -1691,7 +1691,7 @@
  |1637|[元洞Space](https://www.tianyancha.com/company/5552010642)|WX_GZH| | | |[H5](http://www.yd-space.cn/h5/#/)|草田链|二级市场|
  |1638|[71数字空间](https://www.tianyancha.com/company/5599449061)|WX_GZH| | |APP|[H5](http://www.71qysz.com/#/)|BSN文昌链|场外转赠|
  |1639|[元漫空间](https://www.tianyancha.com/company/3336239503)|WX_GZH| | | |[H5](https://www.ymkjnft.com/wap#/index)|BSN联盟链|二级市场|
- |1640|[狂想空间站](https://www.tianyancha.com/company/3425921896)|WX_GZH| | | |[H5](https://fspace-m.rarefy.cn/#/)|蚂蚁链|
+ |1640|[狂想空间站](https://www.tianyancha.com/company/3425921896)|WX_GZH| | | |[H5](https://fspace-m.rarefy.cn/#/)|蚂蚁链|二级市场|
  |1641|[仿梦艺术](https://www.tianyancha.com/company/5697148821)|WX_GZH| | | |[H5](http://fm.xzy.mobi/h5/#/)|BSN文昌链|二级市场|
  |1642|[藏睿星空](https://www.tianyancha.com/company/5672603191)|WX_GZH| | |APP|[H5](https://www.cangruixk.com/h5/h5.html#/)|BSN联盟链|二级市场|
  |1643|[笙世艺术](https://www.tianyancha.com/company/5542341157)|WX_GZH| | |APP|[H5](https://www.heydayart.cn/#/)|BSN文昌链|二级市场|
