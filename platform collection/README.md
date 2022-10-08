@@ -1708,4 +1708,5 @@
  |1655|[18dog数藏](https://www.tianyancha.com/company/5539094233)|WX_GZH| | | |[H5](http://h5.jay-nft.com/index.html#/)|BSN文昌链|二级市场|
  |1656|[寻溯Meta](https://www.tianyancha.com/company/5694840592)|WX_GZH| | |APP|[H5](http://m.xunsuvip.com/#/)|BSN文昌链|二级市场|
  |1657|[虎藏艺数](https://www.tianyancha.com/company/5625077715)|WX_GZH| | |APP|[H5](http://api.hcangs.com/index.html#/)|BSN文昌链|二级市场|
+ |1658|[华遗艺术](https://www.tianyancha.com/company/3063150470)|WX_GZH| | | |[H5](https://cool.qhfkj.cn/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
