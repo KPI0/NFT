@@ -1375,7 +1375,7 @@
  |1323|[雪原 Neve](https://www.tianyancha.com/company/5392740737)|WX_GZH| | | |[H5](https://neve.co/)|BSN联盟链|场外转赠|
  |1324|[柒艺数藏](https://www.tianyancha.com/company/5486610761)|WX_GZH| | |APP|[H5](http://yupin.club/web/#/)|蚂蚁链|二级市场|
  |1325|[天沐艺术](https://www.tianyancha.com/company/5659250756)|WX_GZH| | | |[H5](http://tmys.wzjblove.club/h5/)|BSN文昌链|二级市场|
- |1326|[创元艺术空间](https://www.tianyancha.com/company/5516040165)|WX_GZH| | | |[H5](http://chuangyuan.daokesi.club/chuang/#/)| |场外转赠|
+ |1326|[创元艺术空间](https://www.tianyancha.com/company/5516040165)|WX_GZH| | | |[H5](http://chuangyuan.daokesi.club/chuang/#/)| |二级市场|
  |1327|[寻晶数藏](https://www.tianyancha.com/company/5592347487)|WX_GZH| | |APP|[H5](http://xunjing.xun-jing.net/#/)|BSN文昌链|场外转赠|
  |1328|[文瀚数藏](https://www.tianyancha.com/company/3344470846)|WX_GZH| | |[APP](https://www.wenhan8.com/agreement/download.html)|[H5](https://art.wenhan8.com)|XuperChain|二级市场|
  |1329|[艺哆数藏](https://www.tianyancha.com/company/5513618370)|WX_GZH| | | |[H5](https://sc.yiduoart.cn/#/)|长安链|二级市场|
