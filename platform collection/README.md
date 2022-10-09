@@ -1583,7 +1583,7 @@
  |1530|[星洞艺术](https://www.tianyancha.com/company/5466396821)|WX_GZH| | | |[H5](https://meta.eerss.cn)|BSN联盟链|二级市场|
  |1531|[幻Dao](https://www.tianyancha.com/company/5595888224)|WX_GZH| | |APP|[H5](https://dao.magicd.art/h5/index.html#/)|BSN文昌链|二级市场|
  |1532|[筑元](https://www.tianyancha.com/company/5539084989)|WX_GZH| | | |[H5](https://app.zysk8.cn/index.html#/)||二级市场|
- |1533|[元境Meta](https://www.tianyancha.com/company/3471651913)|WX_GZH| | | |[H5](https://nft.meta68.cn/#/)| |场外转赠|
+ |1533|[元境Meta](https://www.tianyancha.com/company/3471651913)|WX_GZH| | | |[H5](https://nft.meta68.cn/#/)| |停止运营|
  |1534|[炫奥数藏](https://www.tianyancha.com/company/5566336510)|WX_GZH| | | |[H5](http://wechat.xuanao.vip/#/)||二级市场|
  |1535|[新界数藏](https://www.tianyancha.com/company/3226667046)|WX_GZH| | |[APP](https://api.xinjie.cn/index/share/#/platform)||BSN文昌链|场外转赠|
  |1536|[鱿鱼Meta](https://www.tianyancha.com/company/3387414128)|WX_GZH| | |[APP](http://h5.youyumeta.com/squid.apk)|[H5](http://h5.youyumeta.com)||交易市场|
