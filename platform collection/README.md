@@ -1713,4 +1713,5 @@
  |1659|[曜星数字](https://www.tianyancha.com/company/5492012008)|WX_GZH| | | |[H5](http://m.yaoxingshuzi.com/)|BSN联盟链|场外转赠|
  |1660|[Mars数字藏品](https://www.tianyancha.com/company/3346029026)|WX_GZH| | | |[H5](https://m.marsnft.cn/home)|蚂蚁链|场外转赠|
  |1661|[星链Meta](https://www.tianyancha.com/company/5619677436)|WX_GZH| | | |[H5](https://h5.xlmeta.live/#/)|BSN文昌链|停止运营|
+ |1662|[CheerReal悦境](https://www.tianyancha.com/company/2358153199)|WX_GZH| | |[APP](https://www.cheerreal.com/page/download.html)|[H5](https://www.cheerreal.com/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
