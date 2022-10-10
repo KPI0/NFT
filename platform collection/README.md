@@ -1719,4 +1719,5 @@
  |1665|[时代艺术储宝](https://www.tianyancha.com/company/2377543667)|WX_GZH| | | |[H5](https://nfr.shidaiyishu.cn/#/)||场外转赠|
  |1666|[完美META](https://www.tianyancha.com/company/5657340832)|WX_GZH| | |APP|[H5](https://www.wmmeta.art/#/)|BSN文昌链|场外转赠|
  |1667|[博思Meta](https://www.tianyancha.com/company/5049369684)|WX_GZH| | | |[H5](http://nft.hnxingzhong.com/h5/#/)|BSN联盟链|场外转赠|
+ |1668|[派艺术Data](https://www.tianyancha.com/company/5656529633)|WX_GZH| | |APP| | |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
