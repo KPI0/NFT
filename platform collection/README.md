@@ -1721,4 +1721,5 @@
  |1667|[博思Meta](https://www.tianyancha.com/company/5049369684)|WX_GZH| | | |[H5](http://nft.hnxingzhong.com/h5/#/)|BSN联盟链|场外转赠|
  |1668|[派艺术Data](https://www.tianyancha.com/company/5656529633)|WX_GZH| | |APP| | |二级市场|
  |1669|[海道数字潮玩](https://www.tianyancha.com/company/4549571492)|WX_GZH| | |APP|[H5](https://nft.seadao.com.cn/h5/)|BSN联盟链|场外转赠|
+ |1670|[希漫艺术Meta](https://www.tianyancha.com/company/5652991765)|WX_GZH| | | |[H5](https://xmys.art/wap/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
