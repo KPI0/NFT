@@ -1731,4 +1731,5 @@
  |1677|[鲨鱼文创](https://www.tianyancha.com/company/5704732554)|WX_GZH| | | |[H5](https://www.shayuart.com/#/)||二级市场|
  |1678|[斗境宇宙](https://www.tianyancha.com/company/5370318174)|WX_GZH| | | |[H5](https://m.iamnft.cn/#/)|BSN联盟链|二级市场|
  |1679|[乐民艺术](https://www.tianyancha.com/company/3310654469)|WX_GZH| | | |[H5](http://lmys.dcszcp.com/h5/#/)||二级市场|
+ |1680|[艺次元数字藏品](https://www.tianyancha.com/company/5603428964)|WX_GZH| | | |[H5](https://h5.artmuse.cn/mobile/#/home)|华为链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
