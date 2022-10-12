@@ -1726,4 +1726,5 @@
  |1672|[弘一艺术](https://www.tianyancha.com/company/5667152998)|WX_GZH| | | |[H5](http://hongyiys.art/#/pages/index/index)|BSN联盟链|二级市场|
  |1673|[天阙艺术](https://www.tianyancha.com/company/5674755010)|WX_GZH| | |APP|[H5](https://www.tianqueyishu.cn/#/)||二级市场|
  |1674|[Ain艺术](https://www.tianyancha.com/company/5655159053)|WX_GZH| | | |[H5](https://ainart.cn/#/)||二级市场|
+ |1675|[钧链文创](https://www.tianyancha.com/company/5668732221)|WX_GZH| | |APP|[H5](https://h5.junlian.art/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
