@@ -1736,4 +1736,5 @@
  |1682|[A加文创](https://www.tianyancha.com/company/5548833961)|WX_GZH| | |APP|[H5](https://www.ajsc.cc/index.html#/)|BSN文昌链|二级市场|
  |1683|[胜链WinArt](https://www.tianyancha.com/company/5645410372)|WX_GZH| | | |[H5](https://h5.winart.art/#/)|BSN文昌链|场外转赠|
  |1684|[大有昊天](https://www.tianyancha.com/company/5267227705)|WX_GZH| | |[APP](https://h5.dyhtkjjs.com/appdown/)|[H5](https://h5.dyhtkjjs.com/)|BSN文昌链|二级市场|
+ |1685|[仌享生活](https://www.tianyancha.com/company/5391280577)|WX_GZH| | |[APP](https://zpbx.tangnale.com/#/pages/downloadApp/index)|||场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
