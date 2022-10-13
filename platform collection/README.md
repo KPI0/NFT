@@ -1738,4 +1738,5 @@
  |1684|[大有昊天](https://www.tianyancha.com/company/5267227705)|WX_GZH| | |[APP](https://h5.dyhtkjjs.com/appdown/)|[H5](https://h5.dyhtkjjs.com/)|BSN文昌链|二级市场|
  |1685|[仌享生活](https://www.tianyancha.com/company/5391280577)|WX_GZH| | |[APP](https://zpbx.tangnale.com/#/pages/downloadApp/index)| | |场外转赠|
  |1686|[火星艺术](https://www.tianyancha.com/company/4548110290)|WX_GZH| | | |[H5](http://m.wyzuowen.cn/#/)| |二级市场|
+ |1687|[名堂MintTown](https://www.tianyancha.com/company/5652794710)|WX_GZH| | | |[H5](https://minttown.xyz/)|华为链DAC|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
