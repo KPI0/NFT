@@ -1750,4 +1750,5 @@
  |1696|[探宇数藏](https://www.tianyancha.com/company/5000663907)|WX_GZH|||[APP](https://ta0ny4u.shushibao.vip/download)|[H5](https://web.tanyushucang.com)||二级市场|
  |1697|[长城数艺](https://www.tianyancha.com/company/5519271326)|WX_GZH| | |APP|[H5](https://mall.gwdart.com/#/)|BSN联盟链|场外转赠|
  |1698|[恋初艺数](https://www.tianyancha.com/company/3268094421)|WX_GZH| | | |[H5](http://h5.lianchu.store/#/)|海峡链|场外转赠|
+ |1699|[幻时针ART](https://www.tianyancha.com/company/5604712316)|WX_GZH| | | |[H5](https://h5.fantasytik.com/#/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
