@@ -1751,4 +1751,5 @@
  |1697|[长城数艺](https://www.tianyancha.com/company/5519271326)|WX_GZH| | |APP|[H5](https://mall.gwdart.com/#/)|BSN联盟链|场外转赠|
  |1698|[恋初艺数](https://www.tianyancha.com/company/3268094421)|WX_GZH| | | |[H5](http://h5.lianchu.store/#/)|海峡链|场外转赠|
  |1699|[幻时针ART](https://www.tianyancha.com/company/5604712316)|WX_GZH| | | |[H5](https://h5.fantasytik.com/#/)|BSN文昌链|场外转赠|
+ |1700|[核蛋数字艺术](https://www.tianyancha.com/company/5655691645)|WX_GZH| | |APP|[H5](http://h5.hdszys.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
