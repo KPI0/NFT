@@ -1758,4 +1758,5 @@
  |1704|[紫核计划](https://www.tianyancha.com/company/3368272050)|WX_GZH| | |APP|[H5](https://www.zihesc.com/#/)|天河链|二级市场|
  |1705|[超时空艺术](https://www.tianyancha.com/company/5573490467)|WX_GZH| | | |[H5](http://www.artcsk.cn/)| |场外转赠|
  |1706|[超音数字艺术](https://www.tianyancha.com/company/5600339641)|WX_GZH| | | |[H5](http://chaoyin.art)|树图链|二级市场|
+ |1707|[几米数字文化](https://www.tianyancha.com/company/5673574904)|WX_GZH| | |[APP](https://www.jim-i.art/download/#/)| | |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
