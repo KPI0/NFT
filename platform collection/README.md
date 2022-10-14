@@ -1757,4 +1757,5 @@
  |1703|[幻壤](https://www.tianyancha.com/company/2353515868)|WX_GZH| | | |[H5](http://m.huanrang.art/#/)|BSN联盟链|二级市场|
  |1704|[紫核计划](https://www.tianyancha.com/company/3368272050)|WX_GZH| | |APP|[H5](https://www.zihesc.com/#/)|天河链|二级市场|
  |1705|[超时空艺术](https://www.tianyancha.com/company/5573490467)|WX_GZH| | | |[H5](http://www.artcsk.cn/)| |场外转赠|
+ |1706|[超音数字艺术](https://www.tianyancha.com/company/5600339641)|WX_GZH| | | |[H5](http://chaoyin.art)|树图链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
