@@ -1753,4 +1753,5 @@
  |1699|[幻时针ART](https://www.tianyancha.com/company/5604712316)|WX_GZH| | | |[H5](https://h5.fantasytik.com/#/)|BSN文昌链|场外转赠|
  |1700|[核蛋数字艺术](https://www.tianyancha.com/company/5655691645)|WX_GZH| | |APP|[H5](http://h5.hdszys.com/#/)||二级市场|
  |1701|[大也数字艺术](https://www.tianyancha.com/company/5225727705)|WX_GZH| | |[APP](http://dy.hnczkj.com/appDownload/#/)|[H5](http://dy.hnczkj.com/web/#/)||二级市场|
+ |1702|[华立文创](https://www.tianyancha.com/company/5604627451)|WX_GZH| | | |[H5](http://nft.gjwc1688.com/star/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
