@@ -1742,4 +1742,5 @@
  |1688|[NewBox](https://www.tianyancha.com/company/5654038122)|WX_GZH| | | |[H5](https://h5.newbox.plus/wap/)| |二级市场|
  |1689|[妖零零数创](https://www.tianyancha.com/company/5655768389)|WX_GZH| | |[APP](https://yaolingling.cn/pages/public/appdown)|[H5](https://yaolingling.cn/)|天河链|二级市场|
  |1690|[天基教材](https://www.tianyancha.com/company/5649979564)|WX_GZH| | | |[H5](https://www.tianjisc.com/h5/#/)| |二级市场|
+ |1691|[108数艺](https://www.tianyancha.com/company/3484149390)|WX_GZH| | | |[H5](https://m.the108.art/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
