@@ -1746,4 +1746,5 @@
  |1692|[千里少女](https://www.tianyancha.com/company/5322914932)|WX_GZH| | | |[H5](https://girl.joy-art.cn/#/)|BSN联盟链|二级市场|
  |1693|[OVO潮流元宇宙](https://www.tianyancha.com/company/5540638577)|WX_GZH| | |[APP](https://api.ovoart.net/pages/register)| | |二级市场|
  |1694|[阿Q文创art](https://www.tianyancha.com/company/5653736544)|WX_GZH| | |APP|[H5](http://aqszcp.com)| |停止运营|
+ |1695|[本源数字科技](https://www.tianyancha.com/company/3438645935)|WX_GZH| | | |[H5](https://nft.benyuan.vip/#/home)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
