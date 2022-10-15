@@ -1766,5 +1766,5 @@
  |1712|[星亿文创](https://www.tianyancha.com/company/5659453625)|WX_GZH| | | |[H5](http://app.xywc88.cn/h5/#/)| |停止运营|
  |1713|[奥贝文藏meta](https://www.tianyancha.com/company/5699521454)|WX_GZH| | | |[H5](https://h5.wenzangzg.com/#/)|BSN文昌链|二级市场|
  |1714|[Untuk艺术](https://www.tianyancha.com/company/5035569207)|WX_GZH| | |APP|[H5](https://www.untuk.top/#/)|BSN联盟链|二级市场|
- |1715|[禾只版权商城](https://www.tianyancha.com/company/3313375243)|WX_GZH| | |[APP](http://www.zgipmall.com/download/)|[H5](https://www.zgipmall.com/cr_mobile/)| |交易市场|
+ |1715|[禾只数字版权商城](https://www.tianyancha.com/company/3313375243)|WX_GZH| | |[APP](http://www.zgipmall.com/download/)|[H5](https://www.zgipmall.com/cr_mobile/)| |交易市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
