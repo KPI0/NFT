@@ -1765,4 +1765,5 @@
  |1711|[目链数字](https://www.tianyancha.com/company/5666738067)|WX_GZH| | |APP|[H5](https://www.mulian.ltd/wap/)| |二级市场|
  |1712|[星亿文创](https://www.tianyancha.com/company/5659453625)|WX_GZH| | | |[H5](http://app.xywc88.cn/h5/#/)| |停止运营|
  |1713|[奥贝文藏meta](https://www.tianyancha.com/company/5699521454)|WX_GZH| | | |[H5](https://h5.wenzangzg.com/#/)|BSN文昌链|二级市场|
+ |1714|[Untuk艺术](https://www.tianyancha.com/company/5035569207)|WX_GZH| | |APP|[H5](https://www.untuk.top/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
