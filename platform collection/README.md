@@ -1763,4 +1763,5 @@
  |1709|[Rocket潮艺](https://www.tianyancha.com/company/5718393543)|WX_GZH| | | | |BSN联盟链|
  |1710|[圣界数藏](https://www.tianyancha.com/company/5691273474)|WX_GZH| | |APP|[H5](https://shengjie-m.rarefy.cn/#/)|蚂蚁链|二级市场|
  |1711|[目链数字](https://www.tianyancha.com/company/5666738067)|WX_GZH| | |APP|[H5](https://www.mulian.ltd/wap/)| |二级市场|
+ |1712|[星亿文创](https://www.tianyancha.com/company/5659453625)|WX_GZH| | | |[H5](http://app.xywc88.cn/h5/#/)| |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
