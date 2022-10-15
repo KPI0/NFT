@@ -1767,4 +1767,5 @@
  |1713|[奥贝文藏meta](https://www.tianyancha.com/company/5699521454)|WX_GZH| | | |[H5](https://h5.wenzangzg.com/#/)|BSN文昌链|二级市场|
  |1714|[Untuk艺术](https://www.tianyancha.com/company/5035569207)|WX_GZH| | |APP|[H5](https://www.untuk.top/#/)|BSN联盟链|二级市场|
  |1715|[禾只数字版权商城](https://www.tianyancha.com/company/3313375243)|WX_GZH| | |[APP](http://www.zgipmall.com/download/)|[H5](https://www.zgipmall.com/cr_mobile/)| |交易市场|
+ |1716|[开普勒Art](https://www.tianyancha.com/company/3465712458)|WX_GZH| | | |[H5](https://front.hsjzb689.com/pages/index/index)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
