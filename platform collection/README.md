@@ -1774,4 +1774,5 @@
  |1719|[容易数藏](https://www.tianyancha.com/company/5526510430)|WX_GZH| |ZFB_XCX|APP| | |二级市场|
  |1720|[曙藏art](https://www.tianyancha.com/company/4315279498)|WX_GZH| | |[APP](https://meta.shucangvip.cn/#/pages/download)|[H5](https://meta.shucangvip.cn/#/)|BSN文昌链|二级市场|
  |1721|[星际元宇宙](https://www.tianyancha.com/company/3220688784)|WX_GZH| | | |[H5](https://h5.starxlabs.cn/#/)| |二级市场|
+ |1722|[灵动数藏](https://www.tianyancha.com/company/5197036457)|WX_GZH| | | |[H5](http://ldsz.art/| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
