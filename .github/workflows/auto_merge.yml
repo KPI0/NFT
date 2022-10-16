@@ -24,13 +24,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: KPI0/NFT@main
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: KPI0 # fork 的上游仓库 user
+          head: main # fork 的上游仓库 branch
+          base: main # 本地仓库 branch
