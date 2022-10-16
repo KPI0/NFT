@@ -24,6 +24,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      - name: auto_merge
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           owner: KPI0 # fork 的上游仓库 user
