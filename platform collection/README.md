@@ -1770,4 +1770,5 @@
  |1716|[开普勒Art](https://www.tianyancha.com/company/3465712458)|WX_GZH| | | |[H5](https://front.hsjzb689.com/pages/index/index)|BSN文昌链|二级市场|
  |1717|[物世和](https://www.tianyancha.com/company/5581690638)|WX_GZH| | | |[H5](http://www.50hehe.com/#/)| |场外转赠|
  |1718|[呓语无疆](https://www.tianyancha.com/company/2434788011)|WX_GZH| | | |[H5](https://batefuture.com/h6/#/)| |二级市场|
+ |1719|[容易数藏](https://www.tianyancha.com/company/5526510430)|WX_GZH| |ZFB_XCX|APP| | |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
