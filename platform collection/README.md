@@ -1772,4 +1772,5 @@
  |1718|[呓语无疆](https://www.tianyancha.com/company/2434788011)|WX_GZH| | | |[H5](https://batefuture.com/h6/#/)| |二级市场|
  |1719|[容易数藏](https://www.tianyancha.com/company/5526510430)|WX_GZH| |ZFB_XCX|APP| | |二级市场|
  |1720|[曙藏art](https://www.tianyancha.com/company/4315279498)|WX_GZH| | |[APP](https://meta.shucangvip.cn/#/pages/download)|[H5](https://meta.shucangvip.cn/#/)|BSN文昌链|二级市场|
+ |1721|[星际元宇宙](https://www.tianyancha.com/company/3220688784)|WX_GZH| | | |[H5](https://h5.starxlabs.cn/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
