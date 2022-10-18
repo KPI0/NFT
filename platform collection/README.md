@@ -1761,7 +1761,7 @@
  |1706|[超音数字艺术](https://www.tianyancha.com/company/5600339641)|WX_GZH| | | |[H5](http://chaoyin.art)|树图链|二级市场|
  |1707|[几米数字文化](https://www.tianyancha.com/company/5673574904)|WX_GZH| | |[APP](https://www.jim-i.art/download/#/)| | |二级市场|
  |1708|[SH空间艺术](https://www.tianyancha.com/company/5573444604)|WX_GZH| | | |[H5](https://art.hnshaohang.cn/#/)|BSN文昌链|二级市场|
- |1709|[Rocket潮艺](https://www.tianyancha.com/company/5718393543)|WX_GZH| | | | |BSN联盟链|
+ |1709|[Rocket潮艺](https://www.tianyancha.com/company/5718393543)|WX_GZH| | | |[H5](https://art-rocket.com/)|BSN联盟链|二级市场|
  |1710|[圣界数藏](https://www.tianyancha.com/company/5691273474)|WX_GZH| | |APP|[H5](https://shengjie-m.rarefy.cn/#/)|蚂蚁链|二级市场|
  |1711|[目链数字](https://www.tianyancha.com/company/5666738067)|WX_GZH| | |APP|[H5](https://www.mulian.ltd/wap/)| |二级市场|
  |1712|[星亿文创](https://www.tianyancha.com/company/5659453625)|WX_GZH| | | |[H5](http://app.xywc88.cn/h5/#/)| |停止运营|
