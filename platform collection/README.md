@@ -1781,4 +1781,5 @@
  |1726|[HiBoxArt](https://www.tianyancha.com/company/5658270099)|WX_GZH| | |[APP](https://download.haihezi.com)|[H5](https://www.haihezi.com/wap/)|BSN文昌链|二级市场|
  |1727|[柏拉图meta](https://www.tianyancha.com/company/5595422286)|WX_GZH| | |APP|[H5](https://szzqj.com.cn/h5/#/)| |二级市场|
  |1728|[炁原Meta](https://www.tianyancha.com/company/5663043883)|WX_GZH| | |APP|[H5](https://www.chinfty.com/)| |二级市场|
+ |1729|[尖端meta](https://www.tianyancha.com/company/5638480106)|WX_GZH| | | |[H5](https://www.jianduan.art/#/home)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
