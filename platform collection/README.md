@@ -1040,7 +1040,7 @@
  |987|[云画数艺](https://www.tianyancha.com/company/3301012586)|WX_GZH| | |APP|[H5](https://plus.yunhuaart.top/#/)|BSN联盟链|场外转赠|
  |988|[宝符艺术](https://www.tianyancha.com/company/5149757687)|WX_GZH| | | |[H5](https://bfbox.art/#/login?invite_code=RGQQDL)|蚂蚁链、长安链、至信链、XuperChain|二级市场|
  |989|[国艺数藏](https://www.tianyancha.com/company/3096674953)|WX_GZH| | |APP|[H5](https://h5.shihuayuan.cn/#/)||场外转赠|
- |990|[云纺博物馆](https://www.tianyancha.com/company/3092747081)|WX_GZH| | | |[H5](http://artvery.txwsyun.cn/#/)|
+ |990|[2045矩阵空间](https://www.tianyancha.com/company/3408043614)|WX_GZH| | | |[H5](http://artvery.txwsyun.cn/#/)|草田链|场外转赠|
  |991|[地球时代](https://www.tianyancha.com/company/5518119477)|WX_GZH| | |APP|[H5](https://app.gaiaera.com/#/pages/login/register/register?invitationCode=UNA9MN)|BSN文昌链|场外转赠|
  |992|[金色数藏](https://www.tianyancha.com/company/5441823354)|WX_GZH| | |[APP](https://app.jinse.com/)| |至信链|
  |993|[神州一鸣](https://www.tianyancha.com/company/5522523588)|WX_GZH| | |APP|[H5](http://www.shenzhoushucang.com/wap/#/)|BSN联盟链|二级市场|
