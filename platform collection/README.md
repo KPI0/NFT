@@ -1793,4 +1793,5 @@
  |1738|[赢家club](https://www.tianyancha.com/company/5641411744)|WX_GZH| | | |[H5](https://yuelan.shuziclub.com/#/)| |交易市场|
  |1739|[Blur Meta](https://www.tianyancha.com/company/5342383426)|WX_GZH| | | |[H5](http://u.remy.sh.cn/#/)| |二级市场|
  |1740|[CBD宇宙艺术](https://www.tianyancha.com/company/5653307376)|WX_GZH| | | |[H5](https://h5.niubiys.vip/)| |二级市场|
+ |1741|[Metagency灵涌](https://www.tianyancha.com/company/4337521842)|WX_GZH| | |APP|[H5](https://m.metagency.cn/)|火链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
