@@ -1419,7 +1419,7 @@
  |1366|[ZART艺术](https://www.tianyancha.com/company/5517133745)|WX_GZH| | | |[H5](http://ss.songshuart.cn/zart/index.html#/home)|HECO|二级市场|
  |1367|[悟腾宇宙](https://www.tianyancha.com/company/5573519116)|WX_GZH| | | |[H5](https://h5.topxzw.com/h5/#/)|BSN文昌链|二级市场|
  |1368|[良延艺术](https://www.tianyancha.com/company/5610885498)|WX_GZH| | | |[H5](http://nft.lt666.art/#/)||二级市场|
- |1369|[积目](https://www.tianyancha.com/company/3158507449)|WX_GZH| | |[APP](https://hi.hitup.cn/)|
+ |1369|[积目](https://www.tianyancha.com/company/3158507449)|WX_GZH| | |[APP](https://hi.hitup.cn/)| | |场外转赠|
  |1370|[幻维空间](https://www.tianyancha.com/company/5545392949)|WX_GZH| | |APP|[H5](http://www.huanweikongjian.cn/)| |二级市场|
  |1371|[MetaTool](https://www.tianyancha.com/company/4519985550)|WX_GZH| | |[APP](https://coin-h5.bilinyun.cn/downapp.html)|[H5](https://coin-h5.bilinyun.cn/h5/#/)|BSN文昌链|二级市场|
  |1372|[立藏](https://www.tianyancha.com/company/5556864958)|WX_GZH| | |[APP](http://licang.vip/app.html)|[H5](http://licang.vip/#/)|BSN联盟链|二级市场|
