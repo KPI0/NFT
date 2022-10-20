@@ -888,7 +888,7 @@
  |838|[集艺数藏](https://www.tianyancha.com/company/5441656832)|WX_GZH| | | |[H5](https://www.jiyisc.com/)| |场外转赠|
  |839|[紫金元宇宙](https://www.tianyancha.com/company/3349772490)|WX_GZH| | |[APP](http://app.taozhangfang.xyz/zjsy)|[H5](http://www.taozhangfang.xyz/register.html?pid=38783830#wechat_redirect)|  |场外转赠|
  |840|[贝塔数藏](https://www.tianyancha.com/company/5386358724)|WX_GZH| | | |[H5](http://shop.flmtech.cn/#/pages/auth/register/register?invitationCode=81370274396)|Polygon|二级市场|
- |841|[METAUP](https://www.tianyancha.com/company/3216202891)|WX_GZH| | | |[H5](https://ntfmall.mpcheshi.com/#/?inviteCode=bnSnrE)|文熙链|场外转赠|
+ |841|[METAUP](https://www.tianyancha.com/company/3216202891)|WX_GZH| | |[APP](https://www.imetaup.com/#/appDownload)|[H5](https://www.imetaup.com)|文熙链|二级市场|
  |842|[北晓数字艺术](https://www.tianyancha.com/company/5481085924)|WX_GZH| | |[APP](https://tapp.dfabu.com/bEN7)|[H5](https://www.beixaoshuzi.com/h5#/register?code=admHL9)||二级市场|
  |843|[新天世界](https://www.tianyancha.com/company/4021135197)|WX_GZH| | | |[H5](https://store.singtian.world/h5?share_code=wJoUIE)| |二级市场|
  |844|[幻光艺术](https://www.tianyancha.com/company/5510652172)|WX_GZH| | |APP|[H5](http://www.sitomat.cn/#/pages/login/register?code=3514671)| |场外转赠|
