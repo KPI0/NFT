@@ -1046,7 +1046,7 @@
  |993|[神州一鸣](https://www.tianyancha.com/company/5522523588)|WX_GZH| | |APP|[H5](http://www.shenzhoushucang.com/wap/#/)|BSN联盟链|二级市场|
  |994|[星创元艺术](https://www.tianyancha.com/company/5588438089)|WX_GZH| | | |[H5](http://chuangy.csctesting.cn/)|BSN联盟链|二级市场|
  |995|[创世数字](https://www.tianyancha.com/company/5471617315)|WX_GZH| | |[APP](https://download.hnyhy.cn)|[H5](https://genesis.hnyhy.cn)|BSN文昌链|二级市场|
- |996|[帝凡文创](https://www.tianyancha.com/company/5579473989)|WX_GZH|
+ |996|[帝凡文创](https://www.tianyancha.com/company/5579473989)|WX_GZH| | | | | |停止运营|
  |997|[鲲起文创](https://www.tianyancha.com/company/5559458662)|WX_GZH| | | |[H5](https://front.kunqishucang.com/#/)|BSN文昌链|二级市场|
  |998|[藏云阁](https://www.tianyancha.com/company/5506907482)|WX_GZH| | |[APP](http://app.xiwusc.com/xiwu)|[H5](https://nft.xiwusc.com/#/)|蚂蚁链|二级市场|
  |999|[cocafe咖菲科技](https://www.tianyancha.com/company/4436223894)|WX_GZH| | | |[H5](https://galaxy.cocafe.co/)|趣链|
