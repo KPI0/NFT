@@ -1795,4 +1795,5 @@
  |1740|[CBD宇宙艺术](https://www.tianyancha.com/company/5653307376)|WX_GZH| | | |[H5](https://h5.niubiys.vip/)| |二级市场|
  |1741|[Metagency灵涌](https://www.tianyancha.com/company/4337521842)|WX_GZH| | |APP|[H5](https://m.metagency.cn/)|火链|场外转赠|
  |1742|[数藏集市OKF](https://www.tianyancha.com/company/5568566251)|WX_GZH| | | |[H5](http://okf.com/)|
+ |1743|[OKB艺术](https://www.tianyancha.com/company/2341920358)|WX_GZH| | |[APP](http://h5.okbapi.com/pages/download)|[H5](http://h5.okbapi.com/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
