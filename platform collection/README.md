@@ -535,7 +535,7 @@
  |491|[博物有道](https://www.tianyancha.com/company/4155687369)|WX_GZH|WX_XCX| | |[H5](https://h5.bowuyoudao.com/pages/nft/home/index)| |二级市场|
  |492|[鲸落数藏](https://www.tianyancha.com/company/5422986644)|WX_GZH| | | |[H5](http://www.jingluo521.cn/#/pages/index/index)| |停止运营|
  |493|[永恒宇宙](https://www.tianyancha.com/company/5462550359)|WX_GZH| |Bigverse|APP|[H5](https://www.nftcn.com.cn/h5/#/)|Ethereum|二级市场|
- |494|[三叠纪](https://www.tianyancha.com/company/3341226552)|WX_GZH| | | |[H5](https://3dieji.mokyun.com/|BSN联盟链|场外转赠|
+ |494|[三叠纪](https://www.tianyancha.com/company/3341226552)|WX_GZH| | | |[H5](https://3dieji.mokyun.com/)|BSN联盟链|场外转赠|
  |495|[元龙悦藏](https://www.tianyancha.com/company/5434949187)|WX_GZH| |4JVVN4| |[H5](http://h5.ycmeta5.com/#/)|BSN文昌链|场外转赠|
  |496|[元狐数藏](https://www.tianyancha.com/company/3315127257)|WX_GZH| | |APP|[H5](https://yh.msjp.com.cn/wap/#/)||场外转赠|
  |497|[FC数字艺术](https://www.tianyancha.com/company/5424870722)|WX_GZH| | |[APP](https://nft.fcszys.vip/reg/J8Q5OjWoJ)|[H5](https://m.fcszys.vip/)|HECO|二级市场|
