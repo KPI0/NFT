@@ -1807,4 +1807,5 @@
  |1752|[七七Metaverse](https://www.tianyancha.com/company/5668662142)|WX_GZH| | | |[H5](http://h5.lifrbke.cn/)|
  |1753|[拍藏](https://www.tianyancha.com/company/5610962046)|WX_GZH| | |[APP](https://www.paicang.net/phone-web/download)|[H5](https://www.paicang.net/phone-web/)||二级市场|
  |1754|[宙响藏馆](https://www.tianyancha.com/company/5500669696)|WX_GZH| | |APP|[H5](https://h5.ltbox.art/#/)|蚂蚁链|二级市场|
+ |1755|[次元数艺](https://www.tianyancha.com/company/5650727074)|WX_GZH| | |[APP](http://ciyuanshuyi.com/appxiazai)|[H5](http://ciyuanshuyi.com/index.html)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
