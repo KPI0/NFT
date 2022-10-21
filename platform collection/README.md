@@ -1800,4 +1800,5 @@
  |1745|[Hi-tech](https://www.tianyancha.com/company/5568942425)|WX_GZH| | | |[H5](http://h5.hitich.shop/)| |二级市场|
  |1746|[Rights数字艺术](https://www.tianyancha.com/company/5218257392)|WX_GZH| | |APP|[H5](https://www.rightsart.cn/web/#/)| |二级市场|
  |1747|[星宇灵境](https://www.tianyancha.com/company/5455557362)|WX_GZH| | | |[H5](https://sc.xylj2022.com/#/)|信证链|场外转赠|
+ |1748|[GM数字藏品](https://www.tianyancha.com/company/5542612008)|WX_GZH| | |APP|[H5](https://gamemeta.net.cn/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
