@@ -1798,4 +1798,5 @@
  |1743|[OKB艺术](https://www.tianyancha.com/company/2341920358)|WX_GZH| | |[APP](http://h5.okbapi.com/pages/download)|[H5](http://h5.okbapi.com/)| |二级市场|
  |1744|[数艺ART](https://www.tianyancha.com/company/3267957736)|WX_GZH| | | |[H5](https://www.shue.art/)|BSN联盟链|场外转赠|
  |1745|[Hi-tech](https://www.tianyancha.com/company/5568942425)|WX_GZH| | | |[H5](http://h5.hitich.shop/)| |二级市场|
+ |1746|[Rights数字艺术](https://www.tianyancha.com/company/5218257392)|WX_GZH| | |APP|[H5](https://www.rightsart.cn/web/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集|
