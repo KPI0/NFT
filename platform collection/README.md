@@ -666,7 +666,7 @@
  |620|[视觉猿数字艺术](https://www.tianyancha.com/company/5224384192)|WX_GZH| | |APP|[H5](https://h5.shijueyuan.cn/#/?spm=163947.1.0.2.1)| |二级市场|
  |621|[数秀CN](https://www.tianyancha.com/company/4535450774)|WX_GZH| | |[APP](http://ff.shuxiucn.com/#/)|[H5](https://h5.shuxiucn.com/#/)|蚂蚁链|场外转赠|
  |622|[数字聚星](https://www.tianyancha.com/company/5016550939)|WX_GZH| | | |[H5](https://h5.artchain.ltd/H5/#/)|海峡链|场外转赠|
- |623|[炫弛世界](https://www.tianyancha.com/company/3419932627)|WX_GZH| | |APP|
+ |623|[炫弛世界](https://www.tianyancha.com/company/3419932627)|WX_GZH| | |[APP](http://activity.longxuanchi.com/)| |二级市场|
  |624|[摇光艺术](https://www.tianyancha.com/company/5503763483)|WX_GZH| | | |[H5](https://ygys.ygysmeta.com)|BSN文昌链|二级市场|
  |625|[3D元宇宙](https://www.tianyancha.com/company/3043840815)|WX_GZH| | |APP|[H5](https://ntoken.tokenai.net/?v=1.2#/)|BSN联盟链|场外转赠|
  |626|[三体数字](https://www.tianyancha.com/company/5420845201)|WX_GZH| | | |[H5](http://www.三体.art:8100/#/)|Ethereum|场外转赠|
