@@ -165,7 +165,7 @@
  |145|[鲸核数藏](https://www.tianyancha.com/company/3400109658)|WX_GZH| | |[APP](https://www.nftcms.cn/pages/other/download)|[H5](https://www.nftcms.cn/pages/login/invite?inviteCode=79N6UY3)|艺数云链|二级市场|
  |146|[微纳AX Meta](https://www.tianyancha.com/company/4322603289)|WX_GZH| | |[APP](https://jzyx.ink/fiyT0T)|[H5](http://nft.weinaax.cn/wap/#/)|Polygon|二级市场|
  |146|[MaxDao数艺](https://www.tianyancha.com/company/4322603289)|WX_GZH| | | |[H5](http://www.maxdao.vip/index.html)| |二级市场|
- |147|[巢音世代](https://www.tianyancha.com/company/3385377646)|WX_GZH|    |      |[APP](https://www.music-z.com/)| |HECO|二级市场|
+ |147|[巢音世代](https://www.tianyancha.com/company/3385377646)|WX_GZH| | |[APP](https://www.music-z.com/)| |HECO|二级市场|
  |148|[Maya Meta](https://www.tianyancha.com/company/5301262342)|WX_GZH||||[H5](https://www.mayameta.vip/h5/#/)|Polygon|场外转赠|
  |149|[RockFlow](https://www.tianyancha.com/company/4163370911)|WX_GZH| | |[APP](https://www.rockflow.ai/download)|[H5](https://www.rockflow.ai/)||交易市场|
  |150|[盒盒HEHE](https://www.tianyancha.com/company/3440938461)|WX_GZH| | |[APP](https://share.huifeijuya.cn/download/index.html?)| |BSN文昌链|场外转赠|
@@ -177,7 +177,7 @@
  |156|[速藏文化](https://www.tianyancha.com/company/2965133217)|WX_GZH| | |APP|[H5](https://h5.nftsucang.com/#/nft/paradrop/detail?id=1&invite=B54942)|蚂蚁链|二级市场|
  |156|[次稀空](https://www.tianyancha.com/company/2965133217)|WX_GZH| | |APP|[H5](https://h5.nftsucang.com/#/nft/paradrop/detail?id=1&invite=B54942)|蚂蚁链|二级市场|
  |157|[远传数字文化](https://www.tianyancha.com/company/2965133217)|WX_GZH|WX_XCX||APP|[H5](https://nft.yuanchuanwenbo2021.com/h5/?)|远传链|场外转赠|
- |158|[灵稀](https://www.tianyancha.com/company/3101958499)|  |   |京东APP|[APP](https://mini-app-static.jd.com/apps/mpshare/index.html?appId=377A23CF9F8812214685FBAE6DD84926&type=1&path=pages/index/index.html&utm_user=plusmember&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends)| |智臻链|
+ |158|[灵稀藏品](https://www.tianyancha.com/company/3073605187)|WX_GZH| |京东APP|[APP](https://mini-app-static.jd.com/apps/mpshare/index.html?appId=377A23CF9F8812214685FBAE6DD84926&type=1&path=pages/index/index.html&utm_user=plusmember&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends)| |智臻链|
  |159|[智链元宇宙](https://www.tianyancha.com/company/4974232169)|WX_GZH|||APP|[H5](https://m.zlnft.net/#/)|蚂蚁链|二级市场|
  |160|[无异艺术](https://www.tianyancha.com/company/3192808347)|WX_GZH|  |   |  |[H5](https://www.dbrowser.cn/login)|ImSQL|场外转赠|
  |161|[大众NFT](https://www.tianyancha.com/company/2323736957)|  |WX_XCX| | [APP](https://nft.dbton.com/)| | |场外转赠|
