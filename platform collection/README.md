@@ -1177,7 +1177,7 @@
  |1124|[界域数字艺术](https://www.tianyancha.com/company/5551127303)|WX_GZH| | | |[H5](https://jieyu.h5.yunzongbu.cn/)|BSN联盟链|二级市场|
  |1125|[毅数起源](https://www.tianyancha.com/company/3450857774)|WX_GZH| | | |[H5](https://h5.yishuqy.com/)|天河链|场外转赠|
  |1126|[万物元MetaWWDJ](https://www.tianyancha.com/company/5046446118)|WX_GZH| | | |[H5](https://wwdj.art/)|树图链|场外转赠|
- |1127|[知稀](https://www.tianyancha.com/company/3337326359)|WX_GZH| | |[APP](https://www.zhitumei.cn/wap/download.html)| |花瓣链|
+ |1127|[知稀](https://www.tianyancha.com/company/3337326359)|WX_GZH| | |[APP](https://www.zhitumei.cn/wap/download.html)| |花瓣链|场外转赠|
  |1128|[元琮](https://www.tianyancha.com/company/5397460618)|WX_GZH| | | |[H5](https://meta.ycmot.com/h5/)|新版链|场外转赠|
  |1129|[灵派空间](https://www.tianyancha.com/company/3472542729)|WX_GZH| | | |[H5](https://www.0xpets.com/petsweb/#/h5/market)|BSN联盟链|场外转赠|
  |1130|[闲侣](https://www.tianyancha.com/company/5312475892)|WX_GZH| | |[APP](https://www.hexkej.com/)| |蚂蚁链|
