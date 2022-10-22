@@ -1811,4 +1811,5 @@
  |1756|[DRAMA影视元宇宙](https://www.tianyancha.com/company/5572394396)|WX_GZH| | |[APP](http://drama.wang/download.html)| |抓马链|二级市场|
  |1757|[WMeta](https://www.tianyancha.com/company/5656977957)|WX_GZH| | | |[H5](https://www.watemeta.com/#/)|天河链|场外转赠|
  |1758|[文野艺数](https://www.tianyancha.com/company/5606162513)|WX_GZH| | |[APP](http://www.hnwenye.com/)|[H5](http://hnwenye.com/)| |二级市场|
+ |1759|[普鸽版权市场](https://www.tianyancha.com/company/5568169647)|WX_GZH| | |[APP](http://pgios.metapuge.com/)|[H5](http://xyz.metapuge.com/wap/)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
