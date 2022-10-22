@@ -1813,4 +1813,5 @@
  |1758|[文野艺数](https://www.tianyancha.com/company/5606162513)|WX_GZH| | |[APP](http://www.hnwenye.com/)|[H5](http://hnwenye.com/)| |二级市场|
  |1759|[普鸽版权市场](https://www.tianyancha.com/company/5568169647)|WX_GZH| | |[APP](http://pgios.metapuge.com/)|[H5](http://xyz.metapuge.com/wap/)|Polygon|二级市场|
  |1760|[MixArt](https://www.tianyancha.com/company/5485538799)|WX_GZH| | |APP|[H5](https://mixart.com.cn/)| |二级市场|
+ |1761|[画中游](https://www.tianyancha.com/company/5547346336)|WX_GZH| | | |[H5](http://www.hzynft.com/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
