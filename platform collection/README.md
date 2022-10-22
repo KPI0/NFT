@@ -1813,7 +1813,7 @@
  |1758|[文野艺数](https://www.tianyancha.com/company/5606162513)|WX_GZH| | |[APP](http://www.hnwenye.com/)|[H5](http://hnwenye.com/)| |二级市场|
  |1759|[普鸽版权市场](https://www.tianyancha.com/company/5568169647)|WX_GZH| | |[APP](http://pgios.metapuge.com/)|[H5](http://xyz.metapuge.com/wap/)|Polygon|二级市场|
  |1760|[MixArt](https://www.tianyancha.com/company/5485538799)|WX_GZH| | |APP|[H5](https://mixart.com.cn/)| |二级市场|
- |1761|[画中游](https://www.tianyancha.com/company/5547346336)|WX_GZH| | | |[H5](http://www.hzynft.com/)| |二级市场|
+ |1761|[画中游文创科技](https://www.tianyancha.com/company/5547346336)|WX_GZH| | | |[H5](http://www.hzynft.com/)| |停止运营|
  |1762|[大刘文创](https://www.tianyancha.com/company/5626666513)|WX_GZH| | | | |
  |1763|[云祥数元](https://www.tianyancha.com/company/4028237447)|WX_GZH| | |APP|[H5](https://ydcpzj.com/wap/)||二级市场|
  |1764|[风宇宙数字艺术](https://www.tianyancha.com/company/5686354607)|WX_GZH| | | |[H5](http://m.fengyuzhousz.com/index.html#/)||二级市场|
