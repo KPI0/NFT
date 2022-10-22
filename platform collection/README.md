@@ -1821,4 +1821,5 @@
  |1766|[游元界](https://www.tianyancha.com/company/5650047778)|WX_GZH| | | |[H5](https://www.yyjnft.cn/index.html#/)|BSN文昌链|二级市场|
  |1767|[黑马艺术Himor](https://www.tianyancha.com/company/5533062796)|WX_GZH| | |[APP](http://himor.art/#/pages/download/download)|[H5](http://himor.art/)||二级市场|
  |1768|[东集Art](https://www.tianyancha.com/company/3360201392)|WX_GZH| | | |[H5](https://www.dongart.cn/pages/nft/index/index)|天河链|二级市场|
+ |1769|[灵珑数字文化](https://www.tianyancha.com/company/5673910521)|WX_GZH| | | |[H5](http://artlinglong.com:8080/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
