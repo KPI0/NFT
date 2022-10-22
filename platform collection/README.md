@@ -1818,4 +1818,5 @@
  |1763|[云祥数元](https://www.tianyancha.com/company/4028237447)|WX_GZH| | |APP|[H5](https://ydcpzj.com/wap/)||二级市场|
  |1764|[风宇宙数字艺术](https://www.tianyancha.com/company/5686354607)|WX_GZH| | | |[H5](http://m.fengyuzhousz.com/index.html#/)||二级市场|
  |1765|[梦想ART](https://www.tianyancha.com/company/5691489955)|WX_GZH| | | |[H5](https://art.mxscart.com/h5/#/)|BSN联盟链|二级市场|
+ |1766|[游元界](https://www.tianyancha.com/company/5650047778)|WX_GZH| | | |[H5](https://www.yyjnft.cn/index.html#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
