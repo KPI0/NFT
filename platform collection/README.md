@@ -1830,4 +1830,5 @@
  |1775|[降燥Art](https://www.tianyancha.com/company/5455466564)|WX_GZH| | |APP|[H5](https://nft.yueyin888.cn/h5/h5.html#/)| |二级市场|
  |1776|[墨宇宙Labs](https://www.tianyancha.com/company/5503162034)|WX_GZH| | |[APP](https://m.moverse.com/download)|[H5](https://m.moverse.com/mall)|MoChain|二级市场|
  |1777|[星图数艺](https://www.tianyancha.com/company/5597464115)|WX_GZH| | | |[H5](http://mcmeta.cn/#/)| |
+ |1778|[无极元界](https://www.tianyancha.com/company/3424703630)|WX_GZH| | | |[H5](https://h5.wujitop.com/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
