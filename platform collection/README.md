@@ -1826,4 +1826,5 @@
  |1771|[草帽艺数](https://www.tianyancha.com/company/5692503108)|WX_GZH| | | |[H5](https://www.hatbox.art/#/)| |二级市场|
  |1772|[江湖艺术生活](https://www.tianyancha.com/company/5637749821)|WX_GZH| | |APP|[H5](https://jianghu.feichaokeji.com/#/)| |场外转赠|
  |1773|[魔鲸文创](https://www.tianyancha.com/company/3051341783)|WX_GZH| | | |[H5](https://app.mojing1.com/#/home)| |二级市场|
+ |1774|[icu艺术](https://www.tianyancha.com/company/5691577610)|WX_GZH| | | |[H5](https://nft.icuart.cn/h5/h5.html#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
