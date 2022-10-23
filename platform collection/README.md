@@ -1828,4 +1828,5 @@
  |1773|[魔鲸文创](https://www.tianyancha.com/company/3051341783)|WX_GZH| | | |[H5](https://app.mojing1.com/#/home)| |二级市场|
  |1774|[icu艺术](https://www.tianyancha.com/company/5691577610)|WX_GZH| | | |[H5](https://nft.icuart.cn/h5/h5.html#/)|BSN文昌链|二级市场|
  |1775|[降燥Art](https://www.tianyancha.com/company/5455466564)|WX_GZH| | |APP|[H5](https://nft.yueyin888.cn/h5/h5.html#/)| |二级市场|
+ |1776|[墨宇宙Labs](https://www.tianyancha.com/company/5503162034)|WX_GZH| | |[APP](https://m.moverse.com/download)|[H5](https://m.moverse.com/mall)|MoChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
