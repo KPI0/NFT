@@ -85,7 +85,7 @@
  |73|[链上艺术](https://www.tianyancha.com/company/5392774574)|WX_GZH| |  |[APP](http://download.lsnft.cn/#/)|[H5](https://mp.lsnft.cn/#/)|Polygon|二级市场|
  |74|[ODin元宇宙](https://www.tianyancha.com/company/5044610697)|WX_GZH| | ||[H5](https://m.odinnft.cn/)|树图链|场外转赠|
  |75|[青石幻城](https://www.tianyancha.com/company/5274260589)|WX_GZH| |一岛|APP|[H5](https://dao.cnsfa.cn/#/home)|XuperChain|二级市场|
- |76|[启元宇宙](https://www.tianyancha.com/company/4359266557)|WX_GZH|WX_XCX| | |[H5](https://www.xn--z4qz4eg7icc.com/#/)|新版链|二级市场|
+ |76|[启元宇宙](https://www.tianyancha.com/company/4359266557)|WX_GZH|WX_XCX| |[APP](https://www.xn--z4qz4eg7icc.com/#/)|[H5](https://www.xn--z4qz4eg7icc.com/#/)|新版链|二级市场|
  |77|[神达元宇宙](https://www.tianyancha.com/company/3422445825)|WX_GZH| | |APP|[H5](https://meta.spiritleap.com/#/)|神达福链|二级市场|
  |78|[双镜博物](https://www.tianyancha.com/company/4082172201)|WX_GZH||||[H5](https://h5.shuangjing.club/#/)|树图链|二级市场|
  |79|[碳无限](https://www.tianyancha.com/company/2987376583)|WX_GZH|WX_XCX| |APP|[H5](https://c8.aiwgo.net/TanWuXian/#/)|BSN联盟链|场外转赠|
