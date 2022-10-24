@@ -1832,4 +1832,5 @@
  |1777|[星图数艺](https://www.tianyancha.com/company/5597464115)|WX_GZH| | | |[H5](http://mcmeta.cn/#/)| |
  |1778|[无极元界](https://www.tianyancha.com/company/3424703630)|WX_GZH| | | |[H5](https://h5.wujitop.com/#/)|BSN联盟链|二级市场|
  |1779|[雅昌数藏](https://www.tianyancha.com/company/2963790073)|WX_GZH| | | |[H5](https://digart.artron.net/)|星火链|场外转赠|
+ |1780|[NVERSE数藏](https://www.tianyancha.com/company/5639504544)|WX_GZH| | | |[H5](https://n-verse.top/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
