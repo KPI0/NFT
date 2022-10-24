@@ -1266,7 +1266,7 @@
  |1213|[甲骨文元宇宙](https://www.tianyancha.com/company/5438666631)|WX_GZH| | |[APP](http://download.omhn.net/register/#/)| |ULAM|场外转赠|
  |1214|[度域艺术](https://www.tianyancha.com/company/2352734935)|WX_GZH| | | |[H5](https://duyuweb.dyys.art/#/pages/home/index)|BSN文昌链|二级市场|
  |1215|[太空署](https://www.tianyancha.com/company/3156493364)|WX_GZH| | |APP|[H5](http://space.guojianyishu.com/#/)|BSN联盟链|场外转赠|
- |1216|[中视数智](https://www.tianyancha.com/company/5539930111)|WX_GZH| | | |[H5](http://m.cvdc.net/)|蚂蚁链|
+ |1216|[中视数智](https://www.tianyancha.com/company/5539930111)|WX_GZH| | | |[H5](http://m.cvdc.net/)|蚂蚁链|场外转赠|
  |1217|[C宇宙](https://www.tianyancha.com/company/5358160138)|WX_GZH| | |[APP](https://app.ccyz.cc/share/share.html?user_id=)| | |二级市场|
  |1218|[禾言艺品](https://www.tianyancha.com/company/5084273061)|WX_GZH| | |[APP](http://h5.metawuyuan.com/#/pages/downloadApp/downloadApp)|[H5](http://metawuyuan.com/)|BSN文昌链|二级市场|
  |1219|[绘梦艺数](https://www.tianyancha.com/company/5541530946)|WX_GZH| | | |[H5](https://www.huimengnft.com/#/)|BSN联盟链|二级市场|
