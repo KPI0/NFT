@@ -77,7 +77,7 @@
  |65|[海藏艺术](https://www.tianyancha.com/company/3407911791)|WX_GZH| | |[APP](https://www.haicang.pro/#/)|[H5](https://h5.haicang.pro/#/)|OKChain|二级市场|
  |66|[GEEK数字藏品](https://www.tianyancha.com/company/2358919196)|WX_GZH| | |[APP](https://www.geeknft.art/download/appdownload.html)|[H5](https://www.geeknft.art/frontend/web/index.php/page/index)|XuperChain|二级市场|
  |67|[海幻境数字艺术](https://www.tianyancha.com/company/5294778475)|WX_GZH| | |[APP](https://m.oceandreamland.art/pages/download/index)|[H5](https://app.oceandreamland.art/)|Polygon|二级市场|
- |68|[Xmax星球数藏](https://www.tianyancha.com/company/5407820185)|WX_GZH| | | |[H5](https://sc.xmax.tech/)|信证链|二级市场|
+ |68|[Xmax星球数藏](https://www.tianyancha.com/company/5407820185)|WX_GZH| | |APP|[H5](https://sc.xmax.tech/)|信证链|二级市场|
  |69|[红洞数藏](https://www.tianyancha.com/company/5247894675)|WX_GZH|WX_XCX| |[APP](https://www.redcave.com/#/pagesB/download/app)|[H5](https://www.redcave.com/#/)|趣链、HyperRedox|场外转赠|
  |70|[红果数藏](https://www.tianyancha.com/company/5154139788)|WX_GZH| | |[APP](http://download.nftguanfang.com/#/)|[H5](https://nftguanfang.com/#/)|智臻链|二级市场|
  |71|[蓝猫数字](https://www.tianyancha.com/company/5200287929)|WX_GZH| | | |[H5](https://www.lanmsz.cn/)|蚂蚁链|二级市场|
