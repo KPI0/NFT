@@ -93,7 +93,7 @@
  |81|[NFE中文数藏](https://www.tianyancha.com/company/5401690616)|WX_GZH| | |[APP](https://www.ccdc.vip/pages/software/software)|[H5](https://www.ccdc.vip/)|CIC|场外转赠|
  |82|[UU交易平台](https://www.tianyancha.com/company/3413852666)|WX_GZH| | | |[H5](https://uujypt.com/)| |交易市场|
  |83|[万物灵域](https://www.tianyancha.com/company/5361529623)|WX_GZH|WX_XCX|  |[APP](http://app.ltly.ltd/)|  |XuperChain|二级市场|
- |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH||| |[H5](https://wx.allnfts.cn/)|META|二级市场|
+ |84|[万物数字](https://www.tianyancha.com/company/2324887501)|WX_GZH| | |[APP]( https://wx.allnfts.cn/download)|[H5](https://wx.allnfts.cn/)|META|二级市场|
  |85|[雪崩数藏](https://www.tianyancha.com/company/5318444820)|WX_GZH| |艺数坊|[APP](https://app.avalanchetec.com/)|[H5](http://www.avalanchetec.com/)|树图链|场外转赠|
  |86|[虚河](https://www.tianyancha.com/company/2351306061)|WX_GZH| | |[APP](https://apps.apple.com/cn/app/%E8%99%9A%E6%B2%B3%E8%89%BA%E6%9C%AF/id1628710529)|[H5](https://h5.xuhe.art/#/)|BSN联盟链|二级市场|
  |87|[艺喜星](https://www.tianyancha.com/company/4967257668)|WX_GZH|WX_XCX| | |[H5](https://www.xayxgcwl.com/#/)|Ethereum|二级市场|
