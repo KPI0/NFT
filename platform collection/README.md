@@ -1085,7 +1085,7 @@
  |1033|[E境藏品](https://www.tianyancha.com/company/5479512122)|WX_GZH| | |APP|[H5](https://e-jing.com/wap/)|BSN联盟链|场外转赠|
  |1034|[ing数字艺术](https://www.tianyancha.com/company/5493064773)|WX_GZH| | | |[H5](https://www.ingszys.com/#/)|XuperChain|二级市场|
  |1035|[银河Meta](https://www.tianyancha.com/company/5517413564)|WX_GZH| | |[APP](http://yinheee.com/app.apk)|[H5](http://yinheee.com/#/)|BSN武汉链|场外转赠|
- |1036|[坤昂数字DT](https://www.tianyancha.com/company/4033600948)|WX_GZH| |QueenRun|APP|
+ |1036|[坤昂数字DT](https://www.tianyancha.com/company/4033600948)|WX_GZH| |QueenRun|APP|[H5](https://h5.sindorella.com/userinfo/verification)| |二级市场|
  |1037|[艺数链](https://www.tianyancha.com/company/3290981352)|WX_GZH| | | |[H5](https://h5.yszg.com/?#/)|蚂蚁链|场外转赠|
  |1038|[青希艺术](https://www.tianyancha.com/company/3480147752)|WX_GZH| | |[APP](https://mall.qingxi.art/)| |BSN联盟链|场外转赠|
  |1039|[欣红硕](https://www.tianyancha.com/company/3364339293)|WX_GZH| | |APP|[H5](http://xhs.longteng.xin/#/)|BSN联盟链|场外转赠|
