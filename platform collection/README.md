@@ -374,6 +374,7 @@
  |338|[云岫数字藏品](https://www.tianyancha.com/company/3088756717)|WX_GZH|WX_XCX| | |[H5](https://yunxiunfr.ahtusi.com/h5/)|领域链|二级市场|
  |339|[起点读书APP](https://www.tianyancha.com/company/294965408)| | | |[APP](https://cangpin.yuewen.com/yuewen/home)| |至信链|
  |340|[元文创数藏](https://www.tianyancha.com/company/4017098707)|WX_GZH| | | |[H5](https://www.ylsc.art/pages/)|Polygon|二级市场|
+ |340|[X SPACE数藏](https://www.tianyancha.com/company/4017098707)|WX_GZH| | | |[H5](https://www.ylsc.art/pages/)|Polygon|二级市场|
  |341|[熊猫数藏](https://www.tianyancha.com/company/5412374949)|WX_GZH| | |APP|[H5](http://dev.xmsc.art/index.html#/?content=W2765342)|BSN联盟链|二级市场|
  |342|[爱尔猫AIC](https://www.tianyancha.com/company/2323789617)|WX_GZH| | |[APP](https://nft-download.iercat.com)|[H5](https://nft-h5.iercat.com)|BSN联盟链|二级市场|
  |343|[数藏九州JZNFT](https://www.tianyancha.com/company/3224182548)|WX_GZH| | |[APP](http://app.jznft.cn/downpage/32384bec0b6d4fc8)|[H5](https://nft.lscqgame.com/#)|树图链|二级市场|
