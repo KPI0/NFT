@@ -619,7 +619,7 @@
  |574|[魔狸moli](https://www.tianyancha.com/company/3224276361)|WX_GZH| | | |[H5](https://m.moli.work/)| |场外转赠|
  |575|[光艺数字平台](https://www.tianyancha.com/company/3404835509)|WX_GZH| | | |[H5](https://www.lightofart.cn/)|XuperChain|二级市场|
  |575|[华唐数藏](https://www.tianyancha.com/company/5692518561)|WX_GZH| | | |[H5](https://www.lightofart.cn/)|XuperChain|二级市场|
- |576|[墨语数藏](https://www.tianyancha.com/company/5431586227)|WX_GZH| | |[APP](http://yuanjie.moyuwenchuang.com/h5/#/)||BSC|
+ |576|[墨语数藏](https://www.tianyancha.com/company/5431586227)|WX_GZH| | |[APP](http://yuanjie.moyuwenchuang.com/h5/#/)| |BSC|停止运营|
  |577|[秘果数藏](https://www.tianyancha.com/company/5399450486)|WX_GZH| | |APP|[H5](https://oss.yomgoo.com/)|XuperChain、BSN联盟链|场外转赠|
  |578|[玛雅数藏](https://www.tianyancha.com/company/2325314144)|WX_GZH|  |  |[APP](http://fir.dailidashi.com.cn/8p7f)|[H5](https://cangpin.h5.langem.net/#/)|BSN联盟链|场外转赠|
  |579|[Mo未来](https://www.tianyancha.com/company/5421354454)|WX_GZH| | | |[H5](https://h5.mo.cn/#/)|BSN文昌链|场外转赠|
