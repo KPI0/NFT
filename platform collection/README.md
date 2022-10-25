@@ -1286,7 +1286,7 @@
  |1232|[后浪数藏](https://www.tianyancha.com/company/5398713369)|WX_GZH| | | |[H5](https://mall.yuanbaometa.com/)|复华链|场外转赠|
  |1233|[蜜罐圈数藏](https://www.tianyancha.com/company/3364364657)|WX_GZH| | | |[H5](https://h5.mihuanquan.cn/)|BSN文昌链|场外转赠|
  |1234|[传世数藏](https://www.tianyancha.com/company/5361917793)|WX_GZH| | | |[H5](http://chuanshinft.com/h5/login/index)|至信链|场外转赠|
- |1235|[MoArt数藏](https://www.tianyancha.com/company/5533623584)|WX_GZH| | | |[H5](https://app.moart.art/h5/)|天河链|二级市场|
+ |1235|[MoArt数藏](https://www.tianyancha.com/company/5533623584)|WX_GZH| | |[APP](https://h5.moart.art/app/)|[H5](https://app.moart.art/h5/)|天河链|二级市场|
  |1236|[万象数藏art](https://www.tianyancha.com/company/4599810585)|WX_GZH| | |[APP](https://www.wxsc.art/#/pages/other/download)|[H5](https://www.wxsc.art/#/pages/login/index)|BSN文昌链|场外转赠|
  |1237|[鸿运数藏](https://www.tianyancha.com/company/3089796054)|WX_GZH| | | |[H5](http://szcp.changguannft.com/#/pages/login/index)|BSN文昌链|二级市场|
  |1238|[ZAKER宙世代](https://www.tianyancha.com/company/2795099067)|WX_GZH| | |[APP](http://www.myzaker.com/m/?v=1)|[H5](https://z.zaker.cn/)|BSN文昌链|场外转赠|
