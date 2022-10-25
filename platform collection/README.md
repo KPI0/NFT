@@ -1839,4 +1839,5 @@
  |1783|[第一艺术META](https://www.tianyancha.com/company/4517511861)|WX_GZH| | | |[H5](https://meta.qfkj.art/)| |二级市场|
  |1784|[十艺meta](https://www.tianyancha.com/company/5012172264)|WX_GZH| | |[APP](http://page.shiyimeta.com/)|[H5](https://sy.shiyimeta.com/wap/)| |二级市场|
  |1785|[全民数权文化](https://www.tianyancha.com/company/5725152248)|WX_GZH| | |APP|H5|
+ |1786|[黄河Meta](https://www.tianyancha.com/company/2329978944)|WX_GZH| | |[APP](http://new.rtosd.net/download.html)|[H5](http://new.rtosd.net/#/)|海峡链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
