@@ -1836,4 +1836,5 @@
  |1780|[NVERSE数藏](https://www.tianyancha.com/company/5639504544)|WX_GZH| | | |[H5](https://n-verse.top/#/)|BSN文昌链|二级市场|
  |1781|[CNT数藏](https://www.tianyancha.com/company/5523730872)|WX_GXH| | | |[H5](https://art.dcalliance.com.cn/#/)| |二级市场|
  |1782|[云上数艺](https://www.tianyancha.com/company/3374706383)|WX_GZH| | |[APP](https://www.yunshangshuyi.com/yssy_p_s/downloadPage.html)| | |场外转赠|
+ |1783|[第一艺术META](https://www.tianyancha.com/company/4517511861)|WX_GZH| | | |[H5](https://meta.qfkj.art/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
