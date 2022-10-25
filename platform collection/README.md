@@ -1838,4 +1838,5 @@
  |1782|[云上数艺](https://www.tianyancha.com/company/3374706383)|WX_GZH| | |[APP](https://www.yunshangshuyi.com/yssy_p_s/downloadPage.html)| | |场外转赠|
  |1783|[第一艺术META](https://www.tianyancha.com/company/4517511861)|WX_GZH| | | |[H5](https://meta.qfkj.art/)| |二级市场|
  |1784|[十艺meta](https://www.tianyancha.com/company/5012172264)|WX_GZH| | |[APP](http://page.shiyimeta.com/)|[H5](https://sy.shiyimeta.com/wap/)| |二级市场|
+ |1785|[全民数权文化](https://www.tianyancha.com/company/5725152248)|WX_GZH| | |APP|H5|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
