@@ -1846,4 +1846,5 @@
  |1790|[UNIK数藏](https://www.tianyancha.com/company/5706013447)|WX_GZH| | | |[H5](https://h5.iunik.art/#/)| |场外转赠|
  |1791|[八十八数藏](https://www.tianyancha.com/company/5709943313)|WX_GZH| | | |[H5](https://www.bashibacs.com/)| |二级市场|
  |1792|[金数藏](https://www.tianyancha.com/company/3432012938)|WX_GZH| | | |[H5](https://nft.njyike.com/#/)| |二级市场|
+ |1793|[浙里藏+](https://www.tianyancha.com/company/3368426683)|WX_GZH| | |[APP](https://www.zhelicang.com/download/)|[H5](https://zhelicang.com/apph5/#/)|BSN联盟链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
