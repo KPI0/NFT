@@ -1853,4 +1853,5 @@
  |1796|[星驰文创](https://www.tianyancha.com/company/3463938978)|WX_GZH| | | |[H5](https://www.xingchishucang.com/#/)|BSN文昌链|场外转赠|
  |1797|[长安锦绣](https://www.tianyancha.com/company/5657013268)|WX_GZH| | |[APP](https://api.jinxiucoll.cn/appDownload)| | |二级市场|
  |1798|[勾八数藏](https://www.tianyancha.com/company/5675216928)|WX_GZH| | | |[H5](https://www.gou8art.cn/#/)|BSN联盟链|二级市场|
+ |1799|[繁星数藏](https://www.tianyancha.com/company/3449778914)|WX_GZH| | |APP|[H5](http://www.ssscmeta.com/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
