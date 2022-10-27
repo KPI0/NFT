@@ -1859,4 +1859,5 @@
  |1802|[肥喵Art](https://www.tianyancha.com/company/5513542146)|WX_GZH| | |APP|[H5](http://app1.feimiao.art/#/)|BSN联盟链|二级市场|
  |1803|[TUL数艺](https://www.tianyancha.com/company/5375761688)|WX_GZH| | | |[H5](http://tul.xinyaoxie.cn/#/)|BSN文昌链|二级市场|
  |1804|[泰逢数藏](https://www.tianyancha.com/company/5579088424)|WX_GZH| | |APP|[H5](https://taifeng.matetaifeng.com/)|蚂蚁链|二级市场|
+ |1805|[海河数藏](https://www.tianyancha.com/company/5571417086)|WX_GZH| | | |[H5](https://www.haiheshucang.cn/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
