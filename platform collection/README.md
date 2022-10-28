@@ -1806,7 +1806,7 @@
  |1749|[玄玺数艺](https://www.tianyancha.com/company/5699916328)|WX_GZH| | | |[H5](https://xuanxi.art/index.html#/)|BSN文昌链|场外转赠|
  |1750|[光明数藏](https://www.tianyancha.com/company/2310265504)|WX_GZH| | | |[H5](https://shucang.gmw.cn/h5/)|BSN联盟链|场外转赠|
  |1751|[元数仓](https://www.tianyancha.com/company/5478245388)|WX_GZH| | |[APP](https://app.yscnft.com/pages/download/download)|[H5](https://app.yscnft.com/)|BSN联盟链|二级市场|
- |1752|[七七Metaverse](https://www.tianyancha.com/company/5668662142)|WX_GZH| | | |[H5](http://h5.lifrbke.cn/)|
+ |1752|[七七Metaverse](https://www.tianyancha.com/company/5668662142)|WX_GZH| | | |[H5](http://h5.qiqimetaverse.com/#/)| |场外转赠|
  |1753|[拍藏](https://www.tianyancha.com/company/5610962046)|WX_GZH| | |[APP](https://www.paicang.net/phone-web/download)|[H5](https://www.paicang.net/phone-web/)||二级市场|
  |1754|[宙响藏馆](https://www.tianyancha.com/company/5500669696)|WX_GZH| | |APP|[H5](https://h5.ltbox.art/#/)|蚂蚁链|二级市场|
  |1755|[次元数艺](https://www.tianyancha.com/company/5650727074)|WX_GZH| | |[APP](http://ciyuanshuyi.com/appxiazai)|[H5](http://ciyuanshuyi.com/index.html)||二级市场|
