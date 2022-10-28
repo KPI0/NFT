@@ -1862,4 +1862,5 @@
  |1805|[海河数藏](https://www.tianyancha.com/company/5571417086)|WX_GZH| | | |[H5](https://www.haiheshucang.cn/#/)|BSN文昌链|二级市场|
  |1806|[文典数藏](https://www.tianyancha.com/company/3458920031)|WX_GZH| | | |[H5](https://www.wdsc.net.cn/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile)|XuperChain|场外转赠|
  |1807|[飞牛数藏](https://www.tianyancha.com/company/5386535190)|WX_GZH| | | |[H5](https://nft.gxpangdun.com/wap/)|BSN文昌链|场外转赠|
+ |1808|[STbang Art](https://www.tianyancha.com/company/5632369471)|WX_GZH| | | |[H5](https://st.5ug.com/)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
