@@ -1870,4 +1870,5 @@
  |1813|[齐讯数藏](https://www.tianyancha.com/company/5658471263)|WX_GZH| | | |[H5](http://nft.qixun.co/h5/#/)|BSN联盟链|场外转赠|
  |1814|[NXTF](https://www.tianyancha.com/company/5529049088)|WX_GZH| | | |[H5](https://nxtf.cn/)|BSN文昌链|场外转赠|
  |1815|[十亿数藏](https://www.tianyancha.com/company/5276549325)|WX_GZH| | |APP|[H5](https://www.yilianair.com/h5/#)|XuperChain|停止运营|
+ |1816|[元一文创](https://www.tianyancha.com/company/5558295520)|WX_GZH| | |APP|[H5](https://nft.yuanyisc.art/wap/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
