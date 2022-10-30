@@ -1078,7 +1078,7 @@
  |1024|[中艺数藏](https://www.tianyancha.com/company/5472598695)|WX_GZH| | | |[H5](https://h5.zycn.vip)|树图链|二级市场|
  |1025|[幻灵文创](https://www.tianyancha.com/company/3289288919)|WX_GZH| | |APP|[H5](https://app.huanlingwenchuang.com/h5/)|BSN文昌链|场外转赠|
  |1026|[ARCC数字潮流](https://www.tianyancha.com/company/5540374381)|WX_GZH| | |[APP](https://h5.arcnftclub.com/)| | |场外转赠|
- |1027|[壹亿数藏](https://www.tianyancha.com/company/5522871599)|WX_GZH| | | | |BSN文昌链|
+ |1027|[壹亿数藏](https://www.tianyancha.com/company/5522871599)|WX_GZH| | | | |BSN文昌链|停止运营|
  |1028|[方舟 Metarche](https://www.tianyancha.com/company/2342493303)|WX_GZH| | |APP|[H5](https://h5.metarche.com/#/)|BSN文昌链|场外转赠|
  |1029|[春秋壹号数藏](https://www.tianyancha.com/company/5173070868)|WX_GZH| | | |[H5](http://cqnft.xjcqwckjgs.com/web/)|至信链|场外转赠|
  |1030|[美藏艺术](https://www.tianyancha.com/company/3269289463)|WX_GZH| | |[APP](https://app.meicang.cn/download)|[H5](https://app.meicang.cn/)|XuperChain、至信链|二级市场|
