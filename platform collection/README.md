@@ -1071,7 +1071,7 @@
  |1017|[邮艺数藏](https://www.tianyancha.com/company/3367906403)|WX_GZH| | | |[H5](https://www.merkletech.cn/pages/mine/mine)|蚂蚁链|场外转赠|
  |1018|[华乐数藏](https://www.tianyancha.com/company/5546660638)|WX_GZH| | | |[H5](http://www.lgshucang.com.cn/#/pages/index/index)|BSN联盟链|二级市场|
  |1019|[元游数藏](https://www.tianyancha.com/company/5524180703)|WX_GZH| | |[APP](http://59.110.153.46/appdownload/index.html)|[H5](http://yuanyoushucang.com)|Polygon|场外转赠|
- |1020|[HIGH WOMEN](https://www.tianyancha.com/company/5128378244)|WX_GZH| | |APP|[H5](http://m.highwomen.art/#/)|BSN联盟链|场外转赠|
+ |1020|[HIGH WOMEN](https://www.tianyancha.com/company/5128378244)|WX_GZH| | |APP|[H5](http://m.highwomen.art/#/)|BSN联盟链|停止运营|
  |1021|[匠心秘藏](https://www.tianyancha.com/company/3407714824)|WX_GZH| | |APP|[H5](http://ichmeta.cn/#/)|BSN联盟链|二级市场|
  |1022|[天元数藏](https://www.tianyancha.com/company/2419741708)|WX_GZH| | | |[H5](https://jseknft.86itn.cn/h5/h5.html#/)|BSN文昌链|二级市场|
  |1023|[字节数藏](https://www.tianyancha.com/company/2943064261)|WX_GZH| | | |[H5](https://zjs.bit2byte.cn/zjsc/#/)|腾讯链|场外转赠|
