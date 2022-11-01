@@ -1874,4 +1874,5 @@
  |1817|[寻唐数藏](https://www.tianyancha.com/company/5549932827)|WX_GZH| | |APP|[H5](http://m.xuntangshucang.top/)|XuperChain|二级市场|
  |1818|[718数藏](https://www.tianyancha.com/company/5723353650)|WX_GZH| | | |[H5](http://h5.718collections.com/#/)|海峡链|场外转赠|
  |1819|[嘀嗒星球](https://www.tianyancha.com/company/5522814591)|WX_GZH| | | |APP|[H5](https://h5.tikometa.cn/#/)|BSN联盟链|二级市场|
+ |1820|[LinkNFT](https://www.tianyancha.com/company/5639015643)|WX_GZH| | | |[H5](https://m.linknft.net/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
