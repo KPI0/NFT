@@ -1882,4 +1882,5 @@
  |1824|[UNI Z META](https://www.tianyancha.com/company/3313516447)|WX_GZH| | |[APP](https://reg.uni-meta.com.cn/#/)| | |二级市场|
  |1825|[BUG艺术](https://www.tianyancha.com/company/5746337320)|WX_GZH| | | |[H5](https://www.bugart.cc/wap/#/)| |二级市场|
  |1826|[元神数字艺术文化](https://www.tianyancha.com/company/5672722390)|WX_GZH| | |APP|[H5](https://h5.yswc.cc/#/)| |二级市场|
+ |1827|[汉潮META](https://www.tianyancha.com/company/2352745290)|WX_GZH| | |APP|[H5](http://www.hanchao-meta.com/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
