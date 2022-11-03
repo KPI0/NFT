@@ -1884,4 +1884,5 @@
  |1826|[元神数字艺术文化](https://www.tianyancha.com/company/5672722390)|WX_GZH| | |APP|[H5](https://h5.yswc.cc/#/)| |二级市场|
  |1827|[汉潮META](https://www.tianyancha.com/company/2352745290)|WX_GZH| | |APP|[H5](http://www.hanchao-meta.com/)| |二级市场|
  |1828|[沃合艺术](https://www.tianyancha.com/company/5546655770)|WX_GZH| | |[APP](http://mp.wohesc.com/down/)|[H5](https://wohesc.com/wap/)|BSN联盟链|二级市场|
+ |1829|[YY Meta](https://www.tianyancha.com/company/5696400293)|WX_GZH| | | |[H5](http://www.yymeta.art/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
