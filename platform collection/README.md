@@ -1461,7 +1461,7 @@
  |1405|[之影数文](https://www.tianyancha.com/company/5579569532)|WX_GZH| | | |[H5](https://h5.zyswsc.com/#/)|之影链|场外转赠|
  |1406|[kyspace数字文化](https://www.tianyancha.com/company/5628750490)|WX_GZH| | |APP|[H5](https://meta.kyspace.art/#/)|BSN文昌链|二级市场|
  |1407|[元界宇艺](https://www.tianyancha.com/company/5587169963)|WX_GZH| | |APP|[H5](http://www.yuanyuyy.com/h5/#/)|BSN文昌链|二级市场|
- |1408|[雾链未来](https://www.tianyancha.com/company/3396277122)|WX_GZH| | |APP|[H5](https://www.wulianwl.com/)|BSN联盟链|二级市场|
+ |1408|[雾链Meta](https://www.tianyancha.com/company/3396277122)|WX_GZH| | |APP|[H5](https://www.wulianwl.com/)|BSN联盟链|停止运营|
  |1409|[链元文创](https://www.tianyancha.com/company/5526328991)|WX_GZH| | |[APP](https://www.circlemeta.cn/#/pages/setting/downApp)|[H5](https://www.circlemeta.cn/#/)||二级市场|
  |1410|[茶meta](https://www.tianyancha.com/company/5479184688)|WX_GZH| | | |[H5](http://cha.teemt.cn/#/)||场外转赠|
  |1411|[Flame Meta火焰艺术](https://www.tianyancha.com/company/5531397461)|WX_GZH| | |APP|[H5](http://h5.flamemeta.art/#/)||场外转赠|
