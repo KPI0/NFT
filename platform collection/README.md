@@ -308,7 +308,7 @@
  |274|[以太数创](https://www.tianyancha.com/company/5442426880)|WX_GZH| | | |[H5](https://www.yitaishuchuang.com/)|  |场外转赠|
  |275|[元启数藏](https://www.tianyancha.com/company/3380960534)|WX_GZH| | |[APP](http://download.scaniov.com/)|[H5](https://yuanqi.scaniov.com/h5/#/)|海星链|二级市场|
  |276|[幻灵数藏](https://www.tianyancha.com/company/5444944260)|WX_GZH|   |   |APP|[H5](http://h5.huanling.art/#/)|QuarkChain|二级市场|
- |277|[极蝠数创](https://www.tianyancha.com/company/5385804729)|WX_GZH| | | |[H5](http://www.jifushuchuang.cn)|
+ |277|[极蝠数创](https://www.tianyancha.com/company/5385804729)|WX_GZH| | | |[H5](http://www.jifushuchuang.cn)| |停止运营|
  |278|[创者汇](https://www.tianyancha.com/company/3095255718)|WX_GZH|WX_XCX| |APP|[H5](https://chyzhe.chydof.xin/h5/#/)||二级市场|
  |279|[数藏绿岛](https://www.tianyancha.com/company/3427284620)|WX_GZH| | | |[H5](http://shucang.xiaoxiangxq.com)|BSN联盟链|场外转赠|
  |280|[易数藏](https://www.tianyancha.com/company/1530805485)|WX_GZH|   |    |[APP](http://media.diandongge.com/yishucang/h5/bear2/register.html)| |BSN联盟链|场外转赠|
