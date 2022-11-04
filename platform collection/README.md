@@ -1838,7 +1838,7 @@
  |1780|[NVERSE数藏](https://www.tianyancha.com/company/5639504544)|WX_GZH| | | |[H5](https://n-verse.top/#/)|BSN文昌链|二级市场|
  |1781|[CNT数藏](https://www.tianyancha.com/company/5523730872)|WX_GXH| | | |[H5](https://art.dcalliance.com.cn/#/)| |二级市场|
  |1782|[云上数艺](https://www.tianyancha.com/company/3374706383)|WX_GZH| | |[APP](https://www.yunshangshuyi.com/yssy_p_s/downloadPage.html)| | |场外转赠|
- |1783|[第一艺术META](https://www.tianyancha.com/company/4517511861)|WX_GZH| | | |[H5](https://meta.qfkj.art/)| |二级市场|
+ |1783|[第一艺术META](https://www.tianyancha.com/company/4517511861)|WX_GZH| | | |[H5](https://meta.qfkj.art/)| |停止运营|
  |1784|[十艺meta](https://www.tianyancha.com/company/5012172264)|WX_GZH| | |[APP](http://page.shiyimeta.com/)|[H5](https://sy.shiyimeta.com/wap/)| |二级市场|
  |1785|[全民数权文化](https://www.tianyancha.com/company/5725152248)|WX_GZH| | |APP|[H5](https://www.gdqm.art/apph5/#/)| |场外转赠|
  |1786|[黄河Meta](https://www.tianyancha.com/company/2329978944)|WX_GZH| | |[APP](http://new.rtosd.net/download.html)|[H5](http://new.rtosd.net/#/)|海峡链|二级市场|
