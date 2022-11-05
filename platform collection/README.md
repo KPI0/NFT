@@ -1887,4 +1887,5 @@
  |1829|[YY Meta](https://www.tianyancha.com/company/5696400293)|WX_GZH| | | |[H5](http://www.yymeta.art/)| |二级市场|
  |1830|[99LARK Art](https://www.tianyancha.com/company/3450807863)|WX_GZH| | |APP|[H5](http://nft.sdjl.top/#/)|BSN文昌链|二级市场|
  |1831|[零境Oniverse](https://www.tianyancha.com/company/5663437611)|WX_GZH| | | |[H5](https://oniverse-m.rarefy.cn/#/)| |场外转赠|
+ |1832|[Xxxx Meta](https://www.tianyancha.com/company/5567093396)|WX_GZH| | |APP|[H5](https://www.fourxmeta.com/h5/#/)|BSN武汉链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
