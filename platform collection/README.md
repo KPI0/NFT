@@ -1890,4 +1890,5 @@
  |1832|[Xxxx Meta](https://www.tianyancha.com/company/5567093396)|WX_GZH| | |APP|[H5](https://www.fourxmeta.com/h5/#/)|BSN武汉链|二级市场|
  |1833|[珍藏数玩](https://www.tianyancha.com/company/3424912490)|WX_GZH| | | |[H5](http://h5.xieshizhencang.com/#/)|海峡链|二级市场|
  |1834|[派对猿艺术](https://www.tianyancha.com/company/5616429848)|WX_GZH| | | |[H5](http://www.pdyys.com/#/)|BSN联盟链|停止运营|
+ |1835|[沧牛文创](https://www.tianyancha.com/company/5012342108)|WX_GZH| | |APP|[H5](http://cnwc.njkths.cn/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
