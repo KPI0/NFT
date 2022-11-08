@@ -1229,7 +1229,7 @@
  |1173|[飞灵数藏](https://www.tianyancha.com/company/3112635049)|WX_GZH| | | |[H5](http://m.feilingnft.com/home)|树图链|场外转赠|
  |1174|[晴艺文创](https://www.tianyancha.com/company/5419810561)|WX_GZH| | | |[H5](https://nft.qyspace.art/h5/#/pages/index/index)|BSN文昌链|二级市场|
  |1175|[Fine臻藏](https://www.tianyancha.com/company/5050177479)|WX_GZH| | |APP|[H5](https://nft.yunzhenyan.com/#/)|BSN联盟链|二级市场|
- |1176|[艾珠元创艺术](https://www.tianyancha.com/company/3329105251)|WX_GZH| | |APP|[H5](https://acometa.cn/#/)|XuperChain|场外转赠|
+ |1176|[艾珠元创艺术](https://www.tianyancha.com/company/3329105251)|WX_GZH| | |APP|[H5](https://acometa.cn/#/)|XuperChain|停止运营|
  |1177|[零镜空间](https://www.tianyancha.com/company/5590090864)|WX_GZH| | | |[H5](https://h5.ljkj.store/)| |二级市场|
  |1178|[中元艺术藏品](https://www.tianyancha.com/company/5473880696)|WX_GZH| | |APP|[H5](http://app.chainuper.cn/)| |场外转赠|
  |1179|[元魃数艺](https://www.tianyancha.com/company/5496340845)|WX_GZH| | | |[H5](http://yuanba.junyu.work/shop/#/phone/home)|BSN文昌链|场外转赠|
