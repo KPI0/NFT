@@ -1896,4 +1896,5 @@
  |1838|[Space9艺术](https://www.tianyancha.com/company/5240147356)|WX_GZH| | | |[H5](http://www.sltv.cc/)| |停止运营|
  |1839|[世界航商](https://www.tianyancha.com/company/1690284492)|WX_GZH| | |[APP](https://wmmhk.com/m/customPages/downloads)| | |场外转赠|
  |1840|[一卷数字文创](https://www.tianyancha.com/company/3176169649)|WX_GZH| | | |[H5](http://yyzgzh.volum.cn/)|BSN泰安链|二级市场|
+ |1841|[MVP Art](https://www.tianyancha.com/company/3364218302)|WX_GZH| | | |[H5](https://mvp.hihigher.com/app/#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
