@@ -625,7 +625,7 @@
  |576|[墨语数藏](https://www.tianyancha.com/company/5431586227)|WX_GZH| | |[APP](http://yuanjie.moyuwenchuang.com/h5/#/)| |BSC|停止运营|
  |577|[秘果数藏](https://www.tianyancha.com/company/5399450486)|WX_GZH| | |APP|[H5](https://oss.yomgoo.com/)|XuperChain、BSN联盟链|场外转赠|
  |578|[玛雅数藏](https://www.tianyancha.com/company/2325314144)|WX_GZH|  |  |[APP](http://fir.dailidashi.com.cn/8p7f)|[H5](https://cangpin.h5.langem.net/#/)|BSN联盟链|场外转赠|
- |579|[Mo未来](https://www.tianyancha.com/company/5421354454)|WX_GZH| | | |[H5](https://h5.mo.cn/#/)|BSN文昌链|场外转赠|
+ |579|[Mo未来](https://www.tianyancha.com/company/5421354454)|WX_GZH| | | |[H5](https://h5.mo.cn/#/)|BSN文昌链|停止运营|
  |580|[瓦萨宇宙](https://www.tianyancha.com/company/5078775609)|WX_GZH| | | |[H5](http://wasa.cqxzs.top/h5/#/)||场外转赠|
  |581|[玄城数字世界](https://www.tianyancha.com/company/3437114529)|WX_GZH| | |APP|[H5](https://h5.xcmetacity.com/h5/)|蚂蚁链、XuperChain|二级市场|
  |582|[稀典数藏](https://www.tianyancha.com/company/3356757341)|WX_GZH|  |  |[APP](https://app.zgjiju.com/)|[H5](https://h5.zgjiju.com/pages/)|Polygon|场外转赠|
