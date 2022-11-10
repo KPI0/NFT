@@ -1899,4 +1899,5 @@
  |1841|[MVP Art](https://www.tianyancha.com/company/3364218302)|WX_GZH| | | |[H5](https://mvp.hihigher.com/app/#/)|BSN文昌链|二级市场|
  |1842|[王者Meta](https://www.tianyancha.com/company/5719163309)|WX_GZH| | |APP|[H5](https://www.ikring.art/index.html#/)|BSN文昌链|二级市场|
  |1843|[iDO ART](https://www.tianyancha.com/company/5718077638)|WX_GZH| | | |[H5](https://app.idoart18.com/index/#/)|BSN文昌链|二级市场|
+ |1844|[易辰艺术](https://www.tianyancha.com/company/3216226088)|WX_GZH| | | | | |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
