@@ -1902,4 +1902,5 @@
  |1844|[易辰艺术](https://www.tianyancha.com/company/3216226088)|WX_GZH| | | | | |停止运营|
  |1845|[宇宙一号](https://www.tianyancha.com/company/5564142282)|WX_GZH| | | |[H5](http://art.yuzhouone.com//#/)|BSN文昌链|停止运营|
  |1846|[CHlist艺术](https://www.tianyancha.com/company/5606113626)|WX_GZH| | | |[H5](http://m.hnjunmai.com/#/)| |二级市场|
+ |1847|[Anime潮玩](https://www.tianyancha.com/company/5466794013)|WX_GZH| | | |[H5](http://animecw.art/h5/#/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
