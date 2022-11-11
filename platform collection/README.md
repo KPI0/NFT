@@ -1905,4 +1905,5 @@
  |1847|[Anime潮玩](https://www.tianyancha.com/company/5466794013)|WX_GZH| | | |[H5](http://animecw.art/h5/#/)|天河链|二级市场|
  |1848|[互动电视IPTV](https://www.tianyancha.com/company/1097550091)|WX_GZH| | | |[H5](http://nft.leso114.com/)|BSN联盟链|场外转赠|
  |1849|[BYFE数权](https://www.tianyancha.com/company/5509275755)|WX_GZH| | |[APP](http://www.byfe.net/)|[H5](https://app.byfe.net/h5/#/)|BSN文昌链|二级市场|
+ |1850|[六潮艺术](https://www.tianyancha.com/company/4508806692)|WX_GZH| | | |[H5](https://nft8.wshop1688.com/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
