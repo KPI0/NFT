@@ -548,6 +548,7 @@
  |501|[Gone艺数](https://www.tianyancha.com/company/5475373789)|WX_GZH| | | |[H5](http://goneart.cn/#/phone/registered?code=36WY1v)|BSN联盟链|场外转赠|
  |502|[麒麟数藏](https://www.tianyancha.com/company/5007411159)|WX_GZH|  |   |APP|[H5](https://h5.shucangworld.com/)|树图链|场外转赠|
  |503|[CERKA奇咖](https://www.tianyancha.com/company/5346626631)|WX_GZH| | | |[H5](https://www.xiright.com/gw/nft/cerka/)|小犀版权链|场外转赠|
+ |503|[南丰堂](https://www.tianyancha.com/company/5346626631)|WX_GZH| | | |[H5](https://www.xiright.com/gw/nft/cerka/)|小犀版权链|场外转赠|
  |504|[灵韵数字艺术](https://www.tianyancha.com/company/3350688990)|WX_GZH| | | |[H5](https://artmazing.cn/#/)||场外转赠|
  |505|[幻象meta](https://www.tianyancha.com/company/5431648933)|WX_GZH| | | |[H5](https://h5.huanxiangmeta.com/)|XuperChain|场外转赠|
  |506|[鹏游元宇宙](https://www.tianyancha.com/company/2344522392)|WX_GZH| | |[APP](https://www.pengyou.art/download.html)|[H5](https://fresh.17mmmmm.com/#/)|BSN文昌链|场外转赠|
