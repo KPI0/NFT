@@ -1908,4 +1908,5 @@
  |1849|[BYFE数权](https://www.tianyancha.com/company/5509275755)|WX_GZH| | |[APP](http://www.byfe.net/)|[H5](https://app.byfe.net/h5/#/)|BSN文昌链|二级市场|
  |1850|[六潮艺术](https://www.tianyancha.com/company/4508806692)|WX_GZH| | | |[H5](https://nft8.wshop1688.com/)|BSN文昌链|二级市场|
  |1851|[幻雪文艺](https://www.tianyancha.com/company/5522026413)|WX_GZH| | | |[H5](https://huazheng888.com/#/)|BSN文昌链|场外转赠|
+ |1852|[中瓷艺术](https://www.tianyancha.com/company/5383943592)|WX_GZH| | |APP|[H5](https://zhongciyishu.com/h5/h5.html#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
