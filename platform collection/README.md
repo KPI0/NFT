@@ -1700,7 +1700,7 @@
  |1641|[仿梦艺术](https://www.tianyancha.com/company/5697148821)|WX_GZH| | | |[H5](http://fm.xzy.mobi/h5/#/)|BSN文昌链|二级市场|
  |1642|[藏睿星空](https://www.tianyancha.com/company/5672603191)|WX_GZH| | |APP|[H5](https://www.cangruixk.com/h5/h5.html#/)|BSN联盟链|二级市场|
  |1643|[笙世艺术](https://www.tianyancha.com/company/5542341157)|WX_GZH| | |APP|[H5](https://www.heydayart.cn/#/)|BSN文昌链|二级市场|
- |1644|[敏捷文创](https://www.tianyancha.com/company/4971032950)|WX_GZH| | |APP|[H5](https://h5.minjienft.com/#/)|BSN联盟链|二级市场|
+ |1644|[敏捷文创](https://www.tianyancha.com/company/4971032950)|WX_GZH| | |APP|[H5](https://h5.minjienft.com/#/)|BSN联盟链|停止运营|
  |1645|[N9数藏](https://www.tianyancha.com/company/5697669599)|WX_GZH| | |APP|[H5](http://nft.menghuanshuyi.com/web/#/)||二级市场|
  |1646|[潮牛文创](https://www.tianyancha.com/company/4309825537)|WX_GZH| | | |[H5](http://yuqianart.com/h5/#/)|BSN文昌链|场外转赠|
  |1647|[星际鲨](https://www.tianyancha.com/company/5492414714)|WX_GZH| | | |[H5](http://appqfuzfwp20528.yr.xyz/home)|长安链|二级市场|
