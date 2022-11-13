@@ -1911,4 +1911,5 @@
  |1852|[中瓷艺术](https://www.tianyancha.com/company/5383943592)|WX_GZH| | |APP|[H5](https://zhongciyishu.com/h5/h5.html#/)|BSN文昌链|二级市场|
  |1853|[元狐艺术](https://www.tianyancha.com/company/5493056592)|WX_GZH| | | |[H5](http://wab.yuanhusc.com/)|BSN文昌链|停止运营|
  |1854|[MARE Boreum](https://www.tianyancha.com/company/5622469034)|WX_GZH| | |[APP](https://download.mareboreum.com/)| | |二级市场|
+ |1855|[典藏中国](https://www.tianyancha.com/company/5615009452)|WX_GZH| | |APP|[H5](https://diancangcn.com/wap/)|TOHO Chain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
