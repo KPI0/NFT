@@ -1914,4 +1914,5 @@
  |1855|[典藏中国](https://www.tianyancha.com/company/5615009452)|WX_GZH| | |APP|[H5](https://diancangcn.com/wap/)|TOHO Chain|二级市场|
  |1856|[盐选文创Art](https://www.tianyancha.com/company/5751908461)|WX_GZH| | | |[H5](http://yanxuan.qtfcezh.cn/#/)| |二级市场|
  |1857|[WineBox](https://www.tianyancha.com/company/5397777704)|WX_GZH| | | |[H5](https://cofco.toyverse.club/index.html/home)|XuperChain|二级市场|
+ |1858|[麦合Art](https://www.tianyancha.com/company/5715326255)|WX_GZH| | | |[H5](https://mh.mededon.com/#/)|蚂蚁链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
