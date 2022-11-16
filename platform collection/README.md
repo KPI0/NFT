@@ -1916,4 +1916,5 @@
  |1857|[WineBox](https://www.tianyancha.com/company/5397777704)|WX_GZH| | | |[H5](https://cofco.toyverse.club/index.html/home)|XuperChain|二级市场|
  |1858|[麦合Art](https://www.tianyancha.com/company/5715326255)|WX_GZH| | | |[H5](https://mh.mededon.com/#/)|蚂蚁链|二级市场|
  |1859|[得物](https://www.tianyancha.com/company/3180822063)|WX_GZH| | |[APP](https://www.dewu.com/)| | |场外转赠|
+ |1860|[飞天META](https://www.tianyancha.com/company/3348585888)|WX_GZH| | |[APP](https://prosc.moyuchat.vip/h5/index.html#/downApp)|[H5](https://prosc.moyuchat.vip/h5/index.html#/home)|BSN联盟链|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
