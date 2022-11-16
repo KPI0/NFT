@@ -712,7 +712,7 @@
  |660|[云艺数藏](https://www.tianyancha.com/company/5424433007)|WX_GZH| | |[APP](https://nft.yunyi.fit/reg/Z805GVQMQ)| |Polygon|二级市场|
  |661|[万一数藏](https://www.tianyancha.com/company/5509191975)|WX_GZH| | | |[H5](https://www.wanyishucang.com/index.html)|BSN联盟链|场外转赠|
  |662|[广陌数维](https://www.tianyancha.com/company/5445141026)|WX_GZH| | | |[H5](http://guangmosheng.cn/#/)|BSN文昌链|场外转赠|
- |663|[极链世界](https://www.tianyancha.com/company/3267458459)|WX_GZH| | | |[H5](http://h5.jilian.art)|XuperChain|场外转赠|
+ |663|[极链空间](https://www.tianyancha.com/company/3267458459)|WX_GZH| | | |[H5](http://h5.jilian.art)|XuperChain|停止运营|
  |664|[起源数藏](https://www.tianyancha.com/company/5448322714)|WX_GZH| | | |[H5](https://www.bitorigin.art/#/)|Ethereum、Polygon|二级市场|
  |665|[西疆数藏](https://www.tianyancha.com/company/5435585272)|WX_GZH| | | |[H5](https://nft.xijiangsc.com/index.html#/)|BSN联盟链|二级市场|
  |666|[唯美艺术](https://www.tianyancha.com/company/5475998296)|WX_GZH| | |APP|[H5](https://weimei.art/#/)|BSN联盟链|二级市场|
