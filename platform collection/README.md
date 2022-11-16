@@ -1367,7 +1367,7 @@
  |1310|[光环meta](https://www.tianyancha.com/company/1582603336)|WX_GZH| | | |[H5](https://app.chashanji.com/index/#/)||二级市场|
  |1311|[玖数拍卖](https://www.tianyancha.com/company/3486795746)|WX_GZH| | |[APP](http://dl.9fishnft.com/#/download)|[H5](https://h5.9fishnft.com/#/)|NSC|二级市场|
  |1312|[矢量磁场](https://www.tianyancha.com/company/5446104372)|WX_GZH| | |[APP](https://app.cichang.art/down.html)| |星火链|场外转赠|
- |1313|[中传新文创](https://www.tianyancha.com/company/22278593)|WX_GZH| | |[APP](https://art.ccmgip.com/download)|[H5](https://art.ccmgip.com/)|中传新文创链|场外转赠|
+ |1313|[中国文化传媒新文创](https://www.tianyancha.com/company/22278593)|WX_GZH| | |[APP](https://art.ccmgip.com/download)|[H5](https://art.ccmgip.com/)|中传新文创链|二级市场|
  |1314|[绿地G优](https://www.tianyancha.com/company/22271684)|WX_GZH| | |[APP](https://app.gkewang.com/app)| | |场外转赠|
  |1315|[东方藏图](https://www.tianyancha.com/company/5564592740)|WX_GZH| | | |[H5](https://www.dongfangcangtu.com/#/)| |二级市场|
  |1316|[火山艺术](https://www.tianyancha.com/company/5525184995)|WX_GZH| | |APP|[H5](https://yuannai.com.cn)|BSN联盟链|二级市场|
