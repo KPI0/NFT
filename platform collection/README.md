@@ -1729,7 +1729,7 @@
  |1670|[希漫艺术Meta](https://www.tianyancha.com/company/5652991765)|WX_GZH| | | |[H5](https://xmys.art/wap/)|BSN文昌链|二级市场|
  |1671|[中幻艺术](https://www.tianyancha.com/company/3454028275)|WX_GZH| | |APP|[H5](http://zzys.zhys1.cn/wap/#/)|BSN文昌链|停止运营|
  |1672|[弘一艺术](https://www.tianyancha.com/company/5667152998)|WX_GZH| | | |[H5](http://hongyiys.art/#/pages/index/index)|BSN联盟链|二级市场|
- |1673|[天阙艺术](https://www.tianyancha.com/company/5674755010)|WX_GZH| | |APP|[H5](https://www.tianqueyishu.cn/#/)||二级市场|
+ |1673|[天阙艺术](https://www.tianyancha.com/company/5674755010)|WX_GZH| | |APP|[H5](https://www.tianqueyishu.cn/#/)||停止运营|
  |1674|[Ain艺术](https://www.tianyancha.com/company/5655159053)|WX_GZH| | | |[H5](https://ainart.cn/#/)||二级市场|
  |1675|[钧链文创](https://www.tianyancha.com/company/5668732221)|WX_GZH| | |APP|[H5](https://h5.junlian.art/)|天河链|二级市场|
  |1676|[贝壳艺创](https://www.tianyancha.com/company/5677972734)|WX_GZH| | |[APP](http://bkdown.zksoewr.cn/)|[H5](https://zksoewr.cn/wap/#/)|BSN文昌链|二级市场|
