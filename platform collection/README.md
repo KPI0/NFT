@@ -1837,7 +1837,7 @@
  |1778|[无极元界](https://www.tianyancha.com/company/3424703630)|WX_GZH| | | |[H5](https://h5.wujitop.com/#/)|BSN联盟链|二级市场|
  |1779|[雅昌数藏](https://www.tianyancha.com/company/2963790073)|WX_GZH| | | |[H5](https://digart.artron.net/)|星火链|场外转赠|
  |1780|[NVERSE数藏](https://www.tianyancha.com/company/5639504544)|WX_GZH| | | |[H5](https://n-verse.top/#/)|BSN文昌链|二级市场|
- |1781|[CNT数藏](https://www.tianyancha.com/company/5523730872)|WX_GXH| | | |[H5](https://art.dcalliance.com.cn/#/)| |二级市场|
+ |1781|[CNT数藏](https://www.tianyancha.com/company/5523730872)|WX_GXH| | | |[H5](https://art.dcalliance.com.cn/#/)| |停止运营|
  |1782|[云上数艺](https://www.tianyancha.com/company/3374706383)|WX_GZH| | |[APP](https://www.yunshangshuyi.com/yssy_p_s/downloadPage.html)| | |场外转赠|
  |1783|[第一艺术META](https://www.tianyancha.com/company/4517511861)|WX_GZH| | | |[H5](https://meta.qfkj.art/)| |停止运营|
  |1784|[十艺meta](https://www.tianyancha.com/company/5012172264)|WX_GZH| | |[APP](http://page.shiyimeta.com/)|[H5](https://sy.shiyimeta.com/wap/)| |二级市场|
@@ -1919,5 +1919,5 @@
  |1860|[飞天META](https://www.tianyancha.com/company/3348585888)|WX_GZH| | |[APP](https://prosc.moyuchat.vip/h5/index.html#/downApp)|[H5](https://prosc.moyuchat.vip/h5/index.html#/home)|BSN联盟链|停止运营|
  |1861|[星尧文创](https://www.tianyancha.com/company/5715085759)|WX_GZH| | | |[H5](http://xingyao.site/#/)| |停止运营|
  |1862|[稻元海壹ISO](https://www.tianyancha.com/company/5606926169)|WX_GZH| | |[APP](http://appdownload.isocean.cn/download/isocean.apk)|H5|天河链|场外转赠|
- |1863|[DuDu Lab](https://www.tianyancha.com/company/22822)| | | | |[H5](https://dudulab.io/)|Ethereum|二级市场|
+ |1863|[DuDuLab](https://www.tianyancha.com/company/22822)| | | | |[H5](https://dudulab.io/)|Ethereum|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
