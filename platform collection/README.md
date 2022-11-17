@@ -1921,4 +1921,5 @@
  |1862|[稻元海壹ISO](https://www.tianyancha.com/company/5606926169)|WX_GZH| | |[APP](http://appdownload.isocean.cn/download/isocean.apk)|H5|天河链|场外转赠|
  |1863|[DuDuLab](https://www.tianyancha.com/company/22822)| | | | |[H5](https://dudulab.io/)|Ethereum|二级市场|
  |1864|[万藏艺术](https://www.tianyancha.com/company/5604062424)|WX_GZH| | |[APP](http://fenfa.wancang.co/app.html)|[H5](http://api.wancang.co/h5/#/)| |停止运营|
+ |1865|[巨象文创](https://www.tianyancha.com/company/5681944186)|WX_GZH| | |[APP](https://h5.jxspace.cn/#/pages/download/download)|[H5](https://h5.jxspace.cn/#/)|BSN联盟链|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
