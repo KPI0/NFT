@@ -1920,4 +1920,5 @@
  |1861|[星尧文创](https://www.tianyancha.com/company/5715085759)|WX_GZH| | | |[H5](http://xingyao.site/#/)| |停止运营|
  |1862|[稻元海壹ISO](https://www.tianyancha.com/company/5606926169)|WX_GZH| | |[APP](http://appdownload.isocean.cn/download/isocean.apk)|H5|天河链|场外转赠|
  |1863|[DuDuLab](https://www.tianyancha.com/company/22822)| | | | |[H5](https://dudulab.io/)|Ethereum|二级市场|
+ |1864|[万藏艺术](https://www.tianyancha.com/company/5604062424)|WX_GZH| | |[APP](http://fenfa.wancang.co/app.html)|[H5](http://api.wancang.co/h5/#/)| |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
