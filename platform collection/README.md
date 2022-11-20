@@ -1293,7 +1293,7 @@
  |1236|[万象数藏art](https://www.tianyancha.com/company/4599810585)|WX_GZH| | |[APP](https://www.wxsc.art/#/pages/other/download)|[H5](https://www.wxsc.art/#/pages/login/index)|BSN文昌链|场外转赠|
  |1237|[鸿运数藏](https://www.tianyancha.com/company/3089796054)|WX_GZH| | | |[H5](http://szcp.changguannft.com/#/pages/login/index)|BSN文昌链|二级市场|
  |1238|[ZAKER宙世代](https://www.tianyancha.com/company/2795099067)|WX_GZH| | |[APP](http://www.myzaker.com/m/?v=1)|[H5](https://z.zaker.cn/)|BSN文昌链|场外转赠|
- |1239|[ISPACE数藏](https://www.tianyancha.com/company/3435234036)|WX_GZH| | | |[H5](https://ispace.hnslwlkj.cn/h5/#/)|BSN文昌链|场外转赠|
+ |1239|[ISPACE数藏](https://www.tianyancha.com/company/3435234036)|WX_GZH| | | |[H5](https://ispace.hnslwlkj.cn/h5/#/)|BSN文昌链|二级市场|
  |1240|[泡泡数藏](https://www.tianyancha.com/company/5381476771)|WX_GZH| | |[APP](https://h5.poptown.club/#/download)|[H5](https://poptown.club)|Polygon|场外转赠|
  |1241|[楚藏](https://www.tianyancha.com/company/5568358325)|WX_GZH| | | |[H5](http://chucang888.com:8093/#/)| |场外转赠|
  |1242|[极灵数语](https://www.tianyancha.com/company/3430339798)|WX_GZH| | | |[H5](http://cp.jlsyu.com/h5/#/)|Ethereum|场外转赠||
