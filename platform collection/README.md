@@ -1844,7 +1844,7 @@
  |1785|[全民数权文化](https://www.tianyancha.com/company/5725152248)|WX_GZH| | |APP|[H5](https://www.gdqm.art/apph5/#/)| |场外转赠|
  |1786|[黄河Meta](https://www.tianyancha.com/company/2329978944)|WX_GZH| | |[APP](http://new.rtosd.net/download.html)|[H5](http://new.rtosd.net/#/)|海峡链|二级市场|
  |1787|[彩虹数藏](https://www.tianyancha.com/company/5608848248)|WX_GZH| | |[APP](https://api.yutankj.com/#/)| | |场外转赠|
- |1788|[启枫数藏](https://www.tianyancha.com/company/5597192513)|WX_GZH| | |APP|[H5](https://wx.qifengdigtech.com/)|蚂蚁链|二级市场|
+ |1788|[启枫数藏](https://www.tianyancha.com/company/5597192513)|WX_GZH| | |APP|[H5](https://wx.qifengdigtech.com/)|蚂蚁链|停止运营|
  |1789|[现象数藏](https://www.tianyancha.com/company/5054077507)|WX_GZH| | |[APP](https://www.xianxiang.art/portal)|[H5](https://www.xianxiang.art)|BSN联盟链|二级市场|
  |1790|[UNIK数藏](https://www.tianyancha.com/company/5706013447)|WX_GZH| | | |[H5](https://h5.iunik.art/#/)| |场外转赠|
  |1791|[八十八数藏](https://www.tianyancha.com/company/5709943313)|WX_GZH| | | |[H5](https://www.bashibacs.com/)| |二级市场|
