@@ -1929,4 +1929,5 @@
  |1870|[筑藏科技](https://www.tianyancha.com/company/5661149714)|WX_GZH| | |APP| |星火链、Ethereum|二级市场|
  |1871|[极境ART](https://www.tianyancha.com/company/5710047767)|WX_GZH| | | |[H5](https://app.jijingshucang.art/#/)|BSN联盟链|二级市场|
  |1872|[BUFF艺术](https://www.tianyancha.com/company/5759013424)|WX_GZH| | |APP|[H5](https://www.scbuffart.cn/h5/index.html#/)| |二级市场|
+ |1873|[量子艺术](https://www.tianyancha.com/company/5537794804)|WX_GZH| | |APP|[H5](https://www.lzys.top/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
