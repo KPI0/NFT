@@ -1062,7 +1062,7 @@
  |1006|[斑斓森林](https://www.tianyancha.com/company/5553439861)|WX_GZH| | | |[H5](http://www.colorforest.xyz/event/)|树图链|二级市场|
  |1007|[艺元数藏](https://www.tianyancha.com/company/3156948352)|WX_GZH| | | |[H5](http://www.yiyuanshucang.com/#/)|Ethereum|二级市场|
  |1008|[亦趣MagicMarkets](https://www.tianyancha.com/company/5567373156)|WX_GZH| | |APP|[H5](https://nft.magicmarkets.com.cn/h5/)|BSN联盟链|二级市场|
- |1009|[境殿艺术](https://www.tianyancha.com/company/3463358779)|WX_GZH| | |APP|[H5](http://jingdian.jingdian.art/share/#/)|BSN联盟链|二级市场|
+ |1009|[境殿艺术](https://www.tianyancha.com/company/3463358779)|WX_GZH| | |APP|[H5](http://jingdian.jingdian.art/share/#/)|BSN联盟链|停止运营|
  |1010|[洞鉴艺术](https://www.tianyancha.com/company/5445205273)|WX_GZH| | |APP|[H5](http://www.djsc.art/#/)|XuperChain|二级市场|
  |1011|[虚弥山Meta](https://www.tianyancha.com/company/5045579212)|WX_GZH| | |[APP](https://xms-h5.qingniaokx.com/pages/download/index)|[H5](https://xms-h5.qingniaokx.com/)||场外转赠|
  |1012|[天辉数字艺术](https://www.tianyancha.com/company/5505207241)|WX_GZH| | | |[H5](http://admin.tianhuisc.cn/h5/index.html#/)|BSN文昌链|二级市场|
