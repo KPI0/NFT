@@ -1733,7 +1733,7 @@
  |1674|[Ain艺术](https://www.tianyancha.com/company/5655159053)|WX_GZH| | | |[H5](https://ainart.cn/#/)||二级市场|
  |1675|[钧链文创](https://www.tianyancha.com/company/5668732221)|WX_GZH| | |APP|[H5](https://h5.junlian.art/)|天河链|二级市场|
  |1676|[贝壳艺创](https://www.tianyancha.com/company/5677972734)|WX_GZH| | |[APP](http://bkdown.zksoewr.cn/)|[H5](https://zksoewr.cn/wap/#/)|BSN文昌链|二级市场|
- |1677|[鲨鱼文创](https://www.tianyancha.com/company/5704732554)|WX_GZH| | | |[H5](https://www.shayuart.com/#/)||二级市场|
+ |1677|[鲨鱼文创](https://www.tianyancha.com/company/5704732554)|WX_GZH| | | |[H5](https://www.shayuart.com/#/)||停止运营|
  |1678|[斗境宇宙](https://www.tianyancha.com/company/5370318174)|WX_GZH| | | |[H5](https://m.iamnft.cn/#/)|BSN联盟链|二级市场|
  |1679|[乐民艺术](https://www.tianyancha.com/company/3310654469)|WX_GZH| | | |[H5](http://lmys.dcszcp.com/h5/#/)||二级市场|
  |1680|[艺次元数字藏品](https://www.tianyancha.com/company/5603428964)|WX_GZH| | | |[H5](https://h5.artmuse.cn/mobile/#/home)|华为链|场外转赠|
