@@ -1933,4 +1933,5 @@
  |1874|[SCED](https://www.tianyancha.com/company/120849688)|WX_GZH| | | |[H5](http://scedmeta.com/#/)|BSN文昌链|二级市场|
  |1875|[六界数藏](https://www.tianyancha.com/company/5665406063)|WX_GZH| | | |[H5](https://www.fxjynft.com/#/)|BSN文昌链|二级市场|
  |1876|[氢SPACE](https://www.tianyancha.com/company/5404460640)|WX_GZH| | | |[H5](https://m.hydrionic.com/?#/)|BSN遵义链|场外转赠|
+ |1877|[北斗BATTLE](https://www.tianyancha.com/company/5690759979)|WX_GZH| | |[APP](http://www.beidoubattle.com/download.html)|[H5](http://www.beidoubattle.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
