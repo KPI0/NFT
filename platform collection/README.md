@@ -1937,4 +1937,5 @@
  |1878|[万象艺术汇](https://www.tianyancha.com/company/5669894190)|WX_GZH| | | |[H5](https://www.wanxiangworld.com/)|BSN文昌链|场外转赠|
  |1879|[布偶文创](https://www.tianyancha.com/company/5795732627)|WX_GZH| | |APP|[H5](https://h5.boou.art/#/)| |二级市场|
  |1880|[中数藏品](https://www.tianyancha.com/company/26950203)|WX_GZH| | |[APP](https://cdcub.com/)| |中国数字文化链|二级市场|
+ |1881|[存在方式](https://www.tianyancha.com/company/3312327793)|WX_GZH|||[APP](https://www.czfs.xyz/pages/public/appdown)|[H5](https://www.czfs.xyz/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
