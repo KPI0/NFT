@@ -1935,4 +1935,5 @@
  |1876|[氢SPACE](https://www.tianyancha.com/company/5404460640)|WX_GZH| | | |[H5](https://m.hydrionic.com/?#/)|BSN遵义链|场外转赠|
  |1877|[北斗BATTLE](https://www.tianyancha.com/company/5690759979)|WX_GZH| | |[APP](http://www.beidoubattle.com/download.html)|[H5](http://www.beidoubattle.com/#/)||二级市场|
  |1878|[万象艺术汇](https://www.tianyancha.com/company/5669894190)|WX_GZH| | | |[H5](https://www.wanxiangworld.com/)|BSN文昌链|场外转赠|
+ |1879|[布偶文创](https://www.tianyancha.com/company/5795732627)|WX_GZH| | |APP|[H5](https://h5.boou.art/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
