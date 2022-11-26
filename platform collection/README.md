@@ -1939,5 +1939,5 @@
  |1880|[中数藏品](https://www.tianyancha.com/company/26950203)|WX_GZH| | |[APP](https://cdcub.com/)| |中国数字文化链|二级市场|
  |1881|[存在方式](https://www.tianyancha.com/company/3312327793)|WX_GZH|||[APP](https://www.czfs.xyz/pages/public/appdown)|[H5](https://www.czfs.xyz/)|天河链|二级市场|
  |1882|[天工数藏](https://www.tianyancha.com/company/3097986902)|WX_GZH| | | |[H5](https://tgsc.miit-icdc.org/)|至信链|场外转赠|
- |1883|[一号藏馆](https://www.tianyancha.com/company/5677582124)|WX_GZH| | | |[H5](https://h5yihaoyuzhou.cn/web/h5/)|BSN文昌链|二级市场|
+ |1883|[一号宇宙](https://www.tianyancha.com/company/5677582124)|WX_GZH| | | |[H5](https://h5yihaoyuzhou.cn/web/h5/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
