@@ -1944,4 +1944,5 @@
  |1885|[芥子空间数藏](https://www.tianyancha.com/company/5487977844)|WX_GZH| | | |[H5](https://www.ich-nft.com/#/)| |场外转赠|
  |1886|[熊猫宇宙](https://www.tianyancha.com/company/5306890205)|WX_GZH| | | |[H5](http://www.xiongmaoverse.com/)| |二级市场|
  |1887|[青艺空间](https://www.tianyancha.com/company/5541774069)|WX_GZH| | | |[H5](https://wap.qyi.top/#/)| |二级市场|
+ |1888|[元球数藏Metaball](https://www.tianyancha.com/company/5761304811)|WX_GZH| | | |[H5](http://106.14.181.34/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
