@@ -1941,4 +1941,5 @@
  |1882|[天工数藏](https://www.tianyancha.com/company/3097986902)|WX_GZH| | | |[H5](https://tgsc.miit-icdc.org/)|至信链|场外转赠|
  |1883|[一号宇宙](https://www.tianyancha.com/company/5677582124)|WX_GZH| | | |[H5](https://h5yihaoyuzhou.cn/web/h5/)|BSN文昌链|二级市场|
  |1884|[数河](https://www.tianyancha.com/company/4381337010)|WX_GZH| | |[APP](https://www.shuziyinhe.com/appdown/)| |BSN文昌链|二级市场|
+ |1885|[芥子空间数藏](https://www.tianyancha.com/company/5487977844)|WX_GZH| | | |[H5](https://www.ich-nft.com/#/)| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
