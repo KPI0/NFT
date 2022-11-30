@@ -1947,4 +1947,5 @@
  |1887|[青艺空间](https://www.tianyancha.com/company/5541774069)|WX_GZH| | | |[H5](https://wap.qyi.top/#/)| |二级市场|
  |1888|[元球数藏Metaball](https://www.tianyancha.com/company/5761304811)|WX_GZH| | | |[H5](http://106.14.181.34/#/)| |二级市场|
  |1889|[金十艺术](https://www.tianyancha.com/company/3293579548)|WX_GZH| | |[APP](http://rongyuwenhua.com/appdownload/index.html)|[H5](http://rongyuwenhua.com/#/)|BSN文昌链|二级市场|
+ |1890|[链物中国](https://www.tianyancha.com/company/2320686731)|WX_GZH| | |[APP](https://api.creativerse.cn/h5/download/)| |BSN中移链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
