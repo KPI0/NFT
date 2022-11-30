@@ -1950,4 +1950,5 @@
  |1890|[链物中国](https://www.tianyancha.com/company/2320686731)|WX_GZH| | |[APP](https://api.creativerse.cn/h5/download/)| |BSN中移链|二级市场|
  |1891|[十二数藏](https://www.tianyancha.com/company/4326292998)|WX_GZH| | |[APP](https://download.12shucang.com/zhZd)|[H5](https://www.12shucang.com)|蚂蚁链|二级市场|
  |1892|[海皇数藏](https://www.tianyancha.com/company/5527604018)|WX_GZH| | | |[H5](http://h5.haihuangart.com/#/)| |二级市场|
+ |1893|[贝加尔数藏](https://www.tianyancha.com/company/5416983126)|WX_GZH| | |APP|[H5](http://beijiaer.weiyunyi.com/home/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
