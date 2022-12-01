@@ -171,7 +171,7 @@
  |149|[RockFlow](https://www.tianyancha.com/company/4163370911)|WX_GZH| | |[APP](https://www.rockflow.ai/download)|[H5](https://www.rockflow.ai/)||交易市场|
  |150|[盒盒HEHE](https://www.tianyancha.com/company/3440938461)|WX_GZH| | |[APP](https://share.huifeijuya.cn/download/index.html?)| |BSN文昌链|场外转赠|
  |151|[寻迹藏品](https://www.tianyancha.com/company/3449722145)|WX_GZH| | |[APP](https://h5.milexl.com/download/)|[H5](https://h5.milexl.com/)|Polygon|二级市场|
- |152|[哈森艺术](https://www.tianyancha.com/company/3401789203)|WX_GZH|||[APP](https://m.hasen.cn/#/pages/index/download)|[H5](https://m.hasen.cn)||二级市场|
+ |152|[哈森艺术](https://www.tianyancha.com/company/3401789203)|WX_GZH|||[APP](https://m.hasen.cn/#/pages/index/download)|[H5](https://m.hasen.cn)||停止运营|
  |153|[元界数藏](https://www.tianyancha.com/company/2312394750)|WX_GZH|||[APP](https://nft.limaiwluo.cn/reg/qQZDp8wE2)|[H5](http://www.limaiwl.cn)|HECO|二级市场|
  |154|[艺海FUTURE ART](https://www.tianyancha.com/company/3336556145)|WX_GZH|WX_XCX| | |[H5](https://h5.wyszcp.com/)|未艺链|二级市场|
  |155|[盘古数字](https://www.tianyancha.com/company/3438685323)|WX_GZH|||APP|[H5](https://h5.pangushuzi.com/wap/)|Ethereum|二级市场|
