@@ -1954,4 +1954,5 @@
  |1894|[数文创](https://www.tianyancha.com/company/5197142509)|WX_GZH| | |APP|[H5](https://h5.swc.cn/#/)| |停止运营|
  |1895|[斑兰BeneLand](https://www.tianyancha.com/company/5739612047)|WX_GZH| | |APP|[H5](http://h5.beneland.vip/#/)| |二级市场|
  |1896|[巨鲸数字科技](https://www.tianyancha.com/company/5502939881)|WX_GZH| | |[APP](http://appxz.jujing.net/)|[H5](https://nft.jujing.net/wap/#/)|Polygon|二级市场|
+ |1897|[即世科技](https://www.tianyancha.com/company/3101722184)|WX_GZH| | | |[H5](http://jishitech.net/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
