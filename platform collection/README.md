@@ -1958,4 +1958,5 @@
  |1898|[华宇揽悦](https://www.tianyancha.com/company/5604972247)|WX_GZH| | |[APP](https://appdown.lanyueverse.com/)|[H5](https://h5.lanyueverse.com/)|海峡链|二级市场|
  |1899|[斑驳City](https://www.tianyancha.com/company/3370294921)|WX_GZH| | | |[H5](http://m.bdpai.cn/#/)| |停止运营|
  |1900|[帝俊数藏](https://www.tianyancha.com/company/5767511890)|WX_GZH| | | |[H5](https://zh.empernft.com/h5/)|数文链|二级市场|
+ |1901|[栖牛宇宙星球](https://www.tianyancha.com/company/5697790526)|WX_GZH| | | |[H5](https://www.xiniuyisu.com/web/#/)|BSN联盟链|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
