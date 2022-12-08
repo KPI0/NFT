@@ -1960,4 +1960,5 @@
  |1900|[帝俊数藏](https://www.tianyancha.com/company/5767511890)|WX_GZH| | | |[H5](https://zh.empernft.com/h5/)|数文链|二级市场|
  |1901|[栖牛宇宙星球](https://www.tianyancha.com/company/5697790526)|WX_GZH| | | |[H5](https://www.xiniuyisu.com/web/#/)|BSN联盟链|停止运营|
  |1902|[疯传数藏](https://www.tianyancha.com/company/3308779107)|WX_GZH| | | |[H5](https://www.fcollect.cn/h5/#/)|BSN文昌链|二级市场|
+ |1903|[斌八艺术](https://www.tianyancha.com/company/5810025119)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
