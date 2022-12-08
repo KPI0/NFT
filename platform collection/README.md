@@ -1961,4 +1961,5 @@
  |1901|[栖牛宇宙星球](https://www.tianyancha.com/company/5697790526)|WX_GZH| | | |[H5](https://www.xiniuyisu.com/web/#/)|BSN联盟链|停止运营|
  |1902|[疯传数藏](https://www.tianyancha.com/company/3308779107)|WX_GZH| | | |[H5](https://www.fcollect.cn/h5/#/)|BSN文昌链|二级市场|
  |1903|[斌八艺术](https://www.tianyancha.com/company/5810025119)|WX_GZH|
+ |1904|[顺丰数字收藏品](https://www.tianyancha.com/company/803553775)|WX_GZH| | | |[H5](https://www.sf-metaverse.com/#/)|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
