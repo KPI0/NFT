@@ -1529,7 +1529,7 @@
  |1470|[奥艺数字文创](https://www.tianyancha.com/company/5577465048)|WX_GZH| | | |[H5](https://aoyishuzi.com/)|蚂蚁链|二级市场|
  |1471|[灵启艺术META](https://www.tianyancha.com/company/5588633625)|WX_GZH| | | |[H5](http://www.lingqimeta.com/#/)|天河链|二级市场|
  |1472|[星野Meta](https://www.tianyancha.com/company/5425377528)|WX_GZH| | |[APP](https://xingshucang.com/down/)|[H5](https://xingshucang.com/wap)|BSN联盟链|二级市场|
- |1473|[艾克斯数藏](https://www.tianyancha.com/company/5540880693)|WX_GZH| | | |[H5](https://www.x-meta.art/)||二级市场|
+ |1473|[艾克斯数藏](https://www.tianyancha.com/company/5540880693)|WX_GZH| | | |[H5](https://www.x-meta.art/)| |停止运营|
  |1474|[VT META](https://www.tianyancha.com/company/5576100502)|WX_GZH| | | |[H5](https://www.vtyun.cn/wap/)||二级市场|
  |1475|[SO藏](https://www.tianyancha.com/company/5544352027)|WX_GZH| | | |[H5](http://so.socang.vip/web/#/)|天河链|停止运营|
  |1476|[G717](https://www.tianyancha.com/company/3417249651)|WX_GZH| | | |[H5](https://www.g717.top/wap/#/)||二级市场|
