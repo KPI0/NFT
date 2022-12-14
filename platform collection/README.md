@@ -419,7 +419,7 @@
  |379|[艺品数藏](https://www.tianyancha.com/company/5420313867)|WX_GZH| | |APP|[H5](http://yiyishu.cn)|Ethereum|二级市场|
  |380|[臻探](https://www.tianyancha.com/company/539712923)|WX_GZH|WX_XCX| |APP|[H5](https://nfthome.zhyell.com/)|XuperChain、长城链|二级市场|
  |381|[异宇宙艺术](https://www.tianyancha.com/company/5447657633)|WX_GZH| | |APP| | |停止运营|
- |382|[第十艺术](https://www.tianyancha.com/company/5321549560)|WX_GZH| | |[APP](http://www.dishiyishu.com/download.html)|[H5](http://www.dishiyishu.cn/#/)|BSN文昌链|二级市场|
+ |382|[第十艺术Meta](https://www.tianyancha.com/company/5321549560)|WX_GZH| | |[APP](http://www.dishiyishu.com/download.html)|[H5](http://www.dishiyishu.cn/#/)|BSN文昌链|停止运营|
  |383|[跃信艺术](https://www.tianyancha.com/company/4374916171)|WX_GZH| | |[APP](http://down.yuexin.art/downpage/e3728f61014a4708)|[H5](https://mate.yuexin.art/)|BSN文昌链|二级市场|
  |384|[链物空间](https://www.tianyancha.com/company/2781411241)|WX_GZH| | |[APP](http://www.lianwukongjian.com:8080/h5/download/index.html)|[H5](http://www.lianwukongjian.com/#/)|BSN联盟链|二级市场|
  |385|[元涟数藏](https://www.tianyancha.com/company/3171733412)|WX_GZH| | |[APP](http://yuan.oooei.cn/app/)|[H5](https://yuan.oooei.cn/#/)|天河链|二级市场|
