@@ -1965,4 +1965,5 @@
  |1905|[金茂尊享](https://www.tianyancha.com/company/3154028183)|WX_GZH| | | |[H5](https://nft.jinmao88.com/#/home)|BSN文昌链|场外转赠|
  |1906|[KLab文创](https://www.tianyancha.com/company/5667158699)|WX_GZH| | |APP|[H5](https://h5.klabart.com/#/)| |二级市场|
  |1907|[数字ONE+](https://www.tianyancha.com/company/5683847168)|WX_GZH| | |APP|[H5](https://www.one-add.com/#/)|天河链|二级市场|
+ |1908|[CyberKode](https://www.tianyancha.com/company/5547030154)|WX_GZH| | |APP|[H5](http://web.maitatec.com/)||停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
