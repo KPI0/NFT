@@ -1968,4 +1968,5 @@
  |1908|[CyberKode](https://www.tianyancha.com/company/5547030154)|WX_GZH| | |APP|[H5](http://web.maitatec.com/)||停止运营|
  |1909|[V17 Art](https://www.tianyancha.com/company/5744563627)|WX_GZH| | |APP|[H5](http://m.weilaikeji.art/#/)|BSN联盟链|二级市场|
  |1910|[牛归艺术](https://www.tianyancha.com/company/5820139488)|WX_GZH| | |[APP](https://static.niuguiyishu.com/uploadApp/index.html)|[H5](https://h5.niuguiyishu.com)|BSN联盟链|二级市场|
+ |1911|[凯旋数字](https://www.tianyancha.com/company/5655601290)|WX_GZH| | |[APP](https://www.yhtriumph.com/download)| |BSN文昌链|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
