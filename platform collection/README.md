@@ -1750,7 +1750,7 @@
  |1690|[天基教材](https://www.tianyancha.com/company/5649979564)|WX_GZH| | | |[H5](https://www.tianjisc.com/h5/#/)| |二级市场|
  |1691|[108数艺](https://www.tianyancha.com/company/3484149390)|WX_GZH| | | |[H5](https://m.the108.art/#/)|BSN文昌链|二级市场|
  |1692|[千里少女](https://www.tianyancha.com/company/5322914932)|WX_GZH| | | |[H5](https://girl.joy-art.cn/#/)|BSN联盟链|二级市场|
- |1693|[OVO潮流元宇宙](https://www.tianyancha.com/company/5540638577)|WX_GZH| | |[APP](https://api.ovoart.net/pages/register)| | |二级市场|
+ |1693|[OVO潮流元宇宙](https://www.tianyancha.com/company/5540638577)|WX_GZH| | |[APP](https://api.ovoart.net/pages/register)| | |停止运营|
  |1694|[阿Q文创art](https://www.tianyancha.com/company/5653736544)|WX_GZH| | |APP|[H5](http://aqszcp.com)| |停止运营|
  |1695|[本源数字科技](https://www.tianyancha.com/company/3438645935)|WX_GZH| | | |[H5](https://nft.benyuan.vip/#/home)|BSN联盟链|二级市场|
  |1696|[探宇数藏](https://www.tianyancha.com/company/5000663907)|WX_GZH|||[APP](https://ta0ny4u.shushibao.vip/download)|[H5](https://web.tanyushucang.com)||二级市场|
