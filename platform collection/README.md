@@ -1187,7 +1187,7 @@
  |1130|[闲侣](https://www.tianyancha.com/company/5312475892)|WX_GZH| | |[APP](https://www.hexkej.com/)| |蚂蚁链|场外转赠|
  |1130|[星罗奇部](https://www.tianyancha.com/company/5312475892)|WX_GZH| | |[APP](https://www.hexkej.com/)| |蚂蚁链|场外转赠|
  |1131|[上邮中心](https://www.tianyancha.com/company/2320346280)|WX_GZH| | |[APP](https://www.shscce.net/psy/h5/down.html)| |零数链|二级市场|
- |1132|[烛岛数藏](https://www.tianyancha.com/company/5509397219)|WX_GZH| | |[APP](https://d.nftdaox.com/)|[H5](https://www.zhudaonft.com/h5/#/pages/home/index)|BSN联盟链|二级市场|
+ |1132|[烛岛数藏](https://www.tianyancha.com/company/5509397219)|WX_GZH| | |[APP](https://d.nftdaox.com/)|[H5](https://www.zhudaonft.com/h5/#/pages/home/index)|BSN联盟链|停止运营|
  |1133|[虎盒](https://www.tianyancha.com/company/5578985184)|WX_GZH| | |APP|[H5](http://nft.tigerbox.cn/h5/#/)|BSN文昌链|场外转赠|
  |1134|[元创数艺](https://www.tianyancha.com/company/5556264855)|WX_GZH| | |APP|[H5](http://www.ycsynft.cn/h5/#/)|BSN文昌链|二级市场|
  |1135|[聚鲸藏品](https://www.tianyancha.com/company/2355665712)|WX_GZH| | | |[H5](http://www.jjcp.net.cn/h5#/)|BSN文昌链|场外转赠|
