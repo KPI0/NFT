@@ -1977,4 +1977,5 @@
  |1917|[星河Art](https://www.tianyancha.com/company/5650019041)|WX_GZH| | |APP|[H5](http://xinghe.aidouhy.com/)|BSN联盟链|停止运营|
  |1918|[BM小猪元宇宙](https://www.tianyancha.com/company/5541864346)|WX_GZH| | | |[H5](https://h5.xiaozhushucang.com/)|XuperChain|场外转赠|
  |1919|[麻花Meta](https://www.tianyancha.com/company/5667221962)|WX_GZH| | |APP|[H5](https://h5.mahuameta.com/)|BSN联盟链|二级市场|
+ |1920|[RareVerse](https://www.tianyancha.com/company/5635169977)|WX_GZH| | | |[H5](https://www.rareverse.club/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
