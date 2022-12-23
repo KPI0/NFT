@@ -1974,4 +1974,5 @@
  |1914|[区块乐园](https://www.tianyancha.com/company/5389981179)|WX_GZH| | | |[H5](https://engine.box3.fun/p/digitalblockland-tpcenter)| |场外转赠|
  |1915|[津智数藏](https://www.tianyancha.com/company/3266671231)|WX_GZH| | | |[H5](https://tjshucang.tjsinfo.com/#/)|津智链|场外转赠|
  |1916|[KXArt](https://www.tianyancha.com/company/5803383455)|WX_GZH| | | |[H5](http://kx.kangaicn.com/#/)|BSN文昌链|停止运营|
+ |1917|[星河Art](https://www.tianyancha.com/company/5650019041)|WX_GZH| | |APP|[H5](http://xinghe.aidouhy.com/)|BSN联盟链|停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
