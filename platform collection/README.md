@@ -1928,7 +1928,7 @@
  |1867|[网易云音乐](https://www.tianyancha.com/company/48868545)|WX_GZH| | |[APP](https://music.163.com/st/nft)|[H5](https://music.163.com/st/nft)|网易链|
  |1868|[五霖猫](https://www.tianyancha.com/company/3425490621)|WX_GZH| | | |[H5](https://meta.ipmao.co/#/)|BSN文昌链|场外转赠|
  |1869|[酷客数藏](https://www.tianyancha.com/company/5690319622)|WX_GZH| | |APP|[H5](https://coolart.space/h5/)|BSN文昌链|停止运营|
- |1870|[筑藏科技](https://www.tianyancha.com/company/5661149714)|WX_GZH| | |APP| |星火链、Ethereum|二级市场|
+ |1870|[筑藏科技](https://www.tianyancha.com/company/5661149714)|WX_GZH| | |[APP](https://zc.web.xhuom.cn/invite#/pages/downloadV2/index)||星火链、Ethereum|停止运营|
  |1871|[极境ART](https://www.tianyancha.com/company/5710047767)|WX_GZH| | | |[H5](https://app.jijingshucang.art/#/)|BSN联盟链|二级市场|
  |1872|[BUFF艺术](https://www.tianyancha.com/company/5759013424)|WX_GZH| | |APP|[H5](https://www.scbuffart.cn/h5/index.html#/)| |二级市场|
  |1873|[量子艺术](https://www.tianyancha.com/company/5537794804)|WX_GZH| | |APP|[H5](https://www.lzys.top/#/)|BSN联盟链|二级市场|
