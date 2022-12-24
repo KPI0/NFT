@@ -1979,4 +1979,5 @@
  |1918|[BM小猪元宇宙](https://www.tianyancha.com/company/5541864346)|WX_GZH| | | |[H5](https://h5.xiaozhushucang.com/)|XuperChain|场外转赠|
  |1919|[麻花Meta](https://www.tianyancha.com/company/5667221962)|WX_GZH| | |APP|[H5](https://h5.mahuameta.com/)|BSN联盟链|二级市场|
  |1920|[RareVerse](https://www.tianyancha.com/company/5635169977)|WX_GZH| | | |[H5](https://www.rareverse.club/#/)| |二级市场|
+ |1921|[名臻数界Meta](https://www.tianyancha.com/company/3426639806)|WX_GZH| | |[APP](https://www.mingzhentech.com/pro/download.html)|[H5](https://www.mingzhentech.com/pages/login)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
