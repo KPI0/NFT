@@ -1981,4 +1981,5 @@
  |1920|[RareVerse](https://www.tianyancha.com/company/5635169977)|WX_GZH| | | |[H5](https://www.rareverse.club/#/)| |二级市场|
  |1921|[名臻数界Meta](https://www.tianyancha.com/company/3426639806)|WX_GZH| | |[APP](https://www.mingzhentech.com/pro/download.html)|[H5](https://www.mingzhentech.com/pages/login)|BSN文昌链|二级市场|
  |1922|[布偶Tib](https://www.tianyancha.com/company/5542465397)|WX_GZH| | | |[H5](http://h5.botib.cn/)| |二级市场|
+ |1923|[白马星球](https://www.tianyancha.com/company/3133746903)|WX_GZH| | |[APP](http://ydy.baimajingxuan.com:8080/#/)|[H5](http://bmsc.baimajingxuan.com:8080/bmsc/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
