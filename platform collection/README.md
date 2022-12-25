@@ -1011,7 +1011,7 @@
  |954|[DC数创](https://www.tianyancha.com/company/5541860395)|WX_GZH| | | |[H5](http://www.dcszcp.com/h5/#/)| |二级市场|
  |955|[火星3080](https://www.tianyancha.com/company/5488828556)|WX_GZH| | |[APP](https://mars3080s.com/)|[H5](https://mars3080s.com/i/jKBPEBmZ)|蚂蚁链|场外转赠|
  |956|[STARMETA数藏](https://www.tianyancha.com/company/5234338301)|WX_GZH| | | |[H5](https://star.xingtumeta.com/)|蚂蚁链|场外转赠|
- |957|[玛特狗](https://www.tianyancha.com/company/3371726351)|WX_GZH| | |[APP](http://local.gometa.com.cn/reg/index.html?#/download)|[H5](http://www.gometa.com.cn/web/#/login)|长安链|二级市场|
+ |957|[玛特狗](https://www.tianyancha.com/company/3371726351)|WX_GZH| | |[APP](http://local.gometa.com.cn/reg/index.html?#/download)|[H5](http://www.gometa.com.cn/web/#/login)|长安链、天河链|二级市场|
  |958|[Mark Art数字艺术](https://www.tianyancha.com/company/3484644745)|WX_GZH| | |[APP](https://markartgo.com/markart.apk)|[H5](http://h5.markartgo.com)| |场外转赠|
  |959|[斐藏](https://www.tianyancha.com/company/5369288375)|WX_GZH| | |[APP](https://fay.museum-verse.com/home/invite/success.html#)|[H5](http://kcnft.museum-verse.com/home/move/index.html#/home/shop)|数字文博链|场外转赠|
  |960|[唯U文创](https://www.tianyancha.com/company/5540711843)|WX_GZH| | |APP|[H5](http://www.weiuwenchuang.com/#/)|Polygon|二级市场|
