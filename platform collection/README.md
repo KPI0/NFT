@@ -1826,7 +1826,7 @@
  |1765|[梦想ART](https://www.tianyancha.com/company/5691489955)|WX_GZH| | | |[H5](https://art.mxscart.com/h5/#/)|BSN联盟链|二级市场|
  |1766|[游元界](https://www.tianyancha.com/company/5650047778)|WX_GZH| | | |[H5](https://www.yyjnft.cn/index.html#/)|BSN文昌链|二级市场|
  |1767|[黑马艺术Himor](https://www.tianyancha.com/company/5533062796)|WX_GZH| | |[APP](http://himor.art/#/pages/download/download)|[H5](http://himor.art/)||二级市场|
- |1768|[东集Art](https://www.tianyancha.com/company/3360201392)|WX_GZH| | | |[H5](https://www.dongart.cn/pages/nft/index/index)|天河链|二级市场|
+ |1768|[东集Art](https://www.tianyancha.com/company/3360201392)|WX_GZH| | | |[H5](https://www.dongart.cn/pages/nft/index/index)|天河链|停止运营|
  |1769|[灵珑数字文化](https://www.tianyancha.com/company/5673910521)|WX_GZH| | | |[H5](http://artlinglong.com:8080/#/)|BSN联盟链|二级市场|
  |1770|[恒尔艺术](https://www.tianyancha.com/company/5621560598)|WX_GZH| | | |[H5](http://www.hengerart.cn/h5/#/)| |二级市场|
  |1771|[草帽艺数](https://www.tianyancha.com/company/5692503108)|WX_GZH| | | |[H5](https://www.hatbox.art/#/)| |二级市场|
