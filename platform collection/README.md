@@ -1984,4 +1984,5 @@
  |1923|[白马星球](https://www.tianyancha.com/company/3133746903)|WX_GZH| | |[APP](http://ydy.baimajingxuan.com:8080/#/)|[H5](http://bmsc.baimajingxuan.com:8080/bmsc/)|BSN联盟链|二级市场|
  |1924|[区块孪生](https://www.tianyancha.com/company/5675905159)|WX_GZH| | | |[H5](http://beixiaoshuzi.com/site/index)| |二级市场|
  |1925|[一墨艺术](https://www.tianyancha.com/company/5630737272)|WX_GZH| | | |[H5](https://www.yimoart.top/)|Polygon|二级市场|
+ |1926|[绯凡数藏](https://www.tianyancha.com/company/5304010571)|WX_GZH|||[APP](https://www.faeryone.com/download)|[H5](https://www.faeryone.com/main)|至信链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
