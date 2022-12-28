@@ -1688,7 +1688,7 @@
  |1627|[元一数字](https://www.tianyancha.com/company/5567081297)|WX_GZH| | |[APP](https://h5.oneverse.art/#/pages/downloadApp/index)|[H5](https://h5.oneverse.art/#/)||二级市场|
  |1628|[Et Meta](https://www.tianyancha.com/company/5654661947)|WX_GZH| | | |[H5](https://nftweb.etqfnb.com/)||二级市场|
  |1629|[Top文创](https://www.tianyancha.com/company/5608638823)|WX_GZH| | | |[H5](https://h5.d2kj.net/#/)|BSN文昌链|二级市场|
- |1630|[筑梦ART](https://www.tianyancha.com/company/5576821513)|WX_GZH| | | |[H5](http://wap.zhumeng-art.com/#/)||二级市场|
+ |1630|[筑梦ART](https://www.tianyancha.com/company/5576821513)|WX_GZH| | | |[H5](http://wap.zhumeng-art.com/#/)||停止运营|
  |1631|[Base Meta](https://www.tianyancha.com/company/5630820711)|WX_GZH| | |APP|[H5](http://m.xunnankj.cn/#/)||二级市场|
  |1632|[WHATSART](https://www.tianyancha.com/company/5605977409)|WX_GZH| | |[APP](http://activity.metamall.cc/app/)| |海峡链|二级市场|
  |1633|[Gaea宇宙空间](https://www.tianyancha.com/company/5613058938)|WX_GZH| | | |[H5](http://meta.xiynft.com/#/home)|BSN文昌链|停止运营|
