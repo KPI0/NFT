@@ -1987,4 +1987,5 @@
  |1926|[绯凡数藏](https://www.tianyancha.com/company/5304010571)|WX_GZH|||[APP](https://www.faeryone.com/download)|[H5](https://www.faeryone.com/main)|至信链|二级市场|
  |1927|[口袋数字](https://www.tianyancha.com/company/5642355289)|WX_GZH| | |APP|[H5](http://h5.koudaishuzi.com/#/)| |二级市场|
  |1928|[银杏数藏](https://www.tianyancha.com/company/5146152995)|WX_GZH| | | |[H5](https://himeta.innatech.com.cn/#/Discovery)|树图链|二级市场|
+ |1929|[中南数藏](https://www.tianyancha.com/company/5652273621)|WX_GZH| | |[APP](https://m.znsc888.com/#/pages/znsc)|[H5](https://m.znsc888.com/#/)||二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
