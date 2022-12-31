@@ -1990,4 +1990,5 @@
  |1929|[中南数藏](https://www.tianyancha.com/company/5652273621)|WX_GZH| | |[APP](https://m.znsc888.com/#/pages/znsc)|[H5](https://m.znsc888.com/#/)||二级市场|
  |1930|[SUNNY ART晴天艺术](https://www.tianyancha.com/company/4529680783)|WX_GZH| | |APP| | |二级市场|
  |1931|[橙猩](https://www.tianyancha.com/company/5351981955)|WX_GZH| | | |[H5](https://h5.okk.city/#/login)|BSN联盟链|二级市场|
+ |1932|[链动数字](https://www.tianyancha.com/company/5715084624)|WX_GZH| | | |[H5](http://h5.liandong.art/#/)| |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
