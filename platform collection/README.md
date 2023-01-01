@@ -1364,7 +1364,7 @@
  |1306|[百家数艺](https://www.tianyancha.com/company/3447990115)|WX_GZH| | | |[H5](https://baijia.bjsy.art/wap/)|BSN文昌链|二级市场|
  |1307|[NewField艺术](https://www.tianyancha.com/company/5579629333)|WX_GZH| | | |[H5](http://yaochang.art/#/)|BSN联盟链|二级市场|
  |1308|[星征](https://www.tianyancha.com/company/3337353251)|WX_GZH| | |[APP](https://app.dcright.cn/_2/?t=1/#/)|[H5](http://xz.ayalm.com/#/)|数字版权链|场外转赠|
- |1309|[奇点艺术](https://www.tianyancha.com/company/5540554654)|WX_GZH| | | |[H5](https://qdys.art/)|树图链|二级市场|
+ |1309|[奇点艺术](https://www.tianyancha.com/company/5540554654)|WX_GZH| | | |[H5](https://qdys.art/)|树图链|停止运营|
  |1310|[光环meta](https://www.tianyancha.com/company/1582603336)|WX_GZH| | | |[H5](https://app.chashanji.com/index/#/)||二级市场|
  |1311|[玖数拍卖](https://www.tianyancha.com/company/3486795746)|WX_GZH| | |[APP](http://dl.9fishnft.com/#/download)|[H5](https://h5.9fishnft.com/#/)|NSC|二级市场|
  |1312|[矢量磁场](https://www.tianyancha.com/company/5446104372)|WX_GZH| | |[APP](https://app.cichang.art/down.html)| |星火链|场外转赠|
