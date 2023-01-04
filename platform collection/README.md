@@ -1993,4 +1993,5 @@
  |1932|[链动数字](https://www.tianyancha.com/company/5715084624)|WX_GZH| | | |[H5](http://h5.liandong.art/#/)| |停止运营|
  |1933|[幻城数藏](https://www.tianyancha.com/company/2488732623)|WX_GZH| | |APP|[H5](https://web.echainbaas.com/#/)|EChain|二级市场|
  |1934|[云端艺邸](https://www.tianyancha.com/company/3045514394)|WX_GZH| | | |[H5](https://metaverse.jhotel-shanghai.com/#/)|树图链|场外转赠|
+ |1935|[元邮数藏](https://www.tianyancha.com/company/3226239480)|WX_GZH| | | |[H5](http://www.wanhoo.link/)|XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
