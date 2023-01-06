@@ -1995,4 +1995,5 @@
  |1934|[云端艺邸](https://www.tianyancha.com/company/3045514394)|WX_GZH| | | |[H5](https://metaverse.jhotel-shanghai.com/#/)|树图链|场外转赠|
  |1935|[元邮数藏](https://www.tianyancha.com/company/3226239480)|WX_GZH| | | |[H5](http://www.wanhoo.link/)|XuperChain|场外转赠|
  |1936|[巽风数字世界](https://www.tianyancha.com/company/5864066570)|WX_GZH| | |[APP](https://s.haowu.store/h5_xf/index.html#/)| |网易链|场外转赠|
+ |1937|[七米数藏](https://www.tianyancha.com/company/3377652453)|WX_GZH| | | |[H5](https://client.sevenart.cn/login)| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
