@@ -2002,4 +2002,5 @@
  |1941|[紫翌Art](https://www.tianyancha.com/company/5846294629)|WX_GZH| | | |[H5](http://ziyiart.jianlianlian.com/h5/#/)|BSN文昌链|二级市场|
  |1942|大佐文创|WX_GZH| | | | | |停止运营|
  |1943|[国版优藏](https://www.tianyancha.com/company/4344087892)|WX_GZH| | | |[H5](https://www.wgbyc.com/#/Discovery)|树图链|二级市场|
+ |1944|[非鱼艺术](https://www.tianyancha.com/company/3416233523)|WX_GZH| | | |[H5](https://mobox.art/zh-cn/#/)|Polygon|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
