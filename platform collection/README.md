@@ -1964,7 +1964,7 @@
  |1903|[斌八艺术](https://www.tianyancha.com/company/5810025119)|WX_GZH| | |[APP](http://www.wulumeta.com/xiazai/)| | |二级市场|
  |1904|[顺丰数字收藏品](https://www.tianyancha.com/company/803553775)|WX_GZH| | | |[H5](https://www.sf-metaverse.com/#/)|顺丰链|场外转赠|
  |1905|[金茂尊享](https://www.tianyancha.com/company/3154028183)|WX_GZH| | | |[H5](https://nft.jinmao88.com/#/home)|BSN文昌链|场外转赠|
- |1906|[KLab文创](https://www.tianyancha.com/company/5667158699)|WX_GZH| | |APP|[H5](https://h5.klabart.com/#/)| |二级市场|
+ |1906|[KLab文创](https://www.tianyancha.com/company/5667158699)|WX_GZH| | |APP|[H5](https://h5.klabart.com/#/)| |停止运营|
  |1907|[数字ONE+](https://www.tianyancha.com/company/5683847168)|WX_GZH| | |APP|[H5](https://www.one-add.com/#/)|天河链|二级市场|
  |1908|[CyberKode](https://www.tianyancha.com/company/5547030154)|WX_GZH| | |APP|[H5](http://web.maitatec.com/)||停止运营|
  |1909|[V17 Art](https://www.tianyancha.com/company/5744563627)|WX_GZH| | |APP|[H5](http://m.weilaikeji.art/#/)|BSN联盟链|二级市场|
