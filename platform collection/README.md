@@ -2006,4 +2006,5 @@
  |1944|[非鱼艺术](https://www.tianyancha.com/company/3416233523)|WX_GZH| | | |[H5](https://mobox.art/zh-cn/#/)|Polygon|二级市场|
  |1945|[伞宇宙数藏](https://www.tianyancha.com/company/3469175574)|WX_GZH| | |[APP](http://download.yfbudong.com/nft.html)| | |二级市场|
  |1946|[i8数字文化](https://www.tianyancha.com/company/5841592213)|WX_GZH| | | |[H5](https://h5.i8art.vip/h5/#/)|BSN文昌链|二级市场|
+ |1947|[17艺术](https://www.tianyancha.com/company/3447814788)|WX_GZH| | |[APP](https://down.shucangvip.com)|[H5](https://m.shucangvip.com)|BSN文昌链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
