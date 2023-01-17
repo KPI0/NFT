@@ -280,7 +280,7 @@
  |248|[一号藏馆](https://www.tianyancha.com/company/3475514425)|WX_GZH|WX_XCX| | | |趣链|场外转赠|
  |249|[东方数藏](https://www.tianyancha.com/company/2353970387)|WX_GZH|WX_XCX| |APP|[H5](http://h5.judaiyan.shop/h5#/)|Polygon|二级市场|
  |250|[谷麦藏家](https://www.tianyancha.com/company/4994115502)|WX_GZH| | |APP|[H5](https://h5.mymgkj.com/#/)|蚂蚁链|二级市场|
- |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP|[H5](https://nft.api.yihongzhihui.com/index.html)||二级市场|
+ |251|[嗒吉](https://www.tianyancha.com/company/3203938711)|WX_GZH| | |APP|[H5](https://nft.api.yihongzhihui.com/index.html)| |停止运营|
  |252|[佳密艺术](https://www.tianyancha.com/company/5021553497)|WX_GZH| | |[APP](https://invite.jm-ddc.com/#/pages/index/download)||BSN联盟链|场外转赠|
  |253|[交链数藏](https://www.tianyancha.com/company/2349028571)|WX_GZH| | |[APP](https://down.wiyxyo.org/downpage/9c2de76b4a674319)|[H5](https://jldc.wtsdapp.com/jlsc/)|TBaaS|二级市场|
  |254|[BlueSea蓝海数字](https://www.tianyancha.com/company/3334037757)|WX_GZH| | |[APP](http://app.hidianculture.com/lanhai)|[H5](https://h5.hidianculture.com/#/)|蚂蚁链|场外转赠|
