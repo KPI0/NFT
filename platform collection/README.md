@@ -2008,4 +2008,5 @@
  |1946|[i8数字文化](https://www.tianyancha.com/company/5841592213)|WX_GZH| | | |[H5](https://h5.i8art.vip/h5/#/)|BSN文昌链|二级市场|
  |1947|[17艺术](https://www.tianyancha.com/company/3447814788)|WX_GZH| | |[APP](https://down.shucangvip.com)|[H5](https://m.shucangvip.com)|BSN文昌链|场外转赠|
  |1948|[道拍meta](https://www.tianyancha.com/company/5234336745)|WX_GZH| | |[APP](https://daopai.jijispace.com/#/down_app)|[H5](https://daopai.jijispace.com/#/)|BSN联盟链|二级市场|
+ |1949|[澎湃数藏](https://www.tianyancha.com/company/859564081)|WX_GZH| | |[APP](https://m.thepaper.cn/)| | | |
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
