@@ -2012,4 +2012,5 @@
  |1949|[澎湃数藏](https://www.tianyancha.com/company/859564081)|WX_GZH| | |[APP](https://m.thepaper.cn/)| | | |
  |1950|[纳灵境](https://www.tianyancha.com/company/80879251)|WX_GZH| | | |[H5](https://nlj.spirittree.cn/h5/)|BSN联盟链、蚂蚁链、XuperChain|二级市场|
  |1951|[羊晚数藏](https://www.tianyancha.com/company/795422087)|WX_GZH| | | |[H5](https://nft.ycwb.com/)|BSN文昌链|场外转赠|
+ |1952|[39度6艺术](https://www.tianyancha.com/company/5593929435)|WX_GZH| | | |[H5](https://www.39du6.com/wap#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
