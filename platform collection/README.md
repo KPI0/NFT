@@ -2015,4 +2015,5 @@
  |1952|[39度6艺术](https://www.tianyancha.com/company/5593929435)|WX_GZH| | | |[H5](https://www.39du6.com/wap#/)|BSN联盟链|二级市场|
  |1953|[叁点零光年数字](https://www.tianyancha.com/company/5667894576)|WX_GZH| | |[APP](https://h5.30light-year.com/#/pages/download)|[H5](https://h5.30light-year.com/#/)|BSN联盟链|二级市场|
  |1954|[404NF奢会](https://www.tianyancha.com/company/5663636292)|WX_GZH| | |[APP](https://404nf.cc/)| | |二级市场|
+ |1955|[爱米数藏](https://www.tianyancha.com/company/3351549369)|WX_GZH| | | |[H5](https://nft-h5.aifeicg.com/#/)| |场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
