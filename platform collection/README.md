@@ -2017,4 +2017,5 @@
  |1954|[404NF奢会](https://www.tianyancha.com/company/5663636292)|WX_GZH| | |[APP](https://404nf.cc/)|[H5](https://h5.404nf.cc/#/)| |场外转赠|
  |1955|[爱米数藏](https://www.tianyancha.com/company/3351549369)|WX_GZH| | | |[H5](https://nft-h5.aifeicg.com/#/)|蚂蚁链|场外转赠|
  |1956|[钱途数藏](https://www.tianyancha.com/company/5402323244)|WX_GZH| | |APP|[H5](https://www.qiantu.top/#/)| |场外转赠|
+ |1957|[41Art](https://www.tianyancha.com/company/5713137189)|WX_GZH| | |APP|[H5](https://41art.cc/wap/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
