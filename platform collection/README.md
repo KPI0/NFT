@@ -2019,4 +2019,5 @@
  |1956|[钱途数藏](https://www.tianyancha.com/company/5402323244)|WX_GZH| | |APP|[H5](https://www.qiantu.top/#/)| |场外转赠|
  |1957|[41Art](https://www.tianyancha.com/company/5713137189)|WX_GZH| | |APP|[H5](https://41art.cc/wap/)| |二级市场|
  |1958|[21数艺](https://www.tianyancha.com/company/5093844147)|WX_GZH| | | |[H5](https://h5.nft1979.cn/#/)|中国旅游链|二级市场|
+ |1959|[留链Meta](https://www.tianyancha.com/company/5843321901)|WX_GZH| | | |[H5](https://www.gdtfrya.cn/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
