@@ -2026,4 +2026,5 @@
  |1962|[鲸云艺数](https://www.tianyancha.com/company/5779126346)|WX_GZH| | |[APP](http://app.jingyunar.com/JAmX)|[H5](https://h5.jingyunar.com/#/)|BSN文昌链|二级市场|
  |1963|[红场](https://www.tianyancha.com/company/5015171139)|WX_GZH| | |[APP](https://www.hongchang.art/#/pages/user/download)|[H5](https://www.hongchang.art/#/)|树图链|二级市场|
  |1964|[宇初zero](https://www.tianyancha.com/company/5649407425)|WX_GZH| | | |[H5](https://swap.yuchu.vip/)|文化艺术链|二级市场|
+ |1965|[青砚艺术](https://www.tianyancha.com/company/5692283056)|WX_GZH| | | |H5| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
