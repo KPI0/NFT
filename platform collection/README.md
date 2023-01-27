@@ -2030,4 +2030,5 @@
  |1966|[光彩数字文化](https://www.tianyancha.com/company/5717968757)|WX_GZH| | |APP|[H5](http://jingcaiyishu.art/#/)|BSN联盟链|二级市场|
  |1967|[星月Meta](https://www.tianyancha.com/company/5686427424)|WX_GZH| | | |[H5](https://h5.xyuemeta.com/index)|蚂蚁链|二级市场|
  |1968|[拾玖艺术](https://www.tianyancha.com/company/5591507343)|WX_GZH| | | | |BSN联盟链|二级市场|
+ |1969|[Next Art](https://www.tianyancha.com/company/5654907989)|WX_GZH| | |APP|[H5](https://www.nextart.art/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
