@@ -2027,4 +2027,5 @@
  |1963|[红场](https://www.tianyancha.com/company/5015171139)|WX_GZH| | |[APP](https://www.hongchang.art/#/pages/user/download)|[H5](https://www.hongchang.art/#/)|树图链|二级市场|
  |1964|[宇初zero](https://www.tianyancha.com/company/5649407425)|WX_GZH| | | |[H5](https://swap.yuchu.vip/)|文化艺术链|二级市场|
  |1965|[青砚艺术](https://www.tianyancha.com/company/5692283056)|WX_GZH| | | |H5| |二级市场|
+ |1966|[光彩数字文化](https://www.tianyancha.com/company/5717968757)|WX_GZH| | |APP|[H5](http://jingcaiyishu.art/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
