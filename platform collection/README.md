@@ -2032,4 +2032,5 @@
  |1968|[拾玖艺术](https://www.tianyancha.com/company/5591507343)|WX_GZH| | | | |BSN联盟链|二级市场|
  |1969|[Next Art](https://www.tianyancha.com/company/5654907989)|WX_GZH| | |APP|[H5](https://www.nextart.art/#/)|BSN联盟链|二级市场|
  |1970|[自贸数艺](https://www.tianyancha.com/company/2318301140)|WX_GZH| | |[APP](https://download.wenboip.com/)| |信证链|二级市场|
+ |1971|[雾壹元境](https://www.tianyancha.com/company/5506766532)|WX_GZH| | | |[H5](http://app.mistone.shop/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
