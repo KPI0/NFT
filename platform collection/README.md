@@ -1907,7 +1907,7 @@
  |1844|[易辰艺术](https://www.tianyancha.com/company/3216226088)|WX_GZH| | | | | |停止运营|
  |1845|[宇宙一号](https://www.tianyancha.com/company/5564142282)|WX_GZH| | | |[H5](http://art.yuzhouone.com//#/)|BSN文昌链|停止运营|
  |1846|[CHlist艺术](https://www.tianyancha.com/company/5606113626)|WX_GZH| | | |[H5](http://m.hnjunmai.com/#/)| |二级市场|
- |1847|[Anime潮玩](https://www.tianyancha.com/company/5466794013)|WX_GZH| | | |[H5](http://animecw.art/h5/#/)|天河链|二级市场|
+ |1847|[Anime潮玩](https://www.tianyancha.com/company/5466794013)|WX_GZH| | | |[H5](http://animecw.art/h5/#/)|天河链|停止运营|
  |1848|[互动电视IPTV](https://www.tianyancha.com/company/1097550091)|WX_GZH| | | |[H5](http://nft.leso114.com/)|BSN联盟链|场外转赠|
  |1849|[BYFE数权](https://www.tianyancha.com/company/5509275755)|WX_GZH| | |[APP](http://www.byfe.net/)|[H5](https://app.byfe.net/h5/#/)|BSN文昌链|二级市场|
  |1850|[六潮艺术](https://www.tianyancha.com/company/4508806692)|WX_GZH| | | |[H5](https://nft8.wshop1688.com/)|BSN文昌链|二级市场|
