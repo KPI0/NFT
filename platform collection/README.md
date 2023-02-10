@@ -2044,4 +2044,5 @@
  |1980|[启源数字](https://www.tianyancha.com/company/3201067468)|WX_GZH| | | |[H5](https://www.jinyuanshuzi.com/)|BSN文昌链|二级市场|
  |1981|[Puder](https://www.tianyancha.com/company/5760065170)|WX_GZH| | | |[H5](https://www.puder.shop/#/)| |二级市场|
  |1982|[Koi Art](https://www.tianyancha.com/company/5668819886)|WX_GZH| | | |[H5](https://www.koiart.top/h5/#/)| |停止运营|
+ |1983|[bing艺术](https://www.tianyancha.com/company/5867746075)|WX_GZH| | | |[H5](https://nft.wlkj.shop/h5/h5.html#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
