@@ -2048,4 +2048,5 @@
  |1984|[元力元宇宙](https://www.tianyancha.com/company/3332920518)|WX_GZH| | | |[H5](http://www.shoucangka.com.cn/#/)|BSN文昌链|场外转赠|
  |1985|[AnyWeb数连](https://www.tianyancha.com/company/4301457567)|WX_GZH|WX_XCX| |[APP](https://anyweb.cc/)| |树图链|场外转赠|
  |1986|[K18文创](https://www.tianyancha.com/company/5573984016)|WX_GZH| | | |[H5](http://m.lddys.art/#/)| |二级市场|
+ |1987|[星麒艺术](https://www.tianyancha.com/company/5601627819)|WX_GZH| | |APP|[H5](https://xqjymeta.cn/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
