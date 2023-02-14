@@ -2052,4 +2052,5 @@
  |1988|[元上数字艺术](https://www.tianyancha.com/company/5743657012)|WX_GZH| | |APP|[H5](https://www.metays6.com/#/)| |二级市场|
  |1989|[瀚云数字艺术](https://www.tianyancha.com/company/3211862845)|WX_GZH| | | |[H5](https://hy.nikaart.cn/wap/)| |二级市场|
  |1990|[寻秦数藏](https://www.tianyancha.com/company/5325048580)|WX_GZH| | | | | |停止运营|
+ |1991|[TG数字艺术](https://www.tianyancha.com/company/5670368849)|WX_GZH| | | |[H5](http://tgszys.com/h5)| |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
