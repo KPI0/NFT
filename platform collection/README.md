@@ -2054,4 +2054,5 @@
  |1990|[寻秦数藏](https://www.tianyancha.com/company/5325048580)|WX_GZH| | | | | |停止运营|
  |1991|[TG数字艺术](https://www.tianyancha.com/company/5670368849)|WX_GZH| | | |[H5](http://tgszys.com/h5)| |停止运营|
  |1992|[盒与盒](https://www.tianyancha.com/company/5738210444)|WX_GZH| | |APP|[H5](http://m.heyuhe.top/#/)|BSN文昌链|停止运营|
+ |1993|[谜底Meta](https://www.tianyancha.com/company/5636558590)|WX_GZH| | | |[H5](https://h5.riddlenft.cn/#/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
