@@ -2057,5 +2057,5 @@
  |1992|[盒与盒](https://www.tianyancha.com/company/5738210444)|WX_GZH| | |APP|[H5](http://m.heyuhe.top/#/)|BSN文昌链|停止运营|
  |1993|[谜底Meta](https://www.tianyancha.com/company/5636558590)|WX_GZH| | | |[H5](https://h5.riddlenft.cn/#/)|天河链|二级市场|
  |1994|[聚光灯实验室](https://www.tianyancha.com/company/5676599769)|WX_GZH| | |APP|[H5](https://app.cbatime.com/)| |二级市场|
- |1995|[YY直播](https://www.tianyancha.com/company/2320425312)|WX_GZH| | |APP|[H5](https://web.yy.com/nft_card_sy/index.html)|XuperChain|场外转赠|
+ |1995|[YY直播](https://www.tianyancha.com/company/2320425312)|WX_GZH| | |[APP](https://www.yy.com/download)|[H5](https://web.yy.com/nft_card_sy/index.html)|XuperChain|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
