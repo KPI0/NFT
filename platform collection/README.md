@@ -2062,4 +2062,5 @@
  |1997|[TiMi空间](https://www.tianyancha.com/company/5761336468)|WX_GZH| | |APP|[H5](http://www.tmi888.com/#/)| |二级市场|
  |1998|[数泽](https://www.tianyancha.com/company/3277405861)|WX_GZH| | | |[H5](https://www.miisii.com/sz/#/)|蚂蚁链、腾讯链|场外转赠|
  |1999|[数界云艺术](https://www.tianyancha.com/company/5863662045)|WX_GZH| | |[APP](https://m.sjyys.cn/#/pages/download)|[H5](https://m.sjyys.cn/)|BSN联盟链|二级市场|
+ |2000|[边界Art](https://www.tianyancha.com/company/1572030749)|WX_GZH| | | |[H5](https://e.randomdoor.art/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
