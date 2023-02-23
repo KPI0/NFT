@@ -2065,4 +2065,5 @@
  |2000|[边界Art](https://www.tianyancha.com/company/1572030749)|WX_GZH| | | |[H5](https://e.randomdoor.art/#/)|BSN联盟链|二级市场|
  |2001|[赛博量子](https://www.tianyancha.com/company/5749953847)|WX_GZH| | | |[H5](https://h5.cyberquantum.com.cn/#/)|BSN文昌链|二级市场|
  |2002|[诗芙兰中国](https://www.tianyancha.com/company/611486088)|WX_GZH| | |[APP](https://m.sephora.cn/)| |长安链|
+ |2003|[邮贝数字邮局](https://www.tianyancha.com/company/3270201831)|WX_GZH|WX_XCX| | | |邮局链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
