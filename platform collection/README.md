@@ -2069,4 +2069,5 @@
  |2003|[邮贝数字邮局](https://www.tianyancha.com/company/3270201831)|WX_GZH|WX_XCX| | | |邮局链|场外转赠|
  |2004|[大财福文创](https://www.tianyancha.com/company/5777015314)|WX_GZH|
  |2005|[云境数字](https://www.tianyancha.com/company/338306062)|WX_GZH| | | |[H5](https://m.yj.ynurl.cn/#/)|人民灵境链|二级市场|
+ |2006|[美艺Space](https://www.tianyancha.com/company/5841856073)|WX_GZH| | |[APP](https://h5.beautifulart.com.cn/index.html#/pages/setting/download)|[H5](https://h5.beautifulart.com.cn/index.html#/)|海峡链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
