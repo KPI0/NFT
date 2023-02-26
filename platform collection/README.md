@@ -2072,4 +2072,5 @@
  |2006|[美艺Space](https://www.tianyancha.com/company/5841856073)|WX_GZH| | |[APP](https://h5.beautifulart.com.cn/index.html#/pages/setting/download)|[H5](https://h5.beautifulart.com.cn/index.html#/)|海峡链|二级市场|
  |2007|[极光文创](https://www.tianyancha.com/company/5834287574)|WX_GZH| | | |[H5](https://www.jiguangwenchuang.com/h5)| |二级市场|
  |2008|[光予文创](https://www.tianyancha.com/company/5652412263)|WX_GZH| | | |[H5](https://gandart.com/#/)|BSN联盟链|二级市场|
+ |2009|[云霄数字空间](https://www.tianyancha.com/company/1692310808)|WX_GZH| | | |[H5](https://www.yunxiaokj.art/wap/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
