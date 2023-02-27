@@ -2074,5 +2074,5 @@
  |2008|[光予文创](https://www.tianyancha.com/company/5652412263)|WX_GZH| | | |[H5](https://gandart.com/#/)|BSN联盟链|二级市场|
  |2009|[云霄数字空间](https://www.tianyancha.com/company/1692310808)|WX_GZH| | | |[H5](https://www.yunxiaokj.art/wap/)|BSN联盟链|二级市场|
  |2010|[聚星名创](https://www.tianyancha.com/company/4357309527)|WX_GZH| | | |[H5](https://jx.juxingwenchuang.com/wap/#/)| |二级市场|
- |2011|[](https://www.tianyancha.com/company/5894110868)|WX_GZH|WX_XCX| |APP|H5|
+ |2011|[数字精灵卡牌](https://www.tianyancha.com/company/5894110868)|WX_GZH|WX_XCX| |APP|H5|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
