@@ -2076,4 +2076,5 @@
  |2010|[聚星名创](https://www.tianyancha.com/company/4357309527)|WX_GZH| | | |[H5](https://jx.juxingwenchuang.com/wap/#/)| |二级市场|
  |2011|[数字精灵卡牌](https://www.tianyancha.com/company/5894110868)|WX_GZH|WX_XCX| |APP|H5|
  |2012|[灵魂铸造](https://www.tianyancha.com/company/5804770238)|WX_GZH| | |[APP](https://media.soulsmint.com/download/android.apk)| |BSN联盟链|二级市场|
+ |2013|[星域Art艺术](https://www.tianyancha.com/company/4972718690)|WX_GZH| | | |[H5](https://api.xyu-art.com/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
