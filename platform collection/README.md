@@ -2079,4 +2079,5 @@
  |2013|[星域Art艺术](https://www.tianyancha.com/company/4972718690)|WX_GZH| | | |[H5](https://api.xyu-art.com/)| |二级市场|
  |2014|[Hunter2099](https://www.tianyancha.com/company/5606360080)|WX_GZH| | |APP|[H5](https://app.hunter2099.com/#/)|BSN文昌链|二级市场|
  |2015|[发现数字艺术](https://www.tianyancha.com/company/5544525657)|WX_GZH| | |[APP](http://h5.faxiannft.art/#/pagesZ/downApp/downApp)| | |二级市场|
+ |2016|[藏链](https://www.tianyancha.com/company/5492496812)|WX_GZH| | |APP|H5|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
