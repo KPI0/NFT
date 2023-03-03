@@ -2081,4 +2081,5 @@
  |2015|[发现数字艺术](https://www.tianyancha.com/company/5544525657)|WX_GZH| | |[APP](http://h5.faxiannft.art/#/pagesZ/downApp/downApp)| | |二级市场|
  |2016|[藏链](https://www.tianyancha.com/company/5492496812)|WX_GZH| | |APP|H5|BSN联盟链|二级市场|
  |2017|[元猴数藏](https://www.tianyancha.com/company/5859856028)|WX_GZH| | |[APP](https://www.yuanhousc.com/#/pages/download/app)|[H5](https://www.yuanhousc.com/#/pages/download/app)| |二级市场|
+ |2018|[光艺艺术平台](https://www.tianyancha.com/company/5455235253)|WX_GZH| | | |[H5](https://h5.lightartes.com/#/)|天河链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
