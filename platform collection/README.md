@@ -2082,4 +2082,5 @@
  |2016|[藏链](https://www.tianyancha.com/company/5492496812)|WX_GZH| | |APP|H5|BSN联盟链|二级市场|
  |2017|[元猴数藏](https://www.tianyancha.com/company/5859856028)|WX_GZH| | |[APP](https://www.yuanhousc.com/#/pages/download/app)|[H5](https://www.yuanhousc.com/#/pages/download/app)| |二级市场|
  |2018|[光艺艺术平台](https://www.tianyancha.com/company/5455235253)|WX_GZH| | | |[H5](https://h5.lightartes.com/#/)|天河链|二级市场|
+ |2019|[鲸矿](https://www.tianyancha.com/company/3160017406)|WX_GZH| | | |[H5](https://h5.jingkuang.info/#/)|长安链|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
