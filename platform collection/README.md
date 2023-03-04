@@ -2085,4 +2085,5 @@
  |2019|[鲸矿](https://www.tianyancha.com/company/3160017406)|WX_GZH| | | |[H5](https://h5.jingkuang.info/#/)|长安链|场外转赠|
  |2020|[一点橙汁](https://www.tianyancha.com/company/3225165810)|WX_GZH| | |[APP](https://mall-detail.onechange.net.cn/#/download/)|[H5](https://mall-h5.onechange.net.cn/)|大唐链|场外转赠|
  |2021|[第二宇宙世界](https://www.tianyancha.com/company/5822295347)|WX_GZH| | |[APP](https://download.superjuzhen.com/)| | |二级市场|
+ |2022|[艾斯文创](https://www.tianyancha.com/company/5678213538)|WX_GZH| | |[APP](https://h5.iswenchuang.cn/#/pages/index/download)|[H5](https://h5.iswenchuang.cn/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
