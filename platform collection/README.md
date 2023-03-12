@@ -2092,4 +2092,5 @@
  |2026|[云起数藏](https://www.tianyancha.com/company/5894492771)|WX_GZH| | | |[H5](https://web.yuguowangluo.top)|BSN文昌链|二级市场|
  |2027|[番茄数字](https://www.tianyancha.com/company/4426198947)|WX_GZH| | | |[H5](https://sc.gdfanqie.com/#/)|BSN联盟链|二级市场|
  |2028|[蚂蚁数藏](https://www.tianyancha.com/company/3482998513)|WX_GZH| | |[APP](https://app.mayi.art/#/)|[H5](https://m.mayi.art/#/)|BSN联盟链|二级市场|
+ |2029|[元元数字文创](https://www.tianyancha.com/company/3291672490)|WX_GZH| | | |[H5](https://yyshucang.com/h5/h5.html#/)|CIC|场外转赠|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
