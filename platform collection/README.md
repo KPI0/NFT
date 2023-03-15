@@ -2095,4 +2095,5 @@
  |2029|[元元数字文创](https://www.tianyancha.com/company/3291672490)|WX_GZH| | | |[H5](https://yyshucang.com/h5/h5.html#/)|CIC|场外转赠|
  |2030|[元宿](https://www.tianyancha.com/company/2321356311)|WX_GZH| | | |[H5](https://zjcaee-mobile.yuansu.link/)|数文链|
  |2031|[蚂蚁链数字文化](https://www.tianyancha.com/company/5439003216)|WX_GZH| | |APP|H5|BSN联盟链|二级市场|
+ |2032|蚁八数藏|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
