@@ -2099,4 +2099,5 @@
  |2032|[全民体域](https://www.tianyancha.com/company/5476315824)|WX_GZH| | | |[H5](https://www.isportsmeta.com/)|Solana|场外转赠|
  |2033|[8Box](https://www.tianyancha.com/company/2417819101)|WX_GZH| | |[APP](https://app.8box.space/)|[H5](https://www.8box.space/)| |二级市场|
  |2034|[小7文创](https://www.tianyancha.com/company/5751773215)|WX_GZH| | |APP|[H5](http://zy.keveu.cn)|BSN文昌链|二级市场|
+ |2035|[42数艺](https://www.tianyancha.com/company/5386634782)|WX_GZH| | |[APP](https://app.42verse.shop/)| |XuperChain|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
