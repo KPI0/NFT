@@ -2103,4 +2103,5 @@
  |2036|[润泽艺数](https://www.tianyancha.com/company/5751901537)|WX_GZH| | |[APP](https://www.runzeshucang.cn/#/pages/download)|[H5](https://www.runzeshucang.cn/#/pages/users/index)|BSN联盟链|二级市场|
  |2037|[新核](https://www.tianyancha.com/company/5810011162)|WX_GZH| | | |[H5](http://www.newcore.fun/activity-list)|BSN文昌链|场外转赠|
  |2038|[彼界数字文创](https://www.tianyancha.com/company/3487176783)|WX_GZH| | | |[H5](http://bj.nfttj.cn/)|蚂蚁链|二级市场|
+ |2039|[蜗客数藏](https://www.tianyancha.com/company/5630455740)|WX_GZH| | | |[H5](https://h5.996bsn.cn/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
