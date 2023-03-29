@@ -2108,4 +2108,5 @@
  |2041|[芒果文创](https://www.tianyancha.com/company/5890003303)|WX_GZH| | | |[H5](http://h5.orangexm.cn/#/)| |二级市场|
  |2042|[众藏文创](https://www.tianyancha.com/company/5484636857)|WX_GZH| | |APP|[H5](https://h5.zcwc.art/#/)|BSN文昌链|二级市场|
  |2043|[广文创科](https://www.tianyancha.com/company/3051422539)|WX_GZH| | | |[H5](https://collection.digitalwa.com.cn)|广西文化链|场外转赠|
+ |2044|[零宇数藏](https://www.tianyancha.com/company/5681227113)|WX_GZH| | | |[H5](http://zvart.cn/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
