@@ -2111,4 +2111,5 @@
  |2044|[零宇数藏](https://www.tianyancha.com/company/5681227113)|WX_GZH| | | |[H5](http://zvart.cn/)| |二级市场|
  |2045|[强盛Meta](https://www.tianyancha.com/company/5867116162)|WX_GZH| | | |[H5](https://m.23meta.com/#/)|Polygon|二级市场|
  |2046|[露娜艺术](https://www.tianyancha.com/company/5964433620)|WX_GZH| | |APP|[H5](http://lna.art/)|
+ |2047|[比高数潮文化](https://www.tianyancha.com/company/5723350838)|WX_GZH| | |APP|[H5](https://bigao.xyz/index.html#/)|BSN文昌链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
