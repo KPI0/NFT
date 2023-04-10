@@ -2115,4 +2115,5 @@
  |2048|[徒云元宇宙](https://www.tianyancha.com/company/3376242754)|WX_GZH| | | |[H5](https://tuyunmeta.com/)| |二级市场|
  |2049|[寰界艺术](https://www.tianyancha.com/company/5194942392)|WX_GZH| | |[APP](http://xz.ysl-888.com/app.html)|[H5](https://ysl-888.com/h5/#/)|BSN文昌链、Polygon|二级市场|
  |2050|[链上湖口](https://www.tianyancha.com/company/3137565918)|WX_GZH|WX_XCX| | | |腾讯链|
+ |2051|[幻藏音乐](https://www.tianyancha.com/company/5308730047)|WX_GZH| | |[APP](https://download.huancang.top/index.html)|[H5](https://h5.huancang.top/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
