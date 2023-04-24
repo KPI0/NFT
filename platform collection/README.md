@@ -2121,4 +2121,5 @@
  |2054|[FOXDAO艺术](https://www.tianyancha.com/company/718192616)|WX_GZH| | | |[H5](https://foxdao-m.rarefy.top/#/)|奇异链|场外转赠|
  |2055|[易链数博川渝数藏](https://www.tianyancha.com/company/3022108889)|WX_GZH| | |[APP](https://cysc.elianip.com/#/download)|[H5](https://cysc.elianip.com/#/)|华为链|二级市场|
  |2056|[河马数藏](https://www.tianyancha.com/company/5750675309)|WX_GZH| | | |[H5](http://h5.bjjiumengkeji.com/)| |二级市场|
+ |2057|[快幻数藏](https://www.tianyancha.com/company/5712666276)|WX_GZH| | |APP|[H5](https://kuaihuan.art/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
