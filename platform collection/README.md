@@ -2124,4 +2124,5 @@
  |2057|[快幻数藏](https://www.tianyancha.com/company/5712666276)|WX_GZH| | |APP|[H5](https://kuaihuan.art/)| |二级市场|
  |2058|[马斯克数字艺术](https://www.tianyancha.com/company/3407631867)|WX_GZH| | | |[H5](https://masikeshucang.lianhewenchuang.com/)|BSN文昌链|二级市场|
  |2059|[皓月文创](https://www.tianyancha.com/company/5672344258)|WX_GZH| | | |[H5](https://m.haoyue.art/)|树图链|二级市场|
+ |2060|[鬼脸Grimace](https://www.tianyancha.com/company/3396409466)|WX_GZH| | | |[H5](https://m.gface.vip/#/)|BSN联盟链|二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
