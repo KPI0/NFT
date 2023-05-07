@@ -2127,4 +2127,5 @@
  |2060|[鬼脸Grimace](https://www.tianyancha.com/company/3396409466)|WX_GZH| | | |[H5](https://m.gface.vip/#/)|BSN联盟链|二级市场|
  |2061|[浩瀚元](https://www.tianyancha.com/company/112622245)|WX_GZH| | | |[H5](http://www.haohannft.com/)|BSN联盟链|二级市场|
  |2062|[七级影视](https://www.tianyancha.com/company/5665908875)|WX_GZH| | |APP|[H5](https://v.qijiduanju.com/h5/index.html#/)|七级链|二级市场|
+ |2063|[元宇Time](https://www.tianyancha.com/company/6014555095)|WX_GZH|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
