@@ -2129,4 +2129,5 @@
  |2062|[七级影视](https://www.tianyancha.com/company/5665908875)|WX_GZH| | |APP|[H5](https://v.qijiduanju.com/h5/index.html#/)|七级链|二级市场|
  |2063|[元宇Time](https://www.tianyancha.com/company/6014555095)|WX_GZH|
  |2064|[企鹅数创](https://www.tianyancha.com/company/2339949294)|WX_GZH| | | |[H5](https://zy.elecsound.com.cn/#/)|BSN联盟链|二级市场|
+ |2065|[龙元宇宙](https://www.tianyancha.com/company/3311030823)|WX_GZH| | | |[H5](http://ly.wanzihu.com/h5/#/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
