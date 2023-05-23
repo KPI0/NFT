@@ -2132,4 +2132,5 @@
  |2065|[龙元宇宙](https://www.tianyancha.com/company/3311030823)|WX_GZH| | | |[H5](http://ly.wanzihu.com/h5/#/)| |二级市场|
  |2066|[寻光文创](https://www.tianyancha.com/company/5354089248)|WX_GZH| | | |[H5](https://ai.xgyyds.art/#/pages/index)| |二级市场|
  |2067|[香蕉文创](https://www.tianyancha.com/company/5375161404)|WX_GZH| | |[APP](https://h5.henghuaxingyi.com/#/pages/download)|[H5](https://h5.henghuaxingyi.com/#/)|亿链|二级市场|
+ |2068|[瑞斯数字艺术](https://www.tianyancha.com/company/5638900479)|WX_GZH| | | |H5| |停止运营|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
