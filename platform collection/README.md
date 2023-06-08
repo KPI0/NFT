@@ -1326,7 +1326,7 @@
  |1265|[观艺数藏](https://www.tianyancha.com/company/5590686244)|WX_GZH| | | |[H5](http://h5.guanyishuzi.com/#/)|天河链|二级市场|
  |1266|[新数藏](https://www.tianyancha.com/company/5453713148)|WX_GZH| | | |[H5](http://m.nftxsc.com/#/)|Polygon|场外转赠|
  |1267|[大蛇文创](https://www.tianyancha.com/company/5539375318)|WX_GZH| | | |[H5](https://h5.largesnake.cn/#/pages/home/index)|草田链|二级市场|
- |1268|[Meta书藏](https://www.tianyancha.com/company/325879784)|WX_GZH| | |APP|[H5](https://h5.metabookstore.com.cn/nft-store/home)|蚂蚁链|场外转赠|
+ |1268|[Meta书藏](https://www.tianyancha.com/company/325879784)|WX_GZH| | |APP|[H5](https://h5.metabookstore.com.cn/nft-store/home)|蚂蚁链|停止运营|
  |1269|[锦绣数创](https://www.tianyancha.com/company/5550690043)|WX_GZH| | |APP|[H5](https://jinxiusy.art/h5/#/)|蚂蚁链|二级市场|
  |1270|[殿藏数藏](https://www.tianyancha.com/company/5559796098)|WX_GZH| | |[APP](https://h5.dcnft.net/download)|[H5](https://web.dcnft.net/)|殿藏链|场外转赠|
  |1271|[华旗艺创](https://www.tianyancha.com/company/5088161792)|WX_GZH| | | |[H5](https://www.huaqinft.com/h5#/)|BSN文昌链|二级市场|
