@@ -2134,4 +2134,5 @@
  |2067|[香蕉文创](https://www.tianyancha.com/company/5375161404)|WX_GZH| | |[APP](https://h5.henghuaxingyi.com/#/pages/download)|[H5](https://h5.henghuaxingyi.com/#/)|亿链|二级市场|
  |2068|[瑞斯数字艺术](https://www.tianyancha.com/company/5638900479)|WX_GZH| | | |H5| |停止运营|
  |2069|[和平宝藏](https://www.tianyancha.com/company/5879126147)|WX_GZH| | | |[H5](https://element.yuanheping.cn/#/)|海峡链|二级市场|
+ |2070|[讯音艺术](https://www.tianyancha.com/company/3224247427)|WX_GZH| | | |H5| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
