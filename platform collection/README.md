@@ -2136,4 +2136,5 @@
  |2069|[和平宝藏](https://www.tianyancha.com/company/5879126147)|WX_GZH| | | |[H5](https://element.yuanheping.cn/#/)|海峡链|二级市场|
  |2070|[讯音艺术](https://www.tianyancha.com/company/3224247427)|WX_GZH| | | |H5| |二级市场|
  |2071|[F22数字商店](https://www.tianyancha.com/company/5452317392)|WX_GZH|WX_XCX| | |[H5](https://www.f22.shop/#/pages/login/login/login)|BSN联盟链|二级市场|
+ |2072|[火兔FIREBUNNY](https://www.tianyancha.com/company/6263519239)|WX_GZH| | |APP|[H5](https://reg.huotu.art/login/)| |二级市场|
  |0|原创地址| | |GitHub|KPI0|[H5](https://github.com/KPI0/NFT)| |平台收集| | 
